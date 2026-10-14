@@ -1,0 +1,293 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<style>:root{padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}body{margin:0}img{max-width:100%}[hidden]{display:none!important}</style>
+<title>Cedrat 高校标讯</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;500;700&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: one working column — status strip, filter bar, tender rows, then sources & keyword reference. */
+:root{
+  --bg:#f5f6f4; --surface:#ffffff; --fg:#1c2124; --muted:#5d666b; --line:#dfe3e1;
+  --accent:#1f5f74; --accent-soft:#e3eef1;
+  --ok:#2d7a4b; --ok-soft:#e4f2e9; --warn:#a2650c; --warn-soft:#f8eedd; --bad:#a63a2e; --bad-soft:#f6e3df;
+  --f-body:"Noto Sans SC","PingFang SC","Microsoft YaHei",system-ui,sans-serif;
+  --f-mono:"IBM Plex Mono",ui-monospace,"SFMono-Regular",Menlo,monospace;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --bg:#121618; --surface:#1a2023; --fg:#e4e8e9; --muted:#97a2a6; --line:#2b3438;
+  --accent:#6fb6cc; --accent-soft:#1d3239;
+  --ok:#6cc08c; --ok-soft:#183024; --warn:#e0a548; --warn-soft:#33281a; --bad:#e8826f; --bad-soft:#36201c; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#121618; --surface:#1a2023; --fg:#e4e8e9; --muted:#97a2a6; --line:#2b3438;
+  --accent:#6fb6cc; --accent-soft:#1d3239;
+  --ok:#6cc08c; --ok-soft:#183024; --warn:#e0a548; --warn-soft:#33281a; --bad:#e8826f; --bad-soft:#36201c; color-scheme:dark}
+body{background:var(--bg);color:var(--fg);font-family:var(--f-body);font-size:14px;line-height:1.55}
+.wrap{max-width:1080px;margin:0 auto;padding-block:28px 56px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));display:grid;gap:22px}
+header{display:flex;flex-wrap:wrap;justify-content:space-between;align-items:flex-end;gap:12px}
+h1{font-size:22px;font-weight:700;margin:0;letter-spacing:.01em;text-wrap:balance}
+h1 small{display:block;font-size:12px;font-weight:500;color:var(--muted);letter-spacing:.08em;text-transform:uppercase;margin-bottom:2px}
+.hright{display:grid;gap:6px;justify-items:end}
+.lang{display:inline-flex;border:1px solid var(--line);border-radius:6px;overflow:hidden;background:var(--surface)}
+.lang button{font:inherit;font-size:12.5px;border:0;background:transparent;color:var(--muted);padding:4px 10px;cursor:pointer}
+.lang button[aria-pressed="true"]{background:var(--accent);color:var(--surface)}
+.scanline{font-family:var(--f-mono);font-size:12px;color:var(--muted)}
+.strip{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:1px;background:var(--line);border:1px solid var(--line);border-radius:8px;overflow:hidden}
+.stat{background:var(--surface);padding:12px 14px}
+.stat b{display:block;font-family:var(--f-mono);font-size:22px;font-weight:500;font-variant-numeric:tabular-nums}
+.stat span{font-size:12px;color:var(--muted)}
+.filters{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+.chip{border:1px solid var(--line);background:var(--surface);color:var(--fg);border-radius:999px;padding:4px 11px;font:inherit;font-size:13px;cursor:pointer}
+.chip[aria-pressed="true"]{background:var(--accent);border-color:var(--accent);color:var(--surface)}
+.chip:focus-visible,select:focus-visible,input:focus-visible,a:focus-visible,.lang button:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.sep{width:1px;height:20px;background:var(--line)}
+#q{flex:1 1 180px;min-width:0;border:1px solid var(--line);background:var(--surface);color:var(--fg);border-radius:6px;padding:6px 10px;font:inherit}
+.list{display:grid;gap:10px}
+.row{background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:12px 14px 12px 16px;display:grid;grid-template-columns:104px 1fr auto;gap:6px 14px;position:relative}
+.row.strong::before{content:"";position:absolute;left:0;top:10px;bottom:10px;width:3px;border-radius:0 2px 2px 0;background:var(--accent)}
+.row.closed{opacity:.72}
+.due{font-family:var(--f-mono);font-size:12px;line-height:1.3;font-variant-numeric:tabular-nums}
+.due b{display:block;font-size:15px;font-weight:500}
+.due.open b{color:var(--ok)} .due.soon b{color:var(--warn)} .due.past b{color:var(--muted)}
+.main{min-width:0;display:grid;gap:5px}
+.title{font-weight:500;font-size:15px;color:var(--fg);text-decoration:none;overflow-wrap:anywhere}
+.title:hover{color:var(--accent);text-decoration:underline}
+.orig{font-size:12px;color:var(--muted);overflow-wrap:anywhere}
+.meta{display:flex;flex-wrap:wrap;gap:6px 10px;font-size:12px;color:var(--muted);align-items:center}
+.pill{font-size:11.5px;padding:1px 8px;border-radius:4px;border:1px solid transparent;white-space:nowrap}
+.pill.school{background:var(--accent-soft);color:var(--accent)}
+.pill.imp-yes{background:var(--ok-soft);color:var(--ok)}
+.pill.imp-no{background:var(--bad-soft);color:var(--bad)}
+.pill.imp-unk{border-color:var(--line);color:var(--muted)}
+.kw{font-family:var(--f-mono);font-size:11.5px;color:var(--accent)}
+.kw.weak{color:var(--muted)}
+.snip{font-size:12.5px;color:var(--muted);overflow-wrap:anywhere}
+.snip mark{background:var(--warn-soft);color:var(--fg);padding:0 2px;border-radius:2px}
+.side{display:grid;gap:6px;justify-items:end;align-content:start}
+select{font:inherit;font-size:12.5px;border:1px solid var(--line);background:var(--surface);color:var(--fg);border-radius:6px;padding:3px 6px}
+.empty{background:var(--surface);border:1px dashed var(--line);border-radius:8px;padding:28px;text-align:center;color:var(--muted)}
+section h2{font-size:13px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin:0 0 10px}
+.tablewrap{overflow-x:auto;border:1px solid var(--line);border-radius:8px;background:var(--surface)}
+table{border-collapse:collapse;width:100%;min-width:640px;font-size:13px}
+th,td{text-align:left;padding:8px 12px;border-bottom:1px solid var(--line);vertical-align:top}
+th{font-size:12px;color:var(--muted);font-weight:500}
+tr:last-child td{border-bottom:none}
+td.num{font-family:var(--f-mono);font-variant-numeric:tabular-nums;white-space:nowrap}
+td a{color:var(--accent)}
+.kwref{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:12px}
+.kwbox{background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:12px 14px}
+.kwbox h3{margin:0 0 6px;font-size:13px}
+.kwbox p{margin:0;font-family:var(--f-mono);font-size:12px;color:var(--muted);line-height:1.8}
+.note{font-size:12.5px;color:var(--muted);max-width:72ch}
+@media (max-width:640px){
+  .row{grid-template-columns:1fr;}
+  .due{display:flex;gap:8px;align-items:baseline}.due b{display:inline}
+  .side{justify-items:start;grid-auto-flow:column;justify-content:start}
+  .hright{justify-items:start}
+}
+@media (prefers-reduced-motion:no-preference){.row{transition:border-color .15s}.row:hover{border-color:var(--accent)}}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1><small>赛得航科技 · Cedrat Technologies</small><span data-i="h1"></span></h1>
+    <div class="hright">
+      <div class="lang" role="group" aria-label="Language">
+        <button id="lang-zh" data-lang="zh">中文</button><button id="lang-en" data-lang="en">English</button>
+      </div>
+      <div class="scanline" id="scanline"></div>
+    </div>
+  </header>
+
+  <div class="strip">
+    <div class="stat"><b id="s-open">–</b><span data-i="sOpen"></span></div>
+    <div class="stat"><b id="s-strong">–</b><span data-i="sStrong"></span></div>
+    <div class="stat"><b id="s-imp">–</b><span data-i="sImp"></span></div>
+    <div class="stat"><b id="s-total">–</b><span data-i="sTotal"></span></div>
+  </div>
+
+  <div class="filters">
+    <button class="chip" data-f="open" id="f-open" data-i="fOpen"></button>
+    <button class="chip" data-f="strong" id="f-strong" data-i="fStrong"></button>
+    <button class="chip" data-f="hideSkip" id="f-hideskip" data-i="fHide"></button>
+    <span class="sep"></span>
+    <span id="schoolChips" style="display:contents"></span>
+    <input id="q" type="search">
+  </div>
+
+  <div class="list" id="list"></div>
+
+  <section>
+    <h2 data-i="srcH"></h2>
+    <div class="tablewrap"><table>
+      <thead><tr><th data-i="thSchool"></th><th data-i="thPlat"></th><th data-i="thScan"></th><th data-i="thBack"></th><th data-i="thNote"></th></tr></thead>
+      <tbody id="sources"></tbody>
+    </table></div>
+  </section>
+
+  <section>
+    <h2 data-i="ruleH"></h2>
+    <div class="kwref">
+      <div class="kwbox"><h3 data-i="kwStrongH"></h3><p id="kw-strong"></p></div>
+      <div class="kwbox"><h3 data-i="kwWeakH"></h3><p id="kw-weak"></p></div>
+    </div>
+    <p class="note" data-i="ruleNote"></p>
+  </section>
+</div>
+
+<script>
+const T={
+ zh:{h1:'高校采购标讯',sOpen:'未截止的匹配公告',sStrong:'强相关（核心产品词）',sImp:'明确允许进口',sTotal:'累计匹配',
+  fOpen:'仅未截止',fStrong:'仅强相关',fHide:'隐藏「不适合」',q:'搜索标题、关键词、编号',
+  srcH:'来源平台与覆盖范围',thSchool:'学校',thPlat:'平台',thScan:'本次扫描',thBack:'覆盖到',thNote:'说明',
+  ruleH:'匹配规则',kwStrongH:'强相关：直接对应 Cedrat 产品线',kwWeakH:'弱相关：可能包含压电/磁驱部件',
+  ruleNote:'在标题和公告正文中匹配（北航、哈工大、天大多数只提供标题）。「高压电缆」「电压电流」这类词已排除。进口一栏读取公告里的"是否允许进口产品"表述；Cedrat 产品为进口，标注「不接受进口」的项目需通过国内代理或放弃。',
+  impYes:'允许进口',impNo:'不接受进口',impUnk:'进口未注明',budget:'预算 ',note:'备注：',published:'发布',closed:'已截止',today:'今天',days:n=>n+' 天',due:'截止 ',
+  lastRun:'上次扫描 ',bj:'（北京时间）',notYet:'尚未扫描',items:' 条',
+  loading:'正在读取公告…',none:'还没有公告。每天的扫描会把匹配到的公告写到这里。',noMatch:'没有符合当前筛选的公告。试试取消「仅未截止」或学校筛选。',
+  noDb:'此视图无法读取公告数据。请在 claude.ai 登录后打开。',readErr:c=>'读取失败（'+c+'），请刷新页面。',statusLabel:'跟进状态',
+  status:{new:'新',watch:'关注',bid:'准备投标',skip:'不适合'}},
+ en:{h1:'University Tender Watch',sOpen:'Open matching tenders',sStrong:'Strong matches (core product terms)',sImp:'Imports explicitly allowed',sTotal:'Total matches',
+  fOpen:'Open only',fStrong:'Strong only',fHide:'Hide “Not a fit”',q:'Search title, keyword, tender no.',
+  srcH:'Sources and coverage',thSchool:'University',thPlat:'Platform',thScan:'Last scan',thBack:'Covers back to',thNote:'Notes',
+  ruleH:'Matching rules',kwStrongH:'Strong: maps directly to Cedrat product lines',kwWeakH:'Weak: may contain piezo or magnetic actuation parts',
+  ruleNote:'Terms are matched in the title and, where published, the full announcement text (Beihang, Harbin and Tianjin mostly publish titles only). False hits such as 高压电缆 (high-voltage cable) are excluded. The import column reads the announcement’s statement on imported products. Cedrat products are imported, so tenders marked “Imports not accepted” need a domestic partner or should be skipped.',
+  impYes:'Imports allowed',impNo:'Imports not accepted',impUnk:'Imports not stated',budget:'Budget ',note:'Note: ',published:'published',closed:'closed',today:'Today',days:n=>n+(n===1?' day':' days'),due:'Due ',
+  lastRun:'Last scan ',bj:' (Beijing time)',notYet:'Not scanned yet',items:' items',
+  loading:'Loading tenders…',none:'No tenders yet. Each scan adds matching announcements here.',noMatch:'No tenders match these filters. Try clearing “Open only” or the university filter.',
+  noDb:'This view can’t read the tender data. Sign in to claude.ai and open the page again.',readErr:c=>'Couldn’t load tenders ('+c+'). Refresh the page.',statusLabel:'Follow-up status',
+  status:{new:'New',watch:'Watching',bid:'Preparing bid',skip:'Not a fit'}}
+};
+const STRONG=['压电','快反镜','快速反射镜','快速偏转镜','快速倾斜镜','倾斜镜','摆镜','磁致伸缩','音圈','促动器','致动器','作动器','纳米位移','纳米定位','纳米平台','微位移','主动隔振','主动减振','自适应光学','变形镜','高压放大器','piezo','FSM'];
+const WEAK=['位移台','精密定位','电动平台','定位平台','振动台','激振器','稳像','光束稳定','指向镜','电容传感器','位移传感器','隔振','减振','伺服稳定','扫描振镜','振镜','偏摆台','六自由度','并联机构','精密运动'];
+const KW_EN={'压电':'piezo','快反镜':'FSM','快速反射镜':'fast steering mirror','快速偏转镜':'fast deflection mirror','快速倾斜镜':'fast tilt mirror','倾斜镜':'tilt mirror','摆镜':'scan mirror','磁致伸缩':'magnetostrictive','音圈':'voice coil','促动器':'actuator','致动器':'actuator','作动器':'actuator','纳米位移':'nano-displacement','纳米定位':'nano-positioning','纳米平台':'nano stage','微位移':'micro-displacement','主动隔振':'active isolation','主动减振':'active damping','自适应光学':'adaptive optics','变形镜':'deformable mirror','高压放大器':'HV amplifier',
+ '位移台':'positioning stage','精密定位':'precision positioning','电动平台':'motorized stage','定位平台':'positioning platform','振动台':'shaker table','激振器':'exciter','稳像':'image stabilization','光束稳定':'beam stabilization','指向镜':'pointing mirror','电容传感器':'capacitive sensor','位移传感器':'displacement sensor','隔振':'vibration isolation','减振':'vibration damping','伺服稳定':'servo stabilization','扫描振镜':'galvo scanner','振镜':'galvo','偏摆台':'tip-tilt stage','六自由度':'6-DOF','并联机构':'parallel mechanism','精密运动':'precision motion'};
+const METHOD_EN={'公开招标':'Open tender','快速磋商':'Rapid negotiation','竞争性磋商':'Competitive negotiation','竞争性谈判':'Competitive negotiation','网上比选':'Online comparison','网上竞价':'Online bidding','科研快采':'Research fast-track','快速采购':'Rapid procurement','线下比选(B)':'Offline comparison','单一来源':'Single source','校定采购':'University-run purchase','邀请招标':'Invited tender'};
+const SCHOOLS=[
+  {k:'THU',zh:'清华',en:'Tsinghua',url:'https://sbcgczxxfb.sysc.tsinghua.edu.cn'},
+  {k:'BUAA',zh:'北航',en:'Beihang',url:'https://zbcg.buaa.edu.cn'},
+  {k:'HIT',zh:'哈工大',en:'Harbin IT',url:'https://cgzx.hit.edu.cn'},
+  {k:'SJTU',zh:'上交',en:'SJTU',url:'https://pboffice.sjtu.edu.cn'},
+  {k:'TJU',zh:'天大',en:'Tianjin U',url:'https://zbb.tju.edu.cn'}
+];
+const EXTRA_SCHOOL_EN={'天大':'Tianjin U','上交':'SJTU','哈工大':'Harbin IT','清华':'Tsinghua','北航':'Beihang'};
+const STATUS_KEYS=['new','watch','bid','skip'];
+
+const state={rows:[],meta:null,f:{open:false,strong:false,hideSkip:true},schools:new Set(),q:'',lang:'zh',loaded:false,err:''};
+let canWrite=true,db=null;
+try{const s=JSON.parse(localStorage.getItem('tw-filters')||'null');if(s){Object.assign(state.f,s.f||{});(s.schools||[]).forEach(x=>state.schools.add(x));if(s.lang)state.lang=s.lang;}}catch(e){}
+if(location.hash==='#en')state.lang='en';else if(location.hash==='#zh')state.lang='zh';
+function save(){try{localStorage.setItem('tw-filters',JSON.stringify({f:state.f,schools:[...state.schools],lang:state.lang}))}catch(e){}}
+const t=()=>T[state.lang];
+const en=()=>state.lang==='en';
+
+const sc=document.getElementById('schoolChips');
+SCHOOLS.forEach(s=>{const b=document.createElement('button');b.className='chip';b.id='sch-'+s.k;b.dataset.s=s.k;b.onclick=()=>{state.schools.has(s.k)?state.schools.delete(s.k):state.schools.add(s.k);save();paint()};sc.appendChild(b)});
+document.querySelectorAll('[data-f]').forEach(b=>b.onclick=()=>{state.f[b.dataset.f]=!state.f[b.dataset.f];save();paint()});
+document.getElementById('q').addEventListener('input',e=>{state.q=e.target.value.trim().toLowerCase();render()});
+document.querySelectorAll('[data-lang]').forEach(b=>b.onclick=()=>{state.lang=b.dataset.lang;document.documentElement.lang=en()?'en':'zh-CN';save();paint()});
+
+function esc(s){return String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]))}
+const kwLabel=k=>en()&&KW_EN[k]?KW_EN[k]+' ('+k+')':k;
+const schoolName=k=>{const s=SCHOOLS.find(x=>x.k===k);return s?(en()?s.en:s.zh):k};
+const methodName=m=>en()?(METHOD_EN[m]||m):m;
+const now=()=>Date.now();
+const parseD=s=>{if(!s)return null;s=String(s);const t=Date.parse(s.replace(' ','T')+(s.length<=10?'T23:59:59':'')+'+08:00');return isNaN(t)?null:t};
+function dueInfo(r){
+  const x=parseD(r.deadline);
+  if(!x) return {cls:'past',big:r.published?r.published.slice(5,10):'—',small:r.published?t().published:'',open:false};
+  const d=(x-now())/864e5;
+  if(d<0) return {cls:'past',big:r.deadline.slice(5,10),small:t().closed,open:false};
+  return {cls:d<3?'soon':'open',big:d<1?t().today:t().days(Math.ceil(d)),small:t().due+r.deadline.slice(5,16),open:true};
+}
+function hl(snip,kws){let h=esc(snip);kws.forEach(k=>{h=h.split(esc(k)).join('<mark>'+esc(k)+'</mark>')});return h}
+
+function paint(){
+  document.querySelectorAll('[data-i]').forEach(el=>{const v=t()[el.dataset.i];if(typeof v==='string')el.textContent=v});
+  document.getElementById('q').placeholder=t().q;
+  document.querySelectorAll('[data-lang]').forEach(b=>b.setAttribute('aria-pressed',b.dataset.lang===state.lang));
+  document.querySelectorAll('[data-f]').forEach(b=>b.setAttribute('aria-pressed',!!state.f[b.dataset.f]));
+  SCHOOLS.forEach(s=>{const b=document.getElementById('sch-'+s.k);b.textContent=en()?s.en:s.zh;b.setAttribute('aria-pressed',state.schools.has(s.k))});
+  document.getElementById('kw-strong').textContent=STRONG.map(kwLabel).join(' · ');
+  document.getElementById('kw-weak').textContent=WEAK.map(kwLabel).join(' · ');
+  renderMeta();render();
+}
+
+function render(){
+  const L=document.getElementById('list');
+  const rows=state.rows.map(r=>({...r,_due:dueInfo(r)}));
+  document.getElementById('s-open').textContent=state.loaded?rows.filter(r=>r._due.open&&r.status!=='skip').length:'–';
+  document.getElementById('s-strong').textContent=state.loaded?rows.filter(r=>r.tier==='strong').length:'–';
+  document.getElementById('s-imp').textContent=state.loaded?rows.filter(r=>r.imports==='允许').length:'–';
+  document.getElementById('s-total').textContent=state.loaded?rows.length:'–';
+  if(state.err){L.innerHTML='<div class="empty">'+esc(state.err)+'</div>';return}
+  if(!state.loaded){L.innerHTML='<div class="empty">'+esc(t().loading)+'</div>';return}
+  if(!rows.length){L.innerHTML='<div class="empty">'+esc(t().none)+'</div>';return}
+  const v=rows.filter(r=>{
+    if(state.f.open&&!r._due.open)return false;
+    if(state.f.strong&&r.tier!=='strong')return false;
+    if(state.f.hideSkip&&r.status==='skip')return false;
+    if(state.schools.size&&!state.schools.has(r.school))return false;
+    if(state.q){const kws=[...(r.strong||[]),...(r.weak||[])];const hay=[r.title,r.titleEn,r.no,r.snippet,r.snippetEn,...kws,...kws.map(k=>KW_EN[k]||'')].join(' ').toLowerCase();if(!hay.includes(state.q))return false}
+    return true});
+  v.sort((a,b)=>(b._due.open-a._due.open)||((parseD(b.published)||0)-(parseD(a.published)||0)));
+  if(!v.length){L.innerHTML='<div class="empty">'+esc(t().noMatch)+'</div>';return}
+  L.innerHTML=v.map(r=>{
+    const imp=r.imports==='允许'?'<span class="pill imp-yes">'+t().impYes+'</span>':r.imports==='不接受'?'<span class="pill imp-no">'+t().impNo+'</span>':'<span class="pill imp-unk">'+t().impUnk+'</span>';
+    const kwAll=[...(r.strong||[]),...(r.weak||[])];
+    const kws=[...(r.strong||[]).map(k=>'<span class="kw">'+esc(kwLabel(k))+'</span>'),...(r.weak||[]).map(k=>'<span class="kw weak">'+esc(kwLabel(k))+'</span>')].join(' ');
+    const title=en()&&r.titleEn?r.titleEn:r.title;
+    const budget=en()?(r.budgetEn||r.budget):r.budget;
+    const note=en()?(r.noteEn||r.note):r.note;
+    const snip=en()&&r.snippetEn?esc(r.snippetEn):(r.snippet&&r.snippet.length>r.title.length+4?hl(r.snippet,kwAll):'');
+    const opts=STATUS_KEYS.map(k=>'<option value="'+k+'"'+((r.status||'new')===k?' selected':'')+'>'+t().status[k]+'</option>').join('');
+    return '<article class="row '+(r.tier==='strong'?'strong ':'')+(r._due.open?'':'closed')+'">'+
+      '<div class="due '+r._due.cls+'"><b>'+esc(r._due.big)+'</b>'+esc(r._due.small)+'</div>'+
+      '<div class="main"><a class="title" href="'+esc(r.url)+'" target="_blank" rel="noopener">'+esc(title)+'</a>'+
+      (en()&&r.titleEn?'<div class="orig">'+esc(r.title)+'</div>':'')+
+      '<div class="meta"><span class="pill school">'+esc(schoolName(r.school))+'</span>'+imp+
+      (r.method?'<span>'+esc(methodName(r.method))+'</span>':'')+(budget?'<span>'+esc(t().budget+budget)+'</span>':'')+
+      (r.no?'<span class="kw weak">'+esc(r.no)+'</span>':'')+'<span>'+kws+'</span></div>'+
+      (snip?'<div class="snip">'+snip+'</div>':'')+
+      (note?'<div class="snip">'+esc(t().note+note)+'</div>':'')+'</div>'+
+      '<div class="side"><select id="st-'+esc(r._id)+'" data-id="'+esc(r._id)+'" aria-label="'+esc(t().statusLabel)+'"'+(canWrite?'':' disabled')+'>'+opts+'</select>'+
+      '<span class="scanline">'+esc((r.published||'').slice(0,10))+'</span></div></article>'}).join('');
+  L.querySelectorAll('select[data-id]').forEach(s=>s.onchange=async e=>{
+    const id=e.target.dataset.id;if(!db)return;
+    try{await db.collection('notices').doc(id).update({status:e.target.value})}
+    catch(err){if(err&&err.code==='invalid_argument'){canWrite=false;render()}}});
+}
+function renderMeta(){
+  const m=state.meta;const tb=document.getElementById('sources');const line=document.getElementById('scanline');
+  const link=u=>'<a href="'+esc(u)+'" target="_blank" rel="noopener">'+esc(u.replace('https://',''))+'</a>';
+  if(!m){line.textContent=t().notYet;tb.innerHTML=SCHOOLS.map(s=>'<tr><td>'+esc(en()?s.en:s.zh)+'</td><td>'+link(s.url)+'</td><td class="num">–</td><td class="num">–</td><td></td></tr>').join('');return}
+  line.textContent=t().lastRun+(m.lastRun||'').replace('T',' ').slice(0,16)+t().bj;
+  const cov=m.coverage||{};
+  tb.innerHTML=SCHOOLS.map(s=>{const c=cov[s.k]||{};return '<tr><td>'+esc(en()?s.en:s.zh)+'</td><td>'+link(s.url)+'</td><td class="num">'+(c.scanned!=null?c.scanned+t().items:'–')+'</td><td class="num">'+esc(c.oldest||'–')+'</td><td>'+esc(en()?(c.noteEn||c.note||''):(c.note||''))+'</td></tr>'}).join('')+
+    (m.extra||[]).map(x=>'<tr><td>'+esc(en()?(EXTRA_SCHOOL_EN[x.school]||x.school):x.school)+'</td><td><a href="'+esc(x.url)+'" target="_blank" rel="noopener">'+esc(en()?(x.labelEn||x.label):x.label)+'</a></td><td class="num">–</td><td class="num">–</td><td>'+esc(en()?(x.noteEn||x.note):x.note)+'</td></tr>').join('');
+}
+document.documentElement.lang=en()?'en':'zh-CN';
+paint();
+
+(async()=>{
+  try{db=window.claude?await window.claude.use('db'):null}catch(e){db=null}
+  if(!db){
+    // Standalone (e.g. GitHub Pages): read the snapshot in data/; status is read-only here.
+    canWrite=false;
+    try{
+      const [n,m]=await Promise.all([fetch('data/notices.json').then(r=>r.json()),fetch('data/meta.json').then(r=>r.ok?r.json():null).catch(()=>null)]);
+      state.rows=n;state.meta=m;state.loaded=true;state.err='';renderMeta();render();
+    }catch(e){state.err=t().noDb;render()}
+    return;
+  }
+  try{const u=await window.claude.use('user');const w=u?await u.can('data.write'):null;if(w===false)canWrite=false}catch(e){}
+  db.collection('notices').onSnapshot(s=>{state.rows=s.docs.map(d=>({...d.data(),_id:d.id}));state.loaded=true;state.err='';render()},e=>{state.err=t().readErr(e.code);render()});
+  db.doc('meta/scan').onSnapshot(s=>{state.meta=s.exists?s.data():null;renderMeta()});
+})();
+</script>
+</body>
+</html>

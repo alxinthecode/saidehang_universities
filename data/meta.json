@@ -1,0 +1,61 @@
+{
+  "coverage": {
+    "BUAA": {
+      "note": "仅标题；公开招标/科研快采/网上竞价三栏",
+      "noteEn": "Titles only; open tender, research fast-track and online bidding lists",
+      "oldest": "2026-05-08",
+      "scanned": 324
+    },
+    "HIT": {
+      "note": "仅标题",
+      "noteEn": "Titles only",
+      "oldest": "2025-12-09",
+      "scanned": 600
+    },
+    "SJTU": {
+      "note": "按正文匹配；ebidding 列表需登录，但公告同步到此平台",
+      "noteEn": "Full text matched; the ebidding list needs a login, but its notices are mirrored here",
+      "oldest": "2026-07-17",
+      "scanned": 244
+    },
+    "THU": {
+      "note": "按正文全文匹配；网上比选只有标题",
+      "noteEn": "Full announcement text matched; online-comparison items are title-only",
+      "oldest": "2026-08-31",
+      "scanned": 600
+    },
+    "TJU": {
+      "note": "多数仅标题",
+      "noteEn": "Mostly titles only",
+      "oldest": "2025-10-15",
+      "scanned": 600
+    }
+  },
+  "extra": [
+    {
+      "label": "采购意向公开",
+      "labelEn": "Procurement intentions",
+      "note": "明细在中国政府采购网意向系统，从法国 IP 打开被拦截，需在国内网络查看",
+      "noteEn": "Details sit on the national CCGP intention system, which blocks French IPs. Open it from a network in China.",
+      "school": "天大",
+      "url": "https://zbb.tju.edu.cn/sfw_cms/e?page=cms.psms.gglist&typeDetail=YXGK"
+    },
+    {
+      "label": "采购意向",
+      "labelEn": "Procurement intentions",
+      "note": "尚未自动扫描",
+      "noteEn": "Not scanned yet",
+      "school": "上交",
+      "url": "https://pboffice.sjtu.edu.cn/sfw_cms/e?page=cms.psms.gglist&typeDetail=GK&cate=103263"
+    },
+    {
+      "label": "市场调研公告",
+      "labelEn": "Market research notices",
+      "note": "招标前的市场调研，尚未自动扫描",
+      "noteEn": "Pre-tender market research; not scanned yet",
+      "school": "哈工大",
+      "url": "https://cgzx.hit.edu.cn/sfw_cms/e?page=cms.news2"
+    }
+  ],
+  "lastRun": "2026-10-15T05:55"
+}

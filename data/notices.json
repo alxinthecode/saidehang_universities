@@ -1,0 +1,282 @@
+[
+  {
+    "budget": "",
+    "deadline": "",
+    "firstSeen": "2026-10-15",
+    "imports": "",
+    "method": "网上竞价",
+    "no": "BUAAJJ20260135",
+    "note": "9-28 延期一次，10-01 已出成交结果（见北航成交公告）。低温纳米位移台正是压电步进类产品的典型需求。",
+    "noteEn": "Extended on Sep 28; award result published Oct 1 (see Beihang award notices). A cryogenic nano stage is a typical use case for stepping piezo actuators.",
+    "published": "2026-09-24",
+    "school": "BUAA",
+    "snippet": "",
+    "status": "new",
+    "strong": [
+      "纳米位移"
+    ],
+    "tier": "strong",
+    "title": "集成电路科学与工程学院低温纳米位移台（BUAAJJ20260135）采购公告",
+    "titleEn": "School of Integrated Circuits: cryogenic nano-positioning stage (BUAAJJ20260135)",
+    "url": "https://zbcg.buaa.edu.cn/info/1088/62495.htm",
+    "weak": [
+      "位移台"
+    ],
+    "_id": "BUAA-JJ20260135"
+  },
+  {
+    "budget": "",
+    "deadline": "",
+    "firstSeen": "2026-10-15",
+    "imports": "",
+    "method": "科研快采",
+    "no": "BUAAKC20260037",
+    "note": "9-08 延期一次，9-14 已出成交结果。",
+    "noteEn": "Extended on Sep 8; award result published Sep 14.",
+    "published": "2026-09-04",
+    "school": "BUAA",
+    "snippet": "",
+    "status": "new",
+    "strong": [],
+    "tier": "weak",
+    "title": "仪器科学与光电工程学院轻量化大载重比伺服稳定平台系统（BUAAKC20260037）采购公告",
+    "titleEn": "School of Instrumentation & Optoelectronics: lightweight high payload-ratio servo stabilization platform (BUAAKC20260037)",
+    "url": "https://zbcg.buaa.edu.cn/info/1119/62258.htm",
+    "weak": [
+      "伺服稳定"
+    ],
+    "_id": "BUAA-KC20260037"
+  },
+  {
+    "budget": "",
+    "deadline": "2026-07-09 16:30",
+    "firstSeen": "2026-10-15",
+    "imports": "",
+    "method": "快速采购",
+    "no": "HITKS-2026000046",
+    "note": "",
+    "published": "2026-07-06",
+    "school": "HIT",
+    "snippet": "",
+    "status": "new",
+    "strong": [],
+    "tier": "weak",
+    "title": "真空六自由度平台控制机柜采购快速采购公告",
+    "titleEn": "Control cabinet for a vacuum 6-DOF platform (rapid procurement)",
+    "url": "https://cgzx.hit.edu.cn/provider/#/publish/20MR8YTTIOKYG7JH",
+    "weak": [
+      "六自由度"
+    ],
+    "_id": "HIT-HITKS-2026000046"
+  },
+  {
+    "budget": "",
+    "deadline": "2026-09-10 16:30",
+    "firstSeen": "2026-10-15",
+    "imports": "",
+    "method": "线下比选(B)",
+    "no": "招物2026B00023",
+    "note": "",
+    "published": "2026-09-06",
+    "school": "SJTU",
+    "snippet": "",
+    "status": "new",
+    "strong": [],
+    "tier": "weak",
+    "title": "[招物2026B00023]高精度位移传感器采购公告",
+    "titleEn": "High-precision displacement sensors (B00023)",
+    "url": "https://ebidding.sjtu.edu.cn/ProjectMgr/ZBGG?ggid=8067",
+    "weak": [
+      "位移传感器"
+    ],
+    "_id": "SJTU-B00023"
+  },
+  {
+    "budget": "",
+    "deadline": "2026-09-11 17:00",
+    "firstSeen": "2026-10-15",
+    "imports": "",
+    "method": "公开招标",
+    "no": "清采招第20260235号(第二次)",
+    "note": "第二次招标，说明第一次流标。可查结果公告看是否再次流标或谁中标。",
+    "noteEn": "Second call, so the first round failed. Check the result notice to see whether it failed again or who won.",
+    "published": "2026-09-04",
+    "school": "THU",
+    "snippet": "",
+    "status": "new",
+    "strong": [
+      "主动隔振"
+    ],
+    "tier": "strong",
+    "title": "超稳六自由度主动隔振系统-激光系统(第二次)公开招标公告",
+    "titleEn": "Ultra-stable 6-DOF active vibration isolation system for laser system (2nd call), open tender",
+    "url": "https://sbgysfw.sysc.tsinghua.edu.cn/#/publish/1A06B962A0722CB77370196D40EA8777",
+    "weak": [
+      "隔振",
+      "六自由度"
+    ],
+    "_id": "THU-20260235-2"
+  },
+  {
+    "budget": "",
+    "deadline": "2026-09-10 09:00",
+    "firstSeen": "2026-10-15",
+    "imports": "",
+    "method": "网上比选",
+    "no": "清采比选20261172号",
+    "note": "",
+    "published": "2026-09-07",
+    "school": "THU",
+    "snippet": "",
+    "status": "new",
+    "strong": [
+      "压电"
+    ],
+    "tier": "strong",
+    "title": "压电传感器（清采比选20261172号）采购公告",
+    "titleEn": "Piezoelectric sensors (online comparison 20261172)",
+    "url": "https://sbgysfw.sysc.tsinghua.edu.cn/#/publish/1A07938CF7E22CB7737019BD238B6097",
+    "weak": [],
+    "_id": "THU-20261172"
+  },
+  {
+    "budget": "",
+    "deadline": "2026-09-27 13:00",
+    "firstSeen": "2026-10-15",
+    "imports": "",
+    "method": "网上比选",
+    "no": "清采比选20261272号",
+    "note": "报价供应商不足，延期一次。压电力传感器多为 Kistler/PCB 类产品，与 Cedrat 主营不同。",
+    "noteEn": "Extended once because too few suppliers quoted. Piezo force sensors are usually Kistler/PCB-type products, outside Cedrat's core range.",
+    "published": "2026-09-21",
+    "school": "THU",
+    "snippet": "",
+    "status": "new",
+    "strong": [
+      "压电"
+    ],
+    "tier": "strong",
+    "title": "压电式力传感器及放大器（清采比选20261272号）采购公告",
+    "titleEn": "Piezoelectric force sensors and amplifiers (online comparison 20261272)",
+    "url": "https://sbgysfw.sysc.tsinghua.edu.cn/#/publish/1A0C209B03B22CB7737019BD238B6345",
+    "weak": [],
+    "_id": "THU-20261272"
+  },
+  {
+    "budget": "",
+    "deadline": "2026-10-05 21:00",
+    "firstSeen": "2026-10-15",
+    "imports": "",
+    "method": "网上比选",
+    "no": "清采比选20261303号",
+    "note": "报价供应商不足，延期一次。",
+    "noteEn": "Extended once because too few suppliers quoted.",
+    "published": "2026-09-29",
+    "school": "THU",
+    "snippet": "",
+    "status": "new",
+    "strong": [],
+    "tier": "weak",
+    "title": "激光位移传感器（清采比选20261303号）采购公告",
+    "titleEn": "Laser displacement sensors (online comparison 20261303)",
+    "url": "https://sbgysfw.sysc.tsinghua.edu.cn/#/publish/1A0ECD9907222CB77370171EE44F6895",
+    "weak": [
+      "位移传感器"
+    ],
+    "_id": "THU-20261303"
+  },
+  {
+    "budget": "",
+    "deadline": "2025-12-25 17:30",
+    "firstSeen": "2026-10-15",
+    "imports": "",
+    "method": "公开招标",
+    "no": "TDZC2025N0379",
+    "note": "12-26 发过更正公告；2026-04 重新招标（TDZC2026N0022）。",
+    "noteEn": "Correction notice issued Dec 26; re-tendered in Apr 2026 (TDZC2026N0022).",
+    "published": "2025-12-18",
+    "school": "TJU",
+    "snippet": "",
+    "status": "new",
+    "strong": [],
+    "tier": "weak",
+    "title": "精密仪器与光电子工程学院组合式精密电控位移台采购项目公开招标公告",
+    "titleEn": "School of Precision Instruments & Opto-electronics: modular precision motorized positioning stages (open tender)",
+    "url": "https://zbb.tju.edu.cn/provider/#/publish/20MJB9Z3IUASGV07",
+    "weak": [
+      "位移台"
+    ],
+    "_id": "TJU-TDZC2025N0379"
+  },
+  {
+    "budget": "",
+    "deadline": "2026-05-11 17:00",
+    "firstSeen": "2026-10-15",
+    "imports": "",
+    "method": "公开招标",
+    "no": "TDZC2026N0022",
+    "note": "2025-12 曾以 TDZC2025N0379 招过一次，4 月重新招标。精仪学院是潜在客户。",
+    "noteEn": "First tendered in Dec 2025 (TDZC2025N0379), re-tendered in April. This school is a prospect.",
+    "published": "2026-04-30",
+    "school": "TJU",
+    "snippet": "",
+    "status": "new",
+    "strong": [],
+    "tier": "weak",
+    "title": "精密仪器与光电子工程学院组合式精密电控位移台采购项目公开招标公告",
+    "titleEn": "School of Precision Instruments & Opto-electronics: modular precision motorized positioning stages (open tender)",
+    "url": "https://zbb.tju.edu.cn/provider/#/publish/20MOL7JHOP52XX8R",
+    "weak": [
+      "位移台"
+    ],
+    "_id": "TJU-TDZC2026N0022"
+  },
+  {
+    "budget": "66万元（22套，单套≤3万）",
+    "budgetEn": "CNY 660k (22 units, max CNY 30k each)",
+    "deadline": "2026-10-23 09:30",
+    "firstSeen": "2026-10-15",
+    "imports": "不接受",
+    "method": "快速磋商",
+    "no": "TDZC2026N0110",
+    "note": "丝杠/直线电机平台，单价低，不接受进口，另有本国产品20%价格扣除。不适合 Cedrat 直接投。磋商文件 10-19 前获取。",
+    "noteEn": "Lead-screw / linear-motor stage at a low unit price. Imports not accepted, and domestic products get a 20% price deduction. Not a direct fit for Cedrat. Bid documents available until Oct 19.",
+    "published": "2026-10-14",
+    "school": "TJU",
+    "snippet": "单轴直线运动定位装置，搭配精密丝杠/直线电机与闭环反馈……本项目不接受进口产品参与磋商",
+    "snippetEn": "Single-axis linear positioning unit with precision lead screw or linear motor and closed-loop feedback. Imported products are not accepted.",
+    "status": "new",
+    "strong": [],
+    "tier": "weak",
+    "title": "天津纳米颗粒与纳米系统国际研究中心高精度一维电动平台采购项目快速磋商公告",
+    "titleEn": "Tianjin Int'l Center for Nanoparticles & Nanosystems: high-precision single-axis motorized stage (rapid negotiation)",
+    "url": "https://zbb.tju.edu.cn/provider/#/publish/20MV7USQ6HAU8E2M",
+    "weak": [
+      "电动平台"
+    ],
+    "_id": "TJU-TDZC2026N0110"
+  },
+  {
+    "budget": "",
+    "deadline": "2026-09-22 17:00",
+    "firstSeen": "2026-10-15",
+    "imports": "",
+    "method": "竞争性磋商",
+    "no": "TDZC2026N0135",
+    "note": "测量系统，非执行器，相关度低。",
+    "noteEn": "Measurement system, not an actuator. Low relevance.",
+    "published": "2026-09-16",
+    "school": "TJU",
+    "snippet": "",
+    "status": "new",
+    "strong": [],
+    "tier": "weak",
+    "title": "国家地震工程科学中心办公室六自由度实时位移测量系统采购项目竞争性磋商公告",
+    "titleEn": "National Center for Earthquake Engineering: 6-DOF real-time displacement measurement system (competitive negotiation)",
+    "url": "https://zbb.tju.edu.cn/provider/#/publish/20MU3NVJ2WU4BU77",
+    "weak": [
+      "六自由度"
+    ],
+    "_id": "TJU-TDZC2026N0135"
+  }
+]
