@@ -16,7 +16,7 @@
  * PAGES controls depth: 1 page = 100 newest announcements (Beihang: list pages).
  */
 (async () => {
-  const PAGES = 2;
+  const PAGES = window.__CEDRAT_PAGES || 2;
 
   const STRONG = ['压电','快反镜','快速反射镜','快速偏转镜','快速倾斜镜','倾斜镜','摆镜','磁致伸缩','音圈','促动器','致动器','作动器','纳米位移','纳米定位','纳米平台','微位移','主动隔振','主动减振','自适应光学','变形镜','高压放大器','piezo','fsm'];
   const WEAK = ['位移台','精密定位','电动平台','定位平台','振动台','激振器','稳像','光束稳定','指向镜','电容传感器','位移传感器','隔振','减振','伺服稳定','扫描振镜','振镜','偏摆台','六自由度','并联机构','精密运动'];
@@ -126,6 +126,8 @@
 
   const seen = new Set();
   const rows = out.filter(r => !seen.has(r._id) && seen.add(r._id)).map(r => ({ ...r, status: 'new', note: '', firstSeen: new Date().toISOString().slice(0, 10) }));
+  // Headless runs (scraper/run.mjs) take the raw result instead of console output.
+  if (window.__CEDRAT_HEADLESS) return { host, scanned, oldest, rows };
   console.log(`Scanned ${scanned} announcements (back to ${oldest}); ${rows.length} matches.`);
   console.table(rows.map(r => ({ id: r._id, tier: r.tier, deadline: r.deadline, imports: r.imports, title: r.title })));
   try { await navigator.clipboard.writeText(JSON.stringify(rows, null, 2)); console.log('Matches copied to clipboard as JSON.'); } catch (e) { console.log(JSON.stringify(rows, null, 2)); }

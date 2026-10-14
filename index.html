@@ -35,6 +35,12 @@ h1 small{display:block;font-size:12px;font-weight:500;color:var(--muted);letter-
 .lang button{font:inherit;font-size:12.5px;border:0;background:transparent;color:var(--muted);padding:4px 10px;cursor:pointer}
 .lang button[aria-pressed="true"]{background:var(--accent);color:var(--surface)}
 .scanline{font-family:var(--f-mono);font-size:12px;color:var(--muted)}
+.refresh{display:inline-flex;align-items:center;gap:6px;font-size:13px;font-weight:500;color:var(--surface);background:var(--accent);border-radius:6px;padding:5px 12px;text-decoration:none}
+.refresh::before{content:"↻";font-size:14px}
+.refresh:hover{filter:brightness(1.08)}
+.refresh:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+#refresh-hint{max-width:34ch;text-align:right;font-family:var(--f-body)}
+.fail{color:var(--bad)}
 .strip{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:1px;background:var(--line);border:1px solid var(--line);border-radius:8px;overflow:hidden}
 .stat{background:var(--surface);padding:12px 14px}
 .stat b{display:block;font-family:var(--f-mono);font-size:22px;font-weight:500;font-variant-numeric:tabular-nums}
@@ -100,6 +106,8 @@ td a{color:var(--accent)}
         <button id="lang-zh" data-lang="zh">中文</button><button id="lang-en" data-lang="en">English</button>
       </div>
       <div class="scanline" id="scanline"></div>
+      <a class="refresh" id="refresh" href="https://github.com/alxinthecode/saidehang_universities/actions/workflows/scan.yml" target="_blank" rel="noopener" hidden><span data-i="refresh"></span></a>
+      <div class="scanline" id="refresh-hint" data-i="refreshHint" hidden></div>
     </div>
   </header>
 
@@ -147,7 +155,7 @@ const T={
   ruleH:'匹配规则',kwStrongH:'强相关：直接对应 Cedrat 产品线',kwWeakH:'弱相关：可能包含压电/磁驱部件',
   ruleNote:'在标题和公告正文中匹配（北航、哈工大、天大多数只提供标题）。「高压电缆」「电压电流」这类词已排除。进口一栏读取公告里的"是否允许进口产品"表述；Cedrat 产品为进口，标注「不接受进口」的项目需通过国内代理或放弃。',
   impYes:'允许进口',impNo:'不接受进口',impUnk:'进口未注明',budget:'预算 ',note:'备注：',published:'发布',closed:'已截止',today:'今天',days:n=>n+' 天',due:'截止 ',
-  lastRun:'上次扫描 ',bj:'（北京时间）',notYet:'尚未扫描',items:' 条',
+  refresh:'刷新扫描',refreshHint:'在 GitHub 打开扫描任务，点击「Run workflow」。约 5 分钟后刷新本页即可看到新数据。',lastFail:'上次扫描失败：',lastRun:'上次扫描 ',bj:'（北京时间）',notYet:'尚未扫描',items:' 条',
   loading:'正在读取公告…',none:'还没有公告。每天的扫描会把匹配到的公告写到这里。',noMatch:'没有符合当前筛选的公告。试试取消「仅未截止」或学校筛选。',
   noDb:'此视图无法读取公告数据。请在 claude.ai 登录后打开。',readErr:c=>'读取失败（'+c+'），请刷新页面。',statusLabel:'跟进状态',
   status:{new:'新',watch:'关注',bid:'准备投标',skip:'不适合'}},
@@ -157,7 +165,7 @@ const T={
   ruleH:'Matching rules',kwStrongH:'Strong: maps directly to Cedrat product lines',kwWeakH:'Weak: may contain piezo or magnetic actuation parts',
   ruleNote:'Terms are matched in the title and, where published, the full announcement text (Beihang, Harbin and Tianjin mostly publish titles only). False hits such as 高压电缆 (high-voltage cable) are excluded. The import column reads the announcement’s statement on imported products. Cedrat products are imported, so tenders marked “Imports not accepted” need a domestic partner or should be skipped.',
   impYes:'Imports allowed',impNo:'Imports not accepted',impUnk:'Imports not stated',budget:'Budget ',note:'Note: ',published:'published',closed:'closed',today:'Today',days:n=>n+(n===1?' day':' days'),due:'Due ',
-  lastRun:'Last scan ',bj:' (Beijing time)',notYet:'Not scanned yet',items:' items',
+  refresh:'Refresh scan',refreshHint:'Opens the scan job on GitHub: click “Run workflow”. Reload this page in about 5 minutes to see new data.',lastFail:'Last scan failed: ',lastRun:'Last scan ',bj:' (Beijing time)',notYet:'Not scanned yet',items:' items',
   loading:'Loading tenders…',none:'No tenders yet. Each scan adds matching announcements here.',noMatch:'No tenders match these filters. Try clearing “Open only” or the university filter.',
   noDb:'This view can’t read the tender data. Sign in to claude.ai and open the page again.',readErr:c=>'Couldn’t load tenders ('+c+'). Refresh the page.',statusLabel:'Follow-up status',
   status:{new:'New',watch:'Watching',bid:'Preparing bid',skip:'Not a fit'}}
@@ -267,7 +275,7 @@ function renderMeta(){
   if(!m){line.textContent=t().notYet;tb.innerHTML=SCHOOLS.map(s=>'<tr><td>'+esc(en()?s.en:s.zh)+'</td><td>'+link(s.url)+'</td><td class="num">–</td><td class="num">–</td><td></td></tr>').join('');return}
   line.textContent=t().lastRun+(m.lastRun||'').replace('T',' ').slice(0,16)+t().bj;
   const cov=m.coverage||{};
-  tb.innerHTML=SCHOOLS.map(s=>{const c=cov[s.k]||{};return '<tr><td>'+esc(en()?s.en:s.zh)+'</td><td>'+link(s.url)+'</td><td class="num">'+(c.scanned!=null?c.scanned+t().items:'–')+'</td><td class="num">'+esc(c.oldest||'–')+'</td><td>'+esc(en()?(c.noteEn||c.note||''):(c.note||''))+'</td></tr>'}).join('')+
+  tb.innerHTML=SCHOOLS.map(s=>{const c=cov[s.k]||{};const lr=(m.lastResults||[]).find(x=>x.school===s.k);const fail=lr&&!lr.ok?'<div class="fail">'+esc(t().lastFail+(lr.error||''))+'</div>':'';return '<tr><td>'+esc(en()?s.en:s.zh)+'</td><td>'+link(s.url)+'</td><td class="num">'+(c.scanned!=null?c.scanned+t().items:'–')+'</td><td class="num">'+esc(c.oldest||'–')+'</td><td>'+esc(en()?(c.noteEn||c.note||''):(c.note||''))+fail+'</td></tr>'}).join('')+
     (m.extra||[]).map(x=>'<tr><td>'+esc(en()?(EXTRA_SCHOOL_EN[x.school]||x.school):x.school)+'</td><td><a href="'+esc(x.url)+'" target="_blank" rel="noopener">'+esc(en()?(x.labelEn||x.label):x.label)+'</a></td><td class="num">–</td><td class="num">–</td><td>'+esc(en()?(x.noteEn||x.note):x.note)+'</td></tr>').join('');
 }
 document.documentElement.lang=en()?'en':'zh-CN';
@@ -278,8 +286,9 @@ paint();
   if(!db){
     // Standalone (e.g. GitHub Pages): read the snapshot in data/; status is read-only here.
     canWrite=false;
+    document.getElementById('refresh').hidden=false;document.getElementById('refresh-hint').hidden=false;
     try{
-      const [n,m]=await Promise.all([fetch('data/notices.json').then(r=>r.json()),fetch('data/meta.json').then(r=>r.ok?r.json():null).catch(()=>null)]);
+      const [n,m]=await Promise.all([fetch('data/notices.json',{cache:'no-store'}).then(r=>r.json()),fetch('data/meta.json',{cache:'no-store'}).then(r=>r.ok?r.json():null).catch(()=>null)]);
       state.rows=n;state.meta=m;state.loaded=true;state.err='';renderMeta();render();
     }catch(e){state.err=t().noDb;render()}
     return;

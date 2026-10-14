@@ -1,0 +1,52 @@
+name: Tender scan
+
+on:
+  workflow_dispatch:
+    inputs:
+      pages:
+        description: "How deep to scan each platform (1 = newest 100 announcements)"
+        default: "1"
+  schedule:
+    # 00:37 UTC = 08:37 Beijing, every day
+    - cron: "37 0 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: tender-scan
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install Playwright
+        run: |
+          npm install --no-audit --no-fund
+          npx playwright install --with-deps chromium
+
+      - name: Scan university platforms
+        env:
+          SCAN_PAGES: ${{ github.event.inputs.pages || '1' }}
+        run: node scraper/run.mjs
+
+      - name: Commit updated data
+        run: |
+          if git diff --quiet -- data; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git config user.name "tender-scan-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          git commit -m "Update tender data ($(TZ=Asia/Shanghai date '+%Y-%m-%d %H:%M') Beijing)"
+          git pull --rebase origin main
+          git push origin HEAD:main
