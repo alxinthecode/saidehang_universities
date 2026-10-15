@@ -15,13 +15,13 @@
     "SJTU": {
       "note": "按正文匹配；ebidding 列表需登录，但公告同步到此平台",
       "noteEn": "Full text matched; the ebidding list needs a login, but its notices are mirrored here",
-      "oldest": "2026-09-09",
+      "oldest": "2026-09-10",
       "scanned": 100
     },
     "THU": {
       "note": "按正文全文匹配；网上比选只有标题",
       "noteEn": "Full announcement text matched; online-comparison items are title-only",
-      "oldest": "2026-10-08",
+      "oldest": "2026-10-09",
       "scanned": 100
     },
     "TJU": {
@@ -57,7 +57,7 @@
       "url": "https://cgzx.hit.edu.cn/sfw_cms/e?page=cms.news2"
     }
   ],
-  "lastRun": "2026-10-15T06:48",
+  "lastRun": "2026-10-15T13:08",
   "lastResults": [
     {
       "school": "THU",
