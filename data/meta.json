@@ -3,19 +3,19 @@
     "BUAA": {
       "note": "仅标题；公开招标/科研快采/网上竞价三栏",
       "noteEn": "Titles only; open tender, research fast-track and online bidding lists",
-      "oldest": "2026-09-19",
+      "oldest": "2026-09-20",
       "scanned": 36
     },
     "HIT": {
       "note": "仅标题",
       "noteEn": "Titles only",
-      "oldest": "2026-08-30",
+      "oldest": "2026-09-01",
       "scanned": 100
     },
     "SJTU": {
       "note": "按正文匹配；ebidding 列表需登录，但公告同步到此平台",
       "noteEn": "Full text matched; the ebidding list needs a login, but its notices are mirrored here",
-      "oldest": "2026-09-10",
+      "oldest": "2026-09-11",
       "scanned": 100
     },
     "THU": {
@@ -27,7 +27,7 @@
     "TJU": {
       "note": "多数仅标题",
       "noteEn": "Mostly titles only",
-      "oldest": "2026-09-08",
+      "oldest": "2026-09-09",
       "scanned": 100
     }
   },
@@ -57,7 +57,7 @@
       "url": "https://cgzx.hit.edu.cn/sfw_cms/e?page=cms.news2"
     }
   ],
-  "lastRun": "2026-10-15T13:08",
+  "lastRun": "2026-10-15T19:17",
   "lastResults": [
     {
       "school": "THU",
