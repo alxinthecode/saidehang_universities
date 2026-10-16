@@ -1,0 +1,5060 @@
+[
+ {
+  "key": "ZJU",
+  "url": "https://cgywxt.zju.edu.cn/",
+  "home": {
+   "title": "浙江大学全流程电子化采购平台",
+   "url": "https://cgywxt.zju.edu.cn/sfw/",
+   "tech": "技术支持： ",
+   "sfw": true,
+   "uuid": "",
+   "appPath": "",
+   "showDetail": "",
+   "nav": [
+    {
+     "t": "全流程电子化采购平台",
+     "h": "#",
+     "oc": ""
+    }
+   ],
+   "dated": [],
+   "textHead": " 全流程电子化采购平台\n职工号登录\n统一身份认证登录\n二维码登录\n请使用职工号登录\n忘记密码？\n确认登录\n统一身份认证登录>>\n有需要请用校内邮箱联系 浙江大学采购管理办公室 cgbgs@zju.edu.cn\nCopyright©2000-2026 浙江大学 All rights reserved技术支持： "
+  },
+  "list": {
+   "title": "404-页面没有找到",
+   "url": "https://cgywxt.zju.edu.cn/sfw/e?page=cms.psms.gglist&typeDetail=XQ",
+   "tech": "技术支持：4006663991-2或咨询系统在线客服",
+   "sfw": true,
+   "uuid": "",
+   "appPath": "",
+   "showDetail": "",
+   "nav": [],
+   "dated": [],
+   "textHead": "404 - 很抱歉，您要访问的页面不存在....\nERROR：您要访问的网页已删除或者暂时不能用，您可以点击以下链接继续浏览系统其它信息.\n如果您重复遇到该错误信息，请联系技术支持：4006663991-2或咨询系统在线客服\n返回系统 我要吐槽"
+  },
+  "reqs": [],
+  "json": []
+ },
+ {
+  "key": "USTC",
+  "url": "https://cggl.ustc.edu.cn/sfw_cms/e?page=cms.index",
+  "home": {
+   "title": "中国科学技术大学",
+   "url": "https://cggl.ustc.edu.cn/sfw_cms/e?page=cms.index",
+   "tech": "技术支持：思必得软件",
+   "sfw": true,
+   "uuid": "",
+   "appPath": "",
+   "showDetail": "function showDetail(type, publish_id,id) {\r\n\tif(publish_id==\"null\"){\r\n\t\talert(\"未找到该公告信息！\");\r\n\t}else{\r\n\t\twindow.open(\"/provider/#/publish/\"+publish_id);\r\n\t}\r\n}",
+   "nav": [
+    {
+     "t": "采购公告",
+     "h": "javascript:void(0);",
+     "oc": "category('xq','1','e?page=cms.psms.gglist&typeDetail=XQ&shopType=GKZB');"
+    },
+    {
+     "t": "结果公告",
+     "h": "javascript:void(0);",
+     "oc": "category('xq','0','e?page=cms.psms.gglist&typeDetail=GG&shopType=WSXJ&isAgent=1');"
+    },
+    {
+     "t": "更多",
+     "h": "e?page=cms.psms.gglist&typeDetail=XQ&shopType=WSXJ",
+     "oc": ""
+    }
+   ],
+   "dated": [
+    {
+     "t": "中国科学技术大学合肥先进光源科研楼报告厅家具招标公告",
+     "h": "http://www.ccgp.gov.cn/cggg/zygg/gkzb/202610/t20261016_27508747.htm",
+     "oc": "",
+     "d": "2026-10-16"
+    },
+    {
+     "t": "中国科学技术大学2026年人行道闸设备和管理系统维保服务采购磋商公告",
+     "h": "https://www.yzczb.com/bultin-detail/57b761ba-8bde-f282-eecf-6b312aec9156-1.html",
+     "oc": "",
+     "d": "2026-10-16"
+    },
+    {
+     "t": "中国科学技术大学无掩模光刻机项目公开招标公告",
+     "h": "https://www.ccgp.gov.cn/cggg/zygg/gkzb/202610/t20261016_27509038.htm",
+     "oc": "",
+     "d": "2026-10-16"
+    },
+    {
+     "t": "中国科学技术大学合肥先进光源国家重大科技基础设施项目-铜真空室招标公告",
+     "h": "http://www.ccgp.gov.cn/cggg/zygg/gkzb/202610/t20261015_27497877.htm",
+     "oc": "",
+     "d": "2026-10-15"
+    },
+    {
+     "t": "中国科学技术大学自动化软包电池组装与测试系统（ZF20260921-0205）采购公告",
+     "h": "http://www.ccgp.gov.cn/cggg/zygg/gkzb/202610/t20261014_27492055.htm",
+     "oc": "",
+     "d": "2026-10-14"
+    },
+    {
+     "t": "中国科学技术大学合肥先进光源国家重大科技基础设施项目 -EPU42控制系统招标公告",
+     "h": "http://www.ccgp.gov.cn/cggg/zygg/gkzb/202610/t20261014_27492108.htm",
+     "oc": "",
+     "d": "2026-10-14"
+    },
+    {
+     "t": "中国科学技术大学合肥先进光源国家重大科技基础设施项目 -EPU42机械结构及整机集成招标公告",
+     "h": "http://www.ccgp.gov.cn/cggg/zygg/gkzb/202610/t20261014_27492110.htm",
+     "oc": "",
+     "d": "2026-10-14"
+    },
+    {
+     "t": "中国科学技术大学合肥先进光源国家重大科技基础设施项目-EPU42磁性材料招标公告",
+     "h": "http://www.ccgp.gov.cn/cggg/zygg/gkzb/202610/t20261014_27492104.htm",
+     "oc": "",
+     "d": "2026-10-14"
+    },
+    {
+     "t": "中国科学技术大学购买用于AI造物大赛的服务器管理节点和登录节点公开招标公告",
+     "h": "https://www.yzczb.com/bultin-detail/724749d4-6d73-6b03-320c-f70a4c33f2dc-1.html",
+     "oc": "",
+     "d": "2026-10-14"
+    },
+    {
+     "t": "中国科学技术大学多场耦合原位力学表征系统（二次）招标公告",
+     "h": "http://www.ccgp.gov.cn/cggg/zygg/gkzb/202610/t20261012_27472463.htm",
+     "oc": "",
+     "d": "2026-10-12"
+    },
+    {
+     "t": "中国科学技术大学数学新楼公共区域空间设施项目招标公告",
+     "h": "http://www.ahtba.org.cn/site/trade/affiche/detail/55a49fec-c618-11f1-b7f6-00163e1f3e9b",
+     "oc": "",
+     "d": "2026-10-12"
+    },
+    {
+     "t": "合肥先进光源国家重大科技基础设施项目-共振散射成像与能量分析真空机械系统采购项目 - 国际招标公告（1）",
+     "h": "https://www.chinabidding.com/bidDetail/263419165.html",
+     "oc": "",
+     "d": "2026-10-12"
+    },
+    {
+     "t": "合肥先进光源国家重大科技基础设施项目-单色器真空机械系统-1采购项目 - 国际招标公告（1）",
+     "h": "https://www.chinabidding.com/bidDetail/263418972.html",
+     "oc": "",
+     "d": "2026-10-12"
+    },
+    {
+     "t": "中国科学技术大学合肥同步辐射装置仪器设备更新改造项目-实验站腔体更正公告",
+     "h": "https://www.yzczb.com/bultin-detail/9be4c3c1-ebc7-da2c-7683-a04d719e68f5-1.html",
+     "oc": "",
+     "d": "2026-09-22"
+    },
+    {
+     "t": "中国科学技术大学Scifinder数据库2026采购项目单一来源采购公示",
+     "h": "https://www.ahtba.org.cn/site/trade/affiche/detail/8c50b04c-c787-11f1-b7f6-00163e1f3e9b",
+     "oc": "",
+     "d": "2026-10-14"
+    }
+   ],
+   "textHead": "首 页\n采购信息公开\n采购公告\n澄清/变更\n单一来源公示\n关联业务公示\n结果公告\n更多\n中国科学技术大学合肥先进光源科研楼报告厅家具招标公告\n2026-10-16\n中国科学技术大学2026年人行道闸设备和管理系统维保服务采购磋商公告\n2026-10-16\n中国科学技术大学无掩模光刻机项目公开招标公告\n2026-10-16\n中国科学技术大学合肥先进光源国家重大科技基础设施项目-铜真空室招标公告\n2026-10-15\n中国科学技术大学自动化软包电池组装与测试系统（ZF20260921-0205）采购公告\n2026-10-14\n中国科学技术大学合肥先进光源国家重大科技基础设施项目 -EPU42控制系统招标公告\n2026-10-14\n中国科学技术大学合肥先进光源国家重大科技基础设施项目 -EPU42机械结构及整机集成招标公告\n2026-10-14\n中国科学技术大学合肥先进光源国家重大科技基础设施项目-EPU42磁性材料招标公告\n2026-10-14\n中国科学技术大学购买用于AI造物大赛的服务器管理节点和登录节点公开招标公告\n2026-10-14\n中国科学技术大学多场耦合原位力学表征系统（二次）招标公告\n2026-10-12\n中国科学技术大学数学新楼公共区域空间设施项目招标公告\n2026-10-12\n合肥先进光源国家重大科技基础设施项目-共振散射成像与能量分析真空机械系统采购项目 - 国际招"
+  },
+  "list": {
+   "title": "中国科学技术大学",
+   "url": "https://cggl.ustc.edu.cn/sfw_cms/e?page=cms.psms.gglist&typeDetail=XQ",
+   "tech": "技术支持：思必得软件",
+   "sfw": true,
+   "uuid": "",
+   "appPath": "",
+   "showDetail": "function showDetail(type, publish_id,id) {\r\n\tif(publish_id==\"null\"){\r\n\t\talert(\"未找到该公告信息！\");\r\n\t}else{\r\n\t\twindow.open(\"/provider/#/publish/\"+publish_id);\r\n\t}\r\n}",
+   "nav": [
+    {
+     "t": "采购公告",
+     "h": "javascript:void(0);",
+     "oc": "changeChoose(this)"
+    },
+    {
+     "t": "结果公告",
+     "h": "javascript:void(0);",
+     "oc": "changeChoose(this)"
+    },
+    {
+     "t": "公开招标",
+     "h": "javascript:void(0);",
+     "oc": ""
+    }
+   ],
+   "dated": [
+    {
+     "t": "中国科学技术大学合肥先进光源科研楼报告厅家具招标公告",
+     "h": "http://www.ccgp.gov.cn/cggg/zygg/gkzb/202610/t20261016_27508747.htm",
+     "oc": "",
+     "d": "2026-10-16"
+    },
+    {
+     "t": "中国科学技术大学2026年人行道闸设备和管理系统维保服务采购磋商公告",
+     "h": "https://www.yzczb.com/bultin-detail/57b761ba-8bde-f282-eecf-6b312aec9156-1.html",
+     "oc": "",
+     "d": "2026-10-16"
+    },
+    {
+     "t": "中国科学技术大学无掩模光刻机项目公开招标公告",
+     "h": "https://www.ccgp.gov.cn/cggg/zygg/gkzb/202610/t20261016_27509038.htm",
+     "oc": "",
+     "d": "2026-10-16"
+    },
+    {
+     "t": "中国科学技术大学合肥先进光源国家重大科技基础设施项目-铜真空室招标公告",
+     "h": "http://www.ccgp.gov.cn/cggg/zygg/gkzb/202610/t20261015_27497877.htm",
+     "oc": "",
+     "d": "2026-10-15"
+    },
+    {
+     "t": "中国科学技术大学自动化软包电池组装与测试系统（ZF20260921-0205）采购公告",
+     "h": "http://www.ccgp.gov.cn/cggg/zygg/gkzb/202610/t20261014_27492055.htm",
+     "oc": "",
+     "d": "2026-10-14"
+    },
+    {
+     "t": "中国科学技术大学合肥先进光源国家重大科技基础设施项目 -EPU42控制系统招标公告",
+     "h": "http://www.ccgp.gov.cn/cggg/zygg/gkzb/202610/t20261014_27492108.htm",
+     "oc": "",
+     "d": "2026-10-14"
+    },
+    {
+     "t": "中国科学技术大学合肥先进光源国家重大科技基础设施项目 -EPU42机械结构及整机集成招标公告",
+     "h": "http://www.ccgp.gov.cn/cggg/zygg/gkzb/202610/t20261014_27492110.htm",
+     "oc": "",
+     "d": "2026-10-14"
+    },
+    {
+     "t": "中国科学技术大学合肥先进光源国家重大科技基础设施项目-EPU42磁性材料招标公告",
+     "h": "http://www.ccgp.gov.cn/cggg/zygg/gkzb/202610/t20261014_27492104.htm",
+     "oc": "",
+     "d": "2026-10-14"
+    },
+    {
+     "t": "中国科学技术大学购买用于AI造物大赛的服务器管理节点和登录节点公开招标公告",
+     "h": "https://www.yzczb.com/bultin-detail/724749d4-6d73-6b03-320c-f70a4c33f2dc-1.html",
+     "oc": "",
+     "d": "2026-10-14"
+    },
+    {
+     "t": "中国科学技术大学Scifinder数据库2026采购项目单一来源采购公示",
+     "h": "https://www.ahtba.org.cn/site/trade/affiche/detail/8c50b04c-c787-11f1-b7f6-00163e1f3e9b",
+     "oc": "",
+     "d": "2026-10-14"
+    },
+    {
+     "t": "中国科学技术大学ACS期刊数据库2026采购项目单一来源采购公示",
+     "h": "https://www.ahtba.org.cn/site/trade/affiche/detail/56d380e3-c782-11f1-b7f6-00163e1f3e9b",
+     "oc": "",
+     "d": "2026-10-14"
+    },
+    {
+     "t": "中国科学技术大学Taylor &Francis期刊数据库2026采购项目单一来源采购公示",
+     "h": "https://www.ahtba.org.cn/site/trade/affiche/detail/56cc8297-c782-11f1-b7f6-00163e1f3e9b",
+     "oc": "",
+     "d": "2026-10-14"
+    },
+    {
+     "t": "中国科学技术大学IEL数据库2026采购项目单一来源采购公示",
+     "h": "https://www.ahtba.org.cn/site/trade/affiche/detail/56baca26-c782-11f1-b7f6-00163e1f3e9b",
+     "oc": "",
+     "d": "2026-10-14"
+    },
+    {
+     "t": "中国科学技术大学调制开关组件采购项目单一来源采购公示",
+     "h": "http://www.ahtba.org.cn/site/trade/affiche/detail/6fb6a2dd-c602-11f1-b7f6-00163e1f3e9b",
+     "oc": "",
+     "d": "2026-10-12"
+    },
+    {
+     "t": "中国科学技术大学多场耦合原位力学表征系统（二次）招标公告",
+     "h": "http://www.ccgp.gov.cn/cggg/zygg/gkzb/202610/t20261012_27472463.htm",
+     "oc": "",
+     "d": "2026-10-12"
+    }
+   ],
+   "textHead": "首 页\n公示公告\n采购公告\n结果公告\n关联业务公示\n采购公告\n采购方式\n全部\n网上比选\n公开招标\n竞争性磋商\n单一来源\n采购类别\n全部\n货物\n工程\n服务\n显示信息\n全部\n进行中\n已过期\n关键字\n查询\n中国科学技术大学合肥先进光源科研楼报告厅家具招标公告\n2026-10-16 18:11:00\n中国科学技术大学2026年人行道闸设备和管理系统维保服务采购磋商公告\n2026-10-16 18:10:00\n中国科学技术大学无掩模光刻机项目公开招标公告\n2026-10-16 09:00:00\n中国科学技术大学合肥先进光源国家重大科技基础设施项目-铜真空室招标公告\n2026-10-15 12:57:00\n中国科学技术大学自动化软包电池组装与测试系统（ZF20260921-0205）采购公告\n2026-10-14 18:33:00\n中国科学技术大学合肥先进光源国家重大科技基础设施项目 -EPU42控制系统招标公告\n2026-10-14 18:33:00\n中国科学技术大学合肥先进光源国家重大科技基础设施项目 -EPU42机械结构及整机集成招标公告\n2026-10-14 18:32:00\n中国科学技术大学合肥先进光源国家重大科技基础设施项目-EPU42磁性材料招标公告\n2026-10-14 18:32:00\n中国科学技术大学购买用于AI造物大赛的服务器管理节点和登录节点公开招标公告\n2026-10"
+  },
+  "reqs": [
+   {
+    "m": "POST",
+    "u": "https://cggl.ustc.edu.cn/sfw_cms/e",
+    "b": "beginDate=2026-09-28&endDate=2026-11-08&window_=json&t_=0.9964159258731708&request_method_=ajax&browser_=notmsie&page=cms.psms.tender.queryTimeOpen"
+   },
+   {
+    "m": "POST",
+    "u": "https://cggl.ustc.edu.cn/sfw_cms/e",
+    "b": "window_=json&t_=0.6500063164397065&request_method_=ajax&browser_=notmsie&page=cms.psms.tender.queryTimeOpen"
+   },
+   {
+    "m": "POST",
+    "u": "https://cggl.ustc.edu.cn/sfw_cms/e",
+    "b": "t_=0.712228322399552&window_=json&start=1&limit=25&filter=&sort=begin_time%20desc&type=ZCXQ&type=YQXQ&type=BYXQ&type=CSXQ&isEnd=&catalog=&categoryId=104926&categoryId=104791&categoryId=104910&isAgent=&shopType=&keywords=&request_method_=ajax&browser_=notmsie&page=cms.psms.publish.query"
+   },
+   {
+    "m": "POST",
+    "u": "https://cggl.ustc.edu.cn/sfw_cms/e",
+    "b": "t_=0.7752279569067104&window_=json&start=26&limit=25&filter=&sort=begin_time%20desc&type=ZCXQ&type=YQXQ&type=BYXQ&type=CSXQ&isEnd=&catalog=&categoryId=104926&categoryId=104791&categoryId=104910&isAgent=&shopType=&keywords=&request_method_=ajax&browser_=notmsie&page=cms.psms.publish.query"
+   }
+  ],
+  "json": []
+ },
+ {
+  "key": "HUST",
+  "url": "http://cgzx.hust.edu.cn/",
+  "home": {
+   "title": "华中科技大学采购与招标中心-首页",
+   "url": "http://cgzx.hust.edu.cn/",
+   "tech": "技术支持：上海瞬速信息技术有限公司",
+   "sfw": false,
+   "uuid": "",
+   "appPath": "",
+   "showDetail": "",
+   "nav": [
+    {
+     "t": "通知公告",
+     "h": "/dynamic/index.chtml",
+     "oc": ""
+    },
+    {
+     "t": "采购须知",
+     "h": "/bidder/index.chtml",
+     "oc": ""
+    },
+    {
+     "t": "采购流程",
+     "h": "/project/index.chtml",
+     "oc": ""
+    },
+    {
+     "t": "集中采购",
+     "h": "/dtype2/index.chtml",
+     "oc": ""
+    },
+    {
+     "t": "分散采购",
+     "h": "/fscgdownload/index.chtml",
+     "oc": ""
+    },
+    {
+     "t": "定点采购",
+     "h": "/ddcgdownload/index.chtml",
+     "oc": ""
+    },
+    {
+     "t": "意向公开",
+     "h": "/qtdownload/index.chtml",
+     "oc": ""
+    },
+    {
+     "t": "更多>>",
+     "h": "/cgyx/index.chtml",
+     "oc": ""
+    },
+    {
+     "t": "意向公开",
+     "h": "",
+     "oc": "indextab(this)"
+    },
+    {
+     "t": "更多>>",
+     "h": "/zfcgxqgs/index.chtml",
+     "oc": ""
+    },
+    {
+     "t": "意向公开",
+     "h": "",
+     "oc": "indextab(this)"
+    },
+    {
+     "t": "更多>>",
+     "h": "/cgggdylygs/index.chtml",
+     "oc": ""
+    },
+    {
+     "t": "意向公开",
+     "h": "",
+     "oc": "indextab(this)"
+    },
+    {
+     "t": "更多>>",
+     "h": "/xqqt/index.chtml",
+     "oc": ""
+    },
+    {
+     "t": "意向公开",
+     "h": "",
+     "oc": "indextab(this)"
+    },
+    {
+     "t": "更多>>",
+     "h": "/cgjzcg/index.chtml",
+     "oc": ""
+    },
+    {
+     "t": "集中采购",
+     "h": "",
+     "oc": "indextab(this)"
+    },
+    {
+     "t": "分散采购",
+     "h": "",
+     "oc": "indextab(this)"
+    },
+    {
+     "t": "竞价公告（新）",
+     "h": "",
+     "oc": "indextab(this)"
+    },
+    {
+     "t": "更多>>",
+     "h": "/cgfscg/index.chtml",
+     "oc": ""
+    },
+    {
+     "t": "集中采购",
+     "h": "",
+     "oc": "indextab(this)"
+    },
+    {
+     "t": "分散采购",
+     "h": "",
+     "oc": "indextab(this)"
+    },
+    {
+     "t": "竞价公告（新）",
+     "h": "",
+     "oc": "indextab(this)"
+    },
+    {
+     "t": "更多>>",
+     "h": "/ktgkjjcg/index.chtml",
+     "oc": ""
+    },
+    {
+     "t": "集中采购",
+     "h": "",
+     "oc": "indextab(this)"
+    },
+    {
+     "t": "分散采购",
+     "h": "",
+     "oc": "indextab(this)"
+    },
+    {
+     "t": "竞价公告（新）",
+     "h": "",
+     "oc": "indextab(this)"
+    },
+    {
+     "t": "更多>>",
+     "h": "/cgqt/index.chtml",
+     "oc": ""
+    },
+    {
+     "t": "集中采购",
+     "h": "",
+     "oc": "indextab(this)"
+    },
+    {
+     "t": "分散采购",
+     "h": "",
+     "oc": "indextab(this)"
+    },
+    {
+     "t": "竞价公告（新）",
+     "h": "",
+     "oc": "indextab(this)"
+    },
+    {
+     "t": "更多>>",
+     "h": "/jgjzcg/index.chtml",
+     "oc": ""
+    },
+    {
+     "t": "集中采购",
+     "h": "",
+     "oc": "indextab(this)"
+    },
+    {
+     "t": "分散采购",
+     "h": "",
+     "oc": "indextab(this)"
+    },
+    {
+     "t": "定点采购",
+     "h": "",
+     "oc": "indextab(this)"
+    },
+    {
+     "t": "竞价公告（新）",
+     "h": "",
+     "oc": "indextab(this)"
+    },
+    {
+     "t": "更多>>",
+     "h": "/jgfscg/index.chtml",
+     "oc": ""
+    },
+    {
+     "t": "集中采购",
+     "h": "",
+     "oc": "indextab(this)"
+    },
+    {
+     "t": "分散采购",
+     "h": "",
+     "oc": "indextab(this)"
+    },
+    {
+     "t": "定点采购",
+     "h": "",
+     "oc": "indextab(this)"
+    },
+    {
+     "t": "竞价公告（新）",
+     "h": "",
+     "oc": "indextab(this)"
+    },
+    {
+     "t": "更多>>",
+     "h": "/jgddcg/index.chtml",
+     "oc": ""
+    },
+    {
+     "t": "集中采购",
+     "h": "",
+     "oc": "indextab(this)"
+    },
+    {
+     "t": "分散采购",
+     "h": "",
+     "oc": "indextab(this)"
+    },
+    {
+     "t": "定点采购",
+     "h": "",
+     "oc": "indextab(this)"
+    },
+    {
+     "t": "竞价公告（新）",
+     "h": "",
+     "oc": "indextab(this)"
+    },
+    {
+     "t": "更多>>",
+     "h": "/jgjjcg/index.chtml",
+     "oc": ""
+    },
+    {
+     "t": "集中采购",
+     "h": "",
+     "oc": "indextab(this)"
+    },
+    {
+     "t": "分散采购",
+     "h": "",
+     "oc": "indextab(this)"
+    },
+    {
+     "t": "定点采购",
+     "h": "",
+     "oc": "indextab(this)"
+    },
+    {
+     "t": "竞价公告（新）",
+     "h": "",
+     "oc": "indextab(this)"
+    },
+    {
+     "t": "更多>>",
+     "h": "/jgqt/index.chtml",
+     "oc": ""
+    },
+    {
+     "t": "集中采购",
+     "h": "",
+     "oc": "indextab(this)"
+    },
+    {
+     "t": "分散采购",
+     "h": "",
+     "oc": "indextab(this)"
+    },
+    {
+     "t": "定点采购",
+     "h": "",
+     "oc": "indextab(this)"
+    },
+    {
+     "t": "竞价公告（新）",
+     "h": "",
+     "oc": "indextab(this)"
+    },
+    {
+     "t": "更多>>",
+     "h": "/cysp/index.chtml",
+     "oc": ""
+    },
+    {
+     "t": "更多>>",
+     "h": "/mdzz/index.chtml",
+     "oc": ""
+    },
+    {
+     "t": "更多>>",
+     "h": "/qtggqt/index.chtml",
+     "oc": ""
+    },
+    {
+     "t": "更多>>",
+     "h": "/htjjcg/index.chtml",
+     "oc": ""
+    }
+   ],
+   "dated": [
+    {
+     "t": "华中科技大学2026年11月至2027年03月政府采购意向公开",
+     "h": "/cgyx/49439.chtml",
+     "oc": "",
+     "d": "2026-10-15"
+    },
+    {
+     "t": "华中科技大学2026年11月至12月政府采购意向公开",
+     "h": "/cgyx/49385.chtml",
+     "oc": "",
+     "d": "2026-10-14"
+    },
+    {
+     "t": "华中科技大学2026年11月政府采购意向公开",
+     "h": "/cgyx/49255.chtml",
+     "oc": "",
+     "d": "2026-10-12"
+    },
+    {
+     "t": "华中科技大学2026年10月至11月政府采购意向公开",
+     "h": "/cgyx/48961.chtml",
+     "oc": "",
+     "d": "2026-09-29"
+    },
+    {
+     "t": "华中科技大学2026年09月至11月政府采购意向公开（第二批）",
+     "h": "/cgyx/48473.chtml",
+     "oc": "",
+     "d": "2026-09-18"
+    },
+    {
+     "t": "华中科技大学2026年09月至11月政府采购意向公开",
+     "h": "/cgyx/47945.chtml",
+     "oc": "",
+     "d": "2026-09-07"
+    },
+    {
+     "t": "华中科技大学2026年09月政府采购意向公开（第三批）",
+     "h": "/cgyx/47859.chtml",
+     "oc": "",
+     "d": "2026-09-03"
+    },
+    {
+     "t": "华中科技大学台式微纳结构高速直写系统采购项目采购需求征求意见公告",
+     "h": "/zfcgxqgs/42543.chtml",
+     "oc": "",
+     "d": "2026-01-16"
+    },
+    {
+     "t": "华中科技大学高分辨扫描电子显微镜采购项目 采购需求征求意见公告",
+     "h": "/zfcgxqgs/37768.chtml",
+     "oc": "",
+     "d": "2025-06-09"
+    },
+    {
+     "t": "华中科技大学2025年学生宿舍配套家具购置项目采购需求征求意见公告",
+     "h": "/zfcgxqgs/36853.chtml",
+     "oc": "",
+     "d": "2025-04-30"
+    },
+    {
+     "t": "华中科技大学SiPM芯片采购项目采购需求征求意见公告",
+     "h": "/zfcgxqgs/36493.chtml",
+     "oc": "",
+     "d": "2025-04-16"
+    },
+    {
+     "t": "华中科技大学智能活细胞实时成像分析系统项目采购需求征求意见公告",
+     "h": "/zfcgxqgs/35720.chtml",
+     "oc": "",
+     "d": "2025-03-07"
+    },
+    {
+     "t": "华中科技大学逻辑分析仪采购项目采购需求征求意见公告",
+     "h": "/zfcgxqgs/33907.chtml",
+     "oc": "",
+     "d": "2024-11-22"
+    },
+    {
+     "t": "华中科技大学铁电存储器离子束刻蚀系统采购需求征求意见公告",
+     "h": "/zfcgxqgs/33915.chtml",
+     "oc": "",
+     "d": "2024-11-21"
+    },
+    {
+     "t": "[HW20260449]华中科技大学采购GPU服务器项目单一来源公示(第二次)",
+     "h": "/cgggdylygs/49184.chtml",
+     "oc": "",
+     "d": "2026-10-10"
+    }
+   ],
+   "textHead": "全站\n采购公告\n结果公告\n工作动态\n通知公告\n政策法规\n首页\n中心概况\n通知公告\n政策法规\n服务指南\n文档下载\n培训学习\n曝光台\n主任信箱\n更多>>\n需求公告\n意向公开\n需求调查\n单一来源公示\n其他\n2026-10-15\n华中科技大学2026年11月至2027年03月政府采购意向公开 \n2026-10-14\n华中科技大学2026年11月至12月政府采购意向公开 \n2026-10-12\n华中科技大学2026年11月政府采购意向公开 \n2026-09-29\n华中科技大学2026年10月至11月政府采购意向公开\n2026-09-18\n华中科技大学2026年09月至11月政府采购意向公开（第二批）\n2026-09-07\n华中科技大学2026年09月至11月政府采购意向公开\n2026-09-03\n华中科技大学2026年09月政府采购意向公开（第三批）\n更多>>\n采购公告\n集中采购\n分散采购\n竞价公告（新）\n其他\n2026-10-16\n【货物】 [HW20260507]华中科技大学数据服务器等设备一批项目询比公告 \n2026-10-16\n【货物】 [HW20260230]华中科技大学采购军山校区计算机实训教学及标准化考场设备项目中标结果... \n2026-10-16\n【货物】 [HW20260499]华中科技大学计算机实训教学云服务平台软件采购项目(第二次)询比公告 \n2026-10-16\n【"
+  },
+  "reqs": [
+   {
+    "m": "GET",
+    "u": "http://cgzx.hust.edu.cn/cms/siteFlow/flow_statistic.htm",
+    "b": ""
+   }
+  ],
+  "json": []
+ },
+ {
+  "key": "XJTU",
+  "url": "https://info.xjtu.edu.cn/",
+  "home": {
+   "title": "交大综合信息",
+   "url": "https://info.xjtu.edu.cn/",
+   "tech": "",
+   "sfw": false,
+   "uuid": "",
+   "appPath": "",
+   "showDetail": "",
+   "nav": [
+    {
+     "t": "通知公告",
+     "h": "http://oa.xjtu.edu.cn/zxgg_index.jsp",
+     "oc": ""
+    },
+    {
+     "t": "科研信息",
+     "h": "http://std.xjtu.edu.cn/",
+     "oc": ""
+    },
+    {
+     "t": "采购信息",
+     "h": "http://cgb.xjtu.edu.cn/",
+     "oc": ""
+    },
+    {
+     "t": "更多>>",
+     "h": "http://oa.xjtu.edu.cn/zxgg_index.jsp",
+     "oc": ""
+    },
+    {
+     "t": "更多>>",
+     "h": "http://std.xjtu.edu.cn/",
+     "oc": ""
+    },
+    {
+     "t": "更多>>",
+     "h": "http://cgb.xjtu.edu.cn/",
+     "oc": ""
+    },
+    {
+     "t": "学术信息",
+     "h": "http://meeting.xjtu.edu.cn/",
+     "oc": ""
+    },
+    {
+     "t": "更多>>",
+     "h": "http://news.xjtu.edu.cn/",
+     "oc": ""
+    },
+    {
+     "t": "更多>>",
+     "h": "http://meeting.xjtu.edu.cn/",
+     "oc": ""
+    },
+    {
+     "t": "国资处（采购办）",
+     "h": "http://gzc.xjtu.edu.cn/",
+     "oc": ""
+    },
+    {
+     "t": "网络信息中心",
+     "h": "http://nic.xjtu.edu.cn/",
+     "oc": ""
+    },
+    {
+     "t": "电子与信息学部党委",
+     "h": "http://eie.xjtu.edu.cn/dxxb/dtgh/xbfdw1.htm",
+     "oc": ""
+    },
+    {
+     "t": "陕西省信息光子技术重点实验室",
+     "h": "http://www.xjtu.edu.cn/xynr.jsp?urltype=tree.TreeTempUrl&wbtreeid=1634&wbxjtucollegeid=246",
+     "oc": ""
+    },
+    {
+     "t": "校级信息系统",
+     "h": "#",
+     "oc": ""
+    },
+    {
+     "t": "常用信息站点",
+     "h": "#",
+     "oc": ""
+    },
+    {
+     "t": "公共信息资源",
+     "h": "#",
+     "oc": ""
+    },
+    {
+     "t": "科研管理信息系统",
+     "h": "https://stdmis.xjtu.edu.cn/",
+     "oc": ""
+    },
+    {
+     "t": "资产综合信息服务",
+     "h": "http://www.dpm.xjtu.edu.cn/",
+     "oc": ""
+    },
+    {
+     "t": "公开招标信息",
+     "h": "http://cgb.xjtu.edu.cn/",
+     "oc": ""
+    },
+    {
+     "t": "研究生信息查询",
+     "h": "http://gmis.xjtu.edu.cn/",
+     "oc": ""
+    },
+    {
+     "t": "本科生信息服务",
+     "h": "http://dean.xjtu.edu.cn/",
+     "oc": ""
+    },
+    {
+     "t": "本科生信息查询",
+     "h": "http://xsc.xjtu.edu.cn/",
+     "oc": ""
+    },
+    {
+     "t": "资产信息查询",
+     "h": "http://www.dpm.xjtu.edu.cn/",
+     "oc": ""
+    },
+    {
+     "t": "财务信息查询",
+     "h": "http://jdcw.xjtu.edu.cn/",
+     "oc": ""
+    },
+    {
+     "t": "就业信息",
+     "h": "http://job.xjtu.edu.cn/",
+     "oc": ""
+    },
+    {
+     "t": "档案信息",
+     "h": "http://archives.xjtu.edu.cn",
+     "oc": ""
+    },
+    {
+     "t": "更多>>",
+     "h": "http://gs.xjtu.edu.cn/",
+     "oc": ""
+    },
+    {
+     "t": "更多>>",
+     "h": "http://dean.xjtu.edu.cn/",
+     "oc": ""
+    },
+    {
+     "t": "更多>>",
+     "h": "http://std.xjtu.edu.cn/tzgg/xxkx.htm",
+     "oc": ""
+    },
+    {
+     "t": "更多>>",
+     "h": "http://news.xjtu.edu.cn/kxyj.htm",
+     "oc": ""
+    },
+    {
+     "t": "更多>>",
+     "h": "http://international.xjtu.edu.cn/hzjl.htm",
+     "oc": ""
+    },
+    {
+     "t": "更多>>",
+     "h": "https://tuanwei.xjtu.edu.cn/",
+     "oc": ""
+    },
+    {
+     "t": "[人才招聘]教师招聘公告",
+     "h": "http://hr.xjtu.edu.cn/info/1018/9820.htm",
+     "oc": ""
+    },
+    {
+     "t": "更多>>",
+     "h": "http://hr.xjtu.edu.cn/zoxxlbye.jsp?urltype=tree.TreeTempUrl&wbtreeid=1017",
+     "oc": ""
+    },
+    {
+     "t": "更多>>",
+     "h": "http://xsc.xjtu.edu.cn/",
+     "oc": ""
+    },
+    {
+     "t": "更多>>",
+     "h": "http://zs.xjtu.edu.cn/",
+     "oc": ""
+    },
+    {
+     "t": "更多>>",
+     "h": "http://job.xjtu.edu.cn/",
+     "oc": ""
+    },
+    {
+     "t": "网络信息中心",
+     "h": "http://ic.xjtu.edu.cn/",
+     "oc": ""
+    }
+   ],
+   "dated": [
+    {
+     "t": "关于举办西安交通大学《电信T.A杯》...",
+     "h": "http://oa.xjtu.edu.cn/zxgg_readcount.jsp?processInsId=SP[VTRU",
+     "oc": "",
+     "d": "2026-10-16"
+    },
+    {
+     "t": "教师教学发展中心教学研讨午餐会（总第...",
+     "h": "http://oa.xjtu.edu.cn/zxgg_readcount.jsp?processInsId=SP[VVZQ",
+     "oc": "",
+     "d": "2026-10-16"
+    },
+    {
+     "t": "关于开展西安交通大学党员培训2026...",
+     "h": "http://oa.xjtu.edu.cn/zxgg_readcount.jsp?processInsId=SP[VVZV",
+     "oc": "",
+     "d": "2026-10-16"
+    },
+    {
+     "t": "关于集中整理销毁涉密文件及内部敏感资...",
+     "h": "http://oa.xjtu.edu.cn/zxgg_readcount.jsp?processInsId=SP[VQRU",
+     "oc": "",
+     "d": "2026-10-15"
+    },
+    {
+     "t": "实践教学工作坊 “一院一品”系列活动...",
+     "h": "http://oa.xjtu.edu.cn/zxgg_readcount.jsp?processInsId=SP[QU[Q",
+     "oc": "",
+     "d": "2026-10-14"
+    },
+    {
+     "t": "关于开展西安交通大学2026年“冯博...",
+     "h": "http://oa.xjtu.edu.cn/zxgg_readcount.jsp?processInsId=SP[PWUS",
+     "oc": "",
+     "d": "2026-10-13"
+    },
+    {
+     "t": "关于开展网络安全风险排查的通知",
+     "h": "http://oa.xjtu.edu.cn/zxgg_readcount.jsp?processInsId=SP[PVQZ",
+     "oc": "",
+     "d": "2026-10-12"
+    },
+    {
+     "t": "关于创新港校区电动自行车、摩托车校园...",
+     "h": "http://oa.xjtu.edu.cn/zxgg_readcount.jsp?processInsId=SP[PQ[W",
+     "oc": "",
+     "d": "2026-10-12"
+    },
+    {
+     "t": "关于开展2026年度会计专业技术人员...",
+     "h": "http://oa.xjtu.edu.cn/zxgg_readcount.jsp?processInsId=SP[PQQZ",
+     "oc": "",
+     "d": "2026-10-12"
+    },
+    {
+     "t": "关于对国家重点研发计划“高端医学影像设备创新”重点专项2026年度项目申报指南征求意见的通知-西交大科技在线",
+     "h": "http://std.xjtu.edu.cn/info/1008/42874.htm",
+     "oc": "",
+     "d": "2026-10-15"
+    },
+    {
+     "t": "关于组织申报“2026年中国高校产学研创新基金－迈瑞专项”的通知-西交大科技在线",
+     "h": "http://std.xjtu.edu.cn/info/1008/42872.htm",
+     "oc": "",
+     "d": "2026-10-15"
+    },
+    {
+     "t": "关于对国家重点研发计划“面向脑健康的脑机接口新技术开发与产业化应用”重点专项2026年度项目申报指南征求意见的通知-西交大科技在线",
+     "h": "http://std.xjtu.edu.cn/info/1008/42870.htm",
+     "oc": "",
+     "d": "2026-10-15"
+    },
+    {
+     "t": "关于组织申报“脑科学与类脑研究”国家科技重大专项2027年度第一批项目的通知-西交大科技在线",
+     "h": "http://std.xjtu.edu.cn/info/1008/42868.htm",
+     "oc": "",
+     "d": "2026-10-15"
+    },
+    {
+     "t": "关于对国家重点研发计划“气象灾害监测预报与应对科技支撑”重点专项2026年度项目申报指南征求意见的通知-西交大科技在线",
+     "h": "http://std.xjtu.edu.cn/info/1008/42866.htm",
+     "oc": "",
+     "d": "2026-10-15"
+    },
+    {
+     "t": "国家自然科学基金委员会关于发布2026年度管理科学部专项项目“面向未来产业的政策体系与治理机制”申请指南的通告-西交大科技在线",
+     "h": "http://std.xjtu.edu.cn/info/1008/42857.htm",
+     "oc": "",
+     "d": "2026-10-14"
+    }
+   ],
+   "textHead": "2026年10月16日 星期五\n\t思源搜索\t\t\n交大首页 | 办公自动化 | 校园VPN | 一网通办 | 统计数据 | 会议讲座 | 迎新·注册·离校 | 财务缴费平台 | 校历\n\t邮箱登录\t  用户名:\t\t@\t\n@mail.xjtu.edu.cn\n@mfmail.xjtu.edu.cn\n@mailst.xjtu.edu.cn\n\t 密码:\t\t\n\t 欢迎访问西安交通大学综合信息服务平台！\t\n \n通知公告\n科研信息\n采购信息\n更多>>\n \n关于举办西安交通大学《电信T.A杯》...\n2026-10-16\n教师教学发展中心教学研讨午餐会（总第...\n2026-10-16\n关于开展西安交通大学党员培训2026...\n2026-10-16\n关于集中整理销毁涉密文件及内部敏感资...\n2026-10-15\n实践教学工作坊 “一院一品”系列活动...\n2026-10-14\n关于开展西安交通大学2026年“冯博...\n2026-10-13\n关于开展网络安全风险排查的通知\n2026-10-12\n关于创新港校区电动自行车、摩托车校园...\n2026-10-12\n关于开展2026年度会计专业技术人员...\n2026-10-12\n   \n交大新闻\n学术信息\n更多>>\n \n西安交大召开2026年度第三次二级单位书记院长例会\n2026-10-10\n西安交大“闪亮的青春”2025-2026学年优秀本科生标兵评"
+  },
+  "reqs": [
+   {
+    "m": "POST",
+    "u": "https://info.xjtu.edu.cn/system/dwr/call/plaincall/LinkListUtilDWR.getNoaString.dwr",
+    "b": "callCount=1\npage=/\nhttpSessionId=\nscriptSessionId=568DB69B5104AD41DE6B10853ADA1A4E98\nc0-scriptName=LinkListUtilDWR\nc0-methodName=getNoaString\nc0-id=0\nc0-param0=string:http%3A%2F%2Foa.xjtu.edu.cn%2Fxxdh.jsp\nbatchId=0\n"
+   },
+   {
+    "m": "POST",
+    "u": "https://info.xjtu.edu.cn/system/dwr/call/plaincall/LinkListUtilDWRU8.getNewsString.dwr",
+    "b": "callCount=1\npage=/\nhttpSessionId=\nscriptSessionId=568DB69B5104AD41DE6B10853ADA1A4E98\nc0-scriptName=LinkListUtilDWRU8\nc0-methodName=getNewsString\nc0-id=0\nc0-param0=string:http%3A%2F%2Fnews.xjtu.edu.cn%2Fsyxw.htm\nbatchId=1\n"
+   }
+  ],
+  "json": []
+ },
+ {
+  "key": "XJTU2",
+  "url": "https://cgb.xjtu.edu.cn/",
+  "home": {
+   "title": "西安交通大学采购与招标管理办公室网站平台-首页",
+   "url": "https://cgb.xjtu.edu.cn/site/",
+   "tech": "",
+   "sfw": false,
+   "uuid": "",
+   "appPath": "",
+   "showDetail": "",
+   "nav": [
+    {
+     "t": "通知公告",
+     "h": "javascript:void(0)",
+     "oc": "loadPageByForm(\"\\/site\\/navConfig;jsessionid=B6D7307CCB3361E99417FCDE8A2C8C9B?navid=4af592f37641715c01764199fd3e000c\\u0026mkid=4af592f37641715c0176418647810001\\"
+    },
+    {
+     "t": "校级采购公告",
+     "h": "javascript:void(0)",
+     "oc": "loadPageByForm(\"\\/site\\/navConfig;jsessionid=B6D7307CCB3361E99417FCDE8A2C8C9B?navid=4af592f37641715c0176419ae14f000d\\u0026mkid=4af592f37641715c01764186a7f20002\\"
+    },
+    {
+     "t": "校级结果公告",
+     "h": "javascript:void(0)",
+     "oc": "loadPageByForm(\"\\/site\\/navConfig;jsessionid=B6D7307CCB3361E99417FCDE8A2C8C9B?navid=4af592f37641715c0176419b3897000e\\u0026mkid=4af592f37641715c01764186a7f20002\\"
+    },
+    {
+     "t": "院处采购公告",
+     "h": "javascript:void(0)",
+     "oc": "loadPageByForm(\"\\/site\\/navConfig;jsessionid=B6D7307CCB3361E99417FCDE8A2C8C9B?navid=4af592f3929443a4019371c352220003\\u0026mkid=4af592f37641715c01764186a7f20002\\"
+    },
+    {
+     "t": "院处结果公告",
+     "h": "javascript:void(0)",
+     "oc": "loadPageByForm(\"\\/site\\/navConfig;jsessionid=B6D7307CCB3361E99417FCDE8A2C8C9B?navid=4af592f3929443a4019371c3b3db0004\\u0026mkid=4af592f37641715c01764186a7f20002\\"
+    },
+    {
+     "t": "合同公告",
+     "h": "javascript:void(0)",
+     "oc": "loadPageByForm(\"\\/site\\/navConfig;jsessionid=B6D7307CCB3361E99417FCDE8A2C8C9B?navid=4af592f37641715c0176419b792e000f\\u0026mkid=4af592f37641715c01764186a7f20002\\"
+    },
+    {
+     "t": "竞拍系统公告",
+     "h": "javascript:void(0)",
+     "oc": "loadPageByForm(\"\\/site\\/navConfig;jsessionid=B6D7307CCB3361E99417FCDE8A2C8C9B?navid=40288ab89b2b09ca019b2b1795f20000\\u0026mkid=4af592f37641715c01764186a7f20002\\"
+    },
+    {
+     "t": "招租/招商公告",
+     "h": "javascript:void(0)",
+     "oc": "loadPageByForm(\"\\/site\\/navConfig;jsessionid=B6D7307CCB3361E99417FCDE8A2C8C9B?navid=4af592f3813bdea50183361830840064\\u0026mkid=20240508001\\u0026jdid=4af592f3813"
+    },
+    {
+     "t": "招租/招商结果",
+     "h": "javascript:void(0)",
+     "oc": "loadPageByForm(\"\\/site\\/navConfig;jsessionid=B6D7307CCB3361E99417FCDE8A2C8C9B?navid=40288ad08a64e96c018a64eb4b3b0000\\u0026mkid=20240508001\\u0026jdid=40288ad08a6"
+    },
+    {
+     "t": "新闻公告",
+     "h": "javascript:void(0)",
+     "oc": "loadPageByForm(\"\\/site\\/navConfig;jsessionid=B6D7307CCB3361E99417FCDE8A2C8C9B?navid=4af592f37641715c0176418647810001\\u0026mkid=4af592f37641715c0176418647810001\""
+    },
+    {
+     "t": "通知公告",
+     "h": "javascript:void(0)",
+     "oc": "loadPageByForm(\"\\/site\\/navConfig;jsessionid=B6D7307CCB3361E99417FCDE8A2C8C9B?navid=4af592f37641715c01764199fd3e000c\\u0026mkid=4af592f37641715c0176418647810001\\"
+    },
+    {
+     "t": "信息公开",
+     "h": "javascript:void(0)",
+     "oc": "loadPageByForm(\"\\/site\\/navConfig;jsessionid=B6D7307CCB3361E99417FCDE8A2C8C9B?navid=4af592f37641715c01764186a7f20002\\u0026mkid=4af592f37641715c01764186a7f20002\""
+    },
+    {
+     "t": "校级采购公告",
+     "h": "javascript:void(0)",
+     "oc": "loadPageByForm(\"\\/site\\/navConfig;jsessionid=B6D7307CCB3361E99417FCDE8A2C8C9B?navid=4af592f37641715c0176419ae14f000d\\u0026mkid=4af592f37641715c01764186a7f20002\\"
+    },
+    {
+     "t": "校级结果公告",
+     "h": "javascript:void(0)",
+     "oc": "loadPageByForm(\"\\/site\\/navConfig;jsessionid=B6D7307CCB3361E99417FCDE8A2C8C9B?navid=4af592f37641715c0176419b3897000e\\u0026mkid=4af592f37641715c01764186a7f20002\\"
+    },
+    {
+     "t": "院处采购公告",
+     "h": "javascript:void(0)",
+     "oc": "loadPageByForm(\"\\/site\\/navConfig;jsessionid=B6D7307CCB3361E99417FCDE8A2C8C9B?navid=4af592f3929443a4019371c352220003\\u0026mkid=4af592f37641715c01764186a7f20002\\"
+    },
+    {
+     "t": "院处结果公告",
+     "h": "javascript:void(0)",
+     "oc": "loadPageByForm(\"\\/site\\/navConfig;jsessionid=B6D7307CCB3361E99417FCDE8A2C8C9B?navid=4af592f3929443a4019371c3b3db0004\\u0026mkid=4af592f37641715c01764186a7f20002\\"
+    },
+    {
+     "t": "合同公告",
+     "h": "javascript:void(0)",
+     "oc": "loadPageByForm(\"\\/site\\/navConfig;jsessionid=B6D7307CCB3361E99417FCDE8A2C8C9B?navid=4af592f37641715c0176419b792e000f\\u0026mkid=4af592f37641715c01764186a7f20002\\"
+    },
+    {
+     "t": "竞拍系统公告",
+     "h": "javascript:void(0)",
+     "oc": "loadPageByForm(\"\\/site\\/navConfig;jsessionid=B6D7307CCB3361E99417FCDE8A2C8C9B?navid=40288ab89b2b09ca019b2b1795f20000\\u0026mkid=4af592f37641715c01764186a7f20002\\"
+    },
+    {
+     "t": "招租/招商公告",
+     "h": "javascript:void(0)",
+     "oc": "loadPageByForm(\"\\/site\\/navConfig;jsessionid=B6D7307CCB3361E99417FCDE8A2C8C9B?navid=4af592f3813bdea50183361830840064\\u0026mkid=20240508001\\u0026jdid=4af592f3813"
+    },
+    {
+     "t": "招租/招商结果",
+     "h": "javascript:void(0)",
+     "oc": "loadPageByForm(\"\\/site\\/navConfig;jsessionid=B6D7307CCB3361E99417FCDE8A2C8C9B?navid=40288ad08a64e96c018a64eb4b3b0000\\u0026mkid=20240508001\\u0026jdid=40288ad08a6"
+    },
+    {
+     "t": "更多 >",
+     "h": "javascript:void(0)",
+     "oc": ""
+    },
+    {
+     "t": "院处采购系统\n院处采购系统",
+     "h": "https://yccg.xjtu.edu.cn/",
+     "oc": ""
+    },
+    {
+     "t": "采购管理系统\n采购管理系统",
+     "h": "https://cg.xjtu.edu.cn/CG-Web/userLogin.initLoginUserInfo.action",
+     "oc": ""
+    },
+    {
+     "t": "采购合同登记\n采购合同登记",
+     "h": "https://htgl.xjtu.edu.cn",
+     "oc": ""
+    },
+    {
+     "t": "院处采购系统\n院处采购系统",
+     "h": "https://yccg.xjtu.edu.cn/",
+     "oc": ""
+    },
+    {
+     "t": "采购管理系统\n采购管理系统",
+     "h": "https://cg.xjtu.edu.cn/CG-Web/userLogin.initLoginUserInfo.action",
+     "oc": ""
+    },
+    {
+     "t": "采购合同登记\n采购合同登记",
+     "h": "https://htgl.xjtu.edu.cn",
+     "oc": ""
+    },
+    {
+     "t": "更多 >",
+     "h": "javascript:void(0)",
+     "oc": ""
+    },
+    {
+     "t": "更多 >",
+     "h": "javascript:void(0)",
+     "oc": ""
+    },
+    {
+     "t": "更多 >",
+     "h": "javascript:void(0)",
+     "oc": ""
+    },
+    {
+     "t": "中国政府采购网",
+     "h": "http://www.ccgp.gov.cn/",
+     "oc": ""
+    },
+    {
+     "t": "/ 中央政府采购网",
+     "h": "http://www.zycg.gov.cn/",
+     "oc": ""
+    },
+    {
+     "t": "采购管理系统",
+     "h": "http://cg.xjtu.edu.cn/CG-Web/userLogin.initLoginUserInfo.action",
+     "oc": ""
+    },
+    {
+     "t": "采购公告",
+     "h": "http://202.117.18.115/site/navConfig?navid=4af592f37641715c0176419ae14f000d&mkid=4af592f37641715c01764186a7f20002&jdid=4af592f37641715c0176419ae14f000d",
+     "oc": ""
+    },
+    {
+     "t": "结果公告",
+     "h": "http://202.117.18.115/site/navConfig?navid=4af592f37641715c0176419b3897000e&mkid=4af592f37641715c01764186a7f20002&jdid=4af592f37641715c0176419b3897000e",
+     "oc": ""
+    }
+   ],
+   "dated": [
+    {
+     "t": "西安交通大学2026年第053号招租公告（零售类）",
+     "h": "javascript:void(0)",
+     "oc": "openNewPageByForm(\"/caseInfo?nrid=4af592f3a06681bf01a0ecb3475900e1\")",
+     "d": "2026-09-29"
+    },
+    {
+     "t": "西安交通大学2026年第052号招租公告（饮品类）",
+     "h": "javascript:void(0)",
+     "oc": "openNewPageByForm(\"/caseInfo?nrid=4af592f3a06681bf01a0ecb320e300e0\")",
+     "d": "2026-09-29"
+    },
+    {
+     "t": "西安交通大学2026年第051号招租公告（饮品类）",
+     "h": "javascript:void(0)",
+     "oc": "openNewPageByForm(\"/caseInfo?nrid=4af592f39cb2c12101a033323bdb0637\")",
+     "d": "2026-08-24"
+    },
+    {
+     "t": "西安交通大学2026年第050号招租公告（零售类）",
+     "h": "javascript:void(0)",
+     "oc": "openNewPageByForm(\"/caseInfo?nrid=4af592f39cb2c12101a03330b8650636\")",
+     "d": "2026-08-24"
+    },
+    {
+     "t": "西安交通大学2026年第011号招商公告",
+     "h": "javascript:void(0)",
+     "oc": "openNewPageByForm(\"/caseInfo?nrid=4af592f39cb2c12101a00836d41a0601\")",
+     "d": "2026-08-16"
+    },
+    {
+     "t": "关于近期西安交通大学采购等项目供应商参与时间安排的通知",
+     "h": "javascript:void(0)",
+     "oc": "openNewPageByForm(\"/caseInfo?nrid=4af592f39cb2c100019e214e90290001\")",
+     "d": "2026-05-13"
+    }
+   ],
+   "textHead": "导航菜单\n首页\nToggle submenu (部门概况)\n部门概况\nToggle submenu (新闻公告)\n新闻公告\nToggle submenu (信息公开)\n信息公开\n服务指南\n政策法规\nToggle submenu (招租招商)\n招租招商\n下载中心\n首页\n部门概况\n新闻公告\n信息公开\n服务指南\n政策法规\n招租招商\n下载中心\n中国石油大学（华东）来校调研采购与招标工作\n采购办组织召开陕西高校政府采购工作研讨会\n【我为师生办实事】 采购与招标管理办公室举办采购政策培训与交流会\n关中海关来校调研交流\n中国石油大学（华东）来校调研采购与招标工作\n采购办组织召开陕西高校政府采购工作研讨会\n【我为师生办实事】 采购与招标管理办公室举办采购政策培训与交流会\n关中海关来校调研交流\n中国石油大学（华东）来校调研采购与招标工作\n采购办组织召开陕西高校政府采购工作研讨会\n【我为师生办实事】 采购与招标管理办公室举办采购政策培训与交流会\n关中海关来校调研交流\n招租/招商公告\n通知公告\n更多 >\n西安交通大学2026年第053号招租公告（零售类）\n2026-09-29\n西安交通大学2026年第052号招租公告（饮品类）\n2026-09-29\n西安交通大学2026年第051号招租公告（饮品类）\n2026-08-24\n西安交通大学2026年第050号招租公告（零售类）\n2026-08-24\n西安交通"
+  },
+  "reqs": [
+   {
+    "m": "POST",
+    "u": "https://cgb.xjtu.edu.cn/site/findNeiRongSummaryByLmId",
+    "b": "bkid=4af592f3813bdea50183c0e93f79006c&lmid=4af592f37641715c01764199b9b4000b&lmid=undefined"
+   },
+   {
+    "m": "POST",
+    "u": "https://cgb.xjtu.edu.cn/site/findNeiRongSummaryByLmId",
+    "b": "bkid=4af592f3813bdea50183c0e93f79006d&lmid=4af592f37641715c01764199fd3e000c&lmid=4af592f3813bdea50183361830840064"
+   },
+   {
+    "m": "POST",
+    "u": "https://cgb.xjtu.edu.cn/site/findNeiRongSummaryByLmId",
+    "b": "bkid=4af592f37641715c017641b5e7700024&lmid=4af592f37641715c0176419ae14f000d&lmid=undefined"
+   },
+   {
+    "m": "POST",
+    "u": "https://cgb.xjtu.edu.cn/site/findNeiRongSummaryByLmId",
+    "b": "bkid=4af592f37641715c017641b5e7700025&lmid=4af592f37641715c0176419b3897000e&lmid=undefined"
+   },
+   {
+    "m": "POST",
+    "u": "https://cgb.xjtu.edu.cn/site/findLianXiFangShi",
+    "b": "bkid=4af592f37641715c017641b5e7700026&_rows=10"
+   }
+  ],
+  "json": [
+   {
+    "u": "https://cgb.xjtu.edu.cn/site/findNeiRongSummaryByLmId",
+    "len": 8442,
+    "head": "{\"result\":true,\"wzLcbkEntity\":{\"lcbkid\":\"4af592f3813bdea50183c0e93f79006c\",\"bkmc\":\"4排版\",\"zslmid\":\"4af592f37641715c01764199b9b4000b\",\"zszdsjl\":4,\"lmlx\":\"1\",\"bkwz\":\"1\",\"bz\":null,\"zslmid2\":null,\"zslmlx\":\"2\"},\"lcpblx\":\"2\",\"leiXingList\":[{\"YWLXID\":null,\"LMID\":\"4af592f37641715c01764199b9b4000b\",\"YWLXMC\":null}],\"wzLmList\":[{\"CJRZJH\":\"gwzdadmin\",\"LBLXMC\":\"突出图片\",\"LMJB\":2,\"ZHGXR\":null,\"LMMC\":\"新闻动态\",\"CJR\":\"管理员\",\"LMID\":\"4af592f37641715c01764199b9b4000b\",\"ZT\":\"1\",\"LMLXMC\":\"常规列表\",\"TZWZ\":null,\"CJBH\":\"2-3-\",\"LBLX\":\"2\",\"PLMMC\":\"新闻公告\",\"ZHGXRZJH\":null,\"YWFLMC\":\"不限制\",\"YWFLID\":\"99\",\"ZTMC\":\"是\",\"ZHGXSJ\":null,\"LMPID\":\"4af592f37641715c0176418647810001\",\"CJSJ\":1607478180000,\"LMLX\":\"1\"}],\"neiRongList\":[{\"NRID\":\"4af592f3788b2bd8017be3bc8f960054\",\"BT\":\"中国石油大学（华东）来校调研采购与招标工作\",\"JJ\":\"中国石油大学（华东）来校调研采购与招标工作\",\"YWLXID\":null,\"FBRQ\":\"14\",\"LMID\":\"4af592f37641715c01764199b9b4000b\",\"FBSJ\":\"2021-09\",\"FLSIZE\":null,\"ZTU\":\"/imgs/zh"
+   },
+   {
+    "u": "https://cgb.xjtu.edu.cn/site/findLianXiFangShi",
+    "len": 2104,
+    "head": "{\"result\":true,\"dataList\":[{\"LXFSID\":\"4af592f38feb998f019023fe93bd001c\",\"LXFSIDLX\":\"5\",\"LXFSFZID\":\"4af592f37641715c0176419bb6ad0010\",\"LXFS\":\"tender@xjtu.edu.cn\",\"LXFSMC\":\"Email\",\"FZMC\":\"投标咨询\",\"LOGODZ\":\"resource/images/youxiang.png\"},{\"LXFS\":\"367046737\",\"LXFSID\":\"4af592f38feb998f019023fe93bd001d\",\"LXFSFZID\":\"4af592f37641715c0176419bb6ad0010\",\"FZMC\":\"投标咨询\",\"LXFSIDLX\":\"2\",\"LXFSMC\":\"QQ\",\"LOGODZ\":\"resource/images/qq.png\"},{\"LXFSIDLX\":\"1\",\"LXFSID\":\"4af592f38feb998f01902f5848fc0036\",\"LXFS\":\"029-88963685\",\"FZMC\":\"院处级小额采购\",\"LOGODZ\":\"resource/images/zuoji.png\",\"LXFSFZID\":\"4af592f3767551f70176884f71840002\",\"LXFSMC\":\"办公电话\"},{\"LXFSFZID\":\"4af592f3767551f70176885029a60004\",\"FZMC\":\"小额采购合同盖章（除周三下午）\",\"LXFSIDLX\":\"1\",\"LXFS\":\"029-82663807（兴庆）\",\"LOGODZ\":\"resource/images/zuoji.png\",\"LXFSID\":\"4af592f38feb998f0190240141a3002b\",\"LXFSMC\":\"办公电话\"},{\"LXFSFZID\":\"4af592f3767551f70176885029a60004\",\"FZMC\":\"小额采购合同盖章（除周三下午"
+   },
+   {
+    "u": "https://cgb.xjtu.edu.cn/site/findNeiRongSummaryByLmId",
+    "len": 116139,
+    "head": "{\"result\":true,\"wzLcbkEntity\":{\"lcbkid\":\"4af592f3813bdea50183c0e93f79006d\",\"bkmc\":\"6排版\",\"zslmid\":\"4af592f37641715c01764199fd3e000c\",\"zszdsjl\":5,\"lmlx\":\"1\",\"bkwz\":\"3\",\"bz\":null,\"zslmid2\":\"4af592f3813bdea50183361830840064\",\"zslmlx\":\"1\"},\"lcpblx\":\"2\",\"leiXingList\":[{\"YWLXMC\":\"工程\",\"LMID\":\"4af592f3813bdea50183361830840064\",\"YWLXID\":\"202008110017\"},{\"LMID\":\"4af592f37641715c01764199fd3e000c\",\"YWLXID\":null,\"YWLXMC\":null},{\"LMID\":\"4af592f3813bdea50183361830840064\",\"YWLXID\":null,\"YWLXMC\":null}],\"wzLmList\":[{\"CJSJ\":1763627483000,\"CJRZJH\":\"gwzdadmin\",\"LMID\":\"4af592f3813bdea50183361830840064\",\"LMJB\":1,\"ZHGXR\":null,\"PLMMC\":\"招租招商\",\"CJR\":\"管理员\",\"ZT\":\"1\",\"LMLXMC\":\"常规列表\",\"LBLXMC\":\"突出日期\",\"TZWZ\":null,\"LBLX\":\"1\",\"CJBH\":\"10-3-\",\"ZHGXRZJH\":null,\"YWFLMC\":\"不限制\",\"YWFLID\":\"99\",\"ZTMC\":\"是\",\"LMPID\":\"20240508001\",\"ZHGXSJ\":null,\"LMMC\":\"招租/招商公告\",\"LMLX\":\"1\"},{\"CJRZJH\":\"gwzdadmin\",\"CJSJ\":1631612829000,\"LMID\":\"4af592f376417"
+   },
+   {
+    "u": "https://cgb.xjtu.edu.cn/site/findNeiRongSummaryByLmId",
+    "len": 226571,
+    "head": "{\"result\":true,\"wzLcbkEntity\":{\"lcbkid\":\"4af592f37641715c017641b5e7700025\",\"bkmc\":\"4排版\",\"zslmid\":\"4af592f37641715c0176419b3897000e\",\"zszdsjl\":5,\"lmlx\":\"1\",\"bkwz\":\"2\",\"bz\":\"4排版\",\"zslmid2\":null,\"zslmlx\":\"1\"},\"lcpblx\":\"5\",\"leiXingList\":[{\"LMID\":\"4af592f37641715c0176419b3897000e\",\"YWLXID\":\"202008110004\",\"YWLXMC\":\"货物\"},{\"YWLXMC\":\"工程\",\"LMID\":\"4af592f37641715c0176419b3897000e\",\"YWLXID\":\"202008110005\"},{\"YWLXMC\":\"服务\",\"LMID\":\"4af592f37641715c0176419b3897000e\",\"YWLXID\":\"202008110006\"}],\"wzLmList\":[{\"CJRZJH\":\"gwzdadmin\",\"LMPID\":\"4af592f37641715c01764186a7f20002\",\"LMJB\":2,\"ZHGXR\":null,\"CJR\":\"管理员\",\"ZT\":\"1\",\"LMID\":\"4af592f37641715c0176419b3897000e\",\"CJSJ\":1607418460000,\"LMLXMC\":\"常规列表\",\"PLMMC\":\"信息公开\",\"LBLXMC\":\"突出日期\",\"TZWZ\":null,\"LMMC\":\"校级结果公告\",\"CJBH\":\"3-2-\",\"LBLX\":\"1\",\"ZHGXRZJH\":null,\"YWFLID\":\"11\",\"YWFLMC\":\"采购结果公告\",\"ZTMC\":\"是\",\"ZHGXSJ\":null,\"LMLX\":\"1\"}],\"neiRongList\":[{\"FLSIZE\":628,\"FBSJ\":\"2026-10\",\"NRI"
+   },
+   {
+    "u": "https://cgb.xjtu.edu.cn/site/findNeiRongSummaryByLmId",
+    "len": 260868,
+    "head": "{\"result\":true,\"wzLcbkEntity\":{\"lcbkid\":\"4af592f37641715c017641b5e7700024\",\"bkmc\":\"4排版\",\"zslmid\":\"4af592f37641715c0176419ae14f000d\",\"zszdsjl\":5,\"lmlx\":\"1\",\"bkwz\":\"1\",\"bz\":\"4排版\",\"zslmid2\":null,\"zslmlx\":\"1\"},\"lcpblx\":\"5\",\"leiXingList\":[{\"YWLXID\":\"202008110001\",\"LMID\":\"4af592f37641715c0176419ae14f000d\",\"YWLXMC\":\"货物\"},{\"YWLXMC\":\"工程\",\"YWLXID\":\"202008110002\",\"LMID\":\"4af592f37641715c0176419ae14f000d\"},{\"YWLXID\":\"202008110003\",\"YWLXMC\":\"服务\",\"LMID\":\"4af592f37641715c0176419ae14f000d\"}],\"wzLmList\":[{\"CJRZJH\":\"gwzdadmin\",\"LMPID\":\"4af592f37641715c01764186a7f20002\",\"LMJB\":2,\"CJSJ\":1607418437000,\"ZHGXR\":null,\"CJR\":\"管理员\",\"YWFLID\":\"10\",\"ZT\":\"1\",\"LMLXMC\":\"常规列表\",\"LMID\":\"4af592f37641715c0176419ae14f000d\",\"LMMC\":\"校级采购公告\",\"PLMMC\":\"信息公开\",\"LBLXMC\":\"突出日期\",\"TZWZ\":null,\"LBLX\":\"1\",\"CJBH\":\"3-1-\",\"YWFLMC\":\"采购招标公告\",\"ZHGXRZJH\":null,\"ZTMC\":\"是\",\"ZHGXSJ\":null,\"LMLX\":\"1\"}],\"neiRongList\":[{\"FLSIZE\":898,\"YWLXID\":\"20200811000"
+   }
+  ]
+ },
+ {
+  "key": "NUAA",
+  "url": "https://zbb.nuaa.edu.cn/",
+  "home": {
+   "title": "访问被禁止",
+   "url": "https://zbb.nuaa.edu.cn/",
+   "tech": "",
+   "sfw": false,
+   "uuid": "",
+   "appPath": "",
+   "showDetail": "",
+   "nav": [],
+   "dated": [],
+   "textHead": "2026-10-16 19:13:42\n\n\n\n\n\n\n\n\n\n当前系统仅限校内访问，校外请通过登录校综合服务门户或VPN系统进行访问。\n\n服务热线：(025)84890123"
+  },
+  "reqs": [],
+  "json": []
+ },
+ {
+  "key": "NWPU",
+  "url": "https://zczx.nwpu.edu.cn/",
+  "home": {
+   "title": "招标与设备采购中心",
+   "url": "https://zczx.nwpu.edu.cn/",
+   "tech": "",
+   "sfw": false,
+   "uuid": "",
+   "appPath": "",
+   "showDetail": "",
+   "nav": [
+    {
+     "t": "招标公告",
+     "h": "zbgg.htm",
+     "oc": ""
+    },
+    {
+     "t": "· 政府采购意向公开填报表",
+     "h": "info/1338/10219.htm",
+     "oc": ""
+    }
+   ],
+   "dated": [
+    {
+     "t": "· 西北工业大学教职工2026年国庆节、2027年元...",
+     "h": "info/1304/20249.htm",
+     "oc": "",
+     "d": "2026-09-24"
+    },
+    {
+     "t": "· 财务智能系统数据库一体化管理平台项目招标公告",
+     "h": "info/1385/20239.htm",
+     "oc": "",
+     "d": "2026-09-24"
+    },
+    {
+     "t": "· 西北工业大学空天地海一体化大数据应用技术...",
+     "h": "info/1304/20129.htm",
+     "oc": "",
+     "d": "2026-08-26"
+    },
+    {
+     "t": "· 西北工业大学空天地海一体化大数据应用技术...",
+     "h": "info/1304/20109.htm",
+     "oc": "",
+     "d": "2026-08-14"
+    },
+    {
+     "t": "· 西北工业大学空天地海一体化大数据应用技术...",
+     "h": "info/1304/20079.htm",
+     "oc": "",
+     "d": "2026-08-03"
+    },
+    {
+     "t": "· 西北工业大学大模型RL微调训练算力服务项目...",
+     "h": "info/1304/20059.htm",
+     "oc": "",
+     "d": "2026-07-29"
+    },
+    {
+     "t": "· 西北工业大学大模型训练增量再训练算力服务...",
+     "h": "info/1304/20049.htm",
+     "oc": "",
+     "d": "2026-07-29"
+    },
+    {
+     "t": "· 西北工业大学绿化智慧喷灌系统建设项目-比选...",
+     "h": "info/1304/19959.htm",
+     "oc": "",
+     "d": "2026-07-23"
+    },
+    {
+     "t": "· 西北工业大学大型消声室与混响室建设用声学...",
+     "h": "info/1304/19819.htm",
+     "oc": "",
+     "d": "2026-07-10"
+    },
+    {
+     "t": "西北工业大学空天地海一体化大数据应用技术国家工程实验室改造（室外箱变与电气工程部分）（二次）-结果公告",
+     "h": "info/1316/20229.htm",
+     "oc": "",
+     "d": "2026-09-21"
+    },
+    {
+     "t": "西北工业大学空天地海一体化大数据应用技术国家工程实验室改造（室外箱变与电气工程部分）项目（二次）-中标候选人公示",
+     "h": "info/1316/20219.htm",
+     "oc": "",
+     "d": "2026-09-17"
+    },
+    {
+     "t": "学生公寓空调采购项目委托代理服务竞选结果公告",
+     "h": "info/1316/20199.htm",
+     "oc": "",
+     "d": "2026-09-15"
+    },
+    {
+     "t": "空天地多频段信号通感控及保障系统项目委托代理服务竞选结果公告",
+     "h": "info/1316/20189.htm",
+     "oc": "",
+     "d": "2026-09-15"
+    },
+    {
+     "t": "深空探测X/Ka波段测控数传站项目委托代理服务项目竞选结果公告",
+     "h": "info/1316/20179.htm",
+     "oc": "",
+     "d": "2026-09-15"
+    },
+    {
+     "t": "综合水池造消波系统设备采购委托代理服务项目竞选结果公告",
+     "h": "info/1316/20169.htm",
+     "oc": "",
+     "d": "2026-09-15"
+    }
+   ],
+   "textHead": "\t 首页 \t\t 招标公告 \t\t 中标公示 \t\t 法规制度 \t\t 下载专区 \n\t\t\t\t\t\t\t\t\t\n2026年10月16日  星期五\n站内搜索：  \n\n>>\n招标公告\n\n2026-09-24\n· 西北工业大学教职工2026年国庆节、2027年元...\n2026-09-24\n· 财务智能系统数据库一体化管理平台项目招标公告\n2026-08-26\n· 西北工业大学空天地海一体化大数据应用技术...\n2026-08-14\n· 西北工业大学空天地海一体化大数据应用技术...\n2026-08-03\n· 西北工业大学空天地海一体化大数据应用技术...\n2026-07-29\n· 西北工业大学大模型RL微调训练算力服务项目...\n2026-07-29\n· 西北工业大学大模型训练增量再训练算力服务...\n2026-07-23\n· 西北工业大学绿化智慧喷灌系统建设项目-比选...\n2026-07-10\n· 西北工业大学大型消声室与混响室建设用声学...\n\n>>\n中标公示\n\n·\t西北工业大学空天地海一体化大数据...\t2026-09-21\n·\t西北工业大学空天地海一体化大数据...\t2026-09-17\n·\t学生公寓空调采购项目委托代理服务...\t2026-09-15\n·\t空天地多频段信号通感控及保障系统...\t2026-09-15\n·\t深空探测X/Ka波段测控数传站项目委...\t2026-09-15\n·\t"
+  },
+  "reqs": [],
+  "json": []
+ },
+ {
+  "key": "BIT",
+  "url": "http://zczx.bit.edu.cn/sfw_cms/e?page=cms.index",
+  "error": "page.goto: Timeout 45000ms exceeded.",
+  "reqs": [],
+  "json": []
+ },
+ {
+  "key": "NJU",
+  "url": "https://zbb.nju.edu.cn/",
+  "home": {
+   "title": "网络维护",
+   "url": "https://zbb.nju.edu.cn/",
+   "tech": "",
+   "sfw": false,
+   "uuid": "",
+   "appPath": "",
+   "showDetail": "",
+   "nav": [],
+   "dated": [],
+   "textHead": "😥网络正在维护~ 我们将很快回来\n\nThe website is under maintenance. We will be back shortly\n\n维护期间，本校师生请使用南京大学VPN进行访问\n\n电话咨询 89683791\n\n每天8:00-19:00\n\n关注微信公众号“南京大学信息门户”\n\n点“我-我要反馈”"
+  },
+  "reqs": [],
+  "json": []
+ },
+ {
+  "key": "SEU",
+  "url": "https://zbb.seu.edu.cn/",
+  "home": {
+   "title": "电子评标系统",
+   "url": "https://zbb.seu.edu.cn/",
+   "tech": "",
+   "sfw": false,
+   "uuid": "",
+   "appPath": "",
+   "showDetail": "",
+   "nav": [],
+   "dated": [],
+   "textHead": "登 录\n\n供应商注册\n忘记密码？"
+  },
+  "reqs": [],
+  "json": []
+ },
+ {
+  "key": "FUDAN",
+  "url": "https://czzx.fudan.edu.cn/",
+  "home": {
+   "title": "采购与招标管理中心",
+   "url": "https://czzx.fudan.edu.cn/",
+   "tech": "技术支持：上海瞬速信息技术有限公司",
+   "sfw": false,
+   "uuid": "",
+   "appPath": "",
+   "showDetail": "",
+   "nav": [
+    {
+     "t": "采购信息",
+     "h": "/xxgk/list.htm",
+     "oc": ""
+    },
+    {
+     "t": "采购公告",
+     "h": "/cggg/list.htm",
+     "oc": ""
+    },
+    {
+     "t": "成交公告",
+     "h": "/cjgg_39581/list.htm",
+     "oc": ""
+    },
+    {
+     "t": "竞价公告",
+     "h": "/jjgg/list.htm",
+     "oc": ""
+    },
+    {
+     "t": "竞价采购公告",
+     "h": "/jjcggg/list.htm",
+     "oc": ""
+    },
+    {
+     "t": "竞价结果公告",
+     "h": "/jjjggg/list.htm",
+     "oc": ""
+    },
+    {
+     "t": "意向公开",
+     "h": "/yxgk/list.htm",
+     "oc": ""
+    },
+    {
+     "t": "政府采购意向...",
+     "h": "/zfcgyxgk_39567/list.htm",
+     "oc": ""
+    },
+    {
+     "t": "采购公示",
+     "h": "/dylyshqgs_39584/list.htm",
+     "oc": ""
+    },
+    {
+     "t": "采购需求调查",
+     "h": "/cgxqdc/list.htm",
+     "oc": ""
+    },
+    {
+     "t": "采购指南",
+     "h": "/bgxz/list.htm",
+     "oc": ""
+    },
+    {
+     "t": "采购信息",
+     "h": "/xxgk/list.htm",
+     "oc": ""
+    },
+    {
+     "t": "采购公告",
+     "h": "/cggg/list.htm",
+     "oc": ""
+    },
+    {
+     "t": "成交公告",
+     "h": "/cjgg_39581/list.htm",
+     "oc": ""
+    },
+    {
+     "t": "竞价公告",
+     "h": "/jjgg/list.htm",
+     "oc": ""
+    },
+    {
+     "t": "竞价采购公告",
+     "h": "/jjcggg/list.htm",
+     "oc": ""
+    },
+    {
+     "t": "竞价结果公告",
+     "h": "/jjjggg/list.htm",
+     "oc": ""
+    },
+    {
+     "t": "意向公开",
+     "h": "/yxgk/list.htm",
+     "oc": ""
+    },
+    {
+     "t": "政府采购意向...",
+     "h": "/zfcgyxgk_39567/list.htm",
+     "oc": ""
+    },
+    {
+     "t": "采购公示",
+     "h": "/dylyshqgs_39584/list.htm",
+     "oc": ""
+    },
+    {
+     "t": "采购需求调查",
+     "h": "/cgxqdc/list.htm",
+     "oc": ""
+    },
+    {
+     "t": "采购指南",
+     "h": "/bgxz/list.htm",
+     "oc": ""
+    },
+    {
+     "t": "更多>>",
+     "h": "/xwdt/list.htm",
+     "oc": ""
+    },
+    {
+     "t": "意向公开",
+     "h": "",
+     "oc": "operator('yxgk','1');"
+    },
+    {
+     "t": "竞价采购公告",
+     "h": "",
+     "oc": "operator('jjgg','1');"
+    },
+    {
+     "t": "竞价结果公告",
+     "h": "",
+     "oc": "operator('jjgg','2');"
+    },
+    {
+     "t": "采购需求调查",
+     "h": "",
+     "oc": "operator('xqdc','1');"
+    },
+    {
+     "t": "更多>>",
+     "h": "/hwl/list.htm",
+     "oc": ""
+    },
+    {
+     "t": "更多>>",
+     "h": "/hwl/list.htm",
+     "oc": ""
+    },
+    {
+     "t": "更多>>",
+     "h": "/gcl/list.htm",
+     "oc": ""
+    },
+    {
+     "t": "更多>>",
+     "h": "/fwl/list.htm",
+     "oc": ""
+    },
+    {
+     "t": "更多>>",
+     "h": "/hwl_39574/list.htm",
+     "oc": ""
+    },
+    {
+     "t": "更多>>",
+     "h": "/gcl_39576/list.htm",
+     "oc": ""
+    },
+    {
+     "t": "更多>>",
+     "h": "/fwl_39575/list.htm",
+     "oc": ""
+    },
+    {
+     "t": "更多>>",
+     "h": "javascript:void(0);",
+     "oc": ""
+    },
+    {
+     "t": "更多>>",
+     "h": "/zfcgyxgk_39567/list.htm",
+     "oc": ""
+    },
+    {
+     "t": "更多>>",
+     "h": "/jjcggg/list.htm",
+     "oc": ""
+    },
+    {
+     "t": "厌氧工作站竞价公告",
+     "h": "/1d/59/c39565a793945/page.htm",
+     "oc": ""
+    },
+    {
+     "t": "多功能酶标仪竞价公告",
+     "h": "/1d/24/c39565a793892/page.htm",
+     "oc": ""
+    },
+    {
+     "t": "核酸浓度分析仪竞价公告",
+     "h": "/1c/cc/c39565a793804/page.htm",
+     "oc": ""
+    },
+    {
+     "t": "材料计算服务器竞价公告",
+     "h": "/ee/6c/c39565a781932/page.htm",
+     "oc": ""
+    },
+    {
+     "t": "GPU计算卡采购竞价公告",
+     "h": "/df/39/c39565a778041/page.htm",
+     "oc": ""
+    },
+    {
+     "t": "阻抗分析仪采购延期公告",
+     "h": "/db/18/c39565a776984/page.htm",
+     "oc": ""
+    },
+    {
+     "t": "阻抗分析仪采购竞价公告",
+     "h": "/d9/62/c39565a776546/page.htm",
+     "oc": ""
+    },
+    {
+     "t": "更多>>",
+     "h": "/jjjggg/list.htm",
+     "oc": ""
+    },
+    {
+     "t": "材料计算服务器结果公告",
+     "h": "/f0/8b/c39566a782475/page.htm",
+     "oc": ""
+    },
+    {
+     "t": "GPU计算卡采购结果公告",
+     "h": "/ee/ad/c39566a781997/page.htm",
+     "oc": ""
+    },
+    {
+     "t": "阻抗分析仪采购结果公告",
+     "h": "/dd/21/c39566a777505/page.htm",
+     "oc": ""
+    },
+    {
+     "t": "更多>>",
+     "h": "/dylyshqgs/list.htm",
+     "oc": ""
+    },
+    {
+     "t": "更多>>",
+     "h": "/qt/list.htm",
+     "oc": ""
+    },
+    {
+     "t": "更多>>",
+     "h": "/cgxqdc/list.htm",
+     "oc": ""
+    }
+   ],
+   "dated": [
+    {
+     "t": "复旦大学双经轴绞综提花梭织机公开招标公告",
+     "h": "/_redirect?siteId=320&columnId=39571&articleId=794533",
+     "oc": "",
+     "d": "2026-10-16"
+    },
+    {
+     "t": "复旦大学聚合物定量分析三重四级杆液质联用仪国际公开招标公告",
+     "h": "/_redirect?siteId=320&columnId=39571&articleId=794518",
+     "oc": "",
+     "d": "2026-10-16"
+    },
+    {
+     "t": "复旦大学多功能多孔微电极阵列分析系统采购项目国际招标公告",
+     "h": "/_redirect?siteId=320&columnId=39571&articleId=794374",
+     "oc": "",
+     "d": "2026-10-15"
+    },
+    {
+     "t": "复旦大学VR场景安全测试系统（第三次）公开招标公告",
+     "h": "/1f/05/c39571a794373/page.htm",
+     "oc": "",
+     "d": "2026-10-15"
+    },
+    {
+     "t": "复旦大学脉冲激光溅射沉积设备采购项目公开招标公告（第二次）",
+     "h": "/_redirect?siteId=320&columnId=39571&articleId=794352",
+     "oc": "",
+     "d": "2026-10-15"
+    },
+    {
+     "t": "复旦大学分子束外延设备采购项目招标公告",
+     "h": "/_redirect?siteId=320&columnId=39571&articleId=794241",
+     "oc": "",
+     "d": "2026-10-14"
+    },
+    {
+     "t": "复旦大学分析型液相色谱仪采购项目国际招标公告(2)",
+     "h": "/1e/7e/c39571a794238/page.htm",
+     "oc": "",
+     "d": "2026-10-14"
+    },
+    {
+     "t": "复旦大学光参量振荡器激光光源采购项目快速交易公告",
+     "h": "/1e/1e/c39571a794142/page.htm",
+     "oc": "",
+     "d": "2026-10-13"
+    },
+    {
+     "t": "复旦大学便携式质谱仪采购项目招标公告（第三次）",
+     "h": "/1e/1a/c39571a794138/page.htm",
+     "oc": "",
+     "d": "2026-10-13"
+    },
+    {
+     "t": "复旦大学玻片扫描仪国际招标公告",
+     "h": "/_redirect?siteId=320&columnId=39571&articleId=794117",
+     "oc": "",
+     "d": "2026-10-13"
+    },
+    {
+     "t": "复旦大学枫林校区东一号楼修缮工程全过程跟踪审计服务采购项目快速交易公告",
+     "h": "/1e/1d/c39572a794141/page.htm",
+     "oc": "",
+     "d": "2026-10-13"
+    },
+    {
+     "t": "复旦大学虹桥医学创新园区学生宿舍（一期）项目消防查验技术服务采购项目快速交易公告",
+     "h": "/1c/af/c39572a793775/page.htm",
+     "oc": "",
+     "d": "2026-10-10"
+    },
+    {
+     "t": "复旦大学国家基础研究创新提升工程建设项目（物理学、生物学）消防查验技术服务快速交易公告",
+     "h": "/1c/65/c39572a793701/page.htm",
+     "oc": "",
+     "d": "2026-10-09"
+    },
+    {
+     "t": "复旦大学中华经济文化研究中心B楼地下一层局部装修工程工程总承包竞争性磋商公告",
+     "h": "/_redirect?siteId=320&columnId=39572&articleId=791491",
+     "oc": "",
+     "d": "2026-09-17"
+    },
+    {
+     "t": "复旦大学虹桥医学创新园区学生宿舍（一期）项目临电工程采购项目快速交易公告",
+     "h": "/13/0f/c39572a791311/page.htm",
+     "oc": "",
+     "d": "2026-09-16"
+    }
+   ],
+   "textHead": "首页\n部门概况\n采购信息\n政策法规\n服务指南\n联系我们\n关于明确统一采购网上申请系统用...\n<\n>\n1\n2\n3\n新闻动态\n更多>>\n12\n2026.10\n复旦大学出台服务类框架采购规定\n02\n2026.04\n关于明确统一采购网上申请系统用户单位授权审核人的通知\n10\n2025.01\n复旦大学出台《统一采购供应商管理办法（试行）》\n采购信息\n货物类\n工程类\n服务类\n更多>>\n复旦大学双经轴绞综提花梭织机公开招标公告\n2026-10-16\n复旦大学聚合物定量分析三重四级杆液质联用仪国际公开招标公告\n2026-10-16\n复旦大学多功能多孔微电极阵列分析系统采购项目国际招标公告\n2026-10-15\n复旦大学VR场景安全测试系统（第三次）公开招标公告\n2026-10-15\n复旦大学脉冲激光溅射沉积设备采购项目公开招标公告（第二次）\n2026-10-15\n复旦大学分子束外延设备采购项目招标公告\n2026-10-14\n复旦大学分析型液相色谱仪采购项目国际招标公告(2)\n2026-10-14\n复旦大学光参量振荡器激光光源采购项目快速交易公告\n2026-10-13\n复旦大学便携式质谱仪采购项目招标公告（第三次）\n2026-10-13\n复旦大学玻片扫描仪国际招标公告\n2026-10-13\n采购日程\n12月\n11月\n10月\n9月\n8月\n7月\n6月\n5月\n4月\n3月\n2月\n1月\n2030\n2029\n"
+  },
+  "reqs": [
+   {
+    "m": "POST",
+    "u": "https://czzx.fudan.edu.cn/_visitcountdisplay?siteId=320&type=1",
+    "b": ""
+   },
+   {
+    "m": "POST",
+    "u": "https://cz.fudan.edu.cn/zb/xmxx/jsonKbyl.htm?t=1792149334422",
+    "b": "year=2026&month=10"
+   }
+  ],
+  "json": []
+ },
+ {
+  "key": "DUT",
+  "url": "http://cgbmis.dlut.edu.cn/sfw_cms/e?page=cms.index",
+  "home": {
+   "title": "大连理工大学采购信息网",
+   "url": "http://cgbmis.dlut.edu.cn/sfw_cms/e?page=cms.index",
+   "tech": "技术支持：思必得软件",
+   "sfw": true,
+   "uuid": "",
+   "appPath": "",
+   "showDetail": "function showDetail(type, publish_id,id){\n\t\twindow.open(\"http://cgbmis.dlut.edu.cn/provider/#/publish/\"+publish_id);\n\t\t//window.open(\"/provider/#/publish/\"+publish_id);\n\t}",
+   "nav": [
+    {
+     "t": "设备采购及处置信息发布平台",
+     "h": "#",
+     "oc": ""
+    },
+    {
+     "t": "采购信息",
+     "h": "http://cgbmis.dlut.edu.cn/sfw_cms/e?page=cms.psms.gglist&orgType=21&df=1",
+     "oc": ""
+    },
+    {
+     "t": "集中采购",
+     "h": "http://cgbmis.dlut.edu.cn/sfw_cms/e?page=cms.psms.gglist&orgType=21&df=1",
+     "oc": ""
+    },
+    {
+     "t": "分散采购",
+     "h": "http://cgbmis.dlut.edu.cn/sfw_cms/e?page=cms.psms.gglist&orgType=22&df=4&cid=100644",
+     "oc": ""
+    },
+    {
+     "t": "通知公告",
+     "h": "e?page=cms.news&cid=100528",
+     "oc": ""
+    },
+    {
+     "t": "采购综合管理平台",
+     "h": "http://cgbmis.dlut.edu.cn/sso/index.jsp",
+     "oc": ""
+    },
+    {
+     "t": "通知公告",
+     "h": "javascript:void(0);",
+     "oc": ""
+    },
+    {
+     "t": "更多",
+     "h": "e?page=cms.news&cid=100528",
+     "oc": ""
+    },
+    {
+     "t": "更多",
+     "h": "e?page=cms.news&cid=100522",
+     "oc": ""
+    },
+    {
+     "t": "+MORE",
+     "h": "e?page=cms.psms.gglist&orgType=21&df=1",
+     "oc": ""
+    },
+    {
+     "t": "采购意向",
+     "h": "javascript:void(0);",
+     "oc": ""
+    },
+    {
+     "t": "公示公告",
+     "h": "javascript:void(0);",
+     "oc": ""
+    },
+    {
+     "t": "采购结果",
+     "h": "javascript:void(0);",
+     "oc": ""
+    },
+    {
+     "t": "采购合同",
+     "h": "javascript:void(0);",
+     "oc": ""
+    },
+    {
+     "t": "2026年12月政府采购意向",
+     "h": "http://cgyx.ccgp.gov.cn/cgyx/pub/details?groupId=32f0ca49-8ce3-4185-adb1-457f3ef66de9",
+     "oc": ""
+    },
+    {
+     "t": "2026年12月政府采购意向",
+     "h": "http://cgyx.ccgp.gov.cn/cgyx/pub/details?groupId=8e129b28-f406-4554-b882-1d606773dbf3",
+     "oc": ""
+    },
+    {
+     "t": "2026年10月政府采购意向",
+     "h": "http://cgyx.ccgp.gov.cn/cgyx/pub/details?groupId=c15741fb-c58f-4143-b9fa-cec90b90aae4",
+     "oc": ""
+    },
+    {
+     "t": "2026年11月政府采购意向",
+     "h": "http://cgyx.ccgp.gov.cn/cgyx/pub/details?groupId=88aaa0cf-486b-4f1e-a157-1f276c8a061a",
+     "oc": ""
+    },
+    {
+     "t": "+MORE",
+     "h": "e?page=cms.psms.gglist&orgType=22&df=4&cid=100644",
+     "oc": ""
+    },
+    {
+     "t": "采购公告",
+     "h": "javascript:void(0);",
+     "oc": ""
+    },
+    {
+     "t": "采购结果",
+     "h": "javascript:void(0);",
+     "oc": ""
+    },
+    {
+     "t": "更多",
+     "h": "e?page=cms.news&cid=100525",
+     "oc": ""
+    },
+    {
+     "t": "分散采购自行组织工作指引",
+     "h": "e?page=cms.detail&cid=100525&aid=50530",
+     "oc": ""
+    },
+    {
+     "t": "更多",
+     "h": "e?page=cms.news&cid=100527",
+     "oc": ""
+    },
+    {
+     "t": "紧急采购项目备案表（工程类）",
+     "h": "e?page=cms.detail&cid=100527&aid=52993",
+     "oc": ""
+    },
+    {
+     "t": "分散采购自行组织工作指引",
+     "h": "e?page=cms.detail&cid=100527&aid=50534",
+     "oc": ""
+    },
+    {
+     "t": "更多",
+     "h": "e?page=cms.news&cid=100526",
+     "oc": ""
+    },
+    {
+     "t": "中华人民共和国政府采购法",
+     "h": "e?page=cms.detail&cid=100527&aid=18764",
+     "oc": ""
+    },
+    {
+     "t": "中央政府采购网",
+     "h": "http://www.zycg.gov.cn",
+     "oc": ""
+    },
+    {
+     "t": "中国政府采购网",
+     "h": "http://www.ccgp.gov.cn/",
+     "oc": ""
+    }
+   ],
+   "dated": [],
+   "textHead": "设备采购及处置信息发布平台\n首页\n部门介绍\n采购信息\n服务指南\n工作动态\n通知公告\n下载中心\n政策法规\n采购综合管理平台\n供应商登录入口\n评审专家登录入口\n电子采购代理平台（网上竞价/比选）\n网上商城\n1\n2\n通知公告\n曝光台\n更多\n关于采购综合管理平台功能升级期间暂停运行的通知\n关于2026年暑假期间采购合同用印及值班安排的通知\n大连理工大学2026年合作采购（招标）代理机构联系人及联系方式\n关于2026年寒假期间值班安排及采购合同用印时间的通知\n大连理工大学电子竞价平台供应商征集通知（第一轮）\n学校党委第七巡察组巡察工作动员...\n教育部直属高校北京片区、北部片...【学思想·促发展】重庆市市本级...学校党委第七巡察组巡察工作动员...响应“互联网+”号召，优化采购...\n工作动态\n更多\n【践行正确政绩观】采招中心召开“党建引领采购管理提升座谈会”暨采购工作质效协同提升计划培训\n2026年教育部政府采购工作会议在湖北武汉召开\n深化党建业务融合 为采购注入廉洁动能 ——采购与招标中心与巡视办党支部联合开展“主题党日”活动\n2025年教育部政府采购工作会议在广东珠海举办\n采购与招标中心举行2024年设备更新改造项目招标代理培训会\n集中采购 +MORE\n采购意向\n公示公告\n采购结果\n采购合同\n16\n2026.10\n【招标公告】大连理工大学装备数字化网络信息安全升级项目公开招标公告\n"
+  },
+  "list": {
+   "title": "大连理工大学采购信息网",
+   "url": "http://cgbmis.dlut.edu.cn/sfw_cms/e?page=cms.psms.gglist&typeDetail=XQ",
+   "tech": "技术支持：思必得软件",
+   "sfw": true,
+   "uuid": "",
+   "appPath": "",
+   "showDetail": "function showDetail(type, publish_id,id) {\n\t\t\twindow.open(\"http://cgbmis.dlut.edu.cn/provider/#/publish/\"+publish_id);\n\t\t\t//window.open(\"/provider/#/publish/\"+publish_id);\n\t\t}",
+   "nav": [
+    {
+     "t": "设备采购及处置信息发布平台",
+     "h": "#",
+     "oc": ""
+    },
+    {
+     "t": "采购信息",
+     "h": "http://cgbmis.dlut.edu.cn/sfw_cms/e?page=cms.psms.gglist&orgType=21&df=1",
+     "oc": ""
+    },
+    {
+     "t": "集中采购",
+     "h": "http://cgbmis.dlut.edu.cn/sfw_cms/e?page=cms.psms.gglist&orgType=21&df=1",
+     "oc": ""
+    },
+    {
+     "t": "分散采购",
+     "h": "http://cgbmis.dlut.edu.cn/sfw_cms/e?page=cms.psms.gglist&orgType=22&df=4&cid=100644",
+     "oc": ""
+    },
+    {
+     "t": "通知公告",
+     "h": "e?page=cms.news&cid=100528",
+     "oc": ""
+    },
+    {
+     "t": "中央政府采购网",
+     "h": "http://www.zycg.gov.cn",
+     "oc": ""
+    },
+    {
+     "t": "中国政府采购网",
+     "h": "http://www.ccgp.gov.cn/",
+     "oc": ""
+    }
+   ],
+   "dated": [],
+   "textHead": "设备采购及处置信息发布平台\n首页\n部门介绍\n采购信息\n服务指南\n工作动态\n通知公告\n下载中心\n政策法规\n尚未查询，请点击 “刷新”进行查询。\n\n\n没有数据\n中央政府采购网发改委官网中国政府采购网\n\n版权所有 © 大连理工大学采购与招标中心\n地址：大连理工大学国际会议中心（南门科技园）C座4楼   电话：0411-84709901\n\n技术支持：思必得软件\n\n晚上好！ 我是大工智能助手小灵，有什么可以帮助到您呢？"
+  },
+  "reqs": [
+   {
+    "m": "POST",
+    "u": "http://cgbmis.dlut.edu.cn/sfw_cms/e",
+    "b": "window_=json&t_=0.3547562430159339&request_method_=ajax&browser_=notmsie&page=cms.psms.tender.queryTimeOpen"
+   }
+  ],
+  "json": []
+ },
+ {
+  "key": "CQU",
+  "url": "https://ztbzx.cqu.edu.cn/sfw_cms/e?page=cms.index",
+  "home": {
+   "title": "采购与招标管理中心",
+   "url": "https://ztbzx.cqu.edu.cn/sfw_cms/e?page=cms.index",
+   "tech": "技术支持：思必得软件",
+   "sfw": true,
+   "uuid": "",
+   "appPath": "",
+   "showDetail": "",
+   "nav": [
+    {
+     "t": "更多",
+     "h": "e?page=cms.news&cid=51904",
+     "oc": ""
+    },
+    {
+     "t": "通知公告",
+     "h": "javascript:void(0);",
+     "oc": ""
+    },
+    {
+     "t": "更多",
+     "h": "e?page=cms.news&cid=51905",
+     "oc": ""
+    },
+    {
+     "t": "采购意向公开",
+     "h": "javascript:void(0);",
+     "oc": ""
+    },
+    {
+     "t": "竞价采购公告",
+     "h": "javascript:void(0);",
+     "oc": ""
+    },
+    {
+     "t": "竞价结果公告",
+     "h": "javascript:void(0);",
+     "oc": ""
+    },
+    {
+     "t": "竞价废标公告",
+     "h": "javascript:void(0);",
+     "oc": ""
+    },
+    {
+     "t": "更多",
+     "h": "e?page=cms.psms.gglist&catalog=&typeDetail=YX",
+     "oc": ""
+    },
+    {
+     "t": "货物采购公告",
+     "h": "javascript:void(0);",
+     "oc": ""
+    },
+    {
+     "t": "澄清/更正公告",
+     "h": "javascript:void(0);",
+     "oc": ""
+    },
+    {
+     "t": "中标/成交结果公告",
+     "h": "javascript:void(0);",
+     "oc": ""
+    },
+    {
+     "t": "更多",
+     "h": "e?page=cms.psms.gglist&catalog=A&typeDetail=XQ",
+     "oc": ""
+    },
+    {
+     "t": "工程采购公告",
+     "h": "javascript:void(0);",
+     "oc": ""
+    },
+    {
+     "t": "澄清/更正公告",
+     "h": "javascript:void(0);",
+     "oc": ""
+    },
+    {
+     "t": "中标/成交结果公告",
+     "h": "javascript:void(0);",
+     "oc": ""
+    },
+    {
+     "t": "更多",
+     "h": "e?page=cms.psms.gglist&catalog=B&typeDetail=XQ",
+     "oc": ""
+    },
+    {
+     "t": "服务采购公告",
+     "h": "javascript:void(0);",
+     "oc": ""
+    },
+    {
+     "t": "澄清/更正公告",
+     "h": "javascript:void(0);",
+     "oc": ""
+    },
+    {
+     "t": "中标/成交结果公告",
+     "h": "javascript:void(0);",
+     "oc": ""
+    },
+    {
+     "t": "更多",
+     "h": "e?page=cms.psms.gglist&catalog=C&typeDetail=XQ",
+     "oc": ""
+    },
+    {
+     "t": "单一来源结果公告",
+     "h": "javascript:void(0);",
+     "oc": ""
+    },
+    {
+     "t": "零星采购公告",
+     "h": "javascript:void(0);",
+     "oc": ""
+    },
+    {
+     "t": "零星结果公告",
+     "h": "javascript:void(0);",
+     "oc": ""
+    },
+    {
+     "t": "更多",
+     "h": "e?page=cms.psms.gglist&typeDetail=GS&shopping_type=DYLY",
+     "oc": ""
+    },
+    {
+     "t": "政府采购合同公示",
+     "h": "javascript:void(0);",
+     "oc": ""
+    },
+    {
+     "t": "更多",
+     "h": "e?page=cms.psms.gglist&shopping_type=QT",
+     "oc": ""
+    },
+    {
+     "t": "采购管理系统\n网上竞价",
+     "h": "https://cquem.cqu.edu.cn/aexp_zj/caslogin.jsp",
+     "oc": ""
+    },
+    {
+     "t": "更多",
+     "h": "e?page=cms.news&cid=51906",
+     "oc": ""
+    },
+    {
+     "t": "其他项目委托发布公告申请表",
+     "h": "e?page=cms.detail&cid=51906&nextcid=51904&aid=212152",
+     "oc": ""
+    },
+    {
+     "t": "更多",
+     "h": "e?page=cms.news&cid=51907",
+     "oc": ""
+    }
+   ],
+   "dated": [
+    {
+     "t": "采招中心组织参加“规范采购管理 强化风险防控”专题培训",
+     "h": "e?page=cms.detail&cid=51904&aid=219454",
+     "oc": "",
+     "d": "2026-05-09"
+    },
+    {
+     "t": "采购与招标管理中心党支部召开党员大会选举产生支部委员会",
+     "h": "e?page=cms.detail&cid=51904&aid=219435",
+     "oc": "",
+     "d": "2026-05-06"
+    },
+    {
+     "t": "十四届学校党委第一巡视组巡视“招标采购领域风险防控”专项检查情况反馈会议召开",
+     "h": "e?page=cms.detail&cid=51904&aid=218619",
+     "oc": "",
+     "d": "2026-01-04"
+    },
+    {
+     "t": "招标中心组织参加招标采购合规管理专题培训",
+     "h": "e?page=cms.detail&cid=51904&aid=218559",
+     "oc": "",
+     "d": "2025-12-12"
+    },
+    {
+     "t": "学校召开2025年采购与招标工作会议",
+     "h": "e?page=cms.detail&cid=51904&aid=217619",
+     "oc": "",
+     "d": "2025-07-03"
+    },
+    {
+     "t": "招标中心举办采购代理业务培训会",
+     "h": "e?page=cms.detail&cid=51904&aid=217112",
+     "oc": "",
+     "d": "2025-04-10"
+    },
+    {
+     "t": "2025年教育部政府采购工作会议在广东珠海举办",
+     "h": "e?page=cms.detail&cid=51904&aid=217078",
+     "oc": "",
+     "d": "2025-04-03"
+    },
+    {
+     "t": "财政部最新通知：关于推动解决政府采购异常低价问题的通知",
+     "h": "e?page=cms.detail&cid=51905&nextcid=51904&aid=219084",
+     "oc": "",
+     "d": "2026-04-01"
+    },
+    {
+     "t": "国务院办公厅关于在政府采购中 实施本国产品标准及相关政策的通知",
+     "h": "e?page=cms.detail&cid=51905&nextcid=51904&aid=219079",
+     "oc": "",
+     "d": "2026-03-31"
+    },
+    {
+     "t": "关于贯彻落实《国务院办公厅关于在政府采购中实施本国产品标准及相关政策的通知》的意见",
+     "h": "e?page=cms.detail&cid=51905&nextcid=51904&aid=219078",
+     "oc": "",
+     "d": "2026-03-31"
+    },
+    {
+     "t": "关于“国有资产管理与采购平台”系统停机维护通知",
+     "h": "e?page=cms.detail&cid=51905&nextcid=51904&aid=218651",
+     "oc": "",
+     "d": "2026-01-12"
+    },
+    {
+     "t": "关于2025年终报名缴费系统关闭的通知",
+     "h": "e?page=cms.detail&cid=51905&nextcid=51904&aid=218550",
+     "oc": "",
+     "d": "2025-12-10"
+    },
+    {
+     "t": "关于报名缴费系统关闭的通知(2024年)",
+     "h": "e?page=cms.detail&cid=51905&nextcid=51904&aid=216503",
+     "oc": "",
+     "d": "2024-12-19"
+    },
+    {
+     "t": "关于报名缴费系统关闭的通知（2023年）",
+     "h": "e?page=cms.detail&cid=51905&nextcid=51904&aid=214397",
+     "oc": "",
+     "d": "2023-12-28"
+    },
+    {
+     "t": "重庆大学2026年11月（至）12月采购意向项目-2",
+     "h": "javascript:void(0);",
+     "oc": "showQuickDetail(\"2026/10/13/\",\"20MV6G9SCOCECJOP\",\"f06afadf806fdabc2a5bf2bf94f30d55\");",
+     "d": "2026-10-13"
+    }
+   ],
+   "textHead": "首 页\n部门概况\n工作动态\n办事指南\n政策法规\n廉政建设\n常用下载\n工作动态\n更多\n采招中心组织参加“规范采购管理 强化风险防控”专题培训\n2026-05-09\n采购与招标管理中心党支部召开党员大会选举产生支部委员会\n2026-05-06\n十四届学校党委第一巡视组巡视“招标采购领域风险防控”专项检查情况反馈会议召开\n2026-01-04\n招标中心组织参加招标采购合规管理专题培训\n2025-12-12\n学校召开2025年采购与招标工作会议\n2025-07-03\n招标中心举办采购代理业务培训会\n2025-04-10\n2025年教育部政府采购工作会议在广东珠海举办\n2025-04-03\n通知公告\n更多\n财政部最新通知：关于推动解决政府采购异常低价问题的通知\n2026-04-01\n国务院办公厅关于在政府采购中 实施本国产品标准及相关政策的通知\n2026-03-31\n关于贯彻落实《国务院办公厅关于在政府采购中实施本国产品标准及相关政策的通知》的意见\n2026-03-31\n关于“国有资产管理与采购平台”系统停机维护通知\n2026-01-12\n关于2025年终报名缴费系统关闭的通知\n2025-12-10\n关于报名缴费系统关闭的通知(2024年)\n2024-12-19\n关于报名缴费系统关闭的通知（2023年）\n2023-12-28\n采购意向公开\n竞价采购公告\n竞价结果公告\n竞价废标公告\n更多\n重庆"
+  },
+  "list": {
+   "title": "采购与招标管理中心",
+   "url": "https://ztbzx.cqu.edu.cn/sfw_cms/e?page=cms.psms.gglist&typeDetail=XQ",
+   "tech": "技术支持：思必得软件",
+   "sfw": true,
+   "uuid": "40cc3e0132e6a41c724a0e2612b1577f",
+   "appPath": "",
+   "showDetail": "function showDetail(type, publish_id,id) {\n\t\t if(publish_id == \"null\"){\n\t\t\twindow.open(\"e?page=cms.cgtext&id=\"+id);\n\t\t}else{\n\t\t\twindow.open(\"/provider/#/publish/\"+publish_id);\n\t\t\t\n\t\t} \n\t}",
+   "nav": [
+    {
+     "t": "采购意向公开",
+     "h": "javascript:void(0);",
+     "oc": "changeChoose(this)"
+    },
+    {
+     "t": "采购公告",
+     "h": "javascript:void(0);",
+     "oc": "changeChoose(this)"
+    },
+    {
+     "t": "答疑补疑(澄清)公告",
+     "h": "javascript:void(0);",
+     "oc": "changeChoose(this)"
+    },
+    {
+     "t": "中标、成交结果公告",
+     "h": "javascript:void(0);",
+     "oc": "changeChoose(this)"
+    },
+    {
+     "t": "单一来源结果公告",
+     "h": "javascript:void(0);",
+     "oc": "changeChoose(this)"
+    },
+    {
+     "t": "邀请招标",
+     "h": "javascript:void(0);",
+     "oc": ""
+    },
+    {
+     "t": "公开招标",
+     "h": "javascript:void(0);",
+     "oc": ""
+    },
+    {
+     "t": "工程类采购",
+     "h": "javascript:void(0);",
+     "oc": ""
+    },
+    {
+     "t": "货物类采购",
+     "h": "javascript:void(0);",
+     "oc": ""
+    },
+    {
+     "t": "服务类采购",
+     "h": "javascript:void(0);",
+     "oc": ""
+    }
+   ],
+   "dated": [
+    {
+     "t": "重庆大学科学中心新增计量表计（CQU-CZ-ZC-HW-2026-020）采购公告",
+     "h": "javascript:void(0);",
+     "oc": "showDetail(\"2026/10/16/\",\"20MVAPM6EGOGDLWW\",\"81c63bc5b0aba213a9bbc6e1b45a755c\");",
+     "d": "2026年10月23"
+    },
+    {
+     "t": "重庆大学通用人形机器人等设备（CQU-CZ-ZC-HW-2026-041）采购公告",
+     "h": "javascript:void(0);",
+     "oc": "showDetail(\"2026/10/16/\",\"20MVARMJSSMBVC0R\",\"4cbdda646823b4195a3cbbf40eb0ea10\");",
+     "d": "2026年11月06"
+    },
+    {
+     "t": "电池测试系统（JJ20261381）延期公告",
+     "h": "javascript:void(0);",
+     "oc": "showDetail(\"2026/10/16/\",\"20MVAQS6CU72PMIO\",\"9f53ce9f6a34330401acf1db2615d67f\");",
+     "d": "2026年10月19"
+    },
+    {
+     "t": "组合惯导（JJ20261382）延期公告",
+     "h": "javascript:void(0);",
+     "oc": "showDetail(\"2026/10/16/\",\"20MVAQS52JXGBBM7\",\"084b6652cdfe1524c80244b31db34bdd\");",
+     "d": "2026年10月19"
+    },
+    {
+     "t": "重庆大学智能实训数字孪生机器人等设备（CQU-CZ-ZC-HW-2026-040）招标公告",
+     "h": "javascript:void(0);",
+     "oc": "showDetail(\"2026/10/16/\",\"20MVAQPA82CGC2PF\",\"8f7c6c95e3cab8ada3ab122cfab81e3c\");",
+     "d": "2026年10月23"
+    },
+    {
+     "t": "面向舱泊行一体化智能驾驶的硬件控制在环仿真试验系统（JJ20261375）采购公告",
+     "h": "javascript:void(0);",
+     "oc": "showDetail(\"2026/10/16/\",\"20MVAMGYWMVDR9AB\",\"69fa9ec40603960255e60959695e360e\");",
+     "d": "2026年10月19"
+    },
+    {
+     "t": "舱泊行智能汽车仿真软件与场景实时仿真测试系统（JJ20261374）采购公告",
+     "h": "javascript:void(0);",
+     "oc": "showDetail(\"2026/10/16/\",\"20MVAMEBGCT17QWD\",\"affbb908859eeda420b60ea2eb222f96\");",
+     "d": "2026年10月19"
+    },
+    {
+     "t": "样品加工（JJ20261412）采购公告",
+     "h": "javascript:void(0);",
+     "oc": "showDetail(\"2026/10/16/\",\"20MVAM640QFL6K7K\",\"8480a649edad9fa5be3327eedc183eb4\");",
+     "d": "2026年10月21"
+    },
+    {
+     "t": "线阵探测器模块（JJ20261411）采购公告",
+     "h": "javascript:void(0);",
+     "oc": "showDetail(\"2026/10/16/\",\"20MVADUJDVAA06EH\",\"e11139fbcc32f13ddc56fd6550c9dbdc\");",
+     "d": "2026年10月21"
+    },
+    {
+     "t": "点焊机（JJ20261410）采购公告",
+     "h": "javascript:void(0);",
+     "oc": "showDetail(\"2026/10/16/\",\"20MVADTGTT21XXMR\",\"13ff038b81360adc2386531acb90103f\");",
+     "d": "2026年10月21"
+    },
+    {
+     "t": "时间同步盒（JJ20261409）采购公告",
+     "h": "javascript:void(0);",
+     "oc": "showDetail(\"2026/10/16/\",\"20MVAAYGCUQYPMUL\",\"70b04626af3c90975d6368ed4cc84fee\");",
+     "d": "2026年10月21"
+    },
+    {
+     "t": "高阶具身仿真实验平台（JJ20261408）采购公告",
+     "h": "javascript:void(0);",
+     "oc": "showDetail(\"2026/10/16/\",\"20MVA94KG30G5FHB\",\"ff48d493b2e39901768457c225bcf1e1\");",
+     "d": "2026年10月21"
+    },
+    {
+     "t": "低温环境试验箱系统采购（JJ20261407）采购公告",
+     "h": "javascript:void(0);",
+     "oc": "showDetail(\"2026/10/16/\",\"20MVA93VO3G96LYZ\",\"feb64f0bd356a073a12e3a5ac4aefb2a\");",
+     "d": "2026年10月21"
+    },
+    {
+     "t": "工控机（JJ20261406）采购公告",
+     "h": "javascript:void(0);",
+     "oc": "showDetail(\"2026/10/16/\",\"20MVA933OBXZALXR\",\"a98cb5be28e33afae8f53a709fcda190\");",
+     "d": "2026年10月21"
+    },
+    {
+     "t": "重庆大学未来课堂录播等设备（CQU-CZ-ZC-HW-2026-045）公开招标公告",
+     "h": "javascript:void(0);",
+     "oc": "showDetail(\"2026/10/16/\",\"20MVAN835BN8S9LT\",\"a40a082e62b25c3e91be9821aa57ec2c\");",
+     "d": "2026年10月23"
+    }
+   ],
+   "textHead": "首 页\n部门概况\n工作动态\n办事指南\n政策法规\n廉政建设\n常用下载\n公示公告\n采购意向公开\n采购公告\n答疑补疑(澄清)公告\n中标候选人公示\n中标、成交结果公告\n单一来源公示\n单一来源结果公告\n其他\n采购公告\n采购方式\n全部\n邀请招标\n网上竞价\n竞争性磋商\n公开招标\n采购类别\n全部\n工程类采购\n货物类采购\n服务类采购\n显示信息\n全部\n进行中\n已过期\n关键字\n查询\n重庆大学科学中心新增计量表计（CQU-CZ-ZC-HW-2026-020）采购公告\n2026年10月23日 18时00分截止\n\n\n重庆大学通用人形机器人等设备（CQU-CZ-ZC-HW-2026-041）采购公告\n2026年11月06日 10时00分截止\n\n\n电池测试系统（JJ20261381）延期公告\n2026年10月19日 18时00分截止\n\n\n组合惯导（JJ20261382）延期公告\n2026年10月19日 18时00分截止\n\n\n重庆大学智能实训数字孪生机器人等设备（CQU-CZ-ZC-HW-2026-040）招标公告\n2026年10月23日 23时59分截止\n\n\n面向舱泊行一体化智能驾驶的硬件控制在环仿真试验系统（JJ20261375）采购公告\n2026年10月19日 17时00分截止\n\n\n舱泊行智能汽车仿真软件与场景实时仿真测试系统（JJ20261374）采购公告\n2026年10月19日 17时00分截止\n\n\n样品"
+  },
+  "reqs": [
+   {
+    "m": "POST",
+    "u": "https://ztbzx.cqu.edu.cn/sfw_cms/e",
+    "b": "beginDate=2026-09-28&endDate=2026-11-01&window_=json&t_=0.4634249177444769&request_method_=ajax&browser_=notmsie&page=cms.psms.tender.queryTimeOpen"
+   },
+   {
+    "m": "POST",
+    "u": "https://ztbzx.cqu.edu.cn/sfw_cms/e",
+    "b": "t_=0.2882110447380988&window_=json&start=1&limit=25&filter=&sort=beginTime%20desc&type=ZCXQ&type=YQXQ&type=CSXQ&isEnd=&catalog=&shopType=&notShopType=DYLY&notShopType=QT&keywords=&ops_uuid=40cc3e0132e6a41c724a0e2612b1577f&request_method_=ajax&browser_=notmsie&page=cms.psms.publish.query"
+   },
+   {
+    "m": "POST",
+    "u": "https://ztbzx.cqu.edu.cn/sfw_cms/e",
+    "b": "t_=0.44967586523524194&window_=json&start=26&limit=25&filter=&sort=beginTime%20desc&type=ZCXQ&type=YQXQ&type=CSXQ&isEnd=&catalog=&shopType=&notShopType=DYLY&notShopType=QT&keywords=&ops_uuid=40cc3e0132e6a41c724a0e2612b1577f&request_method_=ajax&browser_=notmsie&page=cms.psms.publish.query"
+   }
+  ],
+  "json": []
+ },
+ {
+  "key": "SCU",
+  "url": "https://cg.scu.edu.cn/sfw_cms/e?page=cms.index",
+  "home": {
+   "title": "四川大学招投标与采购中心",
+   "url": "https://cg.scu.edu.cn/sfw_cms/e?page=cms.index",
+   "tech": "技术支持：思必得软件",
+   "sfw": true,
+   "uuid": "",
+   "appPath": "",
+   "showDetail": "function showDetail(type, publish_id,id){\n\t/* if(publish_id==\"null\"){\n\t\tvar syncid=\"http://www.yuncaitong.cn/app.html#/publish/redirect?idApp=58212.\"+id;\n\t\twindow.open(syncid);\n\t}else{\n\t\twindow.open(\" http://www.yuncaitong.cn/publish/\"+type+publish_id+\".shtml\");\n\t} */\n\twindow.open(\"/provider/#/publi",
+   "nav": [
+    {
+     "t": "招投标与采购中心公众号",
+     "h": "#",
+     "oc": ""
+    },
+    {
+     "t": "四川大学采购平台",
+     "h": "",
+     "oc": ""
+    },
+    {
+     "t": "采购需求",
+     "h": "https://cg.scu.edu.cn/sfw_cms/e?page=cms.psms.gglist&typeDetail=XQ",
+     "oc": ""
+    },
+    {
+     "t": "成交公告",
+     "h": "https://cg.scu.edu.cn/sfw_cms/e?page=cms.psms.gglist&typeDetail=GS",
+     "oc": ""
+    },
+    {
+     "t": "采购合同模板",
+     "h": "e?page=cms.news&cid=50368&nextcid=65224",
+     "oc": ""
+    },
+    {
+     "t": "采购商城",
+     "h": "https://cg.scu.edu.cn/emall/",
+     "oc": ""
+    },
+    {
+     "t": "更多",
+     "h": "e?page=cms.news&cid=50364",
+     "oc": ""
+    },
+    {
+     "t": "更多",
+     "h": "e?page=cms.news&cid=50365",
+     "oc": ""
+    },
+    {
+     "t": "四川大学各单位自行采购限额",
+     "h": "e?page=cms.detail&cid=50365&nextcid=50364&aid=65331",
+     "oc": ""
+    },
+    {
+     "t": "重大专项设备采购流程",
+     "h": "e?page=cms.detail&cid=50365&nextcid=50364&aid=60626",
+     "oc": ""
+    },
+    {
+     "t": "更多",
+     "h": "e?page=cms.news&cid=50366",
+     "oc": ""
+    },
+    {
+     "t": "中华人民共和国政府采购法",
+     "h": "e?page=cms.detail&cid=50366&nextcid=50364&aid=63611",
+     "oc": ""
+    },
+    {
+     "t": "校内分散采购",
+     "h": "javascript:void(0);",
+     "oc": ""
+    },
+    {
+     "t": "结果公示",
+     "h": "javascript:void(0);",
+     "oc": ""
+    },
+    {
+     "t": "更多",
+     "h": "e?page=cms.psms.gglist&typeDetail=XQ&orgType=21",
+     "oc": ""
+    },
+    {
+     "t": "政府采购",
+     "h": "javascript:void(0);",
+     "oc": ""
+    },
+    {
+     "t": "采购意向公开",
+     "h": "javascript:void(0);",
+     "oc": ""
+    },
+    {
+     "t": "结果公示",
+     "h": "javascript:void(0);",
+     "oc": ""
+    },
+    {
+     "t": "更多",
+     "h": "e?page=cms.psms.gglist&typeDetail=XQ&orgType=11",
+     "oc": ""
+    },
+    {
+     "t": "采购服务平台教师入口",
+     "h": "http://cg.scu.edu.cn/sfw_u/login.jsp?entryId=5",
+     "oc": ""
+    },
+    {
+     "t": "川大采购商城入口",
+     "h": "http://cg.scu.edu.cn/mall/",
+     "oc": ""
+    },
+    {
+     "t": "更多",
+     "h": "e?page=cms.news&cid=50368",
+     "oc": ""
+    },
+    {
+     "t": "四川大学采购申请表",
+     "h": "e?page=cms.detail&cid=50368&nextcid=50364&aid=63460",
+     "oc": ""
+    },
+    {
+     "t": "云采通采购平台",
+     "h": "http://www.yuncaitong.cn/",
+     "oc": ""
+    }
+   ],
+   "dated": [
+    {
+     "t": "轻工科学与工程实验平台提升（二）（ZBZXHB2026054）采购公告",
+     "h": "javascript:void(0);",
+     "oc": "showDetail(\"2026/10/12/\",\"20MV4PBNQXRBHWRE\",\"c5680d68cf40fd80065ac792ca29c435\");",
+     "d": "2026-10-15"
+    },
+    {
+     "t": "多脑区定制柔性电极一批（ZBZXHB2026053）采购公告",
+     "h": "javascript:void(0);",
+     "oc": "showDetail(\"2026/10/10/\",\"20MV1OID8VKWZ2SI\",\"af1fd20ab2663df3aa9e6d4f1f1aad35\");",
+     "d": "2026-10-14"
+    },
+    {
+     "t": "振动多分量精密观测系统（ZBZXHB2026052）采购公告",
+     "h": "javascript:void(0);",
+     "oc": "showDetail(\"2026/10/10/\",\"20MV1OHGJRBKM2SE\",\"9512a00fb57496e74492aab2fdb600fd\");",
+     "d": "2026-10-14"
+    },
+    {
+     "t": "扫描探针显微镜维修（ZBZXFB2026009）采购公告",
+     "h": "javascript:void(0);",
+     "oc": "showDetail(\"2026/10/09/\",\"20MV0N2GBLTUZPKG\",\"e0e5b581faff534b14b312d64bbb9631\");",
+     "d": "2026-10-13"
+    },
+    {
+     "t": "四川大学幼儿园食材采购项目（ZBZXHA2026037）采购公告",
+     "h": "javascript:void(0);",
+     "oc": "showDetail(\"2026/10/16/\",\"20MVANAAGI1320TF\",\"5d8bd9e40efb27c60bf46ca0bc111536\");",
+     "d": "2026-10-21"
+    },
+    {
+     "t": "四川大学2026年度消防器材采购项目（ZBZXHA2026036）采购公告",
+     "h": "javascript:void(0);",
+     "oc": "showDetail(\"2026/10/16/\",\"20MVA8I6BSLS7LOJ\",\"a2ad852b1e02e0d79e9e6df494ee855c\");",
+     "d": "2026-10-20"
+    },
+    {
+     "t": "四川大学江安校区医疗教学实训科研综合大楼项目工程质量检测服务（ZBZXFA2026097）招标公告",
+     "h": "javascript:void(0);",
+     "oc": "showDetail(\"2026/10/15/\",\"20MV9J222WURIIWW\",\"76ecee31b6f248e0cf4fa67f61ef4d93\");",
+     "d": "2026-10-20"
+    },
+    {
+     "t": "四川大学望江校区颠覆性协同创新大楼项目工程质量检测服务（ZBZXFA2026096）招标公告",
+     "h": "javascript:void(0);",
+     "oc": "showDetail(\"2026/10/15/\",\"20MV9IKXZK2W7IU6\",\"292e88d7ab30e803167740e4541b74af\");",
+     "d": "2026-10-20"
+    },
+    {
+     "t": "智能办公本、口袋相机一批（ZBZXJJ20260288）采购公告",
+     "h": "javascript:void(0);",
+     "oc": "showDetail(\"2026/10/15/\",\"20MV8WLYTJUN457N\",\"f66634044167487bff8879f2e7677784\");",
+     "d": "2026-10-20"
+    },
+    {
+     "t": "博物馆冰柜购买（ZBZXJJ20260287）采购公告",
+     "h": "javascript:void(0);",
+     "oc": "showDetail(\"2026/10/14/\",\"20MV7DNFGSUUJOGM\",\"06a41bcd623ea5f1222c0a64a367f391\");",
+     "d": "2026-10-19"
+    },
+    {
+     "t": "微波消解系统（ZBZXJJ20260286）采购公告",
+     "h": "javascript:void(0);",
+     "oc": "showDetail(\"2026/10/14/\",\"20MV7DMS81BB10O6\",\"82b7ee86c8390ac5fecea4eacccffcd2\");",
+     "d": "2026-10-19"
+    },
+    {
+     "t": "洗板机（ZBZXJJ20260285）采购公告",
+     "h": "javascript:void(0);",
+     "oc": "showDetail(\"2026/10/13/\",\"20MV624KL2LLZE23\",\"9f83a7d49fba79891889870f24773975\");",
+     "d": "2026-10-16"
+    },
+    {
+     "t": "出国培训大楼及江安南区2、3号楼1楼公区家具采购（ZBZXHB2026050）成交结果公告",
+     "h": "javascript:void(0);",
+     "oc": "showDetail(\"2026/10/16/\",\"20MVAQZTN1PVDMNU\",\"85b9e3591a8cf5522f62e3e3d87c145c\");",
+     "d": "2026-10-16"
+    },
+    {
+     "t": "四川大学2026年“大美国乐”迎新音乐会演出服务（ZBZXFA2026094）成交结果公告",
+     "h": "javascript:void(0);",
+     "oc": "showDetail(\"2026/10/16/\",\"20MVAMJ5PVFW9KCP\",\"20df23d63d7aa137d27fb1d87c1abefb\");",
+     "d": "2026-10-16"
+    },
+    {
+     "t": "红瓦楼附楼改造-藏研所家俱（ZBZXHA2026035）成交结果公告",
+     "h": "javascript:void(0);",
+     "oc": "showDetail(\"2026/10/16/\",\"20MVAMCEPNX0K0G3\",\"dd17486b344f411707e5505ed55dfc87\");",
+     "d": "2026-10-16"
+    }
+   ],
+   "textHead": "四川大学\n招投标与采购中心公众号\n四川大学采购平台\n首 页\n中心概况\n采购需求\n成交公告\n服务指南\n法规制度\n曝光台\n下载中心\n采购商城\n新闻通知\n更多\n在招采工作中树立和践行正确政绩...\n在招采工作中树立和践行正确政绩...石河子大学招标采购中心到我校开...学校招标采购政策与实务培训会顺...多所高校到招投标与采购中心调研\n2026年暑假招投标与采购中心工作安排表\n财务处（招投标与采购中心）党支部开展“走进学院，服务师生”主题党日活动\n关于采购服务平台关闭外网访问的通知\n服务指南\n更多\n政府集中采购-电子卖场操作流程\n四川大学采购商城（网上商城）上线通知\n四川大学各单位自行采购限额\n重大专项设备采购流程\n四川大学采购方式、审批程序一览表\n法规制度\n更多\n中华人民共和国政府采购法实施条例\n中华人民共和国政府采购法\n《四川大学供应商管理办法》（川大财〔2026〕13号）\n《四川大学委托代理机构采购实施细则》（川大财〔2026〕12号）\n《四川大学校内公开招标实施细则》（川大财〔2026〕11号）\n《四川大学分散采购实施细则》（川大财〔2026〕10号）\n关于印发《四川大学关于完善政府采购相关工作的补充规定》的通知（川大国资【2017】5号）\n校内分散采购\n结果公示\n更多\n[网上比选]\n轻工科学与工程实验平台提升（二）（ZBZXHB2026054）采购公告\n2026-10-15截止"
+  },
+  "list": {
+   "title": "四川大学招投标与采购中心",
+   "url": "https://cg.scu.edu.cn/sfw_cms/e?page=cms.psms.gglist&typeDetail=XQ",
+   "tech": "技术支持：思必得软件",
+   "sfw": true,
+   "uuid": "",
+   "appPath": "",
+   "showDetail": "function showDetail(type, publish_id,id){\n\t\t\t/* if(publish_id==\"null\"){\n\t\t\t\tvar syncid=\"http://www.yuncaitong.cn/app.html#/publish/redirect?idApp=58212.\"+id;\n\t\t\t\twindow.open(syncid);\n\t\t\t}else{\n\t\t\t\twindow.open(\" http://www.yuncaitong.cn/publish/\"+type+publish_id+\".shtml\");\n\t\t\t} */\n\t\t\twindow.open(\"/pr",
+   "nav": [
+    {
+     "t": "招投标与采购中心公众号",
+     "h": "#",
+     "oc": ""
+    },
+    {
+     "t": "四川大学采购平台",
+     "h": "",
+     "oc": ""
+    },
+    {
+     "t": "采购需求",
+     "h": "https://cg.scu.edu.cn/sfw_cms/e?page=cms.psms.gglist&typeDetail=XQ",
+     "oc": ""
+    },
+    {
+     "t": "成交公告",
+     "h": "https://cg.scu.edu.cn/sfw_cms/e?page=cms.psms.gglist&typeDetail=GS",
+     "oc": ""
+    },
+    {
+     "t": "采购合同模板",
+     "h": "e?page=cms.news&cid=50368&nextcid=65224",
+     "oc": ""
+    },
+    {
+     "t": "采购商城",
+     "h": "https://cg.scu.edu.cn/emall/",
+     "oc": ""
+    },
+    {
+     "t": "采购公告",
+     "h": "javascript:void(0);",
+     "oc": "changeChoose(this)"
+    },
+    {
+     "t": "采购意向",
+     "h": "javascript:void(0);",
+     "oc": "changeChoose(this)"
+    },
+    {
+     "t": "结果公示",
+     "h": "javascript:void(0);",
+     "oc": "changeChoose(this)"
+    },
+    {
+     "t": "校内分散采购",
+     "h": "javascript:void(0);",
+     "oc": ""
+    },
+    {
+     "t": "政府采购",
+     "h": "javascript:void(0);",
+     "oc": ""
+    },
+    {
+     "t": "招标投标",
+     "h": "javascript:void(0);",
+     "oc": ""
+    },
+    {
+     "t": "公开招标",
+     "h": "javascript:void(0);",
+     "oc": ""
+    },
+    {
+     "t": "货物类采购",
+     "h": "javascript:void(0);",
+     "oc": ""
+    },
+    {
+     "t": "工程类采购",
+     "h": "javascript:void(0);",
+     "oc": ""
+    },
+    {
+     "t": "服务类采购",
+     "h": "javascript:void(0);",
+     "oc": ""
+    },
+    {
+     "t": "云采通采购平台",
+     "h": "http://www.yuncaitong.cn/",
+     "oc": ""
+    }
+   ],
+   "dated": [
+    {
+     "t": "四川大学幼儿园食材采购项目（ZBZXHA2026037）采购公告",
+     "h": "",
+     "oc": "showDetail(\"2026/10/16/\",\"20MVANAAGI1320TF\",\"5d8bd9e40efb27c60bf46ca0bc111536\");",
+     "d": "2026年10月21"
+    },
+    {
+     "t": "四川大学2026年度消防器材采购项目（ZBZXHA2026036）采购公告",
+     "h": "",
+     "oc": "showDetail(\"2026/10/16/\",\"20MVA8I6BSLS7LOJ\",\"a2ad852b1e02e0d79e9e6df494ee855c\");",
+     "d": "2026年10月20"
+    },
+    {
+     "t": "四川大学江安校区医疗教学实训科研综合大楼项目工程质量检测服务（ZBZXFA2026097）招标公告",
+     "h": "",
+     "oc": "showDetail(\"2026/10/15/\",\"20MV9J222WURIIWW\",\"76ecee31b6f248e0cf4fa67f61ef4d93\");",
+     "d": "2026年10月20"
+    },
+    {
+     "t": "四川大学望江校区颠覆性协同创新大楼项目工程质量检测服务（ZBZXFA2026096）招标公告",
+     "h": "",
+     "oc": "showDetail(\"2026/10/15/\",\"20MV9IKXZK2W7IU6\",\"292e88d7ab30e803167740e4541b74af\");",
+     "d": "2026年10月20"
+    },
+    {
+     "t": "四川大学原子核科学技术研究所物业服务（ZBZXFA2026095）报名延期公告",
+     "h": "",
+     "oc": "showDetail(\"2026/10/15/\",\"20MV9BO6DYUN7ZTP\",\"ecb5034bad0441ad88ed20c036263a42\");",
+     "d": "2026年10月19"
+    },
+    {
+     "t": "四川大学三校区校园网核心设备维保服务（ZBZXFA2026099）采购公告",
+     "h": "",
+     "oc": "showDetail(\"2026/10/15/\",\"20MV9BLHS4HIIQPJ\",\"55337c7430604d4945529fc1f15b6c7e\");",
+     "d": "2026年10月20"
+    },
+    {
+     "t": "智能办公本、口袋相机一批（ZBZXJJ20260288）采购公告",
+     "h": "",
+     "oc": "showDetail(\"2026/10/15/\",\"20MV8WLYTJUN457N\",\"f66634044167487bff8879f2e7677784\");",
+     "d": "2026年10月20"
+    },
+    {
+     "t": "校园网络质量感知与优化服务（ZBZXFA2026098）采购公告",
+     "h": "",
+     "oc": "showDetail(\"2026/10/15/\",\"20MV8UVB418R4AG9\",\"fc7a7ad8f4c3fec0305fead71698b846\");",
+     "d": "2026年10月20"
+    },
+    {
+     "t": "博物馆冰柜购买（ZBZXJJ20260287）采购公告",
+     "h": "",
+     "oc": "showDetail(\"2026/10/14/\",\"20MV7DNFGSUUJOGM\",\"06a41bcd623ea5f1222c0a64a367f391\");",
+     "d": "2026年10月19"
+    },
+    {
+     "t": "微波消解系统（ZBZXJJ20260286）采购公告",
+     "h": "",
+     "oc": "showDetail(\"2026/10/14/\",\"20MV7DMS81BB10O6\",\"82b7ee86c8390ac5fecea4eacccffcd2\");",
+     "d": "2026年10月19"
+    },
+    {
+     "t": "四川大学校团委2026-2027学年秋季学期团学活动设计制作安装等服务项目公开招标更正公告",
+     "h": "",
+     "oc": "showDetail(\"2026/10/13/\",\"20MV6BQO7GF1YBUI\",\"f697933dd7da482b3745ec6bc8201e51\");",
+     "d": "2026年10月13"
+    },
+    {
+     "t": "口腔疾病防治全国重点实验室原始创新能力提升-成像系统（ZFCGHA2026066）采购公告",
+     "h": "",
+     "oc": "showDetail(\"2026/10/12/\",\"20MV4PE0SAFN0MJI\",\"0a6682187bf1c52ce5449bc0ae6669e9\");",
+     "d": "2026年10月20"
+    }
+   ],
+   "textHead": "四川大学\n招投标与采购中心公众号\n四川大学采购平台\n首 页\n中心概况\n采购需求\n成交公告\n服务指南\n法规制度\n曝光台\n下载中心\n采购商城\n公示公告\n采购公告\n采购意向\n结果公示\n采购公告\n组织形式\n全部\n校内分散采购\n政府采购\n招标投标\n采购方式\n全部\n网上竞价\n定点比选\n网上比选\n单一来源\n竞争性磋商\n公开招标\n竞争性谈判\n用户自购\n采购类型\n全部\n货物类采购\n工程类采购\n服务类采购\n显示信息\n全部\n进行中\n已过期\n关键字\n查询\n[公开招标]\n四川大学幼儿园食材采购项目（ZBZXHA2026037）采购公告\n2026年10月21日 17时00分截止\n\n\n[公开招标]\n四川大学2026年度消防器材采购项目（ZBZXHA2026036）采购公告\n2026年10月20日 17时00分截止\n\n\n[公开招标]\n四川大学江安校区医疗教学实训科研综合大楼项目工程质量检测服务（ZBZXFA2026097）招标公告\n2026年10月20日 17时00分截止\n\n\n[公开招标]\n四川大学望江校区颠覆性协同创新大楼项目工程质量检测服务（ZBZXFA2026096）招标公告\n2026年10月20日 17时00分截止\n\n\n[公开招标]\n四川大学原子核科学技术研究所物业服务（ZBZXFA2026095）报名延期公告\n2026年10月19日 17时00分截止\n\n\n[公开招标]\n四川大学三校区校园网核心设备维保服"
+  },
+  "reqs": [
+   {
+    "m": "POST",
+    "u": "https://cg.scu.edu.cn/sfw_cms/e",
+    "b": "beginDate=2026-09-28&endDate=2026-11-01&window_=json&t_=0.7396707367395559&request_method_=ajax&browser_=notmsie&page=cms.psms.tender.queryTimeOpen"
+   },
+   {
+    "m": "POST",
+    "u": "https://cg.scu.edu.cn/sfw_cms/e",
+    "b": "t_=0.7890793006404262&window_=json&start=1&limit=25&filter=&sort=begin_time%20desc&type=ZCXQ&type=YQXQ&type=CSXQ&type=BYXQ&shopType=&catalog=&isEnd=&orgType=&keywords=&request_method_=ajax&browser_=notmsie&page=cms.psms.publish.query"
+   },
+   {
+    "m": "POST",
+    "u": "https://cg.scu.edu.cn/sfw_cms/e",
+    "b": "t_=0.5718305632336036&window_=json&start=26&limit=25&filter=&sort=begin_time%20desc&type=ZCXQ&type=YQXQ&type=CSXQ&type=BYXQ&shopType=&catalog=&isEnd=&orgType=&keywords=&request_method_=ajax&browser_=notmsie&page=cms.psms.publish.query"
+   }
+  ],
+  "json": []
+ },
+ {
+  "key": "NKU",
+  "url": "https://zbb.nankai.edu.cn/sfw_cms/e?page=cms.index",
+  "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://zbb.nankai.edu.cn/sfw_cms/e?page=cms.index",
+  "reqs": [],
+  "json": []
+ },
+ {
+  "key": "HITSZ",
+  "url": "https://cggl.hitsz.edu.cn/sfw_cms/e?page=cms.index",
+  "home": {
+   "title": "哈尔滨工业大学(深圳)招标采购管理办公室",
+   "url": "https://cggl.hitsz.edu.cn/sfw_cms/e?page=cms.index",
+   "tech": "技术支持：思必得软件",
+   "sfw": true,
+   "uuid": "",
+   "appPath": "",
+   "showDetail": "function showDetail(type, publish_id,id) {\n\t/* if(publish_id==\"null\"){\n\t\tvar syncid=\"http://www.yuncaitong.cn/app.html#/publish/redirect?idApp=20KQ8XSQQXWL1B4M.\"+id;\n\t\twindow.open(syncid);\n\t}else{\n\t\twindow.open(\" http://www.yuncaitong.cn/publish/\"+type+publish_id+\".shtml\");\n\t} */\n\twindow.open(\"/prov",
+   "nav": [
+    {
+     "t": "采购管理办公室",
+     "h": "#",
+     "oc": ""
+    },
+    {
+     "t": "更多",
+     "h": "e?page=cms.news&cid=50132",
+     "oc": ""
+    },
+    {
+     "t": "深圳经济特区政府采购条例",
+     "h": "e?page=cms.detail&cid=50132&aid=100344",
+     "oc": ""
+    },
+    {
+     "t": "采购目录",
+     "h": "javascript:void(0)",
+     "oc": ""
+    },
+    {
+     "t": "更多",
+     "h": "e?page=cms.news&cid=50136",
+     "oc": ""
+    },
+    {
+     "t": "通知公告",
+     "h": "javascript:void(0)",
+     "oc": ""
+    },
+    {
+     "t": "更多",
+     "h": "e?page=cms.news&cid=50145",
+     "oc": ""
+    },
+    {
+     "t": "非科研类采购合同用印流程调整",
+     "h": "e?page=cms.detail&cid=50131&nextcid=50145&aid=100517",
+     "oc": ""
+    },
+    {
+     "t": "采购公告",
+     "h": "javascript:void(0)",
+     "oc": ""
+    },
+    {
+     "t": "成交公告",
+     "h": "javascript:void(0)",
+     "oc": ""
+    },
+    {
+     "t": "废标公告",
+     "h": "javascript:void(0)",
+     "oc": ""
+    },
+    {
+     "t": "更多",
+     "h": "e?page=cms.psms.gglist&type=XQ",
+     "oc": ""
+    },
+    {
+     "t": "政府集中采购",
+     "h": "javascript:void(0)",
+     "oc": ""
+    },
+    {
+     "t": "采购意向公开",
+     "h": "javascript:void(0)",
+     "oc": ""
+    },
+    {
+     "t": "结果公示",
+     "h": "javascript:void(0)",
+     "oc": ""
+    },
+    {
+     "t": "更多",
+     "h": "e?page=cms.psms.gglist&orgType=11",
+     "oc": ""
+    },
+    {
+     "t": "更多",
+     "h": "e?page=cms.news&cid=50140",
+     "oc": ""
+    },
+    {
+     "t": "更多",
+     "h": "e?page=cms.news&cid=50138",
+     "oc": ""
+    },
+    {
+     "t": "更多",
+     "h": "e?page=cms.news&cid=50141",
+     "oc": ""
+    }
+   ],
+   "dated": [
+    {
+     "t": "政府采购品目分类目录（2022）",
+     "h": "e?page=cms.detail&cid=50137&aid=100702",
+     "oc": "",
+     "d": "2023-09-15"
+    },
+    {
+     "t": "深圳市2023—2024年政府集中采购目录及限额标准",
+     "h": "e?page=cms.detail&cid=50137&aid=100701",
+     "oc": "",
+     "d": "2023-09-15"
+    },
+    {
+     "t": "深圳市财政局转发财政部关于在政府采购活动中对有关美国企业采取相关措施的通知",
+     "h": "e?page=cms.detail&cid=50131&nextcid=50145&aid=101284",
+     "oc": "",
+     "d": "2026-07-08"
+    },
+    {
+     "t": "全流程数字化采购平台系统操作常见问题解答（持续更新）",
+     "h": "e?page=cms.detail&cid=50131&nextcid=50145&aid=100734",
+     "oc": "",
+     "d": "2023-10-09"
+    },
+    {
+     "t": "关于启用全流程数字化采购平台采购相关模块的通知",
+     "h": "e?page=cms.detail&cid=50131&nextcid=50145&aid=100704",
+     "oc": "",
+     "d": "2023-09-15"
+    },
+    {
+     "t": "非科研类采购合同用印流程调整",
+     "h": "e?page=cms.detail&cid=50131&nextcid=50145&aid=100517",
+     "oc": "",
+     "d": "2022-02-28"
+    },
+    {
+     "t": "请大家微信关注“资采通”，方便移动办公",
+     "h": "e?page=cms.detail&cid=50131&nextcid=50145&aid=100354",
+     "oc": "",
+     "d": "2021-12-28"
+    },
+    {
+     "t": "深圳市财政局关于印发《深圳市政府采购招标文件编制工作指引（2021年版）》的通知",
+     "h": "e?page=cms.detail&cid=50139&aid=100556",
+     "oc": "",
+     "d": "2022-04-19"
+    },
+    {
+     "t": "深圳市财政局关于印发深圳市优化政府采购意向公开工作实施方案的通知",
+     "h": "e?page=cms.detail&cid=50139&aid=100555",
+     "oc": "",
+     "d": "2022-04-19"
+    },
+    {
+     "t": "深圳市财政局关于采购人政府采购易发问题及整改意见工作指引的通知",
+     "h": "e?page=cms.detail&cid=50139&aid=100327",
+     "oc": "",
+     "d": "2021-12-07"
+    },
+    {
+     "t": "科创开放日执行服务项目征集公告",
+     "h": "javascript:void(0);",
+     "oc": "showDetail(\"2026/10/15/\",\"20MV9DBZNUAGUBJZ\",\"f12f3cc3c9fb805533d09698c3cc9c89\");",
+     "d": "2026-10-15"
+    },
+    {
+     "t": "2026西丽湖国际科教城系列活动开幕式暨主论坛执行服务项目（HITSZZB260035）采购公告",
+     "h": "javascript:void(0);",
+     "oc": "showDetail(\"2026/10/14/\",\"20MV843P3SP8NGLO\",\"6d6f45f57fa2b5e76e65d243866838db\");",
+     "d": "2026-10-14"
+    },
+    {
+     "t": "激光脉冲沉积系统（HITSZWJ260019）采购公告",
+     "h": "javascript:void(0);",
+     "oc": "showDetail(\"2026/09/30/\",\"20MUNEK5PKA7UQ6R\",\"afdb1ecc295b0e03fef593b9e225c1b0\");",
+     "d": "2026-09-30"
+    },
+    {
+     "t": "2026年空调与自习室智能管理项目（重新采购第1次）招标公告",
+     "h": "javascript:void(0);",
+     "oc": "showDetail(\"2026/09/29/\",\"20MUM5CXABEG6HPS\",\"cd8824d1bfa3cd195817c0ead251ab4a\");",
+     "d": "2026-09-29"
+    },
+    {
+     "t": "硬件材料采购（HITSZWJ260018）采购公告",
+     "h": "javascript:void(0);",
+     "oc": "showDetail(\"2026/09/22/\",\"20MUCBQUL0Y177RB\",\"91f0aa65ab1c7ffa6a24e8ab73d88679\");",
+     "d": "2026-09-22"
+    }
+   ],
+   "textHead": "采购管理办公室\n首  页\n政策法规\n办事指南\n管理制度\n下载中心\n联系方式\n采购管理系统\n校内用户入口\n评审专家入口\n供应商入口\n代理机构入口\n政策法规\n更多\n深圳市2025-2026年政府集中采购目录及限额标准\n深圳市财政局关于印发《深圳市2023—2024年政府集中采购目录及限额标准》的通知\n关于《深圳经济特区政府采购条例实施细则》的修改\n深圳经济特区政府采购条例实施细则\n深圳经济特区政府采购条例\n政府采购品目分类目录（2022）\n深圳市财政局深圳市发展和改革委员会关于进一步规范政府采购进口产品审核管理的通知\n深圳市财政局关于印发《深圳市落实采购人主体责任实施办法》的通知\n深圳市财政局关于优化政府采购合同备案的通知\n管理制度\n采购目录\n更多\n哈工大深资〔2025〕55号 哈尔滨工业大学（深圳）关于印发《哈尔滨工业大学（深圳）采购管理办法》的通知\n哈工大深资〔2023〕65号 哈尔滨工业大学（深圳）关于印发《哈尔滨工业大学深圳校区采购工作实施细则》的通知\n哈尔滨工业大学采购供应商黑名单管理办法\n通知公告\n工作动态\n更多\n深圳市财政局转发财政部关于在政府采购活动中对有关美国企业采取相关措施的通知\n2026-07-08\n全流程数字化采购平台系统操作常见问题解答（持续更新）\n2023-10-09\n关于启用全流程数字化采购平台采购相关模块的通知\n2023-09-15\n系统使用手册\n202"
+  },
+  "list": {
+   "title": "哈尔滨工业大学(深圳)招标采购管理办公室",
+   "url": "https://cggl.hitsz.edu.cn/sfw_cms/e?page=cms.psms.gglist&typeDetail=XQ",
+   "tech": "技术支持：思必得软件",
+   "sfw": true,
+   "uuid": "40cc3e0132e6a41c724a0e2612b1577f",
+   "appPath": "",
+   "showDetail": "function showDetail(type, publish_id,id) {\n\t\twindow.open(\"/provider/#/publish/\"+publish_id);\n\t}",
+   "nav": [
+    {
+     "t": "采购管理办公室",
+     "h": "#",
+     "oc": ""
+    },
+    {
+     "t": "采购公告",
+     "h": "javascript:void(0);",
+     "oc": "changeChoose(this)"
+    },
+    {
+     "t": "成交公告",
+     "h": "javascript:void(0);",
+     "oc": "changeChoose(this)"
+    },
+    {
+     "t": "结果公示",
+     "h": "javascript:void(0);",
+     "oc": "changeChoose(this)"
+    },
+    {
+     "t": "废标公告",
+     "h": "javascript:void(0);",
+     "oc": "changeChoose(this)"
+    },
+    {
+     "t": "政府集中采购",
+     "h": "javascript:void(0);",
+     "oc": ""
+    },
+    {
+     "t": "部门集中采购",
+     "h": "javascript:void(0);",
+     "oc": ""
+    },
+    {
+     "t": "政府分散采购",
+     "h": "javascript:void(0);",
+     "oc": ""
+    },
+    {
+     "t": "学校统一采购",
+     "h": "javascript:void(0);",
+     "oc": ""
+    },
+    {
+     "t": "校内分散采购",
+     "h": "javascript:void(0);",
+     "oc": ""
+    },
+    {
+     "t": "快速采购",
+     "h": "javascript:void(0);",
+     "oc": ""
+    },
+    {
+     "t": "公开招标",
+     "h": "javascript:void(0);",
+     "oc": ""
+    }
+   ],
+   "dated": [
+    {
+     "t": "科创开放日执行服务项目征集公告",
+     "h": "javascript:void(0);",
+     "oc": "showDetail(\"2026/10/15/\",\"20MV9DBZNUAGUBJZ\",\"f12f3cc3c9fb805533d09698c3cc9c89\");",
+     "d": "2026年10月22"
+    },
+    {
+     "t": "2026西丽湖国际科教城系列活动开幕式暨主论坛执行服务项目（HITSZZB260035）采购公告",
+     "h": "javascript:void(0);",
+     "oc": "showDetail(\"2026/10/14/\",\"20MV843P3SP8NGLO\",\"6d6f45f57fa2b5e76e65d243866838db\");",
+     "d": "2026年10月21"
+    },
+    {
+     "t": "激光脉冲沉积系统（HITSZWJ260019）成交结果公告",
+     "h": "javascript:void(0);",
+     "oc": "showDetail(\"2026/10/14/\",\"20MV7MMNS2BBHV6N\",\"31c8aaaf8d27ddce05363852183995fc\");",
+     "d": "2026年10月14"
+    },
+    {
+     "t": "2026年空调与自习室智能管理项目（重新采购第1次）中标结果公示",
+     "h": "javascript:void(0);",
+     "oc": "showDetail(\"2026/10/13/\",\"20MV6N1GUAVYAFKQ\",\"628ae2721db2a1bd53f49e9ed66b51e1\");",
+     "d": "2026年10月13"
+    },
+    {
+     "t": "机器人及灵巧手操作系统（HITSZZB260032）中标结果更正公告",
+     "h": "javascript:void(0);",
+     "oc": "showDetail(\"2026/10/12/\",\"20MV55COPB4DZ2V0\",\"6144632e2347646ff35d31ba66f8b1c0\");",
+     "d": "2026年10月12"
+    },
+    {
+     "t": "2026西丽湖论坛会务意向公开",
+     "h": "javascript:void(0);",
+     "oc": "showDetail(\"2026/09/30/\",\"20MUNSH62ANL80BU\",\"d0c9a76eccf93b3b08ca4777ea2d4ec3\");",
+     "d": "2026年10月30"
+    },
+    {
+     "t": "55阵列主镜V1加工及模具采购项目终止公告",
+     "h": "javascript:void(0);",
+     "oc": "showDetail(\"2026/09/30/\",\"20MUNJC07E903BM9\",\"ac272dde0081a755504ce283f6d171c1\");",
+     "d": "2026年09月30"
+    },
+    {
+     "t": "激光脉冲沉积系统（HITSZWJ260019）采购公告",
+     "h": "javascript:void(0);",
+     "oc": "showDetail(\"2026/09/30/\",\"20MUNEK5PKA7UQ6R\",\"afdb1ecc295b0e03fef593b9e225c1b0\");",
+     "d": "2026年09月30"
+    },
+    {
+     "t": "2026年空调与自习室智能管理项目（重新采购第1次）招标公告",
+     "h": "javascript:void(0);",
+     "oc": "showDetail(\"2026/09/29/\",\"20MUM5CXABEG6HPS\",\"cd8824d1bfa3cd195817c0ead251ab4a\");",
+     "d": "2026年09月29"
+    },
+    {
+     "t": "硬件材料采购（HITSZWJ260018）成交结果公告",
+     "h": "javascript:void(0);",
+     "oc": "showDetail(\"2026/09/29/\",\"20MUM1792SIC1FXH\",\"d6fe39be935e0576ba7cb13ce8ee002e\");",
+     "d": "2026年09月29"
+    },
+    {
+     "t": "高速运动分析仪（HITSZZB260031）成交结果公告",
+     "h": "javascript:void(0);",
+     "oc": "showDetail(\"2026/09/28/\",\"20MUKZ511IGEOCQM\",\"245beba5107c83fb589a618cb6bc31c3\");",
+     "d": "2026年09月28"
+    },
+    {
+     "t": "2026年空调与自习室智能管理项目废标公告",
+     "h": "javascript:void(0);",
+     "oc": "showDetail(\"2026/09/22/\",\"20MUCIOTZFIP35W7\",\"56fc215e074e78f4f0a018886b492109\");",
+     "d": "2026年09月22"
+    },
+    {
+     "t": "硬件材料采购（HITSZWJ260018）采购公告",
+     "h": "javascript:void(0);",
+     "oc": "showDetail(\"2026/09/22/\",\"20MUCBQUL0Y177RB\",\"91f0aa65ab1c7ffa6a24e8ab73d88679\");",
+     "d": "2026年09月22"
+    },
+    {
+     "t": "探针台设备采购（HITSZZB260006）延期公告",
+     "h": "javascript:void(0);",
+     "oc": "showDetail(\"2026/09/21/\",\"20MUB3FE0UOUYXFB\",\"55edf360a5e0ae4c1795c96036419071\");",
+     "d": "2026年09月21"
+    },
+    {
+     "t": "高速运动分析仪（HITSZZB260031）延期公告",
+     "h": "javascript:void(0);",
+     "oc": "showDetail(\"2026/09/21/\",\"20MUB38J7G3FZXE6\",\"ffe2a5202a0a87c23dced3c2315efdb5\");",
+     "d": "2026年09月21"
+    }
+   ],
+   "textHead": "采购管理办公室\n首  页\n政策法规\n办事指南\n管理制度\n下载中心\n联系方式\n公示公告\n采购公告\n成交公告\n结果公示\n废标公告\n组织形式\n全部\n政府集中采购\n部门集中采购\n政府分散采购\n学校统一采购\n校内分散采购\n采购方式\n全部\n快速采购\n公开询价\n单一来源\n公开征集\n公开招标\n采购类型\n全部\n货物类\n工程类\n服务类\n显示信息\n全部\n进行中\n已过期\n关键字\n查询\n[公开征集]\n科创开放日执行服务项目征集公告\n2026年10月22日 17时30分截止\n\n\n[公开征集]\n2026西丽湖国际科教城系列活动开幕式暨主论坛执行服务项目（HITSZZB260035）采购公告\n2026年10月21日 17时00分截止\n\n\n[公开询价]\n激光脉冲沉积系统（HITSZWJ260019）成交结果公告\n2026年10月14日发布\n\n\n[公开招标]\n2026年空调与自习室智能管理项目（重新采购第1次）中标结果公示\n2026年10月13日发布\n\n\n[公开征集]\n机器人及灵巧手操作系统（HITSZZB260032）中标结果更正公告\n2026年10月12日发布\n\n\n[]\n2026西丽湖论坛会务意向公开\n2026年10月30日 15时33分截止\n\n\n[公开征集]\n55阵列主镜V1加工及模具采购项目终止公告\n2026年09月30日发布\n\n\n[公开询价]\n激光脉冲沉积系统（HITSZWJ260019）采购公告\n2026"
+  },
+  "reqs": [
+   {
+    "m": "POST",
+    "u": "https://cggl.hitsz.edu.cn/sfw_cms/e",
+    "b": "beginDate=2026-09-28&endDate=2026-11-08&window_=json&t_=0.7221847199400464&request_method_=ajax&browser_=notmsie&page=cms.psms.tender.queryTimeOpen"
+   },
+   {
+    "m": "POST",
+    "u": "https://cggl.hitsz.edu.cn/sfw_cms/e",
+    "b": "t_=0.8426205039388333&window_=json&start=1&limit=25&filter=&sort=pdate%20desc&type=&shopType=&catalog=&isEnd=&orgType=&categoryId=&notShopType=&keywords=&ops_uuid=40cc3e0132e6a41c724a0e2612b1577f&request_method_=ajax&browser_=notmsie&page=cms.psms.publish.query"
+   },
+   {
+    "m": "POST",
+    "u": "https://cggl.hitsz.edu.cn/sfw_cms/e",
+    "b": "t_=0.654672776538793&window_=json&start=26&limit=25&filter=&sort=pdate%20desc&type=&shopType=&catalog=&isEnd=&orgType=&categoryId=&notShopType=&keywords=&ops_uuid=40cc3e0132e6a41c724a0e2612b1577f&request_method_=ajax&browser_=notmsie&page=cms.psms.publish.query"
+   }
+  ],
+  "json": []
+ },
+ {
+  "key": "UCAS",
+  "url": "https://zbb.ucas.ac.cn/",
+  "home": {
+   "title": "中国科学院大学生活服务",
+   "url": "https://zbb.ucas.ac.cn/Home/Info/94ad25b9-1fd3-48f2-8059-14aabebdcc13",
+   "tech": "",
+   "sfw": false,
+   "uuid": "",
+   "appPath": "",
+   "showDetail": "",
+   "nav": [
+    {
+     "t": "招标公告",
+     "h": "/home/infolist/d4ea3261-60bf-4785-9558-46c61117acf7",
+     "oc": ""
+    }
+   ],
+   "dated": [],
+   "textHead": "登录\n \n部门概况\n政策法规\n资料下载\n招标公告\n中标公示\n建议与投诉\n部门概况\n招标投标管理办公室部门概况\n\n招标投标管理办公室是我校招标投标工作的归口管理部门，负责贯彻国家采购与招投标的方针政策和法律法规，落实学校招投标工作的相关规章制度，对采购项目的招标投标工作进行组织、协调、指导和监督；完成招标的采购项目，对其合同履约过程进行全程监督管理；配合学校相关部门做好招标采购中的投诉以及法律纠纷等相关事宜。\n\n采购活动要在国家和上级部门相关法律法规下执行，包括《中华人民共和国政府采购法》、《中华人民共和国招标投标法》、中央国家机关集中采购目录及标准等规定，确保每一项采购合法、合规。每一项采购，我们都尽最大努力让用户满意，服务好用户，让用户采购到好的产品或服务商，同时作为职能部门，还要站在学校角度,保证资金安全、实现资金效益最大化，落实好我校廉政监督机制，规范化操作招标流程。\n\n部门主要职责如下:\n\n1.        贯彻国家、上级单位关于采购与招投标的方针政策与法律法规；\n\n2.        制定学校有关招标投标工作的各项规章制度和实施办法、工作流程；\n\n3.        学校各类采购招标活动的管理和组织实施、指导和监督；\n\n4.        招标投标有关文档资料的立卷及归档工作；\n\n5.        招标采购项目的合同履约过程监督管理；协助采购单位做好合同执行及验收工作"
+  },
+  "reqs": [],
+  "json": []
+ },
+ {
+  "key": "WESTLAKE",
+  "url": "https://procurement.westlake.edu.cn/sfw_cms/e?page=cms.index",
+  "home": {
+   "title": "西湖大学采购工作办公室",
+   "url": "https://procurement.westlake.edu.cn/sfw_cms/e?page=cms.index",
+   "tech": "技术支持：思必得软件",
+   "sfw": true,
+   "uuid": "",
+   "appPath": "",
+   "showDetail": "",
+   "nav": [
+    {
+     "t": "公开招标/邀请招标",
+     "h": "javascript:void(0);",
+     "oc": "category('hwgk','3','e?page=cms.psms.gglist&typeDetail=XQ&shopType=GKZB,YQZB,GJZB');"
+    },
+    {
+     "t": "MORE",
+     "h": "e?page=cms.psms.gglist&typeDetail=XQ&shopType=WSXJ",
+     "oc": ""
+    },
+    {
+     "t": "公开招标/邀请招标",
+     "h": "javascript:void(0);",
+     "oc": "category('fwgg','2','e?page=cms.psms.gglist&typeDetail=XQ&shopType=GKZB,YQZB,GJZB');"
+    },
+    {
+     "t": "MORE",
+     "h": "e?page=cms.psms.gglist&typeDetail=XQ&shopType=WSXJ",
+     "oc": ""
+    },
+    {
+     "t": "公开招标",
+     "h": "javascript:void(0);",
+     "oc": "category('gcgg','1','e?page=cms.psms.gglist&typeDetail=XQ&shopType=GKZB,YQZB,GJZB');"
+    },
+    {
+     "t": "邀请招标",
+     "h": "javascript:void(0);",
+     "oc": "category('gcgg','4','e?page=cms.psms.gglist&typeDetail=XQ&shopType=GKZB,YQZB,GJZB');"
+    },
+    {
+     "t": "MORE",
+     "h": "e?page=cms.psms.gglist&typeDetail=XQ&shopType=JZXCS,JZXTP",
+     "oc": ""
+    },
+    {
+     "t": "公开招标/邀请招标",
+     "h": "javascript:void(0);",
+     "oc": "category('hwjg','2','e?page=cms.psms.gglist&typeDetail=GG&shopType=GKZB,YQZB,GJZB');"
+    },
+    {
+     "t": "MORE",
+     "h": "e?page=cms.psms.gglist&typeDetail=GG&shopType=WSXJ",
+     "oc": ""
+    },
+    {
+     "t": "公开招标/邀请招标",
+     "h": "javascript:void(0);",
+     "oc": "category('fwjg','2','e?page=cms.psms.gglist&typeDetail=GG&shopType=GKZB,YQZB,GJZB');"
+    },
+    {
+     "t": "MORE",
+     "h": "e?page=cms.psms.gglist&typeDetail=GG&shopType=WSXJ",
+     "oc": ""
+    },
+    {
+     "t": "公开招标",
+     "h": "javascript:void(0);",
+     "oc": "category('gcjg','1','e?page=cms.psms.gglist&typeDetail=GG&shopType=GKZB,YQZB,GJZB');"
+    },
+    {
+     "t": "邀请招标",
+     "h": "javascript:void(0);",
+     "oc": "category('gcjg','4','e?page=cms.psms.gglist&typeDetail=GG&shopType=GKZB,YQZB,GJZB');"
+    },
+    {
+     "t": "MORE",
+     "h": "e?page=cms.psms.gglist&typeDetail=GG&shopType=JZXCS,JZXTP",
+     "oc": ""
+    },
+    {
+     "t": "采购日历",
+     "h": "javascript:void(0);",
+     "oc": "toggleFloatCalendar()"
+    },
+    {
+     "t": "中国政府采购网",
+     "h": "https://www.ccgp.gov.cn/",
+     "oc": ""
+    },
+    {
+     "t": "浙江政府采购网",
+     "h": "http://www.ccgp-zhejiang.gov.cn/",
+     "oc": ""
+    },
+    {
+     "t": "浙江企业采购信息服务网",
+     "h": "https://b.zhengcaiyun.cn/",
+     "oc": ""
+    }
+   ],
+   "dated": [
+    {
+     "t": "移液器（WLU-HW-KS-WM-2026-0225）采购公告",
+     "h": "javascript:void(0);",
+     "oc": "showQuickDetail(\"2026/10/16/\",\"20MVAPYYJV6KD29S\",\"c1197415407a6e2e31ba5269ffd8a9b0\");",
+     "d": "2026-10-16"
+    },
+    {
+     "t": "可见光催化LED光源（WLU-HW-KS-NM-2026-1293）采购公告",
+     "h": "javascript:void(0);",
+     "oc": "showQuickDetail(\"2026/10/16/\",\"20MVAPS8Q7HDMLZU\",\"212e194a5a572535a620aff54d49af68\");",
+     "d": "2026-10-16"
+    },
+    {
+     "t": "立体光固化3D打印机（WLU-HW-KS-NM-2026-1269）延期公告",
+     "h": "javascript:void(0);",
+     "oc": "showQuickDetail(\"2026/10/16/\",\"20MVAOJHNDY7JLBZ\",\"db8aef3bd8b41d49d067cdee56b5bc70\");",
+     "d": "2026-10-16"
+    },
+    {
+     "t": "自动梯度稀释仪（WLL-HW-KS-NM-2026-0082）采购公告",
+     "h": "javascript:void(0);",
+     "oc": "showQuickDetail(\"2026/10/16/\",\"20MVALZ7QTM4SK51\",\"c1c8072d8b6b9e8db338eae030c7da01\");",
+     "d": "2026-10-16"
+    },
+    {
+     "t": "关于西湖大学高槽压电化学工作站等两套设备（WLU-HW-CS-WM-2026-0205）的竞争性磋商公告",
+     "h": "javascript:void(0);",
+     "oc": "showQuickDetail(\"2026/10/09/\",\"20MV0IDSAPA62VAN\",\"27849303e30236d59a6859c37fe9674b\");",
+     "d": "2026-10-08"
+    },
+    {
+     "t": "西湖大学电力远程监控系统项目（WLU-HW-CS-NM-2026-1090）的竞争性磋商公告（非政府采购）",
+     "h": "javascript:void(0);",
+     "oc": "showQuickDetail(\"2026/09/28/\",\"20MUL1KVWG3O8FL0\",\"dfcd507d57f11cfbf3d1a03b3f7b5cc9\");",
+     "d": "2026-09-24"
+    },
+    {
+     "t": "关于西湖大学电化学石英晶体微天平系统（WLU-HW-CS-WM-2026-0190）的竞争性磋商公告",
+     "h": "javascript:void(0);",
+     "oc": "showQuickDetail(\"2026/09/22/\",\"20MUCFIWS9VT486E\",\"f4b1bbf2b9b4a30aaa86df0f47b05c01\");",
+     "d": "2026-09-21"
+    },
+    {
+     "t": "西湖大学不锈钢实验家具(第二次)（WLU-HW-CS-NM-2026-1017(第二次)）的竞争性磋商公告（非政府采购）",
+     "h": "javascript:void(0);",
+     "oc": "showQuickDetail(\"2026/09/20/\",\"20MU97ZDHLI4WV8H\",\"dce1d9ef97419e9586e4ccf89589afa7\");",
+     "d": "2026-09-19"
+    },
+    {
+     "t": "关于西湖大学超分辨荧光共聚焦显微系统（WLU-HW-GK-WM-2026-0192）公开招标公告",
+     "h": "javascript:void(0);",
+     "oc": "showQuickDetail(\"2026/09/30/\",\"20MUNOU2JVTNDD6I\",\"b473e64ef1cc9288aae9abd9a693dda1\");",
+     "d": "2026-09-21"
+    },
+    {
+     "t": "西湖实验室(生命科学和生物医学浙江省实验室)超高效液相色谱-四极杆飞行时间质谱仪项目（WLL-HW-GK-WM-2026-0027）公开招标",
+     "h": "javascript:void(0);",
+     "oc": "showQuickDetail(\"2026/09/24/\",\"20MUF4KNSCNKKIL1\",\"901ff0544273d15a9d39068c76f960cb\");",
+     "d": "2026-09-22"
+    },
+    {
+     "t": "西湖大学纳米流式分析仪项目（WLU-HW-GK-WM-2026-0193）公开招标公告",
+     "h": "javascript:void(0);",
+     "oc": "showQuickDetail(\"2026/09/22/\",\"20MUCEACGOIA88XD\",\"0ebb029670f1ffd3322209a15a77009e\");",
+     "d": "2026-09-21"
+    },
+    {
+     "t": "西湖大学非对称型场流分离检测系统（WLU-HW-GK-WM-2026-0144）公开招标公告",
+     "h": "javascript:void(0);",
+     "oc": "showQuickDetail(\"2026/08/28/\",\"20MTCLY8XYXA4385\",\"3d568a25f3685a86af5249f17835570f\");",
+     "d": "2026-08-24"
+    },
+    {
+     "t": "西湖大学QUANTIFOIL载网集中采购项目（WLU-HW-DY-NM-2026-1246）单一来源采购公示",
+     "h": "javascript:void(0);",
+     "oc": "showQuickDetail(\"2026/10/15/\",\"20MV9A5RZEPVZA58\",\"b6d3d2716532ce0a8a2fcdcd6e90eea3\");",
+     "d": "2026-10-15"
+    },
+    {
+     "t": "西湖大学Anatrace除垢剂项目（WLU-HW-DY-WM-2026-0195）单一来源采购公示",
+     "h": "javascript:void(0);",
+     "oc": "showQuickDetail(\"2026/09/23/\",\"20MUDV82YBV71G2T\",\"deb37b6ae2a51d3a0b693973838a9c7b\");",
+     "d": "2026-09-22"
+    },
+    {
+     "t": "西湖大学2026年GIBCO胎牛血清团购项目（WLU-HW-DY-WM-2026-0112）单一来源采购公示",
+     "h": "javascript:void(0);",
+     "oc": "showQuickDetail(\"2026/06/24/\",\"20MQRYN27U2QCSXN\",\"e7a72fdf3894a227a2fc491c5ddcc48f\");",
+     "d": "2026-06-23"
+    }
+   ],
+   "textHead": "采购工作办公室\nOFFICE OF PROCUREMENT\n首页\nHOME\n规章制度\nRULES & REGULATION\n通知要闻\nNEWS\n联系我们\nCONTACT US\n下载中心\nDOWNLOAD CENTER\n采购管理系统\n\nProcurement Management System\n\n供应商注册/登录\n\nSupplier Registration /Login\n\n招标代理登录\n\nBidding Agent Login\n\n外贸代理登录\n\nForeignTrade Agent Login\n\n货物采购公告\n快速竞价\n竞争性磋商/谈判\n公开招标/邀请招标\n单一来源\n询价\n团购\nMORE\n移液器（WLU-HW-KS-WM-2026-0225）采购公告\n2026-10-16\n可见光催化LED光源（WLU-HW-KS-NM-2026-1293）采购公告\n2026-10-16\n立体光固化3D打印机（WLU-HW-KS-NM-2026-1269）延期公告\n2026-10-16\n自动梯度稀释仪（WLL-HW-KS-NM-2026-0082）采购公告\n2026-10-16\n服务采购公告\n快速竞价\n竞争性磋商/谈判\n公开招标/邀请招标\n单一来源\n询价\n团购\nMORE\n生物型原子力显微镜升级拼图模块（WLU-FW-KS-WM-2026-0224）采购公告\n2026-10-16\n10x Genomi"
+  },
+  "list": {
+   "title": "西湖大学采购工作办公室",
+   "url": "https://procurement.westlake.edu.cn/sfw_cms/e?page=cms.psms.gglist&typeDetail=XQ",
+   "tech": "技术支持：思必得软件",
+   "sfw": true,
+   "uuid": "",
+   "appPath": "",
+   "showDetail": "function showDetailPublish(type, publish_id,id) {\n\t\twindow.open(\"/provider/#/publish/\"+publish_id);\n\t}",
+   "nav": [
+    {
+     "t": "采购公告",
+     "h": "javascript:void(0);",
+     "oc": "changeChoose(this)"
+    },
+    {
+     "t": "结果公告",
+     "h": "javascript:void(0);",
+     "oc": "changeChoose(this)"
+    },
+    {
+     "t": "公开招标/邀请招标",
+     "h": "javascript:void(0);",
+     "oc": ""
+    },
+    {
+     "t": "中国政府采购网",
+     "h": "https://www.ccgp.gov.cn/",
+     "oc": ""
+    },
+    {
+     "t": "浙江政府采购网",
+     "h": "http://www.ccgp-zhejiang.gov.cn/",
+     "oc": ""
+    },
+    {
+     "t": "浙江企业采购信息服务网",
+     "h": "https://b.zhengcaiyun.cn/",
+     "oc": ""
+    }
+   ],
+   "dated": [
+    {
+     "t": "移液器（WLU-HW-KS-WM-2026-0225）采购公告",
+     "h": "",
+     "oc": "showDetailPublish(\"2026/10/16/\",\"20MVAPYYJV6KD29S\",\"c1197415407a6e2e31ba5269ffd8a9b0\");",
+     "d": "2026年10月21"
+    },
+    {
+     "t": "可见光催化LED光源（WLU-HW-KS-NM-2026-1293）采购公告",
+     "h": "",
+     "oc": "showDetailPublish(\"2026/10/16/\",\"20MVAPS8Q7HDMLZU\",\"212e194a5a572535a620aff54d49af68\");",
+     "d": "2026年10月21"
+    },
+    {
+     "t": "立体光固化3D打印机（WLU-HW-KS-NM-2026-1269）延期公告",
+     "h": "",
+     "oc": "showDetailPublish(\"2026/10/16/\",\"20MVAOJHNDY7JLBZ\",\"db8aef3bd8b41d49d067cdee56b5bc70\");",
+     "d": "2026年10月21"
+    },
+    {
+     "t": "自动梯度稀释仪（WLL-HW-KS-NM-2026-0082）采购公告",
+     "h": "",
+     "oc": "showDetailPublish(\"2026/10/16/\",\"20MVALZ7QTM4SK51\",\"c1c8072d8b6b9e8db338eae030c7da01\");",
+     "d": "2026年10月21"
+    },
+    {
+     "t": "体视显微显微镜（WLU-HW-KS-NM-2026-1292）采购公告",
+     "h": "",
+     "oc": "showDetailPublish(\"2026/10/16/\",\"20MVAKWHO6S2U8JN\",\"dc1188225cb1dc16265e1df00acfd996\");",
+     "d": "2026年10月21"
+    },
+    {
+     "t": "臭氧冷凝器（WLU-HW-KS-NM-2026-1267）延期公告",
+     "h": "",
+     "oc": "showDetailPublish(\"2026/10/16/\",\"20MVAJZS00T5C878\",\"5b93f4248f39158583bc7a423c08d6e2\");",
+     "d": "2026年10月21"
+    },
+    {
+     "t": "GMP车间自净传递窗（WLU-HW-KS-NM-2026-1291）采购公告",
+     "h": "",
+     "oc": "showDetailPublish(\"2026/10/16/\",\"20MVAEYMU3TR6Y5G\",\"53f25b959afe4559e2f52007c66ce956\");",
+     "d": "2026年10月21"
+    },
+    {
+     "t": "西湖大学2026-2028年招标代理委托服务遴选（WLU-FW-QT-NM-2026-1250）采购公告",
+     "h": "",
+     "oc": "showDetailPublish(\"2026/10/16/\",\"20MVAC8TJBPEMGTK\",\"56411e489e40b3dd7cdab84049c2b9af\");",
+     "d": "2026年10月28"
+    },
+    {
+     "t": "生物型原子力显微镜升级拼图模块（WLU-FW-KS-WM-2026-0224）采购公告",
+     "h": "",
+     "oc": "showDetailPublish(\"2026/10/16/\",\"20MVAB4M7R1ZLMX1\",\"a9e588673da31672a0507dfd3b11d48e\");",
+     "d": "2026年10月21"
+    },
+    {
+     "t": "倒置荧光显微镜（WLU-HW-KS-NM-2026-1290）采购公告",
+     "h": "",
+     "oc": "showDetailPublish(\"2026/10/16/\",\"20MVAAPOXHNJDW0H\",\"6843f7815e8a96b64897d01d5b070dcb\");",
+     "d": "2026年10月21"
+    },
+    {
+     "t": "倒置显微镜+生物安全柜（WLU-HW-KS-NM-2026-1289）采购公告",
+     "h": "",
+     "oc": "showDetailPublish(\"2026/10/16/\",\"20MVAA12P14CAFUB\",\"4ec14381a37a95b71e8a75e197fb6617\");",
+     "d": "2026年10月21"
+    },
+    {
+     "t": "关于西湖大学临床医学研究中心设备更新项目审计报告(第二次)（WLU-FW-CS-NM-2026-1138(第二次)）竞争性磋商公告",
+     "h": "",
+     "oc": "showDetailPublish(\"2026/10/16/\",\"20MVA9DLBMTVBVDQ\",\"bcd63cc6aa630afa06df407990f4688e\");",
+     "d": "2026年10月23"
+    },
+    {
+     "t": "西湖大学危化品库房管理服务项目（WLU-FW-CS-NM-2026-1194）竞争性磋商公告",
+     "h": "",
+     "oc": "showDetailPublish(\"2026/10/15/\",\"20MV9E3RPJ2SE0LZ\",\"3cffea5e7e2e5836dc02256389edd830\");",
+     "d": "2026年10月26"
+    },
+    {
+     "t": "光弹调制解调设备（WLU-HW-KS-NM-2026-1287）采购公告",
+     "h": "",
+     "oc": "showDetailPublish(\"2026/10/15/\",\"20MV9C4XGXW9B032\",\"7fb7bd57625f21629fd27250dd136f5f\");",
+     "d": "2026年10月20"
+    },
+    {
+     "t": "酵母显微操作仪（WLU-HW-KS-NM-2026-1264）延期公告",
+     "h": "",
+     "oc": "showDetailPublish(\"2026/10/15/\",\"20MV9B6V0XWAXAQF\",\"ba0b68979727adc59466ac98b0be3236\");",
+     "d": "2026年10月20"
+    }
+   ],
+   "textHead": "采购工作办公室\nOFFICE OF PROCUREMENT\n首页\nHOME\n规章制度\nRULES & REGULATION\n通知要闻\nNEWS\n联系我们\nCONTACT US\n下载中心\nDOWNLOAD CENTER\n公示公告\n采购公告\n结果公告\n采购公告\n采购方式\n全部\n快速竞价\n询价\n竞争性磋商/谈判\n公开招标/邀请招标\n单一来源\n遴选/比选\n其他\n采购类别\n全部\n货物\n工程\n服务\n显示信息\n全部\n进行中\n已过期\n关键字\n查询\n移液器（WLU-HW-KS-WM-2026-0225）采购公告\n2026年10月21日 17时00分截止\n可见光催化LED光源（WLU-HW-KS-NM-2026-1293）采购公告\n2026年10月21日 17时00分截止\n立体光固化3D打印机（WLU-HW-KS-NM-2026-1269）延期公告\n2026年10月21日 17时00分截止\n自动梯度稀释仪（WLL-HW-KS-NM-2026-0082）采购公告\n2026年10月21日 15时00分截止\n体视显微显微镜（WLU-HW-KS-NM-2026-1292）采购公告\n2026年10月21日 15时00分截止\n臭氧冷凝器（WLU-HW-KS-NM-2026-1267）延期公告\n2026年10月21日 14时00分截止\nGMP车间自净传递窗（WLU-HW-KS-NM-2026-1291）采购公告\n2"
+  },
+  "reqs": [
+   {
+    "m": "POST",
+    "u": "https://procurement.westlake.edu.cn/sfw_cms/e",
+    "b": "window_=json&t_=0.02144151797740057&request_method_=ajax&browser_=notmsie&page=cms.psms.tender.queryTimeOpen"
+   },
+   {
+    "m": "POST",
+    "u": "https://procurement.westlake.edu.cn/sfw_cms/e",
+    "b": "t_=0.9832500043073884&window_=json&start=1&limit=25&filter=&sort=begin_time%20desc&type=ZCXQ&type=YQXQ&type=BYXQ&type=CSXQ&isEnd=&catalog=&shopType=&keywords=&ops_uuid=40cc3e0132e6a41c724a0e2612b1577f&request_method_=ajax&browser_=notmsie&page=cms.psms.publish.query"
+   },
+   {
+    "m": "POST",
+    "u": "https://procurement.westlake.edu.cn/sfw_cms/e",
+    "b": "t_=0.06937851436397602&window_=json&start=26&limit=25&filter=&sort=begin_time%20desc&type=ZCXQ&type=YQXQ&type=BYXQ&type=CSXQ&isEnd=&catalog=&shopType=&keywords=&ops_uuid=40cc3e0132e6a41c724a0e2612b1577f&request_method_=ajax&browser_=notmsie&page=cms.psms.publish.query"
+   }
+  ],
+  "json": []
+ },
+ {
+  "key": "UESTC",
+  "url": "https://cg.uestc.edu.cn/",
+  "home": {
+   "title": "电子科技大学招标采购网",
+   "url": "https://cg.uestc.edu.cn/f/list-a607f12009cf4e969c23c2c181b4d306.html",
+   "tech": "技术支持",
+   "sfw": false,
+   "uuid": "",
+   "appPath": "",
+   "showDetail": "",
+   "nav": [
+    {
+     "t": "采购信息",
+     "h": "",
+     "oc": "javascript:window.location.href = '/f/list-bab1e63fa83e4c238d9262ec45e81b99.html'"
+    },
+    {
+     "t": "新闻公告",
+     "h": "",
+     "oc": "javascript:window.location.href = '/f/list-87854690c28347598424ef67785cbcaa.html'"
+    },
+    {
+     "t": "采购信息",
+     "h": "/f/list-bab1e63fa83e4c238d9262ec45e81b99.html",
+     "oc": ""
+    },
+    {
+     "t": "新闻公告",
+     "h": "/f/list-87854690c28347598424ef67785cbcaa.html",
+     "oc": ""
+    },
+    {
+     "t": "查看更多",
+     "h": "/f/list-5e5b2c7033a3479e9066e1c83eb45a00.html",
+     "oc": ""
+    },
+    {
+     "t": "查看更多",
+     "h": "/f/list-16b1c59063ab42bd84c0ea4c56cfa16e.html",
+     "oc": ""
+    },
+    {
+     "t": "查看更多",
+     "h": "/f/list-0a6061da8fa4491ba6660014535e73fb.html",
+     "oc": ""
+    },
+    {
+     "t": "查看更多",
+     "h": "/f/list-9ac369d4215841409d5a0303ef6237b8.html",
+     "oc": ""
+    },
+    {
+     "t": "单一来源采购模板",
+     "h": "/f/view-0543a73591e047179852e0e972936088-44afe9014c884147b38579cd381fcd60.html",
+     "oc": ""
+    },
+    {
+     "t": "政府采购需求调查相关表格",
+     "h": "/f/view-0543a73591e047179852e0e972936088-4398535ff88e40e9910cab5d3b2166c6.html",
+     "oc": ""
+    },
+    {
+     "t": "政府采购意向公开参考文本",
+     "h": "/f/view-0543a73591e047179852e0e972936088-d83358eb100249c586515307f398409d.html",
+     "oc": ""
+    },
+    {
+     "t": "查看更多",
+     "h": "/f/list-0543a73591e047179852e0e972936088.html",
+     "oc": ""
+    },
+    {
+     "t": "采购需求提交",
+     "h": "/f/view-ddcddb924d144cb5981278561cdb4e51-d9e201aa81fe4e77afa77ae5b13471ab.html",
+     "oc": ""
+    },
+    {
+     "t": "采购文件权限管理",
+     "h": "/f/view-ddcddb924d144cb5981278561cdb4e51-85acce0c64e04f808f6e146342905719.html",
+     "oc": ""
+    },
+    {
+     "t": "招标采购管理系统用户使用手册",
+     "h": "/f/view-ddcddb924d144cb5981278561cdb4e51-140873b9f1d54f0c8a05794761e2c498.html",
+     "oc": ""
+    },
+    {
+     "t": "电子卖场采购步骤",
+     "h": "/f/view-ddcddb924d144cb5981278561cdb4e51-cb551510798742ad833bbf44fce802a6.html",
+     "oc": ""
+    },
+    {
+     "t": "采购评审专家资格申请",
+     "h": "/f/view-ddcddb924d144cb5981278561cdb4e51-43e9bc0da689493cbc8a7dab66033e26.html",
+     "oc": ""
+    },
+    {
+     "t": "采购不复杂你问我来答",
+     "h": "/f/view-ddcddb924d144cb5981278561cdb4e51-2b5887ad708742ccb5b6f7606c3415a6.html",
+     "oc": ""
+    },
+    {
+     "t": "查看更多",
+     "h": "/f/list-ddcddb924d144cb5981278561cdb4e51.html",
+     "oc": ""
+    },
+    {
+     "t": "查看更多",
+     "h": "/f/list-ecf0222f33db441dac84186c57b77676.html",
+     "oc": ""
+    },
+    {
+     "t": "中国政府采购网",
+     "h": "",
+     "oc": "window.open('https://www.ccgp.gov.cn')"
+    },
+    {
+     "t": "中央政府采购网",
+     "h": "",
+     "oc": "window.open('https://www.zycg.gov.cn')"
+    },
+    {
+     "t": "教育部政府采购网",
+     "h": "",
+     "oc": "window.open('https://www.zfcg.edu.cn')"
+    },
+    {
+     "t": "四川省公共资源交易信息网",
+     "h": "",
+     "oc": "window.open('https://ggzyjy.sc.gov.cn')"
+    },
+    {
+     "t": "政府采购严重违法失信名单",
+     "h": "",
+     "oc": "window.open('https://www.ccgp.gov.cn/search/cr')"
+    },
+    {
+     "t": "采购信息",
+     "h": "/f/list-bab1e63fa83e4c238d9262ec45e81b99.html",
+     "oc": ""
+    },
+    {
+     "t": "新闻公告",
+     "h": "/f/list-87854690c28347598424ef67785cbcaa.html",
+     "oc": ""
+    }
+   ],
+   "dated": [],
+   "textHead": "首页\n采购信息\n理论案例\n新闻公告\n政策法规\n服务指南\n资料下载\n常见问题\n曝光台\n关于我们\n2026-03-27\n关于编制2026年度政府采购预算的通知\n\n \n\n采购信息\n新闻公告\n政策法规\n服务指南\n资料下载\n关于我们\n\t\n查看更多\n新闻动态 / News information\n07.21\n2026\n\t\n招标采购中心召开暑期工作部署会\n11.07\n2025\n\t\n招标采购中心联合开展采购管理人员廉政教育培训\n10.09\n2025\n\t\n转发：国务院办公厅印发《关于在政府采购中实施本国产品标准及相关政策的通知》\n\t\n应用系统 / Application system\n采购公告 / Procurement Notice\n16\n2026.10\nHW20260009201-超声波精密喷涂机（...\nHW20260009201-超声波精密喷涂机（...\nGC20260004701-电子科技大学清水河...\nHW20260007701-电子科技大学构建DSP...\nFW20260012501-电子科技大学XXXX项...\nFW20260011101-通讯测试服务-竞争性...\nGC20260006001-电子科技大学中古脑...\nFW20260012101-电子科技大学2026~20...\n查看更多\n结果公示 / Procurement Results Release\n15\n2026.10\n"
+  },
+  "reqs": [],
+  "json": []
+ },
+ {
+  "key": "TONGJI",
+  "url": "https://czb.tongji.edu.cn/sggl/cgw/index.jsp",
+  "home": {
+   "title": "同济大学采购与招标管理办公室",
+   "url": "https://czb.tongji.edu.cn/sggl/cgw/index.jsp",
+   "tech": "",
+   "sfw": false,
+   "uuid": "",
+   "appPath": "",
+   "showDetail": "",
+   "nav": [
+    {
+     "t": "采购意向公开",
+     "h": "/sggl/cgw/list.jsp?lmbh=YYGK",
+     "oc": ""
+    },
+    {
+     "t": "招标公告",
+     "h": "/sggl/cgw/zbggList.jsp?type=A",
+     "oc": ""
+    },
+    {
+     "t": "结果公告",
+     "h": "/sggl/cgw/jggsList.jsp?type=A",
+     "oc": ""
+    },
+    {
+     "t": "更多",
+     "h": "list.jsp?lmbh=TZGG",
+     "oc": ""
+    },
+    {
+     "t": "试剂耗材（含危化品）采购入口",
+     "h": "https://cgmall.tongji.edu.cn/mall/#/home",
+     "oc": ""
+    },
+    {
+     "t": "更多",
+     "h": "list.jsp?lmbh=GZDT",
+     "oc": ""
+    },
+    {
+     "t": "更多",
+     "h": "list.jsp?lmbh=YYGK",
+     "oc": ""
+    },
+    {
+     "t": "更多",
+     "h": "zbggList.jsp?type=A",
+     "oc": ""
+    },
+    {
+     "t": "竞价采购公告",
+     "h": "javascript:;",
+     "oc": ""
+    },
+    {
+     "t": "智能测试单元采购项目",
+     "h": "zbggNews.jsp?type=A&gglx=1&wid=202610150138951828",
+     "oc": ""
+    },
+    {
+     "t": "移动金融方舱采购项目",
+     "h": "zbggNews.jsp?type=A&gglx=1&wid=202610090138892261",
+     "oc": ""
+    },
+    {
+     "t": "可见近红外荧光光谱仪采购项目",
+     "h": "zbggNews.jsp?type=A&gglx=1&wid=202608310138640606",
+     "oc": ""
+    },
+    {
+     "t": "智能眼镜样机定制开发采购项目",
+     "h": "zbggNews.jsp?type=A&gglx=1&wid=202609280138842212",
+     "oc": ""
+    },
+    {
+     "t": "定制型图形工作站采购项目",
+     "h": "zbggNews.jsp?type=A&gglx=1&wid=202608310138640595",
+     "oc": ""
+    },
+    {
+     "t": "更多",
+     "h": "jggsList.jsp?type=A",
+     "oc": ""
+    },
+    {
+     "t": "竞价结果公告",
+     "h": "javascript:;",
+     "oc": ""
+    },
+    {
+     "t": "智能测试单元采购项目失败公告",
+     "h": "jggsNews.jsp?type=A&wid=202608270138625198",
+     "oc": ""
+    },
+    {
+     "t": "PLC控制材料成交公告",
+     "h": "jggsNews.jsp?lmbh_n=JJJGGG&wid=202610150138953786",
+     "oc": ""
+    },
+    {
+     "t": "无缝管技术测试服务成交公告",
+     "h": "jggsNews.jsp?lmbh_n=JJJGGG&wid=202610150138951633",
+     "oc": ""
+    },
+    {
+     "t": "深海科学馆展陈更新成交公告",
+     "h": "jggsNews.jsp?lmbh_n=JJJGGG&wid=202610140138944254",
+     "oc": ""
+    },
+    {
+     "t": "中国政府采购网",
+     "h": "http://www.ccgp.gov.cn",
+     "oc": ""
+    },
+    {
+     "t": "中央政府采购网",
+     "h": "http://www.zycg.gov.cn",
+     "oc": ""
+    },
+    {
+     "t": "教育部政府采购网",
+     "h": "http://www.zfcg.edu.cn",
+     "oc": ""
+    },
+    {
+     "t": "上海市政府采购网",
+     "h": "http://www.ccgp-shanghai.gov.cn/",
+     "oc": ""
+    },
+    {
+     "t": "国家企业信用信息公示系统",
+     "h": "http://sh.gsxt.gov.cn/index.html",
+     "oc": ""
+    }
+   ],
+   "dated": [
+    {
+     "t": "采招办2026年暑期工作安排表",
+     "h": "news.jsp?lmbh=TZGG&wid=202607150138432136",
+     "oc": "",
+     "d": "2026-07-10"
+    },
+    {
+     "t": "关于全面推广学校试剂耗材采购管理平台使用的通知",
+     "h": "news.jsp?lmbh=TZGG&wid=202606050138167340",
+     "oc": "",
+     "d": "2026-06-04"
+    },
+    {
+     "t": "关于全面推广学校竞价平台使用的通知",
+     "h": "news.jsp?lmbh=TZGG&wid=202606050138167293",
+     "oc": "",
+     "d": "2026-06-04"
+    },
+    {
+     "t": "同济大学关于征集竞价平台供应商的公告",
+     "h": "news.jsp?lmbh=TZGG&wid=202512260137278159",
+     "oc": "",
+     "d": "2025-12-26"
+    },
+    {
+     "t": "筑牢采购合规防线 信息赋能高校采购-开展试剂耗材采购及网上竞价平台专项培训",
+     "h": "news.jsp?lmbh=GZDT&wid=202606040138163468",
+     "oc": "",
+     "d": "2026-06-04"
+    },
+    {
+     "t": "赴上海交通大学医学院调研试剂耗材平台建设事宜",
+     "h": "news.jsp?lmbh=GZDT&wid=202512030137035132",
+     "oc": "",
+     "d": "2025-12-03"
+    },
+    {
+     "t": "举办同济大学竞价平台使用规则及采购工作要点培训会",
+     "h": "news.jsp?lmbh=GZDT&wid=202504080135263245",
+     "oc": "",
+     "d": "2025-03-24"
+    },
+    {
+     "t": "奋进新时代 携手向未来 ——同济大学2025年市北中学校园开放日活动圆满举行",
+     "h": "news.jsp?lmbh=GZDT&wid=202503180135133680",
+     "oc": "",
+     "d": "2025-03-03"
+    },
+    {
+     "t": "采招办、基建处赴公共资源交易中心调研学习",
+     "h": "news.jsp?lmbh=GZDT&wid=202411280134429782",
+     "oc": "",
+     "d": "2024-11-28"
+    },
+    {
+     "t": "采购与招标管理办公室举办采购政策宣讲会",
+     "h": "news.jsp?lmbh=GZDT&wid=202410140133950785",
+     "oc": "",
+     "d": "2024-10-12"
+    },
+    {
+     "t": "同济大学校园开放日招生宣讲活动-上海市市北中学专场",
+     "h": "news.jsp?lmbh=GZDT&wid=202401220132354816",
+     "oc": "",
+     "d": "2024-01-14"
+    },
+    {
+     "t": "中南大学采购与招标管理中心来我校调研",
+     "h": "news.jsp?lmbh=GZDT&wid=202312250132211691",
+     "oc": "",
+     "d": "2023-12-21"
+    },
+    {
+     "t": "采购与招标管理办公室联合上海海关关税处举办科技创新税收优惠政策宣讲会",
+     "h": "news.jsp?lmbh=GZDT&wid=202312080132055271",
+     "oc": "",
+     "d": "2023-12-01"
+    },
+    {
+     "t": "教育部全国学生资助管理中心调研组莅临我校调研指导",
+     "h": "news.jsp?lmbh=GZDT&wid=202309140131368656",
+     "oc": "",
+     "d": "2023-08-18"
+    },
+    {
+     "t": "同济大学2026年政府采购意向公开（10-15）",
+     "h": "news.jsp?lmbh=YYGK&wid=202610150138948766",
+     "oc": "",
+     "d": "2026-10-15"
+    }
+   ],
+   "textHead": "首页\n机构设置\n工作指南\n采购意向公开\n招标公告\n结果公告\n政策法规\n资料下载\n联系我们\n筑牢采购合规防线 信息赋能高校采购-开展试剂耗材采购及网上竞价平台专项培训\n通知公告\n更多\n采招办2026年暑期工作安排表\n2026-07-10\n关于全面推广学校试剂耗材采购管理平台使用的通知\n2026-06-04\n关于全面推广学校竞价平台使用的通知\n2026-06-04\n同济大学关于征集竞价平台供应商的公告\n2025-12-26\n系统维护通知\n2025-09-19\n采购管理系统用户登录\n同济统一身份认证登录\n非同济统一身份认证登录\n搜索\n试剂耗材（含危化品）采购入口\n工作动态\n更多\n筑牢采购合规防线 信息赋能高校采购-开展试剂耗材采购及网上竞价平台专项培训\n2026-06-04\n赴上海交通大学医学院调研试剂耗材平台建设事宜\n2025-12-03\n举办同济大学竞价平台使用规则及采购工作要点培训会\n2025-03-24\n奋进新时代 携手向未来 ——同济大学2025年市北中学校园开放日活动圆满举行\n2025-03-03\n采招办、基建处赴公共资源交易中心调研学习\n2024-11-28\n采购与招标管理办公室举办采购政策宣讲会\n2024-10-12\n同济大学校园开放日招生宣讲活动-上海市市北中学专场\n2024-01-14\n中南大学采购与招标管理中心来我校调研\n2023-12-21\n采购与招标管理办公室联"
+  },
+  "reqs": [],
+  "json": []
+ },
+ {
+  "key": "WHU",
+  "url": "https://zb.whu.edu.cn/",
+  "home": {
+   "title": "武汉大学采购与招投标管理中心",
+   "url": "https://zb.whu.edu.cn/",
+   "tech": "",
+   "sfw": false,
+   "uuid": "",
+   "appPath": "",
+   "showDetail": "",
+   "nav": [
+    {
+     "t": "设备采购招标办公室",
+     "h": "jigoushezhi/sbcgzbbgs.htm",
+     "oc": ""
+    },
+    {
+     "t": "工程招标办公室",
+     "h": "jigoushezhi/gczbbgs.htm",
+     "oc": ""
+    },
+    {
+     "t": "采购与招标监督管理办公室",
+     "h": "jigoushezhi/cgyzbjdglbgs.htm",
+     "oc": ""
+    },
+    {
+     "t": "采购信息",
+     "h": "cgxx.htm",
+     "oc": ""
+    },
+    {
+     "t": "信息公开",
+     "h": "https://info.whu.edu.cn/bmxxgkxw12/cgyztbglzx.htm",
+     "oc": ""
+    },
+    {
+     "t": "采购信息",
+     "h": "cgxx.htm",
+     "oc": ""
+    },
+    {
+     "t": "信息公开",
+     "h": "https://info.whu.edu.cn/bmxxgkxw12/cgyztbglzx.htm",
+     "oc": ""
+    },
+    {
+     "t": "集中采购",
+     "h": "http://cgztb.whu.edu.cn/Home",
+     "oc": "_addDynClicks(\"wbimage\", 1813274769, 64088)"
+    },
+    {
+     "t": "分散采购备案",
+     "h": "http://cgztb.whu.edu.cn/Home",
+     "oc": "_addDynClicks(\"wbimage\", 1813274769, 64089)"
+    },
+    {
+     "t": "采购意向公开",
+     "h": "http://cgztb.whu.edu.cn/Home",
+     "oc": "_addDynClicks(\"wbimage\", 1813274769, 64091)"
+    },
+    {
+     "t": "采购需求",
+     "h": "http://cgztb.whu.edu.cn/Home",
+     "oc": "_addDynClicks(\"wbimage\", 1813274769, 64092)"
+    },
+    {
+     "t": "查看更多",
+     "h": "list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1061",
+     "oc": ""
+    },
+    {
+     "t": "查看更多",
+     "h": "gzdt.htm",
+     "oc": ""
+    },
+    {
+     "t": "有关采购工作的通知",
+     "h": "nr.jsp?urltype=news.NewsContentUrl&wbtreeid=1003&wbnewsid=143631",
+     "oc": ""
+    },
+    {
+     "t": "查看更多",
+     "h": "list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1511",
+     "oc": ""
+    },
+    {
+     "t": "查看更多",
+     "h": "list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1004",
+     "oc": ""
+    },
+    {
+     "t": "查看更多",
+     "h": "list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1005",
+     "oc": ""
+    },
+    {
+     "t": "查看更多",
+     "h": "cgxx.htm",
+     "oc": ""
+    },
+    {
+     "t": "便携式计算机10台招标公告",
+     "h": "info/1028/143061.htm",
+     "oc": ""
+    },
+    {
+     "t": "台式计算机31台招标公告",
+     "h": "info/1028/143051.htm",
+     "oc": ""
+    },
+    {
+     "t": "台式计算机1台招标公告",
+     "h": "info/1028/143041.htm",
+     "oc": ""
+    },
+    {
+     "t": "台式计算机招标公告",
+     "h": "info/1028/143031.htm",
+     "oc": ""
+    },
+    {
+     "t": "7吨轻质模型沙采购采购失败",
+     "h": "info/1029/145181.htm",
+     "oc": ""
+    },
+    {
+     "t": "无液氦稀释制冷机成交结果公告",
+     "h": "info/1039/144651.htm",
+     "oc": ""
+    },
+    {
+     "t": "无液氦稀释制冷机成交结果公告",
+     "h": "info/1039/144641.htm",
+     "oc": ""
+    },
+    {
+     "t": "万能拉力试验机成交结果公告",
+     "h": "info/1041/145131.htm",
+     "oc": ""
+    },
+    {
+     "t": "打印机成交结果公告",
+     "h": "info/1042/122451.htm",
+     "oc": ""
+    },
+    {
+     "t": "台式电脑成交结果公告",
+     "h": "info/1042/122431.htm",
+     "oc": ""
+    },
+    {
+     "t": "业务安全网关成交结果公告",
+     "h": "info/1042/119071.htm",
+     "oc": ""
+    },
+    {
+     "t": "便携式计算机成交结果公告",
+     "h": "info/1042/114471.htm",
+     "oc": ""
+    },
+    {
+     "t": "重点项目绩效评价工作结果公告",
+     "h": "info/1046/144371.htm",
+     "oc": ""
+    },
+    {
+     "t": "武汉大学宗地测绘服务结果公告",
+     "h": "info/1051/141771.htm",
+     "oc": ""
+    }
+   ],
+   "dated": [
+    {
+     "t": "2025-11-14\n支部共建聚合力 采购服务促发展 ——采购与招投标管理中心党支部与人工智能学院人工智能应用系教工党支部、服务支撑团队教工",
+     "h": "nr.jsp?urltype=news.NewsContentUrl&wbtreeid=1004&wbnewsid=113851",
+     "oc": "",
+     "d": "2025-11-14"
+    },
+    {
+     "t": "2026-05-18\n强化政治监督 提升治理效能——党委巡视办党支部、采购与招投标管理中心党支部联合开展主题党日活动",
+     "h": "nr.jsp?urltype=news.NewsContentUrl&wbtreeid=1061&wbnewsid=127341",
+     "oc": "",
+     "d": "2026-05-18"
+    },
+    {
+     "t": "2026-05-18\n强化政治监督 提升治理效能——党委巡视办党支部、采购与招投标管理中心党支部联合开展主题党日活动",
+     "h": "nr.jsp?urltype=news.NewsContentUrl&wbtreeid=1004&wbnewsid=127331",
+     "oc": "",
+     "d": "2026-05-18"
+    },
+    {
+     "t": "2026-04-22\n武汉大学2025年度采购代理机构考核反馈暨工作交流会顺利召开",
+     "h": "nr.jsp?urltype=news.NewsContentUrl&wbtreeid=1061&wbnewsid=124871",
+     "oc": "",
+     "d": "2026-04-22"
+    },
+    {
+     "t": "2026-03-27\n全国学生资助管理中心（教育部政府采购中心）来校调研，共话高校采购高质量发展",
+     "h": "nr.jsp?urltype=news.NewsContentUrl&wbtreeid=1061&wbnewsid=122971",
+     "oc": "",
+     "d": "2026-03-27"
+    },
+    {
+     "t": "2025-11-14\n支部共建聚合力 采购服务促发展 ——采购与招投标管理中心党支部与人工智能学院人工智能应用系教工党支部、服务支撑团队教工",
+     "h": "nr.jsp?urltype=news.NewsContentUrl&wbtreeid=1004&wbnewsid=113851",
+     "oc": "",
+     "d": "2025-11-14"
+    },
+    {
+     "t": "2026-05-18\n强化政治监督 提升治理效能——党委巡视办党支部、采购与招投标管理中心党支部联合开展主题党日活动",
+     "h": "nr.jsp?urltype=news.NewsContentUrl&wbtreeid=1061&wbnewsid=127341",
+     "oc": "",
+     "d": "2026-05-18"
+    },
+    {
+     "t": "有关采购工作的通知",
+     "h": "nr.jsp?urltype=news.NewsContentUrl&wbtreeid=1003&wbnewsid=143631",
+     "oc": "",
+     "d": "2026-09-29"
+    },
+    {
+     "t": "采购与招投标管理中心2026年暑假期间工作安排",
+     "h": "info/1003/136861.htm",
+     "oc": "",
+     "d": "2026-07-21"
+    },
+    {
+     "t": "学校第十届党委“治理能力建设”专项巡视 第七巡视组进驻采购与招投标管理中心",
+     "h": "nr.jsp?urltype=news.NewsContentUrl&wbtreeid=1003&wbnewsid=125201",
+     "oc": "",
+     "d": "2026-04-24"
+    },
+    {
+     "t": "采购与招投标管理中心2026年寒假期间工作安排",
+     "h": "info/1003/120471.htm",
+     "oc": "",
+     "d": "2026-01-20"
+    },
+    {
+     "t": "关于征求对采购与招投标管理中心领导班子及成员2025年度民主生活会意见建议的通知",
+     "h": "nr.jsp?urltype=news.NewsContentUrl&wbtreeid=1003&wbnewsid=119351",
+     "oc": "",
+     "d": "2026-01-05"
+    },
+    {
+     "t": "关于征集教育部直属系统采购评审专家的通知",
+     "h": "info/1003/119131.htm",
+     "oc": "",
+     "d": "2025-12-31"
+    },
+    {
+     "t": "采购与招投标管理中心2025年暑假期间工作安排",
+     "h": "info/1003/111031.htm",
+     "oc": "",
+     "d": "2025-07-17"
+    },
+    {
+     "t": "关于以民主推荐方式选拔采购与招投标管理中心设备采购招标办公室副主任的公告",
+     "h": "info/1003/111041.htm",
+     "oc": "",
+     "d": "2025-04-18"
+    }
+   ],
+   "textHead": "首页\n机构设置\n工作动态\n采购信息\n党建工作\n监督管理\n政策法规\n服务指南\n下载中心\n信息公开\n1\n2\n3\n 集中采购\n 分散采购备案\n 一体化直采\n 采购意向公开\n 采购需求\n 专家注册\n新闻动态\n查看更多\n2025-11-14\n支部共建聚合力 采购服务促发展 ——采购与招投标管理中心党支部与人工智能学院人工智能应用系教工党支部、服务支撑团队教工党支部联合开展主题党日活动\n2026-05-18\n强化政治监督 提升治理效能——党委巡视办党支部、采购与招投标管理中心党支部联合开展主题党日活动\n2026-05-18\n强化政治监督 提升治理效能——党委巡视办党支部、采购与招投标管理中心党支部联合开展主题党日活动\n2026-04-22\n武汉大学2025年度采购代理机构考核反馈暨工作交流会顺利召开\n2026-03-27\n全国学生资助管理中心（教育部政府采购中心）来校调研，共话高校采购高质量发展\n2025-11-14\n支部共建聚合力 采购服务促发展 ——采购与招投标管理中心党支部与人工智能学院人工智能应用系教工党支部、服务支撑团队教工党支部联合开展主题党日活动\n2026-05-18\n强化政治监督 提升治理效能——党委巡视办党支部、采购与招投标管理中心党支部联合开展主题党日活动\n12345\n通知公告\n工作动态\n党建工作\n监督管理\n查看更多\n有关采购工作的通知\n2026-09-29\n采购与招投标管"
+  },
+  "reqs": [],
+  "json": []
+ },
+ {
+  "key": "SUSTECH",
+  "url": "https://biddingoffice.sustech.edu.cn/",
+  "home": {
+   "title": "南方科技大学-采购与招标信息网",
+   "url": "https://biddingoffice.sustech.edu.cn/",
+   "tech": "",
+   "sfw": false,
+   "uuid": "",
+   "appPath": "",
+   "showDetail": "",
+   "nav": [
+    {
+     "t": "招标信息",
+     "h": "/tender/index/pid/2",
+     "oc": ""
+    },
+    {
+     "t": "校内集中采购招标公告",
+     "h": "/tender/index/pid/2/sort_id/7",
+     "oc": ""
+    },
+    {
+     "t": "政府集中采购招标公告",
+     "h": "/tender/index/pid/2/sort_id/8",
+     "oc": ""
+    },
+    {
+     "t": "校内集中采购非公开招标公告",
+     "h": "/tender/index/pid/2/sort_id/57",
+     "oc": ""
+    },
+    {
+     "t": "校内集中采购中标公告",
+     "h": "/tender/index/pid/2/sort_id/11",
+     "oc": ""
+    },
+    {
+     "t": "政府集中采购中标公告",
+     "h": "/tender/index/pid/2/sort_id/12",
+     "oc": ""
+    },
+    {
+     "t": "校内集中采购非公开成交公告",
+     "h": "/tender/index/pid/2/sort_id/58",
+     "oc": ""
+    },
+    {
+     "t": "信息公示",
+     "h": "/informationManagement/index/pid/45",
+     "oc": ""
+    },
+    {
+     "t": "疫情防控物资采购公示专栏",
+     "h": "/tender/index/pid/45/sort_id/60",
+     "oc": ""
+    },
+    {
+     "t": "重大项目采购需求公示",
+     "h": "/tender/index/pid/45/sort_id/56",
+     "oc": ""
+    },
+    {
+     "t": "MORE+",
+     "h": "/importNotice/index/pid/26",
+     "oc": ""
+    },
+    {
+     "t": "南方科技大学采购管理系统",
+     "h": "https://cggl.biddingoffice.sustech.edu.cn",
+     "oc": ""
+    },
+    {
+     "t": "南方科技大学竞采系统采购公告",
+     "h": "http://jc.biddingoffice.sustech.edu.cn/3gobidding/bulletinsShow/list?codeType=29",
+     "oc": ""
+    },
+    {
+     "t": "MORE+",
+     "h": "http://jc.biddingoffice.sustech.edu.cn/3gobidding/bulletinsShow/list?codeType=29",
+     "oc": ""
+    },
+    {
+     "t": "南方科技大学竞采系统成交公告",
+     "h": "http://jc.biddingoffice.sustech.edu.cn/3gobidding/bulletinsShow/list?codeType=30",
+     "oc": ""
+    },
+    {
+     "t": "MORE+",
+     "h": "http://jc.biddingoffice.sustech.edu.cn/3gobidding/bulletinsShow/list?codeType=30",
+     "oc": ""
+    },
+    {
+     "t": "校内集中采购公开招标公告",
+     "h": "/tender/index/sort_id/7/pid/2",
+     "oc": ""
+    },
+    {
+     "t": "MORE+",
+     "h": "/tender/index/sort_id/7/pid/2",
+     "oc": ""
+    },
+    {
+     "t": "校内集中采购公开招标结果公告",
+     "h": "/tender/index/sort_id/11/pid/2",
+     "oc": ""
+    },
+    {
+     "t": "MORE+",
+     "h": "/tender/index/sort_id/11/pid/2",
+     "oc": ""
+    },
+    {
+     "t": "校内集中采购非公开招标公告",
+     "h": "/tender/index/sort_id/57/pid/2",
+     "oc": ""
+    },
+    {
+     "t": "MORE+",
+     "h": "/tender/index/sort_id/57/pid/2",
+     "oc": ""
+    },
+    {
+     "t": "校内集中采购非公开成交公告",
+     "h": "/tender/index/sort_id/58/pid/2",
+     "oc": ""
+    },
+    {
+     "t": "MORE+",
+     "h": "/tender/index/sort_id/58/pid/2",
+     "oc": ""
+    },
+    {
+     "t": "政府集中采购招标公告",
+     "h": "/tender/index/sort_id/8/pid/2",
+     "oc": ""
+    },
+    {
+     "t": "MORE+",
+     "h": "/tender/index/sort_id/8/pid/2",
+     "oc": ""
+    },
+    {
+     "t": "政府集中采购结果公告",
+     "h": "/tender/index/sort_id/12/pid/2",
+     "oc": ""
+    },
+    {
+     "t": "MORE+",
+     "h": "/tender/index/sort_id/12/pid/2",
+     "oc": ""
+    },
+    {
+     "t": "招标公告",
+     "h": "https://cggl.biddingoffice.sustech.edu.cn/stock/bulletins/bulletinsListView.html?typeId=19",
+     "oc": ""
+    },
+    {
+     "t": "MORE+",
+     "h": "https://cggl.biddingoffice.sustech.edu.cn/stock/bulletins/bulletinsListView.html?typeId=19",
+     "oc": ""
+    },
+    {
+     "t": "非招标采购公示",
+     "h": "https://cggl.biddingoffice.sustech.edu.cn/stock/bulletins/bulletinsListView.html?typeId=11",
+     "oc": ""
+    },
+    {
+     "t": "MORE+",
+     "h": "https://cggl.biddingoffice.sustech.edu.cn/stock/bulletins/bulletinsListView.html?typeId=11",
+     "oc": ""
+    },
+    {
+     "t": "MORE+",
+     "h": "https://cggl.biddingoffice.sustech.edu.cn/stock/bulletins/bulletinsListView.html?typeId=10",
+     "oc": ""
+    },
+    {
+     "t": "结果公告",
+     "h": "https://cggl.biddingoffice.sustech.edu.cn/stock/bulletins/bulletinsListView.html?typeId=20",
+     "oc": ""
+    },
+    {
+     "t": "MORE+",
+     "h": "https://cggl.biddingoffice.sustech.edu.cn/stock/bulletins/bulletinsListView.html?typeId=20",
+     "oc": ""
+    },
+    {
+     "t": "高性能GPU服务器成交公告",
+     "h": "https://cggl.biddingoffice.sustech.edu.cn/cms/document/documentView?id=5d1b4561-8cd2-4438-a313-7869d7d9290c",
+     "oc": ""
+    },
+    {
+     "t": "重大项目采购需求公示",
+     "h": "/tender/index/sort_id/56/pid/2",
+     "oc": ""
+    },
+    {
+     "t": "MORE+",
+     "h": "/tender/index/sort_id/56/pid/2",
+     "oc": ""
+    },
+    {
+     "t": "MORE+",
+     "h": "/tender/index/sort_id/14/pid/2",
+     "oc": ""
+    },
+    {
+     "t": "非公开招标方式申请公示",
+     "h": "/publicity/index/sort_id/49/pid/47",
+     "oc": ""
+    },
+    {
+     "t": "MORE+",
+     "h": "/publicity/index/sort_id/49/pid/47",
+     "oc": ""
+    },
+    {
+     "t": "MORE+",
+     "h": "/tender/index/sort_id/29/pid/2",
+     "oc": ""
+    },
+    {
+     "t": "MORE+",
+     "h": "https://cggl.biddingoffice.sustech.edu.cn/stock/bulletins/bulletinsListView.html?typeId=17",
+     "oc": ""
+    }
+   ],
+   "dated": [
+    {
+     "t": "直接确定供应商方式采购结果公示（社科中心王立新教授课题组书籍采购）",
+     "h": "/importNotice/news/id/8627/pid/26",
+     "oc": "",
+     "d": "2026-10-16"
+    },
+    {
+     "t": "直接确定供应商方式采购结果公示（2027年CSD剑桥结构数据库采购）",
+     "h": "/importNotice/news/id/8626/pid/26",
+     "oc": "",
+     "d": "2026-10-15"
+    },
+    {
+     "t": "直接确定供应商方式采购结果公示（南方科技大学海洋高等研究院参加2026海博会展位）",
+     "h": "/importNotice/news/id/8624/pid/26",
+     "oc": "",
+     "d": "2026-09-30"
+    },
+    {
+     "t": "直接确定供应商方式采购结果公示（流式细胞分析仪原厂维保服务采购）",
+     "h": "/importNotice/news/id/8625/pid/26",
+     "oc": "",
+     "d": "2026-09-29"
+    },
+    {
+     "t": "直接确定供应商方式采购结果公示（集悦城A3栋网络服务采购）",
+     "h": "/importNotice/news/id/8623/pid/26",
+     "oc": "",
+     "d": "2026-09-28"
+    },
+    {
+     "t": "[终止公告]SUSTech-JC-2026-00350 浮力块制造加工服务终止公告",
+     "h": "http://jc.biddingoffice.sustech.edu.cn/3gobidding/bulletinsShow/show?id=6E64C522BCCF4A828DCB9BAED9CCA3AD",
+     "oc": "",
+     "d": "2026-10-16"
+    },
+    {
+     "t": "[延期公告]SUSTech-JC-2026-00343 有源相控阵系统相关配套组件延期公告",
+     "h": "http://jc.biddingoffice.sustech.edu.cn/3gobidding/bulletinsShow/show?id=95D99940821C4664BD1D1B5876AFFCDB",
+     "oc": "",
+     "d": "2026-10-16"
+    },
+    {
+     "t": "[采购公告]SUSTech-JC-2026-00363 气相色谱质谱联用仪采购采购公告",
+     "h": "http://jc.biddingoffice.sustech.edu.cn/3gobidding/bulletinsShow/show?id=E4E3857C638843ABBAEA7111A15A6404",
+     "oc": "",
+     "d": "2026-10-16"
+    },
+    {
+     "t": "[终止公告]SUSTech-JC-2026-00340 金属陶瓷三维成型机采购终止公告",
+     "h": "http://jc.biddingoffice.sustech.edu.cn/3gobidding/bulletinsShow/show?id=F7B73FFC445843BE83498B1545966055",
+     "oc": "",
+     "d": "2026-10-16"
+    },
+    {
+     "t": "[采购公告]SUSTech-JC-2026-00361 蛋白纯化系统采购公告",
+     "h": "http://jc.biddingoffice.sustech.edu.cn/3gobidding/bulletinsShow/show?id=CCE824CDD9734CEABD1FF407A3A43C63",
+     "oc": "",
+     "d": "2026-10-16"
+    },
+    {
+     "t": "[成交公告]SUSTech-JC-2026-00342 高性能GPU服务器成交公告",
+     "h": "http://jc.biddingoffice.sustech.edu.cn/3gobidding/bulletinsShow/show?id=F580D060635B447A821AD32396904456",
+     "oc": "",
+     "d": "2026-10-16"
+    },
+    {
+     "t": "[成交公告]SUSTech-JC-2026-00344 显微成像通用光引擎、半导体激光器采购成交公告",
+     "h": "http://jc.biddingoffice.sustech.edu.cn/3gobidding/bulletinsShow/show?id=3A39517D2CF3483E9B2BC5F4C78CAE93",
+     "oc": "",
+     "d": "2026-10-16"
+    },
+    {
+     "t": "[成交公告]SUSTech-JC-2026-00336 高性能计算工作站采购成交公告",
+     "h": "http://jc.biddingoffice.sustech.edu.cn/3gobidding/bulletinsShow/show?id=F2808D2D019746D2A850CABFBB3633DD",
+     "oc": "",
+     "d": "2026-10-15"
+    },
+    {
+     "t": "[成交公告]SUSTech-JC-2026-00330 气质联用仪及气相色谱-气体分析仪设备采购成交公告",
+     "h": "http://jc.biddingoffice.sustech.edu.cn/3gobidding/bulletinsShow/show?id=3C1F777AA1E044E49EC7DF4648FABE07",
+     "oc": "",
+     "d": "2026-10-15"
+    },
+    {
+     "t": "[成交公告]SUSTech-JC-2026-00335 2026年深圳国际数学中心（杰曼诺夫数学中心）多媒体报告厅设备升级成交公告",
+     "h": "http://jc.biddingoffice.sustech.edu.cn/3gobidding/bulletinsShow/show?id=47D14F34054F4C62AF3A059522DB84BF",
+     "oc": "",
+     "d": "2026-10-15"
+    }
+   ],
+   "textHead": "首页 部门介绍 招标信息 信息公示 办事指南 政策法规 资料下载 曝光台\n\n重要通知\n\nMORE+\n直接确定供应商方式采购结果公示（社科中心王立新教授课题组书籍采购）\n[2026-10-16]\n \n直接确定供应商方式采购结果公示（2027年CSD剑桥结构数据库采购）\n[2026-10-15]\n \n直接确定供应商方式采购结果公示（南方科技大学海洋高等研究院参加2026海博会展位）\n[2026-09-30]\n \n直接确定供应商方式采购结果公示（流式细胞分析仪原厂维保服务采购）\n[2026-09-29]\n \n直接确定供应商方式采购结果公示（集悦城A3栋网络服务采购）\n[2026-09-28]\n 校内流程办事指南\nCAS登录\n 咨询电话\n0755-88018567\n工作时间（法定工作日）\n8:30-12:00，14:00-17:30\n南方科技大学采购管理系统\n南方科技大学竞采系统\n南方科技大学网上商城\n框架协议系统\n\n南方科技大学竞采系统采购公告\n\nMORE+\n[终止公告]SUSTech-JC-2026-00350 浮力块制造加工服务终止公告\n2026-10-16\n[延期公告]SUSTech-JC-2026-00343 有源相控阵系统相关配套组件延期公告\n2026-10-16\n[采购公告]SUSTech-JC-2026-00363 气相色谱质谱联用仪采购采购公告\n2026-10-16\n[终"
+  },
+  "reqs": [
+   {
+    "m": "GET",
+    "u": "https://biddingoffice.sustech.edu.cn/jcApi/list?type_id=1&YII_CSRF_TOKEN=8467953610ccc1c24d741e7ff3dbe078c2427875&_=1792149477388",
+    "b": ""
+   },
+   {
+    "m": "GET",
+    "u": "https://biddingoffice.sustech.edu.cn/jcApi/list?type_id=2&YII_CSRF_TOKEN=8467953610ccc1c24d741e7ff3dbe078c2427875&_=1792149477389",
+    "b": ""
+   },
+   {
+    "m": "GET",
+    "u": "https://biddingoffice.sustech.edu.cn/jcApi/list2?type_id=10&YII_CSRF_TOKEN=8467953610ccc1c24d741e7ff3dbe078c2427875&_=1792149477390",
+    "b": ""
+   },
+   {
+    "m": "GET",
+    "u": "https://biddingoffice.sustech.edu.cn/jcApi/list2?type_id=11&YII_CSRF_TOKEN=8467953610ccc1c24d741e7ff3dbe078c2427875&_=1792149477391",
+    "b": ""
+   },
+   {
+    "m": "GET",
+    "u": "https://biddingoffice.sustech.edu.cn/jcApi/list2?type_id=20&YII_CSRF_TOKEN=8467953610ccc1c24d741e7ff3dbe078c2427875&_=1792149477392",
+    "b": ""
+   },
+   {
+    "m": "GET",
+    "u": "https://biddingoffice.sustech.edu.cn/jcApi/list2?type_id=17&YII_CSRF_TOKEN=8467953610ccc1c24d741e7ff3dbe078c2427875&_=1792149477393",
+    "b": ""
+   },
+   {
+    "m": "GET",
+    "u": "https://biddingoffice.sustech.edu.cn/jcApi/list2?type_id=19&YII_CSRF_TOKEN=8467953610ccc1c24d741e7ff3dbe078c2427875&_=1792149477394",
+    "b": ""
+   }
+  ],
+  "json": []
+ },
+ {
+  "key": "BUPT",
+  "url": "https://cg.bupt.edu.cn/sfw/e?page=cms.index",
+  "home": {
+   "title": "北京邮电大学采购与招标办公室",
+   "url": "https://cg.bupt.edu.cn/sfw/e?page=cms.index",
+   "tech": "",
+   "sfw": true,
+   "uuid": "",
+   "appPath": "",
+   "showDetail": "",
+   "nav": [
+    {
+     "t": "通知公告",
+     "h": "e?page=cms.news&cid=100166",
+     "oc": ""
+    },
+    {
+     "t": "MORE",
+     "h": "e?page=cms.news&cid=100166",
+     "oc": ""
+    },
+    {
+     "t": "暑期采购温馨提示",
+     "h": "e?page=cms.detail&cid=100166&aid=102944",
+     "oc": ""
+    },
+    {
+     "t": "MORE",
+     "h": "e?page=cms.psms.gglist&type=jj&typeDetail=CGGG",
+     "oc": ""
+    },
+    {
+     "t": "MORE",
+     "h": "e?page=cms.psms.gglist&type=bj&typeDetail=CGGG",
+     "oc": ""
+    },
+    {
+     "t": "MORE",
+     "h": "e?page=cms.news&cid=100167",
+     "oc": ""
+    },
+    {
+     "t": "中央政府采购网",
+     "h": "http://www.zycg.gov.cn/",
+     "oc": ""
+    },
+    {
+     "t": "中国政府采购网",
+     "h": "http://www.ccgp.gov.cn/",
+     "oc": ""
+    },
+    {
+     "t": "教育部政府采购网",
+     "h": "http://www.zfcg.edu.cn/",
+     "oc": ""
+    }
+   ],
+   "dated": [
+    {
+     "t": "规范采购管理 筑牢廉政防线——采招办召开2026-2029年货物与服务采购代理机构座谈会",
+     "h": "e?page=cms.detail&cid=100209&aid=102923",
+     "oc": "",
+     "d": "2026-07-02"
+    },
+    {
+     "t": "北京邮电大学举办采购招标业务与廉政风险防控培训",
+     "h": "e?page=cms.detail&cid=100209&aid=102913",
+     "oc": "",
+     "d": "2026-06-26"
+    },
+    {
+     "t": "深化联学聚合力 锚定实干树新风   机关党委多支部联合开展树立和践行 正确政绩观党课学习",
+     "h": "e?page=cms.detail&cid=100209&aid=102875",
+     "oc": "",
+     "d": "2026-06-05"
+    },
+    {
+     "t": "树立和践行正确政绩观 筑牢履职尽责思想根基  机关党委审计处党支部、机关党委采招办党支部开展专题联学合创活动",
+     "h": "e?page=cms.detail&cid=100209&aid=102858",
+     "oc": "",
+     "d": "2026-05-22"
+    },
+    {
+     "t": "采招办召开部门会议贯彻落实2026年教育部政府采购工作会议精神",
+     "h": "e?page=cms.detail&cid=100209&aid=102705",
+     "oc": "",
+     "d": "2026-04-03"
+    },
+    {
+     "t": "2026年教育部政府采购工作会议在湖北武汉召开",
+     "h": "e?page=cms.detail&cid=100209&aid=102704",
+     "oc": "",
+     "d": "2026-04-02"
+    },
+    {
+     "t": "机关党委采招办党支部部署开展树立和践行正确政绩观学习教育工作",
+     "h": "e?page=cms.detail&cid=100209&aid=102697",
+     "oc": "",
+     "d": "2026-03-20"
+    },
+    {
+     "t": "关于收集2026年第四季度批量集采计划的通知",
+     "h": "e?page=cms.detail&cid=100166&aid=102971",
+     "oc": "",
+     "d": "2026-09-08"
+    },
+    {
+     "t": "暑期采购温馨提示",
+     "h": "e?page=cms.detail&cid=100166&aid=102944",
+     "oc": "",
+     "d": "2026-07-20"
+    },
+    {
+     "t": "关于收集2026年8、9月份批量集采计划的通知",
+     "h": "e?page=cms.detail&cid=100166&aid=102945",
+     "oc": "",
+     "d": "2026-07-20"
+    },
+    {
+     "t": "关于收集2026年下半年政府采购意向公开项目的通知",
+     "h": "e?page=cms.detail&cid=100166&aid=102946",
+     "oc": "",
+     "d": "2026-07-17"
+    },
+    {
+     "t": "关于收集2026年7月批量集采计划的通知",
+     "h": "e?page=cms.detail&cid=100166&aid=102933",
+     "oc": "",
+     "d": "2026-07-06"
+    },
+    {
+     "t": "北京邮电大学2026-2029年货物与服务类项目采购代理机构公开遴选结果公告",
+     "h": "e?page=cms.detail&cid=100166&aid=102894",
+     "oc": "",
+     "d": "2026-06-23"
+    },
+    {
+     "t": "关于10万元以下采购合同全面纳入合同管理系统审批的通知",
+     "h": "e?page=cms.detail&cid=100166&aid=102876",
+     "oc": "",
+     "d": "2026-06-10"
+    },
+    {
+     "t": "北京邮电大学空芯光纤货物采购项目（二次）（BUPT-HWXCZB-26027(第二次)）公开招标公告",
+     "h": "javascript:void(0);",
+     "oc": "showQuickDetail(\"2026-10-15\",\"20MV98SLY7HH9YA0\",\"f3ad786bf1b00ff2c25525b11d0b2261\");",
+     "d": "2026-10-15"
+    }
+   ],
+   "textHead": "  采购与招标办公室\n首页 部门简介 工作动态 政策法规 通知公告 办事指南 文件下载 联系我们\n通知公告 工作动态\nMORE\n关于收集2026年第四季度批量集采计划的通知\n2026-09-08\n暑期采购温馨提示\n2026-07-20\n关于收集2026年8、9月份批量集采计划的通知\n2026-07-20\n关于收集2026年下半年政府采购意向公开项目的通知\n2026-07-17\n关于收集2026年7月批量集采计划的通知\n2026-07-06\n北京邮电大学2026-2029年货物与服务类项目采购代理机构公开遴选结果公告\n2026-06-23\n关于10万元以下采购合同全面纳入合同管理系统审批的通知\n2026-06-10\n采购公告 结果公告 采购意向公开\nMORE\n[公开招标]\n北京邮电大学空芯光纤货物采购项目（二次）（BUPT-HWXCZB-26027(第二次)）公开招标公告\n2026-10-15\n[公开招标]\n北京邮电大学国家人工智能产教融合创新平台智能通信网络频谱数据采集货物采购项目（二次）（BUPT-HWXCZB-26030(二次)）招标公告\n2026-10-13\n[公开招标]\n北京邮电大学老旧小区综合整治项目设计服务采购项目（BUPT-FWXCZB-26044）采购公告\n2026-10-09\n[校内快采]\n北京邮电大学变频模块采购项目（第二次）采购公告\n2026-10-08\n[公"
+  },
+  "list": {
+   "title": "北京邮电大学采购与招标办公室",
+   "url": "https://cg.bupt.edu.cn/sfw/e?page=cms.psms.gglist&typeDetail=XQ",
+   "tech": "",
+   "sfw": true,
+   "uuid": "40cc3e0132e6a41c724a0e2612b1577f",
+   "appPath": "",
+   "showDetail": "function showDetail(type, publish_id,id) {\n\t\twindow.open(\"/provider/#/publish/\"+publish_id);\n\t}",
+   "nav": [
+    {
+     "t": "通知公告",
+     "h": "e?page=cms.news&cid=100166",
+     "oc": ""
+    },
+    {
+     "t": "比价采购公告",
+     "h": "javascript:void(0);",
+     "oc": "changeChoose(this)"
+    },
+    {
+     "t": "比价结果公告",
+     "h": "javascript:void(0);",
+     "oc": "changeChoose(this)"
+    },
+    {
+     "t": "中央政府采购网",
+     "h": "http://www.zycg.gov.cn/",
+     "oc": ""
+    },
+    {
+     "t": "中国政府采购网",
+     "h": "http://www.ccgp.gov.cn/",
+     "oc": ""
+    },
+    {
+     "t": "教育部政府采购网",
+     "h": "http://www.zfcg.edu.cn/",
+     "oc": ""
+    }
+   ],
+   "dated": [],
+   "textHead": "  采购与招标办公室\n首页 部门简介 工作动态 政策法规 通知公告 办事指南 文件下载 联系我们\n公告信息\n比价采购公告\n比价结果公告\n显示信息\n全部\n进行中\n已过期\n关键字\n查询\n尚未查询，请点击 “刷新”进行查询。\n\n\n没有数据\n北京邮电大学中央政府采购网中国政府采购网教育部政府采购网\n版权所有  © 北京邮电大学  地址:北京市西土城路10号  邮编:100876"
+  },
+  "reqs": [
+   {
+    "m": "POST",
+    "u": "https://cg.bupt.edu.cn/sfw/e",
+    "b": "beginDate=2026-09-28&endDate=2026-11-08&executionModel=tender&state=750&state=760&state=740&shopType=GKZB&shopType=YQZB&shopType=JZXCS&shopType=JZXTP&shopType=DYLY&shopType=WSJJ&shopType=GKXJ&shopType=XJCG&shopType=JC-LX&shopType=LX&shopType=XJ&shopType=WSXJ&shopType=JC-DYLY&shopType=JC-JZXTP&shopType=JC-JZXCS&shopType=JC-GKZB&shopType=BX&shopType=WTGC&shopType=XNKC&window_=json&t_=0.5036056674308409&request_method_=ajax&browser_=notmsie&page=cms.psms.tender.queryTimeOpen"
+   }
+  ],
+  "json": []
+ },
+ {
+  "key": "PKU",
+  "url": "https://zwb.pku.edu.cn/zbtb/zbgg/index1.htm",
+  "home": {
+   "title": "北京大学总务部",
+   "url": "https://zwb.pku.edu.cn/zbtb/zbgg/index1.htm",
+   "tech": "",
+   "sfw": false,
+   "uuid": "",
+   "appPath": "",
+   "showDetail": "",
+   "nav": [
+    {
+     "t": "通知公告",
+     "h": "../index.htm",
+     "oc": ""
+    },
+    {
+     "t": "通知公告",
+     "h": "../index.htm",
+     "oc": ""
+    },
+    {
+     "t": "招标公告",
+     "h": "index.htm",
+     "oc": ""
+    },
+    {
+     "t": "招标公告",
+     "h": "index.htm",
+     "oc": ""
+    }
+   ],
+   "dated": [
+    {
+     "t": "[招标公告]北京大学新燕园校区至马池口变电站电力外线地勘及测绘项目（二次）比选公告",
+     "h": "50120zwb390470.htm",
+     "oc": "",
+     "d": "2025-07-11"
+    },
+    {
+     "t": "[招标公告]燕园大厦锅炉房换热站改造工程（二次）招标公告",
+     "h": "50120zwb390467.htm",
+     "oc": "",
+     "d": "2025-07-10"
+    },
+    {
+     "t": "[招标公告]北京大学新燕园校区至马池口变电站电力外线地勘及测绘项目比选公告",
+     "h": "50120zwb390205.htm",
+     "oc": "",
+     "d": "2025-06-24"
+    },
+    {
+     "t": "[招标公告]燕园大厦锅炉房换热站改造工程招标公告",
+     "h": "50120zwb390171.htm",
+     "oc": "",
+     "d": "2025-06-20"
+    },
+    {
+     "t": "[招标公告]学生宿舍43楼饮水机采购安装项目比选公告",
+     "h": "50120zwb390103.htm",
+     "oc": "",
+     "d": "2025-06-13"
+    },
+    {
+     "t": "[招标公告]2025年校园道路维修工程招标公告",
+     "h": "50120zwb390065.htm",
+     "oc": "",
+     "d": "2025-06-10"
+    },
+    {
+     "t": "[招标公告]2025年幼儿园基础设施维修改造工程招标公告",
+     "h": "50120zwb390064.htm",
+     "oc": "",
+     "d": "2025-06-10"
+    },
+    {
+     "t": "[招标公告]2025年学生宿舍卫生间、淋浴间修缮工程招标公告",
+     "h": "50120zwb390002.htm",
+     "oc": "",
+     "d": "2025-06-05"
+    },
+    {
+     "t": "[招标公告]2025毕业生学生宿舍暑期粉刷、检修工程招标公告",
+     "h": "50120zwb390001.htm",
+     "oc": "",
+     "d": "2025-06-05"
+    },
+    {
+     "t": "[招标公告]2025年新燕园道路及围墙维修招标公告",
+     "h": "50120zwb390000.htm",
+     "oc": "",
+     "d": "2025-06-05"
+    },
+    {
+     "t": "[招标公告]北京大学38号、45乙号宿舍楼空调设备移机服务项目比选公告",
+     "h": "50120zwb389760.htm",
+     "oc": "",
+     "d": "2025-05-26"
+    },
+    {
+     "t": "[招标公告]北京大学可回收物清运服务项目（二次）招标公告",
+     "h": "50120zwb389742.htm",
+     "oc": "",
+     "d": "2025-05-26"
+    },
+    {
+     "t": "[招标公告]110KV变电站10kV配电柜改造工程二期（二次）招标公告",
+     "h": "50120zwb387887.htm",
+     "oc": "",
+     "d": "2025-05-09"
+    },
+    {
+     "t": "[招标公告]农园食堂办公家具采购项目比选公告",
+     "h": "50120zwb387445.htm",
+     "oc": "",
+     "d": "2025-04-29"
+    },
+    {
+     "t": "[招标公告]北京大学畅春园食堂一层餐饮服务项目招标公告",
+     "h": "50120zwb387444.htm",
+     "oc": "",
+     "d": "2025-04-29"
+    }
+   ],
+   "textHead": "校内门户\n网络服务\n北大新闻\n部门概况\n后勤动态\n政策规章\n通知公告\n联系我们\n通知公告\n通知公告\n招标公告\n中标公示\n相关通知\n招标公告\n[招标公告]北京大学新燕园校区至马池口变电站电力外线地勘及测绘项目（二次）比选公告 2025-07-11\n[招标公告]燕园大厦锅炉房换热站改造工程（二次）招标公告 2025-07-10\n[招标公告]北京大学新燕园校区至马池口变电站电力外线地勘及测绘项目比选公告 2025-06-24\n[招标公告]燕园大厦锅炉房换热站改造工程招标公告 2025-06-20\n[招标公告]学生宿舍43楼饮水机采购安装项目比选公告 2025-06-13\n[招标公告]2025年校园道路维修工程招标公告 2025-06-10\n[招标公告]2025年幼儿园基础设施维修改造工程招标公告 2025-06-10\n[招标公告]2025年学生宿舍卫生间、淋浴间修缮工程招标公告 2025-06-05\n[招标公告]2025毕业生学生宿舍暑期粉刷、检修工程招标公告 2025-06-05\n[招标公告]2025年新燕园道路及围墙维修招标公告 2025-06-05\n[招标公告]北京大学38号、45乙号宿舍楼空调设备移机服务项目比选公告 2025-05-26\n[招标公告]北京大学可回收物清运服务项目（二次）招标公告 2025-05-26\n[招标公告]110KV变电站10kV配电柜改造工程二期（二次）"
+  },
+  "reqs": [],
+  "json": []
+ }
+]
