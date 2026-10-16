@@ -1,0 +1,76 @@
+[
+ {
+  "key": "SDUT",
+  "dom": "sdut.edu.cn",
+  "home": "https://www.sdut.edu.cn/",
+  "links": [
+   "招标采购 https://cggl.sdut.edu.cn/index"
+  ],
+  "hosts": [
+   "cwc.sdut.edu.cn",
+   "cgzx.sdut.edu.cn",
+   "zb.sdut.edu.cn",
+   "cggl.sdut.edu.cn"
+  ]
+ },
+ {
+  "key": "SUES",
+  "dom": "sues.edu.cn",
+  "home": "https://www.sues.edu.cn/",
+  "links": [
+   "招标投标 https://ztb.sues.edu.cn/"
+  ],
+  "hosts": [
+   "cwc.sues.edu.cn",
+   "ztb.sues.edu.cn"
+  ]
+ },
+ {
+  "key": "HPU",
+  "dom": "hpu.edu.cn",
+  "home": "https://www.hpu.edu.cn/",
+  "links": [
+   "招标公告 https://notice.hpu.edu.cn/zbgg.htm"
+  ],
+  "hosts": [
+   "cwc.hpu.edu.cn",
+   "cgzx.hpu.edu.cn",
+   "gzc.hpu.edu.cn",
+   "zcgl.hpu.edu.cn",
+   "notice.hpu.edu.cn"
+  ]
+ },
+ {
+  "key": "DGUT",
+  "dom": "dgut.edu.cn",
+  "home": "https://www.dgut.edu.cn/",
+  "links": [
+   "采购信息 https://cgzx.dgut.edu.cn/"
+  ],
+  "hosts": [
+   "cgzx.dgut.edu.cn"
+  ]
+ },
+ {
+  "key": "TYUST",
+  "dom": "tyust.edu.cn",
+  "home": "https://www.tyust.edu.cn/",
+  "links": [],
+  "hosts": [
+   "cwc.tyust.edu.cn"
+  ]
+ },
+ {
+  "key": "GDOU",
+  "dom": "gdou.edu.cn",
+  "home": "https://www.gdou.edu.cn/",
+  "links": [
+   "招标信息 https://www.gdou.edu.cn/kstd/zbxx.htm"
+  ],
+  "hosts": [
+   "cwc.gdou.edu.cn",
+   "zbcg.gdou.edu.cn",
+   "zcglc.gdou.edu.cn"
+  ]
+ }
+]

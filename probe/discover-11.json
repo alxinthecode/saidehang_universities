@@ -1,0 +1,564 @@
+[
+ {
+  "key": "SDUT",
+  "title": "山东理工大学招标采购中心",
+  "url": "https://cgzx.sdut.edu.cn/",
+  "sfw": false,
+  "navs": [
+   {
+    "t": "采购信息",
+    "h": "https://cggl.sdut.edu.cn/index/arclist/index/type/%E9%87%87%E8%B4%AD%E4%BF%A1%E6%81%AF"
+   },
+   {
+    "t": "采购公告",
+    "h": "https://cgzx.sdut.edu.cn/8952/list.htm"
+   },
+   {
+    "t": "更多 >",
+    "h": "https://cgzx.sdut.edu.cn/8945/list.htm"
+   },
+   {
+    "t": "更多 >",
+    "h": "https://cgzx.sdut.edu.cn/8953/list.htm"
+   },
+   {
+    "t": "更多 >",
+    "h": "https://cgzx.sdut.edu.cn/8954/list.htm"
+   },
+   {
+    "t": "更多 >",
+    "h": "https://cgzx.sdut.edu.cn/zbwcjgg/list.htm"
+   },
+   {
+    "t": "更多 >",
+    "h": "https://cgzx.sdut.edu.cn/fscgcjgg/list.htm"
+   },
+   {
+    "t": "更多 >",
+    "h": "https://cgzx.sdut.edu.cn/htgs/list.htm"
+   }
+  ],
+  "cands": [
+   {
+    "u": "https://cgzx.sdut.edu.cn/",
+    "label": "home",
+    "scanned": 26,
+    "oldest": "2023-05-10",
+    "n": 0,
+    "newest": [
+     "2024-01-08 此网站停止发布信息，欢迎访问招标采购中心新版网站",
+     "2024-01-08 山东理工大学房产公开招租公告（SDUT2024-1）",
+     "2024-01-05 山东理工大学学生公寓桶装水采购"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://cgzx.sdut.edu.cn/8952/list.htm",
+    "label": "采购公告",
+    "scanned": 8,
+    "oldest": "2023-12-08",
+    "n": 0,
+    "newest": [
+     "2024-01-08 此网站停止发布信息，欢迎访问招标采购中心新版网站",
+     "2024-01-08 山东理工大学房产公开招租公告（SDUT2024-1）",
+     "2024-01-05 山东理工大学学生公寓桶装水采购"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://cgzx.sdut.edu.cn/8945/list.htm",
+    "label": "更多 >",
+    "scanned": 9,
+    "oldest": "2022-04-13",
+    "n": 0,
+    "newest": [
+     "2024-01-08 此网站停止发布信息，欢迎访问招标采购中心新版网站",
+     "2023-09-22 关于山东理工大学2023年“双高”建设采购项目技术要求公",
+     "2023-03-15 招标采购中心关于公布设备更新改造（贷款）项目专项采购实施"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://cgzx.sdut.edu.cn/8953/list.htm",
+    "label": "更多 >",
+    "scanned": 8,
+    "oldest": "2023-05-10",
+    "n": 0,
+    "newest": [
+     "2024-01-08 此网站停止发布信息，欢迎访问招标采购中心新版网站",
+     "2023-11-20 山东理工大学存储虚拟化双活软件项目单一来源采购公示",
+     "2023-05-19 山东理工大学2023年学生公寓用电计量集中管理系统专用计"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://cgzx.sdut.edu.cn/8954/list.htm",
+    "label": "更多 >",
+    "scanned": 8,
+    "oldest": "2023-10-18",
+    "n": 0,
+    "newest": [
+     "2024-01-08 此网站停止发布信息，欢迎访问招标采购中心新版网站",
+     "2023-11-23 山东理工大学软件正版化及网络安全服务更正公告",
+     "2023-11-16 山东理工大学2023年“双高”建设采购项目（一）更正公告"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://cgzx.sdut.edu.cn/zbwcjgg/list.htm",
+    "label": "更多 >",
+    "scanned": 8,
+    "oldest": "2023-12-01",
+    "n": 0,
+    "newest": [
+     "2024-01-08 此网站停止发布信息，欢迎访问招标采购中心新版网站",
+     "2024-01-04 山东理工大学山东理工大学楼宇安保服务外包项目中标结果公告",
+     "2023-12-27 山东理工大学2024-2026年度代理机构遴选项目入围候"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://cgzx.sdut.edu.cn/fscgcjgg/list.htm",
+    "label": "更多 >",
+    "scanned": 8,
+    "oldest": "2023-08-02",
+    "n": 0,
+    "newest": [
+     "2024-01-08 此网站停止发布信息，欢迎访问招标采购中心新版网站",
+     "2023-11-22 山东理工大学“校园天眼”平台建设项目（21783）废标公",
+     "2023-11-16 山东理工大学校门口伸缩门采购项目（21688）废标公告"
+    ],
+    "rows": []
+   }
+  ]
+ },
+ {
+  "key": "SDUT",
+  "title": "采购管理平台",
+  "url": "https://cggl.sdut.edu.cn/admin/index/login",
+  "sfw": false,
+  "navs": [],
+  "cands": []
+ },
+ {
+  "key": "SUES",
+  "title": "招投标中心",
+  "url": "https://ztb.sues.edu.cn/",
+  "sfw": false,
+  "navs": [
+   {
+    "t": "采购公告",
+    "h": "https://ztb.sues.edu.cn/zbgg/list.htm"
+   },
+   {
+    "t": "更多+",
+    "h": "https://ztb.sues.edu.cn/22418/list.htm"
+   },
+   {
+    "t": "更多+",
+    "h": "https://ztb.sues.edu.cn/22427/list.htm"
+   },
+   {
+    "t": "更多+",
+    "h": "https://ztb.sues.edu.cn/22428/list.htm"
+   },
+   {
+    "t": "竞价系统",
+    "h": "https://ztb.sues.edu.cn/22434/list.htm"
+   },
+   {
+    "t": "更多+",
+    "h": "https://ztb.sues.edu.cn/22437/list.htm"
+   },
+   {
+    "t": "更多+",
+    "h": "https://ztb.sues.edu.cn/22438/list.htm"
+   }
+  ],
+  "cands": [
+   {
+    "u": "https://ztb.sues.edu.cn/",
+    "label": "home",
+    "scanned": 13,
+    "oldest": "2025-06-10",
+    "n": 0,
+    "newest": [
+     "2025-11-06 上海工艺美术职业学院来我校调研招标采购工作",
+     "2025-11-06 上海工艺美术职业学院来我校调研招标采购工作",
+     "2025-06-10 学校召开采购与招投标工作领导小组会议（2025年第3次）"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://ztb.sues.edu.cn/zbgg/list.htm",
+    "label": "采购公告",
+    "scanned": 10,
+    "oldest": "2025-11-25",
+    "n": 0,
+    "newest": [
+     "2026-01-07 上海工程技术大学枣庄学院中德合作专业建设项目快速采购公告",
+     "2025-12-30 上海工程技术大学2026 年—2028年度采购代理机构遴",
+     "2025-12-24 上海工程技术大学长宁校区总体及运动场地维修工程采购代理服"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://ztb.sues.edu.cn/22418/list.htm",
+    "label": "更多+",
+    "scanned": 10,
+    "oldest": "2025-04-09",
+    "n": 0,
+    "newest": [
+     "2025-12-03 四川省教育会计学会高等教育采购管理分会来我校调研招标采购",
+     "2025-12-03 关于学校数字化采购平台上线的通知",
+     "2025-11-07 上海工艺美术职业学院来我校调研招标采购工作"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://ztb.sues.edu.cn/22427/list.htm",
+    "label": "更多+",
+    "scanned": 10,
+    "oldest": "2024-06-06",
+    "n": 0,
+    "newest": [
+     "2025-12-03 关于学校数字化采购平台上线的通知",
+     "2025-10-20 关于加快2025年采购项目执行进度的通知",
+     "2025-06-27 关于货物和服务采购合同电子签章平台上线的通知"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://ztb.sues.edu.cn/22428/list.htm",
+    "label": "更多+",
+    "scanned": 10,
+    "oldest": "2024-06-19",
+    "n": 0,
+    "newest": [
+     "2025-12-03 四川省教育会计学会高等教育采购管理分会来我校调研招标采购",
+     "2025-11-07 上海工艺美术职业学院来我校调研招标采购工作",
+     "2025-06-10 学校召开采购与招投标工作领导小组会议（2025年第3次）"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://ztb.sues.edu.cn/22437/list.htm",
+    "label": "更多+",
+    "scanned": 10,
+    "oldest": "2025-11-25",
+    "n": 0,
+    "newest": [
+     "2026-01-07 上海工程技术大学枣庄学院中德合作专业建设项目快速采购公告",
+     "2025-12-30 上海工程技术大学2026 年—2028年度采购代理机构遴",
+     "2025-12-24 上海工程技术大学长宁校区总体及运动场地维修工程采购代理服"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://ztb.sues.edu.cn/22438/list.htm",
+    "label": "更多+",
+    "scanned": 10,
+    "oldest": "2025-11-25",
+    "n": 0,
+    "newest": [
+     "2025-12-29 上海工程技术大学天然气发动机空气流量模型和延时模型开发项",
+     "2025-12-23 上海工程技术大学自动售货机（饮料机）入驻服务项目成交（中",
+     "2025-12-15 上海工程技术大学校园微更新项目（一期）——产教融合大楼咖"
+    ],
+    "rows": []
+   }
+  ]
+ },
+ {
+  "key": "HPU",
+  "title": "国资处-河南理工大学",
+  "url": "http://gzc.hpu.edu.cn/",
+  "sfw": false,
+  "navs": [
+   {
+    "t": "采购公告",
+    "h": "http://gzc.hpu.edu.cn/gzc_slist.aspx?sid=11"
+   },
+   {
+    "t": "+ MORE",
+    "h": "http://gzc.hpu.edu.cn/gzc_slist.aspx?sid=21"
+   },
+   {
+    "t": "+ MORE",
+    "h": "http://gzc.hpu.edu.cn/gzc_slist.aspx?sid=1"
+   },
+   {
+    "t": "+ MORE",
+    "h": "http://gzc.hpu.edu.cn/gzc_cggg.aspx"
+   },
+   {
+    "t": "采购公告",
+    "h": "http://gzc.hpu.edu.cn/#caigou"
+   },
+   {
+    "t": "+ MORE",
+    "h": "http://gzc.hpu.edu.cn/gzc_zfcgjdlist.aspx"
+   },
+   {
+    "t": "+ MORE",
+    "h": "http://gzc.hpu.edu.cn/gzc_blist.aspx?bid=31"
+   },
+   {
+    "t": "+ MORE",
+    "h": "http://gzc.hpu.edu.cn/gzc_blist.aspx?bid=15"
+   }
+  ],
+  "cands": [
+   {
+    "u": "http://gzc.hpu.edu.cn/",
+    "label": "home",
+    "scanned": 93,
+    "oldest": "2019-11-27",
+    "n": 0,
+    "newest": [
+     "2026-09-18 国资处赴郑州校区调研国有资产管理工作",
+     "2026-07-15 副校长边亚东深入实验室调研指导工作",
+     "2026-06-29 聚力破难题 提质促发展 ——我校成.."
+    ],
+    "rows": []
+   },
+   {
+    "u": "http://gzc.hpu.edu.cn/gzc_slist.aspx?sid=11",
+    "label": "采购公告",
+    "scanned": 15,
+    "oldest": "2025-07-24",
+    "n": 0,
+    "newest": [
+     "2026-08-24 高性能计算平台采购公告",
+     "2026-08-21 AI+财经课程开发创新平台采购公告",
+     "2026-08-21 激光粒度分析成像系统采购公告"
+    ],
+    "rows": []
+   },
+   {
+    "u": "http://gzc.hpu.edu.cn/gzc_slist.aspx?sid=21",
+    "label": "+ MORE",
+    "scanned": 15,
+    "oldest": "2025-04-23",
+    "n": 0,
+    "newest": [
+     "2026-09-18 国资处赴郑州校区调研国有资产管理工作",
+     "2026-07-15 副校长边亚东深入实验室调研指导工作",
+     "2026-06-29 聚力破难题 提质促发展 ——我校成功承办豫北片区高校资产"
+    ],
+    "rows": []
+   },
+   {
+    "u": "http://gzc.hpu.edu.cn/gzc_slist.aspx?sid=1",
+    "label": "+ MORE",
+    "scanned": 15,
+    "oldest": "2018-01-15",
+    "n": 0,
+    "newest": [
+     "2020-03-13 河南省财政厅关于印发河南省政府集中采购目录及标准（202",
+     "2018-05-02 河南省财政厅关于调整河南省政府采购网上商城品目目录的通知",
+     "2018-01-15 关于开具增值税发票的通知"
+    ],
+    "rows": []
+   },
+   {
+    "u": "http://gzc.hpu.edu.cn/gzc_cggg.aspx",
+    "label": "+ MORE",
+    "scanned": 95,
+    "oldest": "2023-03-08",
+    "n": 0,
+    "newest": [
+     "2026-10-16 CAAC 无人机驾驶执照培训系统采购公告",
+     "2026-10-14 高精度北斗/GNSS数据处理和分析系统..",
+     "2026-10-09 河南理工大学民政学院标准化考场建设项目.."
+    ],
+    "rows": []
+   },
+   {
+    "u": "http://gzc.hpu.edu.cn/#caigou",
+    "label": "采购公告",
+    "scanned": 93,
+    "oldest": "2019-11-27",
+    "n": 0,
+    "newest": [
+     "2026-09-18 国资处赴郑州校区调研国有资产管理工作",
+     "2026-07-15 副校长边亚东深入实验室调研指导工作",
+     "2026-06-29 聚力破难题 提质促发展 ——我校成.."
+    ],
+    "rows": []
+   },
+   {
+    "u": "http://gzc.hpu.edu.cn/gzc_blist.aspx?bid=31",
+    "label": "+ MORE",
+    "scanned": 15,
+    "oldest": "2017-06-15",
+    "n": 0,
+    "newest": [
+     "2022-09-19 招标采购问答手册",
+     "2017-11-24 评审专家在评审期间有哪些禁止性行为？",
+     "2017-06-15 评审专家在评标现场应该注意哪些事项？"
+    ],
+    "rows": []
+   },
+   {
+    "u": "http://gzc.hpu.edu.cn/gzc_blist.aspx?bid=15",
+    "label": "+ MORE",
+    "scanned": 14,
+    "oldest": "2016-12-13",
+    "n": 0,
+    "newest": [
+     "2025-07-01 实验仪器设备申购论证所需材料",
+     "2023-02-10 通用办公设备家具配置审批表2024",
+     "2022-02-22 河南理工大学采购合同专用章使用审批表"
+    ],
+    "rows": []
+   }
+  ]
+ },
+ {
+  "key": "DGUT",
+  "title": "东莞理工学院采购管理系统",
+  "url": "https://cgzx.dgut.edu.cn/#/portal",
+  "sfw": false,
+  "navs": [
+   {
+    "t": "采购信息",
+    "h": "https://cgzx.dgut.edu.cn/#/portal/article/list?typeCode=cgxx"
+   },
+   {
+    "t": "竞价",
+    "h": "https://cgzx.dgut.edu.cn/#/portal/article/list?typeCode=jjgg"
+   },
+   {
+    "t": "询价",
+    "h": "https://cgzx.dgut.edu.cn/#/portal/article/list?typeCode=xjgg"
+   },
+   {
+    "t": "+更多",
+    "h": "https://cgzx.dgut.edu.cn/#/portal/article/list?typeCode=cggg"
+   },
+   {
+    "t": "+更多",
+    "h": "https://cgzx.dgut.edu.cn/#/portal/article/list?typeCode=yxgk"
+   },
+   {
+    "t": "+更多",
+    "h": "https://cgzx.dgut.edu.cn/#/portal/article/list?typeCode=gzgg-cggg"
+   },
+   {
+    "t": "竞价",
+    "h": "https://cgzx.dgut.edu.cn/#/portal/article/list?typeCode=jjjggg"
+   },
+   {
+    "t": "询价",
+    "h": "https://cgzx.dgut.edu.cn/#/portal/article/list?typeCode=xjjggg"
+   }
+  ],
+  "cands": []
+ },
+ {
+  "key": "GDOU",
+  "title": "招标信息-广东海洋大学",
+  "url": "https://www.gdou.edu.cn/kstd/zbxx.htm",
+  "sfw": false,
+  "navs": [
+   {
+    "t": "招标信息",
+    "h": "https://www.gdou.edu.cn/kstd/zbxx.htm"
+   }
+  ],
+  "cands": [
+   {
+    "u": "https://www.gdou.edu.cn/kstd/zbxx.htm",
+    "label": "招标信息",
+    "scanned": 15,
+    "oldest": "2026-09-14",
+    "n": 0,
+    "newest": [
+     "2026-10-14 广东海洋大学2026-2027年度教职工健康体检项目(二",
+     "2026-10-12 湛江海大校园服务有限公司项目验收公示",
+     "2026-10-09 广东海洋大学湖光校区后勤保障部招待所衣柜采购成交公告（第"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://www.gdou.edu.cn/kstd/zbxx.htm",
+    "label": "招标信息",
+    "scanned": 15,
+    "oldest": "2026-09-14",
+    "n": 0,
+    "newest": [
+     "2026-10-14 广东海洋大学2026-2027年度教职工健康体检项目(二",
+     "2026-10-12 湛江海大校园服务有限公司项目验收公示",
+     "2026-10-09 广东海洋大学湖光校区后勤保障部招待所衣柜采购成交公告（第"
+    ],
+    "rows": []
+   }
+  ]
+ },
+ {
+  "key": "GDOU",
+  "title": "招标采购管理信息系统",
+  "url": "https://zbcg.gdou.edu.cn/gateway.do",
+  "sfw": false,
+  "navs": [
+   {
+    "t": "采购公告",
+    "h": "https://zbcg.gdou.edu.cn/gateway.do#cggg_hw_sep"
+   },
+   {
+    "t": "采购公告",
+    "h": "https://zbcg.gdou.edu.cn/gateway.do#cggg_fw_sep"
+   },
+   {
+    "t": "采购公告",
+    "h": "https://zbcg.gdou.edu.cn/gateway.do#cggg_gc_sep"
+   },
+   {
+    "t": "采购公告",
+    "h": "https://zbcg.gdou.edu.cn/gateway.do#2cgg"
+   }
+  ],
+  "cands": [
+   {
+    "u": "https://zbcg.gdou.edu.cn/gateway.do",
+    "label": "home",
+    "scanned": 40,
+    "oldest": "2021-04-30",
+    "n": 0,
+    "newest": [
+     "2026-10-01 关于广东政府采购智慧云平台2026年10月1日0时至10",
+     "2026-09-17 广东海洋大学招标与采购工作手册2026-09-17",
+     "2026-07-01 广东省财政厅关于印发《广东省政府采购采购人主体责任履行指"
+    ],
+    "rows": []
+   }
+  ]
+ },
+ {
+  "key": "GDOU",
+  "title": "资产设备管理部",
+  "url": "https://zcglc.gdou.edu.cn/",
+  "sfw": false,
+  "navs": [
+   {
+    "t": "货物现场验收记录表",
+    "h": "https://zcglc.gdou.edu.cn/info/1069/3442.htm"
+   }
+  ],
+  "cands": [
+   {
+    "u": "https://zcglc.gdou.edu.cn/",
+    "label": "home",
+    "scanned": 2,
+    "oldest": "2020-07-29",
+    "n": 0,
+    "newest": [
+     "2026-05-01 学校组织危化品安全法宣贯暨危化品安全管理培训",
+     "2020-07-29 2020.07.29 广东省财政厅关于规范省级单一来源采"
+    ],
+    "rows": []
+   }
+  ]
+ }
+]
