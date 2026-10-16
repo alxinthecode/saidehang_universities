@@ -1,0 +1,343 @@
+[
+ {
+  "key": "HFUT",
+  "title": "合肥工业大学招标采购管理中心",
+  "url": "https://zb.hfut.edu.cn/cms/",
+  "sfw": false,
+  "navs": [
+   {
+    "t": "MORE >>",
+    "h": "https://zb.hfut.edu.cn/cms/news?id=undefined"
+   },
+   {
+    "t": "MORE >>",
+    "h": "https://zb.hfut.edu.cn/cms/publish?type=CSXQ,BYXQ,YQXQ,ZCXQ"
+   },
+   {
+    "t": "MORE >>",
+    "h": "https://zb.hfut.edu.cn/cms/publish?type=CSXQ,BYXQ,YQXQ,ZCXQ&shopType=WSXJ"
+   },
+   {
+    "t": "MORE >>",
+    "h": "https://zb.hfut.edu.cn/cms/publish?type=CSXQ,ZCXQ,BYXQ,YQXQ"
+   }
+  ],
+  "cands": [
+   {
+    "u": "https://zb.hfut.edu.cn/cms/",
+    "label": "home",
+    "scanned": 12,
+    "oldest": "2026-09-23",
+    "n": 0,
+    "newest": [
+     "2026-10-16 【货物】合肥工业大学高镍三元正极材料前驱体制备原材料采购",
+     "2026-10-12 【货物】气相色谱质谱联用仪、自动荧光光谱仪、多功能酶标仪",
+     "2026-10-10 【工程】合肥工业大学翡翠湖校区空调箱变改造项目比选公告"
+    ],
+    "rows": []
+   }
+  ]
+ },
+ {
+  "key": "HFUT",
+  "title": "合肥工业大学资产管理系统",
+  "url": "https://zcgl.hfut.edu.cn/sfw2/",
+  "sfw": true,
+  "navs": [],
+  "cands": [],
+  "sfwErr": "page.evaluate: Error: no 思必得 list query returned results\n    at readSfw (eval at <anonymous> (eval a"
+ },
+ {
+  "key": "QDU",
+  "title": "青岛大学政府采购中心 - 首页",
+  "url": "https://cg.qdu.edu.cn/",
+  "sfw": false,
+  "navs": [
+   {
+    "t": "采购公告",
+    "h": "https://cg.qdu.edu.cn/cgxxhw/index.chtml"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://cg.qdu.edu.cn/tzgg/index.chtml"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://cg.qdu.edu.cn/zbgghw/index.chtml"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://cg.qdu.edu.cn/jjgg/index.chtml"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://cg.qdu.edu.cn/jjjg/index.chtml"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://cg.qdu.edu.cn/guojflfg/index.chtml"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://cg.qdu.edu.cn/dtype1/index.chtml"
+   }
+  ],
+  "cands": [
+   {
+    "u": "https://cg.qdu.edu.cn/",
+    "label": "home",
+    "scanned": 61,
+    "oldest": "2025-01-17",
+    "n": 0,
+    "newest": [
+     "2026-06-05 学校召开采购工作培训会",
+     "2026-05-18 学校召开招标采购工作调研会",
+     "2026-03-20 学校召开采购与招标工作小组工作会暨招标代理机构2025年"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://cg.qdu.edu.cn/cgxxhw/index.chtml",
+    "label": "采购公告",
+    "scanned": 15,
+    "oldest": "2026-09-30",
+    "n": 0,
+    "newest": [
+     "2026-10-16 青岛大学浮山校区工程制图实验室教学设施采购项目竞争性磋商",
+     "2026-10-08 青岛大学青岛医学院动物中心设备采购项目公开招标公告",
+     "2026-10-05 青岛大学2026年省拨高等学校学科建设项目公开招标招标公"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://cg.qdu.edu.cn/tzgg/index.chtml",
+    "label": "更多>>",
+    "scanned": 1,
+    "oldest": "2021-01-25",
+    "n": 0,
+    "newest": [
+     "2021-01-25 关于青岛大学政府采购招标、外贸、国产设备退税代理机构遴选"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://cg.qdu.edu.cn/zbgghw/index.chtml",
+    "label": "更多>>",
+    "scanned": 15,
+    "oldest": "2026-08-12",
+    "n": 0,
+    "newest": [
+     "2026-10-10 青岛大学智慧考试阅卷系统项目项目中标(成交公告)",
+     "2026-09-23 智慧考试阅卷系统项目中标(成交公告)",
+     "2026-09-21 青岛大学智能机器人与双向充放电系统采购项目废标公示"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://cg.qdu.edu.cn/jjgg/index.chtml",
+    "label": "更多>>",
+    "scanned": 15,
+    "oldest": "2026-10-10",
+    "n": 0,
+    "newest": [
+     "2026-10-16 高压精密泵采购延期公告",
+     "2026-10-16 磁力搅拌器等设备采购竞价公告",
+     "2026-10-16 微秒闪光灯采购竞价公告"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://cg.qdu.edu.cn/jjjg/index.chtml",
+    "label": "更多>>",
+    "scanned": 15,
+    "oldest": "2026-09-23",
+    "n": 0,
+    "newest": [
+     "2026-10-16 445nm激光器采购结果公告",
+     "2026-10-16 红外激光观察仪采购结果公告",
+     "2026-10-14 熔体流动速率仪采购结果公告"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://cg.qdu.edu.cn/guojflfg/index.chtml",
+    "label": "更多>>",
+    "scanned": 2,
+    "oldest": "2019-03-15",
+    "n": 0,
+    "newest": [
+     "2021-11-10 关于“十四五”期间进口科学研究、科技开发和教学用品 免税",
+     "2019-03-15 关于转发财政部 发展改革委 生态环境部 市场监管总局关于"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://cg.qdu.edu.cn/dtype1/index.chtml",
+    "label": "更多>>",
+    "scanned": 15,
+    "oldest": "2019-03-12",
+    "n": 0,
+    "newest": [
+     "2026-05-18 青岛大学招标与采购工作手册",
+     "2020-11-05 关于印发山东省政府集中采购目录及标准的通知",
+     "2019-03-12 青岛大学货物类采购项目论证报告"
+    ],
+    "rows": []
+   }
+  ]
+ },
+ {
+  "key": "ZJNU",
+  "title": "浙江师范大学采购中心",
+  "url": "https://cgzx.zjnu.edu.cn/",
+  "sfw": false,
+  "navs": [
+   {
+    "t": "采购信息",
+    "h": "https://cgzx.zjnu.edu.cn/20360/list.htm"
+   },
+   {
+    "t": "更多+",
+    "h": "https://cgzx.zjnu.edu.cn/20359/list.htm"
+   },
+   {
+    "t": "更多+",
+    "h": "https://cgzx.zjnu.edu.cn/20369/list.htm"
+   },
+   {
+    "t": "磋商公告",
+    "h": "https://cgzx.zjnu.edu.cn/20380/list.htm"
+   },
+   {
+    "t": "询价公告",
+    "h": "https://cgzx.zjnu.edu.cn/20374/list.htm"
+   },
+   {
+    "t": "招标公告",
+    "h": "https://cgzx.zjnu.edu.cn/cgxmgg_20614/list.htm"
+   },
+   {
+    "t": "更多+",
+    "h": "https://cgzx.zjnu.edu.cn/20370/list.htm"
+   },
+   {
+    "t": "更多+",
+    "h": "https://cgzx.zjnu.edu.cn/20371/list.htm"
+   }
+  ],
+  "cands": [
+   {
+    "u": "https://cgzx.zjnu.edu.cn/20360/list.htm",
+    "label": "采购信息",
+    "scanned": 15,
+    "oldest": "2026-10-13",
+    "n": 0,
+    "newest": [
+     "2026-10-16 金华市浙师大后勤服务有限公司关于校内自助售卖机投放服务采",
+     "2026-10-16 浙师大后勤服务中心关于抢修服务费项目的成交结果公示",
+     "2026-10-16 浙师大后勤服务中心关于水暖卫浴材料项目的询价公告（第四次"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://cgzx.zjnu.edu.cn/20359/list.htm",
+    "label": "更多+",
+    "scanned": 15,
+    "oldest": "2026-07-03",
+    "n": 0,
+    "newest": [
+     "2026-10-16 采购中心10月19日-10月23日采购工作安排",
+     "2026-10-10 采购中心10月12日-10月16日采购工作安排",
+     "2026-09-30 采购中心10月8日-10月10日采购工作安排"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://cgzx.zjnu.edu.cn/20369/list.htm",
+    "label": "更多+",
+    "scanned": 15,
+    "oldest": "2026-10-08",
+    "n": 0,
+    "newest": [
+     "2026-10-16 金华市浙师大后勤服务有限公司关于校内自助售卖机投放服务采",
+     "2026-10-16 浙师大后勤服务中心关于水暖卫浴材料项目的询价公告（第四次",
+     "2026-10-15 浙江师范大学关于27-314教室改造LED屏等设备公开招"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://cgzx.zjnu.edu.cn/20380/list.htm",
+    "label": "磋商公告",
+    "scanned": 15,
+    "oldest": "2026-06-17",
+    "n": 0,
+    "newest": [
+     "2026-10-16 金华市浙师大后勤服务有限公司关于校内自助售卖机投放服务采",
+     "2026-09-22 金华市浙师大后勤服务有限公司关于食堂小功率电器采购项目的",
+     "2026-09-11 金华市浙师大后勤服务有限公司关于食堂后厨用品项目的竞争性"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://cgzx.zjnu.edu.cn/20374/list.htm",
+    "label": "询价公告",
+    "scanned": 15,
+    "oldest": "2026-08-31",
+    "n": 0,
+    "newest": [
+     "2026-10-16 浙师大后勤服务中心关于水暖卫浴材料项目的询价公告（第四次",
+     "2026-10-14 浙师大后勤服务中心关于新公寓一站式学生社区公共空间定制柜",
+     "2026-10-14 浙江师范大学关于电子实验室电路实验箱的询价公告"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://cgzx.zjnu.edu.cn/cgxmgg_20614/list.htm",
+    "label": "招标公告",
+    "scanned": 15,
+    "oldest": "2026-09-16",
+    "n": 0,
+    "newest": [
+     "2026-10-15 浙江师范大学关于27-314教室改造LED屏等设备公开招",
+     "2026-10-13 浙江师范大学关于国家智慧教育平台应用试点课程拍摄制作及运",
+     "2026-10-10 浙江师范大学关于孤独症教育评估数字化平台公开招标公告"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://cgzx.zjnu.edu.cn/20370/list.htm",
+    "label": "更多+",
+    "scanned": 15,
+    "oldest": "2026-09-30",
+    "n": 0,
+    "newest": [
+     "2026-10-16 浙师大后勤服务中心关于抢修服务费项目的成交结果公示",
+     "2026-10-16 金华市浙师大后勤服务有限公司关于鲜活水产类定点配送项目的",
+     "2026-10-15 金华市浙师大后勤服务有限公司关于校内自助售卖机投放服务项"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://cgzx.zjnu.edu.cn/20371/list.htm",
+    "label": "更多+",
+    "scanned": 12,
+    "oldest": "2026-09-22",
+    "n": 0,
+    "newest": [
+     "2026-10-16 浙江师范大学2026年11月至11月爱如生系列数据库政府",
+     "2026-10-16 浙江师范大学2026年11月至11月沉浸式外语实训实验室",
+     "2026-10-13 浙江师范大学计算机学院计算机组成实验室电脑2026年10"
+    ],
+    "rows": []
+   }
+  ]
+ },
+ {
+  "key": "SDUWH",
+  "title": "山东大学采购网-首页",
+  "url": "https://zbb.wh.sdu.edu.cn/zb/index.chtml",
+  "sfw": false,
+  "navs": [],
+  "cands": []
+ }
+]
