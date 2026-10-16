@@ -69,6 +69,29 @@
     "noteEn": "Direct stage purchase; check whether the spec allows piezo stages."
   },
   {
+    "_id": "JLU-JLU-KC26053",
+    "school": "JLU",
+    "title": "超快激光振荡器（JLU-KC26053）采购公告",
+    "url": "https://cgglzx.jlu.edu.cn/provider/#/publish/20MV7CY1EOHFF887",
+    "published": "2026-10-14",
+    "deadline": "2026-10-21 09:00",
+    "method": "网上比选",
+    "no": "JLU-KC26053",
+    "budget": "",
+    "imports": "",
+    "strong": [],
+    "weak": [
+      "光束指向"
+    ],
+    "tier": "weak",
+    "snippet": "Hz - 10 MHz) 6. 光束发散角(全角):&lt;1 mrad 7. 光束指向稳定性:10 rad/°C 售后服务 服务网点:外地;电话支持:7x8小时;服务年限:一年;服务时限:报修后24小时;商品承诺:原厂全新未拆封正品;质保",
+    "status": "new",
+    "note": "",
+    "firstSeen": "2026-10-17",
+    "titleEn": "",
+    "noteEn": ""
+  },
+  {
     "_id": "SCU-ZBZXFB2026009",
     "school": "SCU",
     "title": "扫描探针显微镜维修（ZBZXFB2026009）采购公告",
@@ -104,7 +127,8 @@
     "imports": "",
     "strong": [],
     "weak": [
-      "自适应光学"
+      "自适应光学",
+      "变形镜"
     ],
     "tier": "weak",
     "snippet": "自适应光学波前传感测量装置（SZTUWSJJ2600314）采购公告 项目名称 自适应光学波前传感测量装置 项目编号 SZTUWSJJ2600314 公示开始日",

@@ -217,7 +217,7 @@
       "url": "https://cgzx.hit.edu.cn/sfw_cms/e?page=cms.news2"
     }
   ],
-  "lastRun": "2026-10-17T03:12",
+  "lastRun": "2026-10-17T04:50",
   "lastResults": [
     {
       "school": "THU",
@@ -229,7 +229,7 @@
       "school": "BUAA",
       "ok": true,
       "scanned": 36,
-      "matches": 2
+      "matches": 1
     },
     {
       "school": "HIT",
@@ -247,7 +247,7 @@
       "school": "TJU",
       "ok": true,
       "scanned": 100,
-      "matches": 3
+      "matches": 0
     },
     {
       "school": "USTC",
@@ -265,7 +265,7 @@
       "school": "SCU",
       "ok": true,
       "scanned": 100,
-      "matches": 2
+      "matches": 1
     },
     {
       "school": "HITSZ",
@@ -353,7 +353,7 @@
       "school": "XJTU",
       "ok": true,
       "scanned": 999,
-      "matches": 2
+      "matches": 1
     },
     {
       "school": "SHU",
@@ -371,7 +371,7 @@
       "school": "JLU",
       "ok": true,
       "scanned": 100,
-      "matches": 0
+      "matches": 1
     },
     {
       "school": "SDU",
@@ -389,13 +389,13 @@
       "school": "SZTU",
       "ok": true,
       "scanned": 100,
-      "matches": 9
+      "matches": 4
     },
     {
       "school": "AHU",
       "ok": true,
       "scanned": 100,
-      "matches": 2
+      "matches": 0
     },
     {
       "school": "XIDIAN",
