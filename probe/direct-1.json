@@ -1,0 +1,81 @@
+[
+ {
+  "key": "CDUT",
+  "try": "cg.cdut.edu.cn",
+  "ok": true,
+  "title": "",
+  "url": "https://cg.cdut.edu.cn/",
+  "cands": []
+ },
+ {
+  "key": "CDUT",
+  "try": "cgzb.cdut.edu.cn",
+  "ok": true,
+  "title": "",
+  "url": "https://cgzb.cdut.edu.cn/",
+  "cands": []
+ },
+ {
+  "key": "CDUT",
+  "try": "zb.cdut.edu.cn",
+  "ok": false,
+  "err": "page.goto: Timeout 25000ms exceeded."
+ },
+ {
+  "key": "SHMTU",
+  "try": "cggl.shmtu.edu.cn",
+  "ok": true,
+  "title": "上海海事大学单点登录系统",
+  "url": "https://sso.shmtu.edu.cn/cas/login?service=https%3A%2F%2Fng.shmtu.edu.cn%2Fwengine-auth%2flogin%3Fcas_login%3Dtrue",
+  "cands": []
+ },
+ {
+  "key": "YSU",
+  "try": "zcglc.ysu.edu.cn",
+  "ok": false,
+  "err": "page.goto: net::ERR_EMPTY_RESPONSE at http://zcglc.ysu.edu.cn/"
+ },
+ {
+  "key": "CQUPT",
+  "try": "cgpt.cqupt.edu.cn/notices",
+  "ok": true,
+  "title": "提示",
+  "url": "https://cgpt.cqupt.edu.cn/rump_frontend/access_forbidden/",
+  "cands": []
+ },
+ {
+  "key": "IOA",
+  "try": "www.ioa.cas.cn/tzgg/",
+  "ok": true,
+  "title": "通知公告--中国科学院声学研究所",
+  "url": "https://www.ioa.cas.cn/tzgg/",
+  "cands": [
+   {
+    "u": "https://www.ioa.cas.cn/tzgg/",
+    "label": "home",
+    "scanned": 34,
+    "oldest": "2024-07-15",
+    "n": 0,
+    "newest": [
+     "2026-10-13 声学所研究人员提出节律感知时‑频增强水下目标识别新方法",
+     "2026-09-30 研究人员利用蜂窝结构低频局域共振特征提出一种高分辨率成像",
+     "2026-09-23 中国科学院声学研究所与合肥工业大学研究团队合作实现结构编"
+    ]
+   }
+  ]
+ },
+ {
+  "key": "SIOM",
+  "try": "www.siom.cas.cn/tzgg/",
+  "ok": true,
+  "title": "页面没有找到",
+  "url": "https://www.siom.cas.cn/tzgg/",
+  "cands": []
+ },
+ {
+  "key": "SIOM",
+  "try": "siom.cas.cn",
+  "ok": false,
+  "err": "page.goto: Timeout 25000ms exceeded."
+ }
+]
