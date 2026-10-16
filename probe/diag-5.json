@@ -1,0 +1,72 @@
+[
+ {
+  "key": "DJTU",
+  "dom": "djtu.edu.cn",
+  "home": "https://www.djtu.edu.cn/",
+  "links": [],
+  "hosts": []
+ },
+ {
+  "key": "JSNU",
+  "dom": "jsnu.edu.cn",
+  "home": null,
+  "links": [],
+  "hosts": [
+   "ztbb.jsnu.edu.cn",
+   "zbzx.jsnu.edu.cn",
+   "sbc.jsnu.edu.cn",
+   "gzc.jsnu.edu.cn",
+   "zcgl.jsnu.edu.cn"
+  ]
+ },
+ {
+  "key": "FJNU",
+  "dom": "fjnu.edu.cn",
+  "home": "https://www.fjnu.edu.cn/",
+  "links": [
+   "资产管理处（采购招标中心 http://zcc.fjnu.edu.cn/"
+  ],
+  "hosts": [
+   "cgb.fjnu.edu.cn",
+   "cwc.fjnu.edu.cn",
+   "zb.fjnu.edu.cn",
+   "zcc.fjnu.edu.cn",
+   "cgzb.fjnu.edu.cn",
+   "cggl.fjnu.edu.cn",
+   "zcgl.fjnu.edu.cn"
+  ]
+ },
+ {
+  "key": "CTGU",
+  "dom": "ctgu.edu.cn",
+  "home": "https://www.ctgu.edu.cn/",
+  "links": [
+   "采购与招标中心 http://zb.ctgu.edu.cn/",
+   "招标信息 http://zb.ctgu.edu.cn/"
+  ],
+  "hosts": [
+   "zcc.ctgu.edu.cn",
+   "zb.ctgu.edu.cn"
+  ]
+ },
+ {
+  "key": "SUSE",
+  "dom": "suse.edu.cn",
+  "home": "https://www.suse.edu.cn/",
+  "links": [
+   "招标采购 http://jyzx.suse.edu.cn/"
+  ],
+  "hosts": [
+   "cwc.suse.edu.cn",
+   "gzc.suse.edu.cn",
+   "jyzx.suse.edu.cn"
+  ]
+ },
+ {
+  "key": "NUIST",
+  "dom": "nuist.edu.cn",
+  "home": null,
+  "links": [],
+  "hosts": []
+ }
+]

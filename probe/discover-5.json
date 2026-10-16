@@ -1,0 +1,492 @@
+[
+ {
+  "key": "JSNU",
+  "title": "招标办",
+  "url": "http://ztbb.jsnu.edu.cn/",
+  "sfw": false,
+  "navs": [
+   {
+    "t": "采购公告",
+    "h": "http://ztbb.jsnu.edu.cn/3158/list.htm"
+   },
+   {
+    "t": "磋商公告...",
+    "h": "http://ztbb.jsnu.edu.cn/d3/bd/c3151a381885/page.htm"
+   }
+  ],
+  "cands": [
+   {
+    "u": "http://ztbb.jsnu.edu.cn/3158/list.htm",
+    "label": "采购公告",
+    "scanned": 14,
+    "oldest": "2026-09-08",
+    "n": 0,
+    "newest": [
+     "2026-10-15 更正（澄清）公告（一）：江苏师范大学核磁波谱仪采购项目",
+     "2026-10-12 招标公告：江苏师范大学2027-2029年度新生健康体检",
+     "2026-10-10 招标公告：江苏师范大学国有资产采购招标与管理系统采购"
+    ],
+    "rows": []
+   }
+  ]
+ },
+ {
+  "key": "JSNU",
+  "title": "国有资产管理处",
+  "url": "http://gzc.jsnu.edu.cn/",
+  "sfw": false,
+  "navs": [
+   {
+    "t": "招标信息",
+    "h": "http://ztbb.jsnu.edu.cn/"
+   },
+   {
+    "t": "采购公告",
+    "h": "http://gzc.jsnu.edu.cn/3295/list.htm"
+   }
+  ],
+  "cands": [
+   {
+    "u": "http://gzc.jsnu.edu.cn/",
+    "label": "home",
+    "scanned": 1,
+    "oldest": "2023-12-08",
+    "n": 0,
+    "newest": [
+     "2023-12-08 苏师大国资〔2023〕2号----关于印发《江苏师范大学"
+    ],
+    "rows": []
+   },
+   {
+    "u": "http://gzc.jsnu.edu.cn/3295/list.htm",
+    "label": "采购公告",
+    "scanned": 14,
+    "oldest": "2026-08-27",
+    "n": 0,
+    "newest": [
+     "2026-10-15 更正（澄清）公告（一）：江苏师范大学核磁波谱仪采购项目",
+     "2026-10-12 招标公告：江苏师范大学2027-2029年度新生健康体检",
+     "2026-10-10 招标公告：江苏师范大学国有资产采购招标与管理系统采购"
+    ],
+    "rows": []
+   }
+  ]
+ },
+ {
+  "key": "FJNU",
+  "title": "资产管理处",
+  "url": "https://zcc.fjnu.edu.cn/main.htm",
+  "sfw": false,
+  "navs": [
+   {
+    "t": "采购招标信息",
+    "h": "https://cggl.fjnu.edu.cn/"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://zcc.fjnu.edu.cn/gzdt/list.htm"
+   },
+   {
+    "t": "更多>>",
+    "h": "http://zcc.fjnu.edu.cn/zcfg1/list.htm"
+   },
+   {
+    "t": "更多>>",
+    "h": "http://zcc.fjnu.edu.cn/sjtzwj/list.htm"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://zcc.fjnu.edu.cn/bszn/list.htm"
+   },
+   {
+    "t": "采购公告",
+    "h": "https://zcc.fjnu.edu.cn/_t1623/89/3b/c8856a166203/page.htm"
+   },
+   {
+    "t": "采购公告",
+    "h": "http://zcc.fjnu.edu.cn/89/3b/c8856a166203/page.htm"
+   }
+  ],
+  "cands": [
+   {
+    "u": "https://zcc.fjnu.edu.cn/main.htm",
+    "label": "home",
+    "scanned": 22,
+    "oldest": "2023-03-16",
+    "n": 0,
+    "newest": [
+     "2026-09-23 我校开展资产管理业务培训",
+     "2026-09-18 关于召开资产管理专题培训会的通知",
+     "2026-07-13 关于进一步提升学校公有用房资产使用效益的通知"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zcc.fjnu.edu.cn/gzdt/list.htm",
+    "label": "更多>>",
+    "scanned": 14,
+    "oldest": "2026-03-31",
+    "n": 0,
+    "newest": [
+     "2026-09-23 我校开展资产管理业务培训",
+     "2026-09-18 关于召开资产管理专题培训会的通知",
+     "2026-07-13 关于进一步提升学校公有用房资产使用效益的通知"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zcc.fjnu.edu.cn/bszn/list.htm",
+    "label": "更多>>",
+    "scanned": 14,
+    "oldest": "2023-03-16",
+    "n": 0,
+    "newest": [
+     "2023-03-16 福建师范大学资产登记审核流程",
+     "2025-11-10 网上超市采购项目申报所需材料",
+     "2025-10-16 开评标现场监督人员注意事项"
+    ],
+    "rows": []
+   }
+  ]
+ },
+ {
+  "key": "FJNU",
+  "title": "福建师范大学采购招标网",
+  "url": "https://cggl.fjnu.edu.cn/sfw_cms/e?page=cms.index",
+  "sfw": true,
+  "navs": [
+   {
+    "t": "更多>",
+    "h": "https://cggl.fjnu.edu.cn/sfw_cms/e?page=cms.news&cid=102407"
+   },
+   {
+    "t": "更多>",
+    "h": "https://cggl.fjnu.edu.cn/sfw_cms/e?page=cms.psms.gglist&type=AC"
+   },
+   {
+    "t": "更多>",
+    "h": "https://cggl.fjnu.edu.cn/sfw_cms/e?page=cms.psms.gglist&type=B"
+   },
+   {
+    "t": "更多>",
+    "h": "https://cggl.fjnu.edu.cn/sfw_cms/e?page=cms.psms.gglist&type=WSJJ"
+   },
+   {
+    "t": "更多>",
+    "h": "https://cggl.fjnu.edu.cn/sfw_cms/e?page=cms.news&cid=101104&nextcid=100223"
+   },
+   {
+    "t": "更多>",
+    "h": "https://cggl.fjnu.edu.cn/sfw_cms/e?page=cms.psms.gglist2&type=XQ"
+   },
+   {
+    "t": "更多",
+    "h": "https://cggl.fjnu.edu.cn/sfw_cms/e?page=cms.news&cid=102409"
+   },
+   {
+    "t": "更多",
+    "h": "https://cggl.fjnu.edu.cn/sfw_cms/e?page=cms.news&cid=102408"
+   }
+  ],
+  "cands": [
+   {
+    "u": "https://cggl.fjnu.edu.cn/sfw_cms/e?page=cms.index",
+    "label": "home",
+    "scanned": 22,
+    "oldest": "2024-04-03",
+    "n": 0,
+    "newest": [
+     "2026-06-15 我校召开采购招标专题培训会",
+     "2026-06-12 资产管理处、实验室与设备管理处联合开展资产管理与采购招标",
+     "2025-12-31 我校召开采购招标专题培训会"
+    ],
+    "rows": []
+   }
+  ],
+  "sfwErr": "page.evaluate: Error: no 思必得 list query returned results\n    at readSfw (eval at <anonymous> (eval a"
+ },
+ {
+  "key": "SUSE",
+  "title": "财务处（招标采购中心） - 四川轻化工大学",
+  "url": "https://cwc.suse.edu.cn/",
+  "sfw": false,
+  "navs": [
+   {
+    "t": "更多 +",
+    "h": "https://cwc.suse.edu.cn/2967/list.htm"
+   },
+   {
+    "t": "更多 +",
+    "h": "https://cwc.suse.edu.cn/zbdt/list.htm"
+   },
+   {
+    "t": "更多 +",
+    "h": "https://cwc.suse.edu.cn/2968/list.htm"
+   },
+   {
+    "t": "更多 +",
+    "h": "https://cwc.suse.edu.cn/2966/list.htm"
+   },
+   {
+    "t": "更多 +",
+    "h": "https://cwc.suse.edu.cn/2969/list.htm"
+   },
+   {
+    "t": "更多 +",
+    "h": "https://cwc.suse.edu.cn/2970/list.htm"
+   }
+  ],
+  "cands": [
+   {
+    "u": "https://cwc.suse.edu.cn/",
+    "label": "home",
+    "scanned": 20,
+    "oldest": "2019-01-07",
+    "n": 0,
+    "newest": [
+     "2026-08-19 四川轻化工大学2026-2027学年学生学费、住宿收费标",
+     "2026-08-18 四川轻化工大学2026-2027学年学生学费住宿费缴费指",
+     "2025-08-04 2025年学生学费、住宿收费标准公示"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://cwc.suse.edu.cn/2967/list.htm",
+    "label": "更多 +",
+    "scanned": 14,
+    "oldest": "2024-05-20",
+    "n": 0,
+    "newest": [
+     "2026-07-17 学校召开内控及招标采购专题培训会",
+     "2026-06-18 零距离接受警示教育 全方位筑牢廉洁堤坝",
+     "2026-04-20 赋能乡村·财务助力"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://cwc.suse.edu.cn/zbdt/list.htm",
+    "label": "更多 +",
+    "scanned": 14,
+    "oldest": "2022-09-01",
+    "n": 0,
+    "newest": [
+     "2025-06-13 红帆飘扬强信念 联动聚力促精进",
+     "2025-04-28 党建共建强根基，医校共进谋发展",
+     "2025-04-21 深学笃行铸党性，财风清正促发展"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://cwc.suse.edu.cn/2968/list.htm",
+    "label": "更多 +",
+    "scanned": 14,
+    "oldest": "2021-12-16",
+    "n": 0,
+    "newest": [
+     "2026-08-19 四川轻化工大学2026-2027学年学生学费、住宿收费标",
+     "2026-08-18 四川轻化工大学2026-2027学年学生学费住宿费缴费指",
+     "2025-08-04 2025年学生学费、住宿收费标准公示"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://cwc.suse.edu.cn/2966/list.htm",
+    "label": "更多 +",
+    "scanned": 14,
+    "oldest": "2026-08-17",
+    "n": 0,
+    "newest": [
+     "2026-08-17 四川省教育厅 四川省机关事务管理局四川省财政厅关于印发四",
+     "2026-08-17 四川省财政厅关于印发《四川省政府集中采购目录及标准（20",
+     "2026-08-17 四川省财会监督条例"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://cwc.suse.edu.cn/2969/list.htm",
+    "label": "更多 +",
+    "scanned": 10,
+    "oldest": "2019-01-07",
+    "n": 0,
+    "newest": [
+     "2025-05-12 四川轻化工大学经费预算调整表",
+     "2023-10-26 四川轻化工大学基金会报销及发放资料汇总",
+     "2023-10-26 四川轻化工大学产研院报销及发放资料汇总"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://cwc.suse.edu.cn/2970/list.htm",
+    "label": "更多 +",
+    "scanned": 14,
+    "oldest": "2020-06-05",
+    "n": 0,
+    "newest": [
+     "2025-04-21 增值税发票开票信息",
+     "2023-11-22 财务报销原始单据一览表",
+     "2021-11-11 【我为师生办实事】智能报账培训暨学院交流会第一站开启啦！"
+    ],
+    "rows": []
+   }
+  ]
+ },
+ {
+  "key": "SUSE",
+  "title": "四川轻化工大学全流程数字化采购管理系统 - 首页",
+  "url": "https://jyzx.suse.edu.cn/",
+  "sfw": false,
+  "navs": [
+   {
+    "t": "更多>>",
+    "h": "https://jyzx.suse.edu.cn/tz/index.chtml"
+   },
+   {
+    "t": "更多 >",
+    "h": "https://jyzx.suse.edu.cn/czgg/index.chtml"
+   },
+   {
+    "t": "更多 >",
+    "h": "https://jyzx.suse.edu.cn/jggg/index.chtml"
+   },
+   {
+    "t": "更多 >",
+    "h": "https://jyzx.suse.edu.cn/yxgk/index.chtml"
+   },
+   {
+    "t": "更多 >",
+    "h": "https://jyzx.suse.edu.cn/xxczgg/index.chtml"
+   },
+   {
+    "t": "更多 >",
+    "h": "https://jyzx.suse.edu.cn/xxjggg/index.chtml"
+   },
+   {
+    "t": "更多 >",
+    "h": "https://jyzx.suse.edu.cn/xxyxgk/index.chtml"
+   },
+   {
+    "t": "更多 >",
+    "h": "https://jyzx.suse.edu.cn/fvfg/index.chtml"
+   }
+  ],
+  "cands": [
+   {
+    "u": "https://jyzx.suse.edu.cn/",
+    "label": "home",
+    "scanned": 82,
+    "oldest": "2022-11-02",
+    "n": 0,
+    "newest": [
+     "2024-03-18 关于择优选择社会代理机构承担我校采购招标代理业务的结果公",
+     "2024-02-05 【择优选择社会代理机构】关于择优选择社会代理机构承担我校",
+     "2024-04-15 公共资源交易中心举办招标代理机构工作会"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://jyzx.suse.edu.cn/tz/index.chtml",
+    "label": "更多>>",
+    "scanned": 8,
+    "oldest": "2023-04-17",
+    "n": 0,
+    "newest": [
+     "2024-03-18 关于择优选择社会代理机构承担我校采购招标代理业务的结果公",
+     "2024-02-05 【择优选择社会代理机构】关于择优选择社会代理机构承担我校",
+     "2024-04-15 公共资源交易中心举办招标代理机构工作会"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://jyzx.suse.edu.cn/czgg/index.chtml",
+    "label": "更多 >",
+    "scanned": 15,
+    "oldest": "2026-09-15",
+    "n": 0,
+    "newest": [
+     "2026-10-15 经济学院数字化实验课程保障项目变更公告(第三次)",
+     "2026-10-13 创新技术研究与实践平台招标公告",
+     "2026-10-13 数字雕塑彩灯创新教学项目招标公告(第二次)"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://jyzx.suse.edu.cn/jggg/index.chtml",
+    "label": "更多 >",
+    "scanned": 15,
+    "oldest": "2026-09-22",
+    "n": 0,
+    "newest": [
+     "2026-10-15 法学院法学专业模拟法庭建设设备购置中标(成交)公告",
+     "2026-10-15 四川轻化工大学网络教学平台运行服务(二次)中标（成交）结",
+     "2026-10-15 四川轻化工大学网络教学平台运行服务(二次)中标（成交）结"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://jyzx.suse.edu.cn/yxgk/index.chtml",
+    "label": "更多 >",
+    "scanned": 15,
+    "oldest": "2026-06-04",
+    "n": 0,
+    "newest": [
+     "2026-10-13 四川轻化工大学2026年第二十六批政府采购意向公开",
+     "2026-09-30 四川轻化工大学2026年第二十五批政府采购意向公开",
+     "2026-08-31 四川轻化工大学2026年第二十四批政府采购意向公开"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://jyzx.suse.edu.cn/xxczgg/index.chtml",
+    "label": "更多 >",
+    "scanned": 15,
+    "oldest": "2026-08-15",
+    "n": 0,
+    "newest": [
+     "2026-10-16 四川轻化工大学2026-2027学年食堂物资供货商遴选采",
+     "2026-10-16 四川轻化工大学2026-2027学年食堂物资供货商遴选采",
+     "2026-10-14 四川轻化工大学2026-2027学年食堂物资供货商遴选采"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://jyzx.suse.edu.cn/xxjggg/index.chtml",
+    "label": "更多 >",
+    "scanned": 15,
+    "oldest": "2026-08-17",
+    "n": 0,
+    "newest": [
+     "2026-10-10 李白河校区通讯运营服务保障性房屋招商中标(成交)公告",
+     "2026-10-10 四川轻化工大学2026年“宏志助航计划”培训服务结果公告",
+     "2026-09-24 四川轻化工大学引进社会餐饮企业提供餐饮服务采购项目（第二"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://jyzx.suse.edu.cn/xxyxgk/index.chtml",
+    "label": "更多 >",
+    "scanned": 15,
+    "oldest": "2026-05-15",
+    "n": 0,
+    "newest": [
+     "2026-09-30 四川轻化工大学2026年9月至10月校内统一采购意向公开",
+     "2026-08-31 四川轻化工大学2026年8月校内统一采购意向公开",
+     "2026-07-29 四川轻化工大学2026年8月校内统一采购意向公开"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://jyzx.suse.edu.cn/fvfg/index.chtml",
+    "label": "更多 >",
+    "scanned": 5,
+    "oldest": "2022-11-02",
+    "n": 0,
+    "newest": [
+     "2023-03-02 《中华人民共和国招标投标法》",
+     "2023-03-01 《中华人民共和国招标投标法实施条例》",
+     "2022-11-03 《中华人民共和国政府采购法》"
+    ],
+    "rows": []
+   }
+  ]
+ }
+]
