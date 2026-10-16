@@ -1,0 +1,54 @@
+[
+ {
+  "key": "CAUC",
+  "title": "招标采购中心",
+  "url": "http://www.cauc.edu.cn/zbcgzx/",
+  "sfw": false,
+  "navs": [
+   {
+    "t": "采购公告",
+    "h": "http://www.cauc.edu.cn/zbcgzx/cggg/hwl.htm"
+   },
+   {
+    "t": "货物类",
+    "h": "http://www.cauc.edu.cn/zbcgzx/jggg/hwl.htm"
+   },
+   {
+    "t": "货物和服务部",
+    "h": "http://www.cauc.edu.cn/zbcgzx/lxwm/hwhfwb.htm"
+   },
+   {
+    "t": "天津大学招标信息网",
+    "h": "https://zbb.tju.edu.cn/"
+   }
+  ],
+  "cands": [
+   {
+    "u": "http://www.cauc.edu.cn/zbcgzx/cggg/hwl.htm",
+    "label": "采购公告",
+    "scanned": 16,
+    "oldest": "2026-09-21",
+    "n": 0,
+    "newest": [
+     "2026-10-16 中国民航大学体育设施设备采购项目（项目编号:TJBHGP",
+     "2026-10-16 中国民航大学全消声室项目公开招标公告",
+     "2026-10-15 中国民航大学SAF特性实验台购置项目更正公告"
+    ],
+    "rows": []
+   },
+   {
+    "u": "http://www.cauc.edu.cn/zbcgzx/jggg/hwl.htm",
+    "label": "货物类",
+    "scanned": 16,
+    "oldest": "2026-08-26",
+    "n": 0,
+    "newest": [
+     "2026-10-16 中国民航大学空气动力学与结构原理子实验室采购项目中标公告",
+     "2026-10-16 中国民航大学数据中心核心计算、存储设备更新替换（一期）采",
+     "2026-10-15 中国民航大学可持续航空燃料技术研究平台SAF部件及整机试"
+    ],
+    "rows": []
+   }
+  ]
+ }
+]
