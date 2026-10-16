@@ -1,67 +1,71 @@
-// Round 2: find the announcement list page on each candidate site and test the readers on it.
+// Round 3: full discovery pipeline for another batch of universities.
 import { chromium } from 'playwright';
+import dns from 'node:dns/promises';
 import { readFile, writeFile } from 'node:fs/promises';
 
 const ROOT = new URL('..', import.meta.url);
 const scanSrc = await readFile(new URL('scraper/scan.js', ROOT), 'utf8');
-const SFW = [
-  ['JLU', 'https://cgglzx.jlu.edu.cn/', null], ['SDU', 'https://zcgl.sdu.edu.cn/', null],
-  ['ECNU', 'https://cgxx.ecnu.edu.cn/', null], ['HFUT', 'https://zb.hfut.edu.cn/sfw/e?page=cms.index', 'sfw'],
-  ['HFUT2', 'https://zb.hfut.edu.cn/', null],
-];
-const LIST = {
-  XIDIAN: 'https://cg.xidian.edu.cn/', HDU: 'https://cgzx.hdu.edu.cn/', SZU: 'https://bidding.szu.edu.cn/',
-  SWJTU: 'https://bidding.swjtu.edu.cn/', NEU: 'https://zcc.neu.edu.cn/', TYUT: 'https://cgzb.tyut.edu.cn/',
-  UJS: 'https://cgb.ujs.edu.cn/', XAUT: 'https://zcc.xaut.edu.cn/', BISTU: 'https://zcc.bistu.edu.cn/',
-  WHUT: 'https://gzc.whut.edu.cn/', SUDA: 'https://zbzx.suda.edu.cn/', CSU: 'http://czzx.csu.edu.cn/csustatic/index.html',
-  SHANGHAITECH: 'https://www.shanghaitech.edu.cn/1428/list1.htm', GUET: 'https://www.guet.edu.cn/6361/list.htm',
-  XATU: 'https://www.xatu.edu.cn/index/cgzb.htm', ECNU_L: 'https://cgxx.ecnu.edu.cn/',
+const UNIS = {
+  UCAS: 'ucas.ac.cn', NJUPT: 'njupt.edu.cn', NUIST: 'nuist.edu.cn', HEBUT: 'hebut.edu.cn', NCEPU: 'ncepu.edu.cn',
+  BUCT: 'buct.edu.cn', DHU: 'dhu.edu.cn', USST: 'usst.edu.cn', NBU: 'nbu.edu.cn', NCHU: 'nchu.edu.cn', SAU: 'sau.edu.cn',
+  CAUC: 'cauc.edu.cn', JIANGNAN: 'jiangnan.edu.cn', FZU: 'fzu.edu.cn', NCU: 'ncu.edu.cn', ZZU: 'zzu.edu.cn', NWU: 'nwu.edu.cn',
+  LZU: 'lzu.edu.cn', AHU: 'ahu.edu.cn', JNU: 'jnu.edu.cn', SCNU: 'scnu.edu.cn', SZTU: 'sztu.edu.cn', HRBUST: 'hrbust.edu.cn',
+  SWUST: 'swust.edu.cn', XUST: 'xust.edu.cn', CHD: 'chd.edu.cn', QDU: 'qdu.edu.cn', SDUST: 'sdust.edu.cn', CCNU: 'ccnu.edu.cn',
+  CUG: 'cug.edu.cn', NJUST: 'njust.edu.cn', SCUT: 'scut.edu.cn', HRBEU: 'hrbeu.edu.cn', HNU: 'hnu.edu.cn', CUST: 'cust.edu.cn',
 };
+const PREFIX = ['zbb','zbcg','cgzx','ztb','zbzx','cg','cgb','cgzb','zb','bidding','ztbzx','zcc','zcglc','sbc','cgglc','cggl','cgc','zbcgzx','caigou','zbgl','zbxx','cgxx','zbtb','gzc','zcgl','ztbgl','cgw','zbgs','cgglzx','zbc','czzx','zbcgb','cgzbzx','zcsb'];
+const REL = /采购|招标|招投标/;
 
 const browser = await chromium.launch();
 const ctx = await browser.newContext({ locale: 'zh-CN', timezoneId: 'Asia/Shanghai', ignoreHTTPSErrors: true });
 await ctx.addInitScript(() => { window.__CEDRAT_HEADLESS = true; window.__CEDRAT_PAGES = 1; });
-const out = { sfw: [], list: [] };
 const run = (page, cfg) => page.evaluate(([src, c]) => { window.__CEDRAT_SITE = c; return (0, eval)(src); }, [scanSrc, cfg]);
 const brief = r => ({ scanned: r.scanned, oldest: r.oldest, n: r.rows.length, newest: (r.sample || []).map(s => s.p + ' ' + s.t.slice(0, 28)),
   rows: r.rows.slice(0, 4).map(x => `${x._id} | ${x.tier} | ${x.title.slice(0, 34)}`) });
 
-for (const [key, url, prefix] of SFW) {
+async function open(url) {
   const page = await ctx.newPage();
-  try {
-    await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 30000 });
-    await page.waitForTimeout(3000);
-    const r = await run(page, { key, kind: 'sfw', ...(prefix ? { prefix } : {}) });
-    out.sfw.push({ key, url: page.url(), ...brief(r) }); console.log('SFW', key, r.scanned, r.rows.length);
-  } catch (e) { out.sfw.push({ key, url, error: String(e.message || e).slice(0, 200) }); console.log('SFW', key, 'ERR'); }
-  await page.close();
+  try { await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 15000 }); await page.waitForTimeout(2500); return page; }
+  catch { await page.close(); return null; }
+}
+async function examine(key, page, out) {
+  const info = await page.evaluate(() => {
+    const html = document.documentElement.outerHTML, seen = new Set();
+    return { title: document.title, url: location.href,
+      sfw: /\/sfw[\w]*\//.test(location.href) || /sfw_cms|\/sfw\/e\?/.test(html.slice(0, 40000)),
+      navs: Array.from(document.querySelectorAll('a[href]'))
+        .filter(a => /采购公告|招标公告|询价|竞价|比选|磋商|采购信息|招标信息|货物|公开招标|更多|MORE|more/.test(a.textContent) && a.textContent.trim().length <= 12)
+        .map(a => ({ t: a.textContent.trim(), h: a.href })).filter(x => /^https?:/.test(x.h) && !seen.has(x.h) && seen.add(x.h)).slice(0, 12) };
+  });
+  const e = { key, ...info, cands: [] };
+  if (info.sfw) { try { e.sfwScan = brief(await run(page, { key, kind: 'sfw' })); } catch (err) { e.sfwErr = String(err.message || err).slice(0, 100); } }
+  for (const u of [info.url, ...info.navs.map(n => n.h)]) {
+    try { const r = await run(page, { key, kind: 'list', lists: [{ url: u }] }); if (r.scanned) e.cands.push({ u, label: (info.navs.find(n => n.h === u) || {}).t || 'home', ...brief(r) }); } catch {}
+  }
+  out.push(e);
+  console.log('SITE', key, info.title.slice(0, 30), info.sfw, e.cands.length);
 }
 
-for (const [key, url] of Object.entries(LIST)) {
-  const page = await ctx.newPage();
-  const entry = { key, url, cands: [] };
-  try {
-    await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 30000 });
-    await page.waitForTimeout(2500);
-    entry.final = page.url();
-    entry.title = await page.title();
-    const navs = await page.evaluate(() => {
-      const seen = new Set();
-      return Array.from(document.querySelectorAll('a[href]'))
-        .filter(a => /采购公告|招标公告|询价|竞价|比选|磋商|采购信息|招标信息|货物|公开招标|更多|MORE|more/.test(a.textContent) && a.textContent.trim().length <= 12)
-        .map(a => ({ t: a.textContent.trim(), h: a.href }))
-        .filter(x => /^https?:/.test(x.h) && !seen.has(x.h) && seen.add(x.h)).slice(0, 14);
-    });
-    entry.navs = navs;
-    for (const u of [entry.final, ...navs.map(n => n.h)]) {
-      try {
-        const r = await run(page, { key, kind: 'list', lists: [{ url: u }] });
-        entry.cands.push({ u, label: (navs.find(n => n.h === u) || {}).t || 'home', ...brief(r) });
-      } catch (e) { entry.cands.push({ u, error: String(e.message || e).slice(0, 120) }); }
-    }
-  } catch (e) { entry.error = String(e.message || e).slice(0, 200); }
-  out.list.push(entry); console.log('LIST', key, entry.cands.length);
-  await page.close();
+const out = [];
+for (const [key, dom] of Object.entries(UNIS)) {
+  const hosts = new Set();
+  await Promise.all(PREFIX.map(async p => { try { await dns.lookup(`${p}.${dom}`); hosts.add(`${p}.${dom}`); } catch {} }));
+  // links from the university home page
+  for (const u of [`https://www.${dom}/`, `http://www.${dom}/`]) {
+    const p = await open(u); if (!p) continue;
+    const links = await p.evaluate(() => Array.from(document.querySelectorAll('a')).filter(a => /招标|采购|招投标/.test(a.textContent)).map(a => a.href).slice(0, 8));
+    await p.close();
+    for (const l of links) { try { const h = new URL(l).host; if (h.endsWith(dom) && !h.startsWith('www.')) hosts.add(h); } catch {} }
+    break;
+  }
+  for (const h of hosts) {
+    let page = null;
+    for (const proto of ['https', 'http']) { page = await open(`${proto}://${h}/`); if (page) break; }
+    if (!page) continue;
+    const title = await page.title();
+    if (REL.test(title) || /sfw/.test(page.url())) await examine(key, page, out);
+    await page.close();
+  }
 }
 await browser.close();
 await writeFile(new URL('./discover.json', import.meta.url), JSON.stringify(out, null, 1));
