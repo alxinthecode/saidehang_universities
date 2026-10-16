@@ -73,6 +73,7 @@ h1 small{display:block;font-size:12px;font-weight:500;color:var(--muted);letter-
 .snip{font-size:12.5px;color:var(--muted);overflow-wrap:anywhere}
 .snip mark{background:var(--warn-soft);color:var(--fg);padding:0 2px;border-radius:2px}
 .side{display:grid;gap:6px;justify-items:end;align-content:start}
+.schoolsel{font-size:13px;border-radius:999px;padding:4px 10px;max-width:100%}
 select{font:inherit;font-size:12.5px;border:1px solid var(--line);background:var(--surface);color:var(--fg);border-radius:6px;padding:3px 6px}
 .empty{background:var(--surface);border:1px dashed var(--line);border-radius:8px;padding:28px;text-align:center;color:var(--muted)}
 section h2{font-size:13px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin:0 0 10px}
@@ -123,7 +124,7 @@ td a{color:var(--accent)}
     <button class="chip" data-f="strong" id="f-strong" data-i="fStrong"></button>
     <button class="chip" data-f="hideSkip" id="f-hideskip" data-i="fHide"></button>
     <span class="sep"></span>
-    <span id="schoolChips" style="display:contents"></span>
+    <select id="school" class="schoolsel"></select>
     <input id="q" type="search">
   </div>
 
@@ -155,7 +156,7 @@ const T={
   ruleH:'匹配规则',kwStrongH:'强相关：直接对应 Cedrat 产品线',kwWeakH:'弱相关：可能包含压电/磁驱部件',
   ruleNote:'在标题和公告正文中匹配（北航、哈工大、天大多数只提供标题）。「高压电缆」「电压电流」这类词已排除。进口一栏读取公告里的"是否允许进口产品"表述；Cedrat 产品为进口，标注「不接受进口」的项目需通过国内代理或放弃。',
   impYes:'允许进口',impNo:'不接受进口',impUnk:'进口未注明',budget:'预算 ',note:'备注：',published:'发布',closed:'已截止',today:'今天',days:n=>n+' 天',due:'截止 ',
-  refresh:'刷新扫描',refreshHint:'在 GitHub 打开扫描任务，点击「Run workflow」。约 5 分钟后刷新本页即可看到新数据。',lastFail:'上次扫描失败：',lastRun:'上次扫描 ',bj:'（北京时间）',notYet:'尚未扫描',items:' 条',
+  allSchools:n=>'全部学校（'+n+'）',refresh:'刷新扫描',refreshHint:'在 GitHub 打开扫描任务，点击「Run workflow」。约 5 分钟后刷新本页即可看到新数据。',lastFail:'上次扫描失败：',lastRun:'上次扫描 ',bj:'（北京时间）',notYet:'尚未扫描',items:' 条',
   loading:'正在读取公告…',none:'还没有公告。每天的扫描会把匹配到的公告写到这里。',noMatch:'没有符合当前筛选的公告。试试取消「仅未截止」或学校筛选。',
   noDb:'此视图无法读取公告数据。请在 claude.ai 登录后打开。',readErr:c=>'读取失败（'+c+'），请刷新页面。',statusLabel:'跟进状态',
   status:{new:'新',watch:'关注',bid:'准备投标',skip:'不适合'}},
@@ -165,7 +166,7 @@ const T={
   ruleH:'Matching rules',kwStrongH:'Strong: maps directly to Cedrat product lines',kwWeakH:'Weak: may contain piezo or magnetic actuation parts',
   ruleNote:'Terms are matched in the title and, where published, the full announcement text (Beihang, Harbin and Tianjin mostly publish titles only). False hits such as 高压电缆 (high-voltage cable) are excluded. The import column reads the announcement’s statement on imported products. Cedrat products are imported, so tenders marked “Imports not accepted” need a domestic partner or should be skipped.',
   impYes:'Imports allowed',impNo:'Imports not accepted',impUnk:'Imports not stated',budget:'Budget ',note:'Note: ',published:'published',closed:'closed',today:'Today',days:n=>n+(n===1?' day':' days'),due:'Due ',
-  refresh:'Refresh scan',refreshHint:'Opens the scan job on GitHub: click “Run workflow”. Reload this page in about 5 minutes to see new data.',lastFail:'Last scan failed: ',lastRun:'Last scan ',bj:' (Beijing time)',notYet:'Not scanned yet',items:' items',
+  allSchools:n=>'All universities ('+n+')',refresh:'Refresh scan',refreshHint:'Opens the scan job on GitHub: click “Run workflow”. Reload this page in about 5 minutes to see new data.',lastFail:'Last scan failed: ',lastRun:'Last scan ',bj:' (Beijing time)',notYet:'Not scanned yet',items:' items',
   loading:'Loading tenders…',none:'No tenders yet. Each scan adds matching announcements here.',noMatch:'No tenders match these filters. Try clearing “Open only” or the university filter.',
   noDb:'This view can’t read the tender data. Sign in to claude.ai and open the page again.',readErr:c=>'Couldn’t load tenders ('+c+'). Refresh the page.',statusLabel:'Follow-up status',
   status:{new:'New',watch:'Watching',bid:'Preparing bid',skip:'Not a fit'}}
@@ -175,7 +176,7 @@ const WEAK=['位移台','精密定位','电动平台','定位平台','振动台'
 const KW_EN={'压电':'piezo','快反镜':'FSM','快速反射镜':'fast steering mirror','快速偏转镜':'fast deflection mirror','快速倾斜镜':'fast tilt mirror','倾斜镜':'tilt mirror','摆镜':'scan mirror','磁致伸缩':'magnetostrictive','音圈':'voice coil','促动器':'actuator','致动器':'actuator','作动器':'actuator','纳米位移':'nano-displacement','纳米定位':'nano-positioning','纳米平台':'nano stage','微位移':'micro-displacement','主动隔振':'active isolation','主动减振':'active damping','自适应光学':'adaptive optics','变形镜':'deformable mirror','高压放大器':'HV amplifier',
  '位移台':'positioning stage','精密定位':'precision positioning','电动平台':'motorized stage','定位平台':'positioning platform','振动台':'shaker table','激振器':'exciter','稳像':'image stabilization','光束稳定':'beam stabilization','指向镜':'pointing mirror','电容传感器':'capacitive sensor','位移传感器':'displacement sensor','隔振':'vibration isolation','减振':'vibration damping','伺服稳定':'servo stabilization','扫描振镜':'galvo scanner','振镜':'galvo','偏摆台':'tip-tilt stage','六自由度':'6-DOF','并联机构':'parallel mechanism','精密运动':'precision motion'};
 const METHOD_EN={'公开招标':'Open tender','快速磋商':'Rapid negotiation','竞争性磋商':'Competitive negotiation','竞争性谈判':'Competitive negotiation','网上比选':'Online comparison','网上竞价':'Online bidding','科研快采':'Research fast-track','快速采购':'Rapid procurement','线下比选(B)':'Offline comparison','单一来源':'Single source','校定采购':'University-run purchase','邀请招标':'Invited tender'};
-const SCHOOLS=[
+let SCHOOLS=[
   {k:'THU',zh:'清华',en:'Tsinghua',url:'https://sbcgczxxfb.sysc.tsinghua.edu.cn'},
   {k:'BUAA',zh:'北航',en:'Beihang',url:'https://zbcg.buaa.edu.cn'},
   {k:'HIT',zh:'哈工大',en:'Harbin IT',url:'https://cgzx.hit.edu.cn'},
@@ -185,16 +186,25 @@ const SCHOOLS=[
 const EXTRA_SCHOOL_EN={'天大':'Tianjin U','上交':'SJTU','哈工大':'Harbin IT','清华':'Tsinghua','北航':'Beihang'};
 const STATUS_KEYS=['new','watch','bid','skip'];
 
-const state={rows:[],meta:null,f:{open:false,strong:false,hideSkip:true},schools:new Set(),q:'',lang:'zh',loaded:false,err:''};
+const state={rows:[],meta:null,f:{open:false,strong:false,hideSkip:true},school:'',q:'',lang:'zh',loaded:false,err:''};
 let canWrite=true,db=null;
-try{const s=JSON.parse(localStorage.getItem('tw-filters')||'null');if(s){Object.assign(state.f,s.f||{});(s.schools||[]).forEach(x=>state.schools.add(x));if(s.lang)state.lang=s.lang;}}catch(e){}
+try{const s=JSON.parse(localStorage.getItem('tw-filters')||'null');if(s){Object.assign(state.f,s.f||{});if(typeof s.school==='string')state.school=s.school;if(s.lang)state.lang=s.lang;}}catch(e){}
 if(location.hash==='#en')state.lang='en';else if(location.hash==='#zh')state.lang='zh';
-function save(){try{localStorage.setItem('tw-filters',JSON.stringify({f:state.f,schools:[...state.schools],lang:state.lang}))}catch(e){}}
+function save(){try{localStorage.setItem('tw-filters',JSON.stringify({f:state.f,school:state.school,lang:state.lang}))}catch(e){}}
 const t=()=>T[state.lang];
 const en=()=>state.lang==='en';
 
-const sc=document.getElementById('schoolChips');
-SCHOOLS.forEach(s=>{const b=document.createElement('button');b.className='chip';b.id='sch-'+s.k;b.dataset.s=s.k;b.onclick=()=>{state.schools.has(s.k)?state.schools.delete(s.k):state.schools.add(s.k);save();paint()};sc.appendChild(b)});
+const sc=document.getElementById('school');
+sc.onchange=()=>{state.school=sc.value;save();render()};
+function fillSchools(){
+  const counts={};state.rows.forEach(r=>{counts[r.school]=(counts[r.school]||0)+1});
+  const name=s=>(en()?s.en:s.zh)+(counts[s.k]?' ('+counts[s.k]+')':'');
+  const list=[...SCHOOLS].sort((a,b)=>(counts[b.k]||0)-(counts[a.k]||0)||name(a).localeCompare(name(b)));
+  sc.innerHTML='<option value="">'+esc(t().allSchools(SCHOOLS.length))+'</option>'+list.map(s=>'<option value="'+esc(s.k)+'">'+esc(name(s))+'</option>').join('');
+  sc.setAttribute('aria-label',t().thSchool);
+  if(state.school&&!SCHOOLS.some(s=>s.k===state.school))state.school='';
+  sc.value=state.school;
+}
 document.querySelectorAll('[data-f]').forEach(b=>b.onclick=()=>{state.f[b.dataset.f]=!state.f[b.dataset.f];save();paint()});
 document.getElementById('q').addEventListener('input',e=>{state.q=e.target.value.trim().toLowerCase();render()});
 document.querySelectorAll('[data-lang]').forEach(b=>b.onclick=()=>{state.lang=b.dataset.lang;document.documentElement.lang=en()?'en':'zh-CN';save();paint()});
@@ -219,7 +229,7 @@ function paint(){
   document.getElementById('q').placeholder=t().q;
   document.querySelectorAll('[data-lang]').forEach(b=>b.setAttribute('aria-pressed',b.dataset.lang===state.lang));
   document.querySelectorAll('[data-f]').forEach(b=>b.setAttribute('aria-pressed',!!state.f[b.dataset.f]));
-  SCHOOLS.forEach(s=>{const b=document.getElementById('sch-'+s.k);b.textContent=en()?s.en:s.zh;b.setAttribute('aria-pressed',state.schools.has(s.k))});
+  fillSchools();
   document.getElementById('kw-strong').textContent=STRONG.map(kwLabel).join(' · ');
   document.getElementById('kw-weak').textContent=WEAK.map(kwLabel).join(' · ');
   renderMeta();render();
@@ -239,7 +249,7 @@ function render(){
     if(state.f.open&&!r._due.open)return false;
     if(state.f.strong&&r.tier!=='strong')return false;
     if(state.f.hideSkip&&r.status==='skip')return false;
-    if(state.schools.size&&!state.schools.has(r.school))return false;
+    if(state.school&&r.school!==state.school)return false;
     if(state.q){const kws=[...(r.strong||[]),...(r.weak||[])];const hay=[r.title,r.titleEn,r.no,r.snippet,r.snippetEn,...kws,...kws.map(k=>KW_EN[k]||'')].join(' ').toLowerCase();if(!hay.includes(state.q))return false}
     return true});
   v.sort((a,b)=>(b._due.open-a._due.open)||((parseD(b.published)||0)-(parseD(a.published)||0)));
@@ -289,7 +299,9 @@ paint();
     document.getElementById('refresh').hidden=false;document.getElementById('refresh-hint').hidden=false;
     try{
       const [n,m]=await Promise.all([fetch('data/notices.json',{cache:'no-store'}).then(r=>r.json()),fetch('data/meta.json',{cache:'no-store'}).then(r=>r.ok?r.json():null).catch(()=>null)]);
-      state.rows=n;state.meta=m;state.loaded=true;state.err='';renderMeta();render();
+      try{const sj=await fetch('scraper/sites.json',{cache:'no-store'}).then(r=>r.ok?r.json():null);
+        if(Array.isArray(sj)&&sj.length)SCHOOLS=sj.map(x=>({k:x.key,zh:x.zh,en:x.en,url:new URL(x.url).origin}));}catch(e){}
+      state.rows=n;state.meta=m;state.loaded=true;state.err='';paint();
     }catch(e){state.err=t().noDb;render()}
     return;
   }

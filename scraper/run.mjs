@@ -9,13 +9,6 @@ import { readFile, writeFile } from 'node:fs/promises';
 const ROOT = new URL('..', import.meta.url);
 const PAGES = Number(process.env.SCAN_PAGES || 1); // 1 = newest 100 per platform
 
-const SITES = [
-  { school: 'THU', url: 'https://sbcgczxxfb.sysc.tsinghua.edu.cn/sfw_cms/e?page=cms.psms.gglist&typeDetail=XQ&catalog=A' },
-  { school: 'TJU', url: 'https://zbb.tju.edu.cn/sfw_cms/e?page=cms.psms.gglist&typeDetail=XQ' },
-  { school: 'HIT', url: 'https://cgzx.hit.edu.cn/sfw_cms/e?page=cms.psms.gglist&shopping_type=GKCG&typeDetail=XQ' },
-  { school: 'SJTU', url: 'https://pboffice.sjtu.edu.cn/sfw_cms/e?page=cms.psms.gglist&typeDetail=XQ&cate=103249' },
-  { school: 'BUAA', url: 'https://zbcg.buaa.edu.cn/cggg/gkzb_bx_jc.htm' },
-];
 
 const readJson = async (p, fallback) => {
   try { return JSON.parse(await readFile(new URL(p, ROOT), 'utf8')); } catch { return fallback; }
@@ -27,6 +20,7 @@ const beijingNow = () => {
   return d.toISOString().slice(0, 16);
 };
 
+const SITES = JSON.parse(await readFile(new URL('scraper/sites.json', ROOT), 'utf8'));
 const scanSrc = await readFile(new URL('scraper/scan.js', ROOT), 'utf8');
 const notices = await readJson('data/notices.json', []);
 const meta = await readJson('data/meta.json', { coverage: {}, extra: [] });
@@ -38,11 +32,12 @@ await ctx.addInitScript(pages => { window.__CEDRAT_HEADLESS = true; window.__CED
 
 const results = [];
 for (const site of SITES) {
+  site.school = site.key;
   const page = await ctx.newPage();
   try {
     await page.goto(site.url, { waitUntil: 'domcontentloaded', timeout: 60000 });
     await page.waitForLoadState('networkidle', { timeout: 30000 }).catch(() => {});
-    const res = await page.evaluate(src => (0, eval)(src), scanSrc);
+    const res = await page.evaluate(([src, cfg]) => { window.__CEDRAT_SITE = cfg; return (0, eval)(src); }, [scanSrc, site]);
     if (!res || !Array.isArray(res.rows)) throw new Error('scan returned no result (page layout may have changed)');
     results.push({ school: site.school, ok: true, ...res });
     console.log(`${site.school}: scanned ${res.scanned}, back to ${res.oldest}, ${res.rows.length} matches`);

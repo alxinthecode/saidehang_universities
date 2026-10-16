@@ -1,8 +1,8 @@
 # Cedrat University Tender Watch · 赛得航高校标讯
 
-Tracks procurement announcements from five Chinese university platforms and flags the ones that match Cedrat Technologies' product lines (piezo actuators and motors, fast steering mirrors, magnetic actuators, controllers).
+Tracks procurement announcements from 25 Chinese university platforms and flags the ones that match Cedrat Technologies' product lines (piezo actuators and motors, fast steering mirrors, magnetic actuators, controllers).
 
-汇总清华、北航、哈工大、上交、天大五所高校采购平台的公告，筛出与 Cedrat（赛得航科技）压电促动器、压电马达、快反镜、磁驱作动器等产品相关的标讯。
+汇总 25 所高校采购平台的公告，筛出与 Cedrat（赛得航科技）压电促动器、压电马达、快反镜、磁驱作动器等产品相关的标讯。
 
 ## What's here
 
@@ -11,7 +11,9 @@ Tracks procurement announcements from five Chinese university platforms and flag
 | `index.html` | The dashboard. Chinese/English switch (top right, or add `#en` to the URL). |
 | `data/notices.json` | Snapshot of matched announcements (title, link, deadline, budget, import flag, matched keywords, notes in Chinese and English). |
 | `data/meta.json` | Scan date and how far back each platform was covered. |
-| `scraper/scan.js` | Browser-console script that scans one platform and returns new matches in the same JSON shape. |
+| `scraper/sites.json` | The list of universities and how each one is read. Add a university here. |
+| `scraper/scan.js` | The scanner that runs inside each site (also works pasted into a browser console). |
+| `scraper/run.mjs` | Runs the scanner on every site with a headless browser and merges results into `data/`. |
 
 ## Viewing the page
 
@@ -21,17 +23,44 @@ The live version on claude.ai keeps the data in a shared database and lets you s
 
 ## Platforms covered
 
-| University | Platform | Content available |
+25 universities, picked for strength in optics, precision instruments, aerospace and microelectronics. The full configuration is in `scraper/sites.json`.
+
+| University | Platform | How it's read |
 |---|---|---|
-| Tsinghua 清华 | sbcgczxxfb.sysc.tsinghua.edu.cn | Full announcement text |
-| Beihang 北航 | zbcg.buaa.edu.cn | Titles only (static HTML) |
-| Harbin IT 哈工大 | cgzx.hit.edu.cn | Titles only |
-| SJTU 上交 | pboffice.sjtu.edu.cn | Full text (ebidding.sjtu.edu.cn list needs login; its notices are mirrored on pboffice) |
-| Tianjin U 天大 | zbb.tju.edu.cn | Mostly titles only |
+| Tsinghua 清华 | sbcgczxxfb.sysc.tsinghua.edu.cn | 思必得 platform (full text on most) |
+| Beihang 北航 | zbcg.buaa.edu.cn | List pages (titles only) |
+| Harbin IT 哈工大 | cgzx.hit.edu.cn | 思必得 platform (full text on most) |
+| SJTU 上交 | pboffice.sjtu.edu.cn | 思必得 platform (full text on most) |
+| Tianjin U 天大 | zbb.tju.edu.cn | 思必得 platform (full text on most) |
+| USTC 中科大 | cggl.ustc.edu.cn | 思必得 platform (full text on most) |
+| Chongqing U 重庆大学 | ztbzx.cqu.edu.cn | 思必得 platform (full text on most) |
+| Sichuan U 四川大学 | cg.scu.edu.cn | 思必得 platform (full text on most) |
+| HIT Shenzhen 哈工大(深圳) | cggl.hitsz.edu.cn | 思必得 platform (full text on most) |
+| Westlake U 西湖大学 | procurement.westlake.edu.cn | 思必得 platform (full text on most) |
+| BUPT 北邮 | cg.bupt.edu.cn | 思必得 platform (full text on most) |
+| Xiamen U 厦门大学 | xdzc.xmu.edu.cn | 思必得 platform (full text on most) |
+| Dalian UT 大连理工 | cgbmis.dlut.edu.cn | 思必得 platform (full text on most) |
+| Kunming UST 昆明理工 | cgzx.kust.edu.cn | 思必得 platform (full text on most) |
+| Dalian Maritime 大连海事 | cgzx.dlmu.edu.cn | 思必得 platform (full text on most) |
+| HUST 华中科大 | cgzx.hust.edu.cn | List pages (titles only) |
+| Fudan 复旦 | czzx.fudan.edu.cn | List pages (titles only) |
+| NWPU 西工大 | zczx.nwpu.edu.cn | List pages (titles only) |
+| Tongji 同济 | czb.tongji.edu.cn | List pages (titles only) |
+| SUSTech 南科大 | biddingoffice.sustech.edu.cn | List pages (titles only) |
+| UESTC 电子科大 | cg.uestc.edu.cn | List pages (titles only) |
+| Wuhan U 武汉大学 | zb.whu.edu.cn | List pages (titles only) |
+| Xi'an Jiaotong 西安交大 | cgb.xjtu.edu.cn | Own data feed (titles) |
+| Shanghai U 上海大学 | bidding.shu.edu.cn | List pages (titles only) |
+| Nanjing Tech 南京工业 | ztb.njtech.edu.cn | List pages (titles only) |
 
-Four of the five run the same vendor platform (思必得 sfw_cms), which loads lists by POST from `/sfw_cms/e`. That is why simple HTTP scrapers see empty pages and the scan runs inside a browser.
+Two generic readers in `scraper/scan.js` handle almost everything:
 
-Not yet covered: Tianjin's procurement intentions (details sit on the national CCGP intention system, which blocks non-Chinese IPs), SJTU's procurement intentions, and Harbin's pre-tender market research notices.
+- **思必得 (sfw_cms) reader**: most sites run this vendor platform, which loads lists by POST from `/sfw_cms/e` (`page=cms.psms.publish.query`). The reader tries the known request variants and keeps the first that returns results.
+- **List reader**: plain HTML list pages. It keeps every link that has a date next to it.
+
+Award, result and contract notices are skipped; only open opportunities are matched.
+
+Tried but not usable from outside China or without a login: Zhejiang U (staff login), Nanjing U of Aeronautics & Astronautics (blocks foreign visitors), BIT, Nanjing U, Southeast U, Nankai (unreachable from abroad), Sun Yat-sen (list no longer updated), CQUPT (no response).
 
 ## Matching rules
 

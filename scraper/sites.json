@@ -1,0 +1,296 @@
+[
+ {
+  "key": "THU",
+  "zh": "清华",
+  "en": "Tsinghua",
+  "kind": "sfw",
+  "url": "https://sbcgczxxfb.sysc.tsinghua.edu.cn/sfw_cms/e?page=cms.psms.gglist&typeDetail=XQ&catalog=A",
+  "body": "sort=begin_time+desc&type=ZCGS&type=ZCXQ&type=YQXQ&type=BYXQ&type=CSXQ&isEnd=&catalog=&shopType=&keywords=",
+  "detail": "https://sbgysfw.sysc.tsinghua.edu.cn/#/publish/"
+ },
+ {
+  "key": "BUAA",
+  "zh": "北航",
+  "en": "Beihang",
+  "kind": "list",
+  "url": "https://zbcg.buaa.edu.cn/cggg/gkzb_bx_jc.htm",
+  "lists": [
+   {
+    "url": "/cggg/gkzb_bx_jc.htm",
+    "label": "公开招标/比选/竞磋"
+   },
+   {
+    "url": "/cggg/kykc.htm",
+    "label": "科研快采"
+   },
+   {
+    "url": "/cggg/wsjj.htm",
+    "label": "网上竞价"
+   }
+  ],
+  "idFrom": "BUAA([A-Z]{2}\\d+)"
+ },
+ {
+  "key": "HIT",
+  "zh": "哈工大",
+  "en": "Harbin IT",
+  "kind": "sfw",
+  "url": "https://cgzx.hit.edu.cn/sfw_cms/e?page=cms.psms.gglist&shopping_type=GKCG&typeDetail=XQ",
+  "body": "sort=edate%20desc&typePublish=ZC&typePublish=YQ&typePublish=CS&typePublish=BY&typePublish=BG&typeDetail=XQ&shoppingType=&type=&isEnd=&categoryId=&notShoppingType=&keywords="
+ },
+ {
+  "key": "SJTU",
+  "zh": "上交",
+  "en": "SJTU",
+  "kind": "sfw",
+  "url": "https://pboffice.sjtu.edu.cn/sfw_cms/e?page=cms.psms.gglist&typeDetail=XQ&cate=103249",
+  "body": "sort=beginTime%20desc&type=ZCXQ&type=YQXQ&type=BYXQ&type=CSXQ&shopType=&catalog=&isEnd=&categoryId=103249&ggType=XQ&keywords="
+ },
+ {
+  "key": "TJU",
+  "zh": "天大",
+  "en": "Tianjin U",
+  "kind": "sfw",
+  "url": "https://zbb.tju.edu.cn/sfw_cms/e?page=cms.psms.gglist&typeDetail=XQ",
+  "body": "sort=begin_time%20desc&type=CSXQ&type=ZCXQ&type=BYXQ&type=YQXQ&type=ZCGS&shopType=&orgType=&catalog=&keywords="
+ },
+ {
+  "key": "USTC",
+  "zh": "中科大",
+  "en": "USTC",
+  "kind": "sfw",
+  "url": "https://cggl.ustc.edu.cn/sfw_cms/e?page=cms.index"
+ },
+ {
+  "key": "CQU",
+  "zh": "重庆大学",
+  "en": "Chongqing U",
+  "kind": "sfw",
+  "url": "https://ztbzx.cqu.edu.cn/sfw_cms/e?page=cms.index"
+ },
+ {
+  "key": "SCU",
+  "zh": "四川大学",
+  "en": "Sichuan U",
+  "kind": "sfw",
+  "url": "https://cg.scu.edu.cn/sfw_cms/e?page=cms.index"
+ },
+ {
+  "key": "HITSZ",
+  "zh": "哈工大(深圳)",
+  "en": "HIT Shenzhen",
+  "kind": "sfw",
+  "url": "https://cggl.hitsz.edu.cn/sfw_cms/e?page=cms.index"
+ },
+ {
+  "key": "WESTLAKE",
+  "zh": "西湖大学",
+  "en": "Westlake U",
+  "kind": "sfw",
+  "url": "https://procurement.westlake.edu.cn/sfw_cms/e?page=cms.index"
+ },
+ {
+  "key": "BUPT",
+  "zh": "北邮",
+  "en": "BUPT",
+  "kind": "sfw",
+  "prefix": "sfw",
+  "url": "https://cg.bupt.edu.cn/sfw/e?page=cms.index"
+ },
+ {
+  "key": "XMU",
+  "zh": "厦门大学",
+  "en": "Xiamen U",
+  "kind": "sfw",
+  "url": "https://xdzc.xmu.edu.cn/sfw_cms/e?page=cms.index"
+ },
+ {
+  "key": "DUT",
+  "zh": "大连理工",
+  "en": "Dalian UT",
+  "kind": "sfw",
+  "url": "http://cgbmis.dlut.edu.cn/sfw_cms/e?page=cms.index"
+ },
+ {
+  "key": "KUST",
+  "zh": "昆明理工",
+  "en": "Kunming UST",
+  "kind": "sfw",
+  "url": "https://cgzx.kust.edu.cn/sfw_cms/e?page=cms.index"
+ },
+ {
+  "key": "DLMU",
+  "zh": "大连海事",
+  "en": "Dalian Maritime",
+  "kind": "sfw",
+  "url": "https://cgzx.dlmu.edu.cn/sfw_cms/e?page=cms.index"
+ },
+ {
+  "key": "HUST",
+  "zh": "华中科大",
+  "en": "HUST",
+  "kind": "list",
+  "url": "http://cgzx.hust.edu.cn/cgjzcg/index.chtml",
+  "lists": [
+   {
+    "url": "/cgjzcg/index.chtml",
+    "label": "集中采购"
+   },
+   {
+    "url": "/cgfscg/index.chtml",
+    "label": "分散采购"
+   },
+   {
+    "url": "/zfcgxqgs/index.chtml",
+    "label": "采购需求公示"
+   }
+  ]
+ },
+ {
+  "key": "FUDAN",
+  "zh": "复旦",
+  "en": "Fudan",
+  "kind": "list",
+  "url": "https://czzx.fudan.edu.cn/cggg/list.htm",
+  "lists": [
+   {
+    "url": "/cggg/list.htm",
+    "label": "采购公告"
+   },
+   {
+    "url": "/jjcggg/list.htm",
+    "label": "竞价采购"
+   },
+   {
+    "url": "/cgxqdc/list.htm",
+    "label": "采购需求调查"
+   }
+  ]
+ },
+ {
+  "key": "NWPU",
+  "zh": "西工大",
+  "en": "NWPU",
+  "kind": "list",
+  "url": "https://zczx.nwpu.edu.cn/zbgg.htm",
+  "lists": [
+   {
+    "url": "/zbgg.htm",
+    "label": "招标公告"
+   }
+  ]
+ },
+ {
+  "key": "TONGJI",
+  "zh": "同济",
+  "en": "Tongji",
+  "kind": "list",
+  "url": "https://czb.tongji.edu.cn/sggl/cgw/zbggList.jsp?type=A",
+  "lists": [
+   {
+    "url": "/sggl/cgw/zbggList.jsp?type=A",
+    "label": "招标公告"
+   },
+   {
+    "url": "/sggl/cgw/zbggList.jsp?type=B",
+    "label": "招标公告"
+   },
+   {
+    "url": "/sggl/cgw/zbggList.jsp?type=C",
+    "label": "招标公告"
+   }
+  ],
+  "linkPattern": "zbggNews\\.jsp"
+ },
+ {
+  "key": "SUSTECH",
+  "zh": "南科大",
+  "en": "SUSTech",
+  "kind": "list",
+  "url": "https://biddingoffice.sustech.edu.cn/tender/index/pid/2/sort_id/7",
+  "lists": [
+   {
+    "url": "/tender/index/pid/2/sort_id/7",
+    "label": "校内集中采购"
+   },
+   {
+    "url": "/tender/index/pid/2/sort_id/8",
+    "label": "政府集中采购"
+   },
+   {
+    "url": "/tender/index/pid/2/sort_id/57",
+    "label": "非公开招标"
+   },
+   {
+    "url": "/tender/index/pid/45/sort_id/56",
+    "label": "采购需求公示"
+   }
+  ]
+ },
+ {
+  "key": "UESTC",
+  "zh": "电子科大",
+  "en": "UESTC",
+  "kind": "list",
+  "url": "https://cg.uestc.edu.cn/f/list-bab1e63fa83e4c238d9262ec45e81b99.html",
+  "lists": [
+   {
+    "url": "/f/list-bab1e63fa83e4c238d9262ec45e81b99.html",
+    "label": "采购公告"
+   }
+  ]
+ },
+ {
+  "key": "WHU",
+  "zh": "武汉大学",
+  "en": "Wuhan U",
+  "kind": "list",
+  "url": "https://zb.whu.edu.cn/cgxx.htm",
+  "lists": [
+   {
+    "url": "/cgxx.htm",
+    "label": "采购公告"
+   }
+  ]
+ },
+ {
+  "key": "XJTU",
+  "zh": "西安交大",
+  "en": "Xi'an Jiaotong",
+  "kind": "xjtu",
+  "url": "https://cgb.xjtu.edu.cn/site/",
+  "columns": [
+   {
+    "bkid": "4af592f37641715c017641b5e7700024",
+    "lmid": "4af592f37641715c0176419ae14f000d",
+    "label": "校级采购公告"
+   }
+  ]
+ },
+ {
+  "key": "SHU",
+  "zh": "上海大学",
+  "en": "Shanghai U",
+  "kind": "list",
+  "url": "https://bidding.shu.edu.cn/sy/zbkscg_list.jsp?gglx=ZBGG",
+  "lists": [
+   {
+    "url": "/sy/zbkscg_list.jsp?gglx=ZBGG",
+    "label": "采购公告"
+   }
+  ]
+ },
+ {
+  "key": "NJTECH",
+  "zh": "南京工业",
+  "en": "Nanjing Tech",
+  "kind": "list",
+  "url": "https://ztb.njtech.edu.cn/xeys/cggg.htm",
+  "lists": [
+   {
+    "url": "/xeys/cggg.htm",
+    "label": "采购公告"
+   }
+  ]
+ }
+]
