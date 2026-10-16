@@ -1,0 +1,92 @@
+[
+ {
+  "key": "XAUAT",
+  "dom": "xauat.edu.cn",
+  "home": "https://www.xauat.edu.cn/",
+  "links": [
+   "招标公告 https://jdzcb.xauat.edu.cn/cgxx/cggg/hwl.htm"
+  ],
+  "hosts": [
+   "zcb.xauat.edu.cn",
+   "cwc.xauat.edu.cn",
+   "zbb.xauat.edu.cn",
+   "gzc.xauat.edu.cn",
+   "zcgl.xauat.edu.cn",
+   "jdzcb.xauat.edu.cn"
+  ]
+ },
+ {
+  "key": "HHU",
+  "dom": "hhu.edu.cn",
+  "home": "http://www.hhu.edu.cn/",
+  "links": [
+   "招标采购 https://zbb.hhu.edu.cn/"
+  ],
+  "hosts": [
+   "cwc.hhu.edu.cn",
+   "zbb.hhu.edu.cn",
+   "zcc.hhu.edu.cn",
+   "cggl.hhu.edu.cn"
+  ]
+ },
+ {
+  "key": "LUT",
+  "dom": "lut.edu.cn",
+  "home": null,
+  "links": [],
+  "hosts": [
+   "cwc.lut.edu.cn",
+   "zbzx.lut.edu.cn",
+   "cggl.lut.edu.cn",
+   "zcgl.lut.edu.cn"
+  ]
+ },
+ {
+  "key": "NBU",
+  "dom": "nbu.edu.cn",
+  "home": "https://www.nbu.edu.cn/",
+  "links": [
+   "招标采购 http://notice-nbu.pms.ucaigou.net/"
+  ],
+  "hosts": [
+   "cwc.nbu.edu.cn",
+   "sbc.nbu.edu.cn",
+   "cggl.nbu.edu.cn",
+   "zcgl.nbu.edu.cn",
+   "zcsb.nbu.edu.cn"
+  ]
+ },
+ {
+  "key": "SHMTU",
+  "dom": "shmtu.edu.cn",
+  "home": "https://www.shmtu.edu.cn/",
+  "links": [],
+  "hosts": [
+   "cggl.shmtu.edu.cn",
+   "zcgl.shmtu.edu.cn"
+  ]
+ },
+ {
+  "key": "XIOPM",
+  "dom": "opt.cas.cn",
+  "home": null,
+  "links": [],
+  "hosts": []
+ },
+ {
+  "key": "NIMTE",
+  "dom": "nimte.cas.cn",
+  "home": "https://www.nimte.cas.cn/",
+  "links": [
+   "中国科学院宁波材料技术与 https://www.nimte.cas.cn/events/notice/202609/t20260930_8289081.html"
+  ],
+  "hosts": []
+ },
+ {
+  "key": "IOP_GZ",
+  "dom": "giec.cas.cn",
+  "home": "https://www.giec.cas.cn/",
+  "links": [],
+  "hosts": []
+ }
+]
