@@ -21,7 +21,7 @@
     "THU": {
       "note": "按正文全文匹配；网上比选只有标题",
       "noteEn": "Full announcement text matched; online-comparison items are title-only",
-      "oldest": "2026-10-10",
+      "oldest": "2026-10-11",
       "scanned": 100
     },
     "TJU": {
@@ -57,7 +57,7 @@
       "url": "https://cgzx.hit.edu.cn/sfw_cms/e?page=cms.news2"
     }
   ],
-  "lastRun": "2026-10-16T12:58",
+  "lastRun": "2026-10-16T14:17",
   "lastResults": [
     {
       "school": "THU",
