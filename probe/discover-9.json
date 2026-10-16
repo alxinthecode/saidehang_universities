@@ -1,0 +1,23 @@
+[
+ {
+  "key": "SWPU",
+  "title": "人才政策-西南石油大学门户网站",
+  "url": "https://www.swpu.edu.cn/zpzb/rczc.htm",
+  "sfw": false,
+  "navs": [
+   {
+    "t": "采购信息发布网",
+    "h": "http://cwcggl.swpu.edu.cn/index.chtml"
+   }
+  ],
+  "cands": []
+ },
+ {
+  "key": "SWPU",
+  "title": "西南石油大学采购管理系统",
+  "url": "http://cwcggl.swpu.edu.cn/",
+  "sfw": false,
+  "navs": [],
+  "cands": []
+ }
+]

@@ -1,0 +1,80 @@
+[
+ {
+  "key": "ZJUT",
+  "dom": "zjut.edu.cn",
+  "home": null,
+  "links": [],
+  "hosts": []
+ },
+ {
+  "key": "TGU",
+  "dom": "tiangong.edu.cn",
+  "home": null,
+  "links": [],
+  "hosts": [
+   "cwc.tiangong.edu.cn",
+   "gzc.tiangong.edu.cn",
+   "cgglzx.tiangong.edu.cn"
+  ]
+ },
+ {
+  "key": "SWPU",
+  "dom": "swpu.edu.cn",
+  "home": "http://www.swpu.edu.cn/",
+  "links": [
+   "招聘招标 https://www.swpu.edu.cn/zpzb/rczc.htm",
+   "采购信息发布网 http://cwcggl.swpu.edu.cn/index.chtml"
+  ],
+  "hosts": [
+   "zcgl.swpu.edu.cn",
+   "cwcggl.swpu.edu.cn"
+  ]
+ },
+ {
+  "key": "HNU",
+  "dom": "hnu.edu.cn",
+  "home": "https://www.hnu.edu.cn/",
+  "links": [],
+  "hosts": [
+   "cg.hnu.edu.cn",
+   "zcgl.hnu.edu.cn"
+  ]
+ },
+ {
+  "key": "HUBU",
+  "dom": "hubu.edu.cn",
+  "home": null,
+  "links": [],
+  "hosts": [
+   "zcb.hubu.edu.cn",
+   "cwc.hubu.edu.cn",
+   "ztb.hubu.edu.cn",
+   "cg.hubu.edu.cn"
+  ]
+ },
+ {
+  "key": "SIOM",
+  "dom": "siom.cas.cn",
+  "home": null,
+  "links": [],
+  "hosts": []
+ },
+ {
+  "key": "IME",
+  "dom": "ime.cas.cn",
+  "home": null,
+  "links": [],
+  "hosts": []
+ },
+ {
+  "key": "CSU_CAS",
+  "dom": "csu.cas.cn",
+  "home": "https://www.csu.cas.cn/",
+  "links": [
+   "政府采购专栏 https://csu.cas.cn/gb/qt/zfcg/"
+  ],
+  "hosts": [
+   "csu.cas.cn"
+  ]
+ }
+]
