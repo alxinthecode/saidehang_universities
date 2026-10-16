@@ -1,0 +1,86 @@
+[
+ {
+  "key": "NCUT",
+  "dom": "ncut.edu.cn",
+  "home": "https://www.ncut.edu.cn/",
+  "links": [],
+  "hosts": [
+   "cwc.ncut.edu.cn",
+   "zcc.ncut.edu.cn"
+  ]
+ },
+ {
+  "key": "UJN",
+  "dom": "ujn.edu.cn",
+  "home": "https://www.ujn.edu.cn/",
+  "links": [
+   "招标采购 http://sygz.ujn.edu.cn/",
+   "10/12\n       https://www.ujn.edu.cn/info/1047/354243.htm"
+  ],
+  "hosts": [
+   "cg.ujn.edu.cn",
+   "sygz.ujn.edu.cn"
+  ]
+ },
+ {
+  "key": "SIT",
+  "dom": "sit.edu.cn",
+  "home": "https://www.sit.edu.cn/",
+  "links": [
+   "招标采购 https://czb.sit.edu.cn/"
+  ],
+  "hosts": [
+   "cwc.sit.edu.cn",
+   "zb.sit.edu.cn",
+   "zcgl.sit.edu.cn",
+   "czb.sit.edu.cn"
+  ]
+ },
+ {
+  "key": "ZZULI",
+  "dom": "zzuli.edu.cn",
+  "home": "https://www.zzuli.edu.cn/",
+  "links": [],
+  "hosts": [
+   "sbc.zzuli.edu.cn",
+   "gzc.zzuli.edu.cn"
+  ]
+ },
+ {
+  "key": "STU",
+  "dom": "stu.edu.cn",
+  "home": "https://www.stu.edu.cn/",
+  "links": [],
+  "hosts": [
+   "ztb.stu.edu.cn",
+   "ztbzx.stu.edu.cn"
+  ]
+ },
+ {
+  "key": "IMUT",
+  "dom": "imut.edu.cn",
+  "home": "https://www.imut.edu.cn/",
+  "links": [],
+  "hosts": [
+   "cwc.imut.edu.cn",
+   "zbcg.imut.edu.cn",
+   "bidding.imut.edu.cn",
+   "sbc.imut.edu.cn",
+   "zcgl.imut.edu.cn"
+  ]
+ },
+ {
+  "key": "NUAA",
+  "dom": "nuaa.edu.cn",
+  "home": "https://www.nuaa.edu.cn/",
+  "links": [],
+  "hosts": [
+   "cwc.nuaa.edu.cn",
+   "zbb.nuaa.edu.cn",
+   "cg.nuaa.edu.cn",
+   "caigou.nuaa.edu.cn",
+   "gzc.nuaa.edu.cn",
+   "czzx.nuaa.edu.cn"
+  ]
+ }
+]
