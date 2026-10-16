@@ -125,7 +125,8 @@
       if (title.length < 8) return;
       let row = a.closest('li,tr,dd');
       if (!row || row.textContent.length > 400) row = a.parentElement;
-      const near = (row ? row.textContent : '') + ' ' + (a.nextElementSibling ? a.nextElementSibling.textContent : '');
+      const up = row && row.parentElement && row.parentElement.textContent.length < 300 ? row.parentElement.textContent : '';
+      const near = (row ? row.textContent : '') + ' ' + (a.nextElementSibling ? a.nextElementSibling.textContent : '') + ' ' + up;
       // Some lists (Tongji) print the date as separate day / year / month blocks.
       const dym = near.match(/(?:^|\D)(\d{1,2})\s+(20\d{2})\s+(\d{1,2})(?:\D|$)/);
       const published = toYmd(near) || (dym ? toYmd(`${dym[2]}-${dym[3]}-${dym[1]}`) : '');

@@ -266,5 +266,31 @@
     "label": "校级采购公告"
    }
   ]
+ },
+ {
+  "key": "SHU",
+  "zh": "上海大学",
+  "en": "Shanghai U",
+  "kind": "list",
+  "url": "https://czb.shu.edu.cn/",
+  "lists": [
+   {
+    "url": "/",
+    "label": "采购公告"
+   }
+  ]
+ },
+ {
+  "key": "NJTECH",
+  "zh": "南京工业",
+  "en": "Nanjing Tech",
+  "kind": "list",
+  "url": "https://ztb.njtech.edu.cn/",
+  "lists": [
+   {
+    "url": "/",
+    "label": "招标公告"
+   }
+  ]
  }
 ]
