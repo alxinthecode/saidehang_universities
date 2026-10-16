@@ -27,7 +27,8 @@ const meta = await readJson('data/meta.json', { coverage: {}, extra: [] });
 meta.coverage ||= {};
 
 const browser = await chromium.launch();
-const ctx = await browser.newContext({ locale: 'zh-CN', timezoneId: 'Asia/Shanghai' });
+// Some institute sites use certificates Chromium doesn't trust; we only read public pages, so accept them.
+const ctx = await browser.newContext({ locale: 'zh-CN', timezoneId: 'Asia/Shanghai', ignoreHTTPSErrors: true });
 await ctx.addInitScript(pages => { window.__CEDRAT_HEADLESS = true; window.__CEDRAT_PAGES = pages; }, PAGES);
 
 // Scan several sites at once (sites are on different servers); one retry per site.

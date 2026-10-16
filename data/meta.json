@@ -930,11 +930,6 @@
       "matches": 0
     },
     {
-      "school": "CUMTB",
-      "ok": false,
-      "error": "page.evaluate: Error: no 思必得 list query returned results (after retry)"
-    },
-    {
       "school": "AHUT",
       "ok": true,
       "scanned": 40,

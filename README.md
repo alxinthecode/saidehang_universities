@@ -1,8 +1,8 @@
 # Cedrat University Tender Watch · 赛得航高校标讯
 
-Tracks procurement announcements from 45 Chinese university platforms and flags the ones that match Cedrat Technologies' product lines (piezo actuators and motors, fast steering mirrors, magnetic actuators, controllers).
+Tracks procurement announcements from 104 Chinese university platforms and 6 CAS research institutes and flags the ones that match Cedrat Technologies' product lines (piezo actuators and motors, fast steering mirrors, magnetic actuators, controllers).
 
-汇总 45 所高校采购平台的公告，筛出与 Cedrat（赛得航科技）压电促动器、压电马达、快反镜、磁驱作动器等产品相关的标讯。
+汇总 104 所高校和 6 家中科院研究所的采购公告，筛出与 Cedrat（赛得航科技）压电促动器、压电马达、快反镜、磁驱作动器等产品相关的标讯。
 
 ## What's here
 
@@ -23,7 +23,7 @@ The live version on claude.ai keeps the data in a shared database and lets you s
 
 ## Platforms covered
 
-45 universities, picked for strength in optics, precision instruments, aerospace, mechatronics and microelectronics. The full configuration is in `scraper/sites.json`.
+104 universities, picked for strength in optics, precision instruments, aerospace, mechatronics and microelectronics, plus 6 Chinese Academy of Sciences institutes. The full configuration is in `scraper/sites.json` (institutes carry `"org": "institute"`).
 
 | University | Platform | How it's read |
 |---|---|---|
@@ -72,6 +72,76 @@ The live version on claude.ai keeps the data in a shared database and lets you s
 | Hebei UT 河北工大 | zbcg.hebut.edu.cn | List pages (titles only) |
 | Jiangsu U 江苏大学 | cgb.ujs.edu.cn | List pages (titles only) |
 | Taiyuan UT 太原理工 | cgzb.tyut.edu.cn | List pages (titles only) |
+| Beijing IT 北理工 | cgzx.bit.edu.cn | 思必得 platform (full text on most) |
+| HIT Weihai 哈工大(威海) | zcgl.hitwh.edu.cn | 思必得 platform (full text on most) |
+| Jiangnan U 江南大学 | bidding.jiangnan.edu.cn | 思必得 platform (full text on most) |
+| Civil Aviation U 中国民航大学 | www.cauc.edu.cn | List pages (titles only) |
+| Wenzhou U 温州大学 | zczx.wzu.edu.cn | List pages (titles only) |
+| Wuhan UT 武汉理工 | cgyztb.whut.edu.cn | List pages (titles only) |
+| Nanchang Hangkong 南昌航空 | zbcg.nchu.edu.cn | List pages (titles only) |
+| Hefei UT 合肥工业 | zb.hfut.edu.cn | List pages (titles only) |
+| Qingdao U 青岛大学 | cg.qdu.edu.cn | List pages (titles only) |
+| Zhejiang Normal 浙江师范 | cgzx.zjnu.edu.cn | List pages (titles only) |
+| Shandong UST 山东科大 | www.sdust.edu.cn | List pages (titles only) |
+| Jiangsu UST 江苏科大 | zbb.just.edu.cn | List pages (titles only) |
+| China U of Mining 中国矿大 | zhbb.cumt.edu.cn | List pages (titles only) |
+| ECUST 华东理工 | czzx.ecust.edu.cn | List pages (titles only) |
+| Nantong U 南通大学 | ztb.ntu.edu.cn | List pages (titles only) |
+| Central China Normal 华中师范 | zb.ccnu.edu.cn | List pages (titles only) |
+| Xiangtan U 湘潭大学 | cggl.xtu.edu.cn | List pages (titles only) |
+| China U of Geosciences 中国地大(武汉) | cggl.cug.edu.cn | List pages (titles only) |
+| North China Electric Power 华北电力 | zb.ncepu.edu.cn | List pages (titles only) |
+| North U of China 中北大学 | zbcg.nuc.edu.cn | List pages (titles only) |
+| Ocean U of China 中国海洋大学 | zb.ouc.edu.cn | 思必得 platform (full text on most) |
+| Beijing Jiaotong 北交大 | gzc.bjtu.edu.cn | List pages (titles only) |
+| Harbin U of Sci & Tech 哈理工 | gzc.hrbust.edu.cn | List pages (titles only) |
+| Nankai 南开 | nkzbb.nankai.edu.cn | List pages (titles only) |
+| Shenyang Aerospace 沈阳航空航天 | zbcgb.sau.edu.cn | List pages (titles only) |
+| Shanghai U of Electric Power 上海电力 | xxgk.shiep.edu.cn | List pages (titles only) |
+| Southwest Petroleum 西南石油 | cwcggl.swpu.edu.cn | List pages (titles only) |
+| Xi'an U of Arch & Tech 西安建大 | jdzcb.xauat.edu.cn | List pages (titles only) |
+| Xinjiang U 新疆大学 | zcglc.xju.edu.cn | List pages (titles only) |
+| Nanchang U 南昌大学 | cgzx.ncu.edu.cn | List pages (titles only) |
+| Anhui UST 安徽理工 | cg.aust.edu.cn | 思必得 platform (full text on most) |
+| Shaanxi Normal 陕西师范 | zbb.snnu.edu.cn | 思必得 platform (full text on most) |
+| China U of Petroleum (Beijing) 中国石油(北京) | zcb.cup.edu.cn | 思必得 platform (full text on most) |
+| Anhui U of Technology 安徽工业 | zcc.ahut.edu.cn | List pages (titles only) |
+| Changzhou U 常州大学 | zb.cczu.edu.cn | List pages (titles only) |
+| Chengdu U of Info Tech 成都信息工程 | ztb.cuit.edu.cn | List pages (titles only) |
+| Henan U of Technology 河南工业 | ztb.haut.edu.cn | List pages (titles only) |
+| Hunan UST 湖南科技 | cgzx.hnust.edu.cn | List pages (titles only) |
+| Henan Polytechnic 河南理工 | gzc.hpu.edu.cn | List pages (titles only) |
+| Huai'an U 淮安大学 | zbb.hau.edu.cn | List pages (titles only) |
+| Inner Mongolia UT 内蒙古工业 | zbcg.imut.edu.cn | List pages (titles only) |
+| Jiangsu Normal 江苏师范 | ztbb.jsnu.edu.cn | List pages (titles only) |
+| Liaoning Technical U 辽宁工程技术 | gzc.lntu.edu.cn | List pages (titles only) |
+| Northeast Petroleum 东北石油 | cgxxw.nepu.edu.cn | List pages (titles only) |
+| Shanghai Dianji U 上海电机 | zbb.sdju.edu.cn | List pages (titles only) |
+| Shanghai Inst. of Technology 上海应用技术 | czb.sit.edu.cn | List pages (titles only) |
+| Shantou U 汕头大学 | ztbzx.stu.edu.cn | List pages (titles only) |
+| Sichuan U of Sci & Eng 四川轻化工 | jyzx.suse.edu.cn | List pages (titles only) |
+| U of Jinan 济南大学 | sygz.ujn.edu.cn | List pages (titles only) |
+| Wuyi U 五邑大学 | www.wyu.edu.cn | List pages (titles only) |
+| Xi'an U of Technology 西安理工 | www.xaut.edu.cn | List pages (titles only) |
+| Xi'an Shiyou U 西安石油 | ztb.xsyu.edu.cn | List pages (titles only) |
+| Yangtze U 长江大学 | ztbgl.yangtzeu.edu.cn | List pages (titles only) |
+| Yancheng Inst. of Technology 盐城工学院 | zbxx.ycit.edu.cn | List pages (titles only) |
+| Yantai U 烟台大学 | zcc.ytu.edu.cn | List pages (titles only) |
+| Changchun UT 长春工业 | zbcgfwzx.ccut.edu.cn | List pages (titles only) |
+| Guangdong Ocean U 广东海洋 | www.gdou.edu.cn | List pages (titles only) |
+| East China Jiaotong 华东交通 | zfcgzbb.ecjtu.edu.cn | List pages (titles only) |
+| Jiangxi UST 江西理工 | www.jxust.edu.cn | List pages (titles only) |
+
+| Research institute | Notice board | How it's read |
+|---|---|---|
+| CAS Aerospace Information Research Inst. 中科院空天院 | www.aircas.ac.cn | List pages (titles only) |
+| CAS Changchun Inst. of Optics (CIOMP) 中科院长春光机所 | www.ciomp.cas.cn | List pages (titles only) |
+| CAS Shanghai Inst. of Technical Physics 中科院上海技物所 | www.sitp.cas.cn | List pages (titles only) |
+| CAS National Astronomical Observatories 中科院国家天文台 | nao.cas.cn | List pages (titles only) |
+| CAS Inst. of Acoustics 中科院声学所 | www.ioa.cas.cn | List pages (titles only) |
+| CAS Qingdao Inst. of Bioenergy 中科院青岛能源所 | qibebt.cas.cn | List pages (titles only) |
+
+Institutes are read from their general notice boards, where procurement notices (single-source, negotiation, tender) are mixed with other news; the keyword filter picks out the relevant ones. Under CAS rules, institute purchases below about ¥100k are arranged by the research group directly with suppliers and are not published, so only larger purchases appear.
 
 Two generic readers in `scraper/scan.js` handle almost everything:
 
@@ -80,7 +150,7 @@ Two generic readers in `scraper/scan.js` handle almost everything:
 
 Award, result and contract notices are skipped; only open opportunities are matched.
 
-Tried but not usable from outside China or without a login: Zhejiang U and Guilin UET (login), Nanjing U of Aeronautics & Astronautics (blocks foreign visitors), BIT, Nanjing U, Southeast U, Nankai, Wuhan UT (unreachable from abroad), Sun Yat-sen (list no longer updated), CQUPT, HFUT, USTB, Ocean U of China (no public list found), Xi'an UT, BISTU, Xi'an Tech U (asset-office news only). Spare candidates that work but were not added: Nanchang Hangkong, Jiangnan, Qingdao, Central China Normal, North China Electric Power, Northeastern U.
+Tried but not usable from outside China or without a login (October 2026): Zhejiang U, Southeast U, Hunan U, Harbin Engineering, Jinan U, Shanghai Maritime, Nanjing U (login or maintenance page); Peking U, Northeastern U, USTB, South China UT, Nanjing UST, Hohai, Lanzhou UT, Southwest UST, China U of Petroleum (East China) (time out from abroad); Nanjing U of Aeronautics & Astronautics (blocks foreign visitors); Sun Yat-sen (list no longer updated); CQUPT, Ningbo U, Northwest U, Dongguan UT (app-only platforms); China U of Mining (Beijing) (platform returns no list). CAS institutes whose notice board was not found: Shanghai Inst. of Optics and Fine Mechanics, Xi'an Inst. of Optics, Inst. of Optics and Electronics (Chengdu), Anhui Inst. of Optics, Inst. of Semiconductors, Inst. of Physics, Shenyang Inst. of Automation.
 
 ## Matching rules
 
