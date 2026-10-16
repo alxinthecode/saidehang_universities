@@ -1,0 +1,255 @@
+[
+ {
+  "key": "NCHU",
+  "title": "招标采购中心 - 南昌航空大学",
+  "url": "https://zbcg.nchu.edu.cn/",
+  "sfw": false,
+  "navs": [
+   {
+    "t": "更多>>",
+    "h": "https://zbcg.nchu.edu.cn/cggg"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://zbcg.nchu.edu.cn/jggs"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://zbcg.nchu.edu.cn/gs"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://zbcg.nchu.edu.cn/cght"
+   }
+  ],
+  "cands": [
+   {
+    "u": "https://zbcg.nchu.edu.cn/",
+    "label": "home",
+    "scanned": 50,
+    "oldest": "2020-09-02",
+    "n": 0,
+    "newest": [
+     "2025-11-21 赣南医科大学来我校调研招标采购工作",
+     "2025-09-05 学校召开招标采购项目实施推进会暨采购廉政谈话",
+     "2025-04-28 学校召开招标采购项目实施推进会暨采购廉政谈话"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zbcg.nchu.edu.cn/cggg",
+    "label": "更多>>",
+    "scanned": 10,
+    "oldest": "2026-09-21",
+    "n": 0,
+    "newest": [
+     "2026-10-20 江西明台项目咨询管理有限公司关于南昌航空大学2026年度",
+     "2026-10-11 南昌航空大学2026年度保卫处科研楼视频监控采购项目（采",
+     "2026-09-29 南昌航空大学2026年度院材料学院电泳沉积复合涂层关键设"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zbcg.nchu.edu.cn/jggs",
+    "label": "更多>>",
+    "scanned": 10,
+    "oldest": "2026-08-02",
+    "n": 0,
+    "newest": [
+     "2026-10-08 南昌航空大学2026年度保卫处科研楼视频监控采购项目终止",
+     "2026-09-30 江西省鼎跃招标咨询有限公司关于南昌航空大学2026年经济",
+     "2026-08-02 南昌航空大学2026年度航机学院高端装备关键部件精密加工"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zbcg.nchu.edu.cn/gs",
+    "label": "更多>>",
+    "scanned": 10,
+    "oldest": "2026-05-29",
+    "n": 0,
+    "newest": [
+     "2026-08-07 南昌航空大学2026年度政府采购意向公告(第87批)",
+     "2026-07-28 南昌航空大学2026年度政府采购意向公告(第86批)",
+     "2026-07-27 南昌航空大学2026年度政府采购意向公告(第85批)"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zbcg.nchu.edu.cn/cght",
+    "label": "更多>>",
+    "scanned": 10,
+    "oldest": "2025-11-06",
+    "n": 0,
+    "newest": [
+     "2026-04-27 南昌航空大学2026年度材料学院金属材料及热处理系科研平",
+     "2026-04-27 南昌航空大学2026年度仪光学院基于频域反射技术的飞机机",
+     "2026-04-17 南昌航空大学2026年度材料学院航空用熔炼旋淬多功能制备"
+    ],
+    "rows": []
+   }
+  ]
+ },
+ {
+  "key": "OUC",
+  "title": "中国海洋大学资产管理与服务平台",
+  "url": "http://zcgl.ouc.edu.cn/sfw_cms/e?page=cms.index",
+  "sfw": true,
+  "navs": [
+   {
+    "t": "更多>",
+    "h": "http://zcgl.ouc.edu.cn/sfw_cms/e?page=cms.news&cid=101346"
+   },
+   {
+    "t": "更多>",
+    "h": "http://zcgl.ouc.edu.cn/sfw_cms/e?page=cms.news&cid=50364"
+   },
+   {
+    "t": "查看更多>",
+    "h": "http://zcgl.ouc.edu.cn/sfw_cms/e?page=cms.psms.gglist&typeDetail=A"
+   },
+   {
+    "t": "查看更多>",
+    "h": "http://zcgl.ouc.edu.cn/sfw_cms/e?page=cms.news&cid=56411"
+   },
+   {
+    "t": "查看更多>",
+    "h": "http://zcgl.ouc.edu.cn/sfw_cms/e?page=cms.news&cid=56412"
+   },
+   {
+    "t": "更多>",
+    "h": "http://zcgl.ouc.edu.cn/sfw_cms/e?page=cms.news&cid=101387"
+   },
+   {
+    "t": "更多>",
+    "h": "http://zcgl.ouc.edu.cn/sfw_cms/e?page=cms.news&cid=101380"
+   },
+   {
+    "t": "更多>",
+    "h": "http://zcgl.ouc.edu.cn/sfw_cms/e?page=cms.news&cid=50368"
+   }
+  ],
+  "cands": [],
+  "sfwErr": "page.evaluate: Error: no 思必得 list query returned results\n    at readSfw (eval at <anonymous> (eval a"
+ },
+ {
+  "key": "SYSU",
+  "title": "首页 | 中山大学政府采购与招投标管理中心",
+  "url": "https://bidding.sysu.edu.cn/",
+  "sfw": false,
+  "navs": [
+   {
+    "t": "采购信息",
+    "h": "https://bidding.sysu.edu.cn/"
+   },
+   {
+    "t": "采购信息",
+    "h": "https://bidding.sysu.edu.cn/#mm-1"
+   },
+   {
+    "t": "采购公告",
+    "h": "https://bidding.sysu.edu.cn/gg/cg"
+   },
+   {
+    "t": "more",
+    "h": "https://bidding.sysu.edu.cn/baoguang"
+   },
+   {
+    "t": "more",
+    "h": "https://bidding.sysu.edu.cn/information/news"
+   },
+   {
+    "t": "采购公告",
+    "h": "https://bidding.sysu.edu.cn/quicktabs/nojs/cgggtabs/0"
+   },
+   {
+    "t": "货物",
+    "h": "https://bidding.sysu.edu.cn/quicktabs/nojs/cgggtabs/1"
+   },
+   {
+    "t": "more",
+    "h": "https://bidding.sysu.edu.cn/cat/117"
+   }
+  ],
+  "cands": [
+   {
+    "u": "https://bidding.sysu.edu.cn/",
+    "label": "采购信息",
+    "scanned": 12,
+    "oldest": "2025-03-29",
+    "n": 0,
+    "newest": [
+     "2026-03-11 关于对江苏万维生物科技有限公司不良行为处理的通报",
+     "2026-01-09 关于对深圳市兴宏达建设工程有限公司不良行为处理的通报",
+     "2026-01-09 关于对广东省楚力建设有限公司不良行为处理的通报"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://bidding.sysu.edu.cn/",
+    "label": "采购信息",
+    "scanned": 12,
+    "oldest": "2025-03-29",
+    "n": 0,
+    "newest": [
+     "2026-03-11 关于对江苏万维生物科技有限公司不良行为处理的通报",
+     "2026-01-09 关于对深圳市兴宏达建设工程有限公司不良行为处理的通报",
+     "2026-01-09 关于对广东省楚力建设有限公司不良行为处理的通报"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://bidding.sysu.edu.cn/#mm-1",
+    "label": "采购信息",
+    "scanned": 12,
+    "oldest": "2025-03-29",
+    "n": 0,
+    "newest": [
+     "2026-03-11 关于对江苏万维生物科技有限公司不良行为处理的通报",
+     "2026-01-09 关于对深圳市兴宏达建设工程有限公司不良行为处理的通报",
+     "2026-01-09 关于对广东省楚力建设有限公司不良行为处理的通报"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://bidding.sysu.edu.cn/baoguang",
+    "label": "more",
+    "scanned": 20,
+    "oldest": "2024-01-02",
+    "n": 0,
+    "newest": [
+     "2026-03-11 关于对江苏万维生物科技有限公司不良行为处理的通报",
+     "2026-01-09 关于对深圳市兴宏达建设工程有限公司不良行为处理的通报",
+     "2026-01-09 关于对广东省楚力建设有限公司不良行为处理的通报"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://bidding.sysu.edu.cn/information/news",
+    "label": "more",
+    "scanned": 20,
+    "oldest": "2024-06-14",
+    "n": 0,
+    "newest": [
+     "2026-09-22 昆明理工大学来访调研",
+     "2026-03-13 香港中文大学（深圳）来访调研",
+     "2025-11-26 我校在第三届广东省高校政府采购业务知识技能竞赛中荣获佳绩"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://bidding.sysu.edu.cn/cat/117",
+    "label": "more",
+    "scanned": 20,
+    "oldest": "2022-04-24",
+    "n": 0,
+    "newest": [
+     "2026-06-25 中山大学2026—2028年度定期存款存放银行遴选项目遴",
+     "2025-06-17 中山大学以单一来源方式采购中山大学2025年数字资源采购",
+     "2025-06-17 中山大学以单一来源方式采购中山大学2025年数字资源采购"
+    ],
+    "rows": []
+   }
+  ]
+ }
+]
