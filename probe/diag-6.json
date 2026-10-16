@@ -1,0 +1,67 @@
+[
+ {
+  "key": "SUT",
+  "dom": "sut.edu.cn",
+  "home": "https://www.sut.edu.cn/",
+  "links": [
+   "10/092026 沈阳 http://oa.sut.edu.cn/ww/GoPage.jsp?u=12163&page=/docs/docs/DocDsp1.jsp?id=147994",
+   "09/302026 沈阳 http://oa.sut.edu.cn/ww/GoPage.jsp?u=12163&page=/docs/docs/DocDsp1.jsp?id=147903"
+  ],
+  "hosts": [
+   "cwc.sut.edu.cn",
+   "zcsb.sut.edu.cn"
+  ]
+ },
+ {
+  "key": "YCIT",
+  "dom": "ycit.edu.cn",
+  "home": "https://www.ycit.edu.cn/",
+  "links": [
+   "招投标办 https://zbxx.ycit.edu.cn/",
+   "招标公告 https://zbxx.ycit.edu.cn/"
+  ],
+  "hosts": [
+   "cwc.ycit.edu.cn",
+   "zbxx.ycit.edu.cn",
+   "gzc.ycit.edu.cn"
+  ]
+ },
+ {
+  "key": "JMU",
+  "dom": "jmu.edu.cn",
+  "home": "https://www.jmu.edu.cn/",
+  "links": [],
+  "hosts": [
+   "cwc.jmu.edu.cn",
+   "zcc.jmu.edu.cn",
+   "caigou.jmu.edu.cn"
+  ]
+ },
+ {
+  "key": "YANGTZEU",
+  "dom": "yangtzeu.edu.cn",
+  "home": "https://www.yangtzeu.edu.cn/",
+  "links": [
+   "招标采购 https://ztbgl.yangtzeu.edu.cn/"
+  ],
+  "hosts": [
+   "cwc.yangtzeu.edu.cn",
+   "gzc.yangtzeu.edu.cn",
+   "ztbgl.yangtzeu.edu.cn"
+  ]
+ },
+ {
+  "key": "SUST",
+  "dom": "sust.edu.cn",
+  "home": "https://www.sust.edu.cn/",
+  "links": [],
+  "hosts": []
+ },
+ {
+  "key": "ZJUT",
+  "dom": "zjut.edu.cn",
+  "home": null,
+  "links": [],
+  "hosts": []
+ }
+]

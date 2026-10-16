@@ -1,0 +1,782 @@
+[
+ {
+  "key": "SUT",
+  "title": "国有资产与实验室安全管理中心",
+  "url": "https://zcsb.sut.edu.cn/",
+  "sfw": false,
+  "navs": [
+   {
+    "t": "招标采购公告",
+    "h": "https://www.sut.edu.cn/zbcg.htm"
+   },
+   {
+    "t": "更多",
+    "h": "https://zcsb.sut.edu.cn/gzdt.htm"
+   },
+   {
+    "t": "更多",
+    "h": "https://zcsb.sut.edu.cn/zbcg/zczn.htm"
+   },
+   {
+    "t": "更多",
+    "h": "https://zcsb.sut.edu.cn/gzdt/ggtz.htm"
+   },
+   {
+    "t": "更多",
+    "h": "https://zcsb.sut.edu.cn/sysaq/sysaqcs.htm"
+   },
+   {
+    "t": "更多",
+    "h": "https://zcsb.sut.edu.cn/sysaq/sysaqyb.htm"
+   },
+   {
+    "t": "更多",
+    "h": "https://zcsb.sut.edu.cn/cyxz.htm"
+   },
+   {
+    "t": "更多",
+    "h": "https://zcsb.sut.edu.cn/sysaq/jsalyaqjy.htm"
+   }
+  ],
+  "cands": [
+   {
+    "u": "https://zcsb.sut.edu.cn/",
+    "label": "home",
+    "scanned": 27,
+    "oldest": "2023-08-26",
+    "n": 0,
+    "newest": [
+     "2025-06-30 辽宁省政府采购网上商城采购管理办法（含网上商城采购目录）",
+     "2024-07-08 沈阳工业大学政府采购进口产品管理流程",
+     "2024-07-08 沈阳工业大学采购项目验收流程"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zcsb.sut.edu.cn/gzdt.htm",
+    "label": "更多",
+    "scanned": 6,
+    "oldest": "2023-07-06",
+    "n": 0,
+    "newest": [
+     "2025-04-28 关于做好2025年“五一”期间实验室安全管理工作的通知",
+     "2023-11-16 关于组织开展实验室特种设备管理及使用人员培训认证的通知",
+     "2023-11-15 关于做好资产移交工作的通知"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zcsb.sut.edu.cn/zbcg/zczn.htm",
+    "label": "更多",
+    "scanned": 9,
+    "oldest": "2023-12-18",
+    "n": 0,
+    "newest": [
+     "2025-06-30 辽宁省政府采购网上商城采购管理办法（含网上商城采购目录）",
+     "2024-07-08 沈阳工业大学政府采购进口产品管理流程",
+     "2024-07-08 沈阳工业大学采购项目验收流程"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zcsb.sut.edu.cn/gzdt/ggtz.htm",
+    "label": "更多",
+    "scanned": 15,
+    "oldest": "2026-04-24",
+    "n": 0,
+    "newest": [
+     "2026-10-10 关于规范实验室危险化学品采购审批与报销工作的通知",
+     "2026-10-08 关于开展学校2026年度实验室安全教育学习与准入考核工作",
+     "2026-09-20 关于做好2026年中秋、国庆假期实验室安全管理工作的通知"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zcsb.sut.edu.cn/sysaq/sysaqcs.htm",
+    "label": "更多",
+    "scanned": 10,
+    "oldest": "2023-08-26",
+    "n": 0,
+    "newest": [
+     "2026-07-03 危险化学品安全法图解",
+     "2024-07-19 国家危险废物名录（2021年版）",
+     "2023-12-14 特种设备安全技术规范 TSG 08-2017（特种设备使"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zcsb.sut.edu.cn/sysaq/sysaqyb.htm",
+    "label": "更多",
+    "scanned": 3,
+    "oldest": "2024-10-18",
+    "n": 0,
+    "newest": [
+     "2025-08-25 沈阳工业大学实验室安全月报（2025年8月）",
+     "2025-04-14 沈阳工业大学实验室安全月报（2025年3月）",
+     "2024-10-18 沈阳工业大学实验室安全月报（2024年10月）"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zcsb.sut.edu.cn/cyxz.htm",
+    "label": "更多",
+    "scanned": 3,
+    "oldest": "2023-08-26",
+    "n": 0,
+    "newest": [
+     "2023-10-09 固定资产报废审批表",
+     "2023-08-26 高等学校实验室安全检查项目表（2023年）",
+     "2023-08-26 实验室安全管理常用模板（台账、记录册、安全信息牌等）"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zcsb.sut.edu.cn/sysaq/jsalyaqjy.htm",
+    "label": "更多",
+    "scanned": 11,
+    "oldest": "2023-08-26",
+    "n": 0,
+    "newest": [
+     "2025-05-08 国家消防局-2025年消防安全警示教育片《火灾猛于虎，责",
+     "2025-05-08 2025年春季全国高校消防安全公开课",
+     "2024-05-11 实验室安全知识参考题库"
+    ],
+    "rows": []
+   }
+  ]
+ },
+ {
+  "key": "YCIT",
+  "title": "盐城工学院财务处",
+  "url": "https://cwc.ycit.edu.cn/",
+  "sfw": false,
+  "navs": [
+   {
+    "t": "招标公告",
+    "h": "https://cwc.ycit.edu.cn/#"
+   },
+   {
+    "t": "更多+",
+    "h": "https://cwc.ycit.edu.cn/cwxw.htm"
+   },
+   {
+    "t": "更多+",
+    "h": "https://cwc.ycit.edu.cn/xssf.htm"
+   },
+   {
+    "t": "更多+",
+    "h": "https://cwc.ycit.edu.cn/list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1042"
+   },
+   {
+    "t": "更多+",
+    "h": "https://cwc.ycit.edu.cn/list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1037"
+   }
+  ],
+  "cands": [
+   {
+    "u": "https://cwc.ycit.edu.cn/cwxw.htm",
+    "label": "更多+",
+    "scanned": 15,
+    "oldest": "2024-03-27",
+    "n": 0,
+    "newest": [
+     "2026-07-10 财务处2026年暑假值班表",
+     "2026-03-05 学校举办税法普及教育专题报告会",
+     "2025-12-14 财务处党支部联合人事处党支部开展主题党日活动"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://cwc.ycit.edu.cn/xssf.htm",
+    "label": "更多+",
+    "scanned": 8,
+    "oldest": "2021-03-01",
+    "n": 0,
+    "newest": [
+     "2021-03-01 关于财政电子票据领取方式的说明",
+     "2026-08-26 关于2026级新生缴费的通知",
+     "2026-08-24 关于做好2026年秋学期学生缴费工作的通知"
+    ],
+    "rows": []
+   }
+  ]
+ },
+ {
+  "key": "YCIT",
+  "title": "盐城工学院招投标办公室",
+  "url": "https://zbxx.ycit.edu.cn/",
+  "sfw": false,
+  "navs": [
+   {
+    "t": "招标信息",
+    "h": "https://zbxx.ycit.edu.cn/zbxx.htm"
+   },
+   {
+    "t": "更多...",
+    "h": "https://zbxx.ycit.edu.cn/gzdt.htm"
+   },
+   {
+    "t": "更多>",
+    "h": "https://zbxx.ycit.edu.cn/zfcgyxgg.htm"
+   },
+   {
+    "t": "更多>",
+    "h": "https://zbxx.ycit.edu.cn/jggs.htm"
+   },
+   {
+    "t": "更多>",
+    "h": "https://zbxx.ycit.edu.cn/cgzn.htm"
+   },
+   {
+    "t": "更多>",
+    "h": "https://zbxx.ycit.edu.cn/cgdjt.htm"
+   },
+   {
+    "t": "更多>",
+    "h": "https://zbxx.ycit.edu.cn/xzzq.htm"
+   }
+  ],
+  "cands": [
+   {
+    "u": "https://zbxx.ycit.edu.cn/",
+    "label": "home",
+    "scanned": 1,
+    "oldest": "2026-03-06",
+    "n": 0,
+    "newest": [
+     "2026-03-06 我校招投标管理办公室与盐城师范学院开展工作交流"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zbxx.ycit.edu.cn/zbxx.htm",
+    "label": "招标信息",
+    "scanned": 10,
+    "oldest": "2026-07-09",
+    "n": 0,
+    "newest": [
+     "2026-10-16 ZB2026-020 盐城工学院青年教师公寓54套周转房",
+     "2026-10-15 ZB2026-017 盐城工学院智慧课程建设项目采购公告",
+     "2026-10-09 FZB2026-050 体育器材设施购买（微球场简易健身"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zbxx.ycit.edu.cn/gzdt.htm",
+    "label": "更多...",
+    "scanned": 10,
+    "oldest": "2025-05-23",
+    "n": 0,
+    "newest": [
+     "2026-05-20 纪委书记聂邦军来招标办开展专题调研 2026-05-20",
+     "2026-04-01 我校招投标管理办公室召开 “服务校内规范采购” 座谈会 ",
+     "2026-03-09 我校招投标管理办公室与盐城师范学院开展工作交流 2026"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zbxx.ycit.edu.cn/zfcgyxgg.htm",
+    "label": "更多>",
+    "scanned": 10,
+    "oldest": "2025-07-11",
+    "n": 0,
+    "newest": [
+     "2026-07-13 盐城工学院2026年7月（第1批）政府采购意向公告 20",
+     "2026-06-29 盐城工学院2026年6月（第2批）政府采购意向公告 20",
+     "2026-06-03 盐城工学院2026年6月（第1批）政府采购意向公告 20"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zbxx.ycit.edu.cn/jggs.htm",
+    "label": "更多>",
+    "scanned": 10,
+    "oldest": "2026-07-17",
+    "n": 0,
+    "newest": [
+     "2026-10-15 ZB2026-015 2026-2027学年食堂大宗食品",
+     "2026-09-24 ZB2026-015 盐城工学院2026-2027学年食",
+     "2026-08-24 ZB2026-015 盐城工学院2026-2027学年食"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zbxx.ycit.edu.cn/cgzn.htm",
+    "label": "更多>",
+    "scanned": 4,
+    "oldest": "2026-09-14",
+    "n": 0,
+    "newest": [
+     "2026-09-14 盐城工学院招投标管理科职责 2026-09-14",
+     "2026-09-14 盐城工学院招投标综合科职责 2026-09-14",
+     "2026-09-14 工作人员职责 2026-09-14"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zbxx.ycit.edu.cn/cgdjt.htm",
+    "label": "更多>",
+    "scanned": 5,
+    "oldest": "2026-09-14",
+    "n": 0,
+    "newest": [
+     "2026-09-14 关于进一步提高政府采购透明度和采购效率相关事项的通知 2",
+     "2026-09-14 政府采购促进中小企业发展管理办法 2026-09-14",
+     "2026-09-14 关于开展政府采购意向公开工作的通知 2026-09-14"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zbxx.ycit.edu.cn/xzzq.htm",
+    "label": "更多>",
+    "scanned": 10,
+    "oldest": "2017-09-11",
+    "n": 0,
+    "newest": [
+     "2025-06-12 最新采购文件模板下载 2025-06-12",
+     "2023-11-01 竞价网竞价采购用户操作手册 2023-11-01",
+     "2023-06-02 盐城工学院政府采购项目供应商质疑递交及答复登记表 202"
+    ],
+    "rows": []
+   }
+  ]
+ },
+ {
+  "key": "YCIT",
+  "title": "盐城工学院国有资产管理处、资产经营有限公司",
+  "url": "https://gzc.ycit.edu.cn/",
+  "sfw": false,
+  "navs": [
+   {
+    "t": "采购公告",
+    "h": "https://gzc.ycit.edu.cn/xxgk/cggg.htm"
+   },
+   {
+    "t": "更多...",
+    "h": "https://gzc.ycit.edu.cn/xwdt.htm"
+   },
+   {
+    "t": "更多>",
+    "h": "https://gzc.ycit.edu.cn/gzzd.htm"
+   },
+   {
+    "t": "更多>",
+    "h": "https://gzc.ycit.edu.cn/bslc.htm"
+   },
+   {
+    "t": "更多>",
+    "h": "https://gzc.ycit.edu.cn/tzgg.htm"
+   },
+   {
+    "t": "更多>",
+    "h": "https://gzc.ycit.edu.cn/xxgk/czgg.htm"
+   },
+   {
+    "t": "更多>",
+    "h": "https://gzc.ycit.edu.cn/xzzq.htm"
+   }
+  ],
+  "cands": [
+   {
+    "u": "https://gzc.ycit.edu.cn/xxgk/cggg.htm",
+    "label": "采购公告",
+    "scanned": 10,
+    "oldest": "2025-04-02",
+    "n": 0,
+    "newest": [
+     "2026-10-13 盐城工学院“2026年秋物资搬运项目”中标结果公告 20",
+     "2026-10-13 盐城工学院“行政办公家具采购项目”中标结果公告 2026",
+     "2026-09-14 盐城工学院“电动垃圾运输车采购项目”中标结果公告 202"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://gzc.ycit.edu.cn/xwdt.htm",
+    "label": "更多...",
+    "scanned": 10,
+    "oldest": "2026-03-03",
+    "n": 0,
+    "newest": [
+     "2026-07-20 盐城工学院光伏发电项目校内屋面场地招租公示 2026-0",
+     "2026-06-03 关于公布2025年度校内国有资产管理绩效评价结果的通知 ",
+     "2026-05-30 国资处招标办党支部扎实开展“510”思廉月活动 2026"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://gzc.ycit.edu.cn/gzzd.htm",
+    "label": "更多>",
+    "scanned": 10,
+    "oldest": "2025-06-03",
+    "n": 0,
+    "newest": [
+     "2026-01-06 盐城工学院通用办公设备和家具配置标准（2025年修订） ",
+     "2025-10-20 江苏省行政事业单位国有资产调剂共享管理办法 2025-1",
+     "2025-10-20 江苏省省属学校无形资产管理暂行办法 2025-10-20"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://gzc.ycit.edu.cn/bslc.htm",
+    "label": "更多>",
+    "scanned": 7,
+    "oldest": "2023-11-27",
+    "n": 0,
+    "newest": [
+     "2026-05-26 盐城工学院固定资产调拨流程 2026-05-26",
+     "2026-05-26 盐城工学院固定资产处置流程 2026-05-26",
+     "2026-05-26 盐城工学院国有资产出租出借流程 2026-05-26"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://gzc.ycit.edu.cn/tzgg.htm",
+    "label": "更多>",
+    "scanned": 10,
+    "oldest": "2025-01-10",
+    "n": 0,
+    "newest": [
+     "2026-07-20 盐城工学院光伏发电项目校内屋面场地招租公示 2026-0",
+     "2026-06-03 关于公布2025年度校内国有资产管理绩效评价结果的通知 ",
+     "2026-05-11 关于2026年度职称评审民主推荐情况公示 2026-05"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://gzc.ycit.edu.cn/xxgk/czgg.htm",
+    "label": "更多>",
+    "scanned": 2,
+    "oldest": "2025-06-19",
+    "n": 0,
+    "newest": [
+     "2025-10-16 关于2024年度国有资产清查固定资产盘亏报损处置的公示 ",
+     "2025-06-19 关于盐城工学院希望大道及建军东路两个校区8处房屋及构筑物"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://gzc.ycit.edu.cn/xzzq.htm",
+    "label": "更多>",
+    "scanned": 10,
+    "oldest": "2020-06-29",
+    "n": 0,
+    "newest": [
+     "2026-05-08 盐城工学院行政办公设备维修申请单 2026-05-08",
+     "2026-05-06 盐城工学院出租出借相关表格 2026-05-06",
+     "2026-03-02 盐城工学院行政办公设备申购表 2026-03-02"
+    ],
+    "rows": []
+   }
+  ]
+ },
+ {
+  "key": "JMU",
+  "title": "资产与设备管理处",
+  "url": "https://zcc.jmu.edu.cn/",
+  "sfw": true,
+  "navs": [
+   {
+    "t": "查看更多",
+    "h": "https://zcc.jmu.edu.cn/index/gzdt.htm"
+   },
+   {
+    "t": "查看更多",
+    "h": "https://zcc.jmu.edu.cn/index/tzgg.htm"
+   },
+   {
+    "t": "查看更多",
+    "h": "https://zcc.jmu.edu.cn/tdfcgl/gzdt.htm"
+   },
+   {
+    "t": "查看更多",
+    "h": "https://zcc.jmu.edu.cn/gdzcgl.htm"
+   },
+   {
+    "t": "查看更多",
+    "h": "https://zcc.jmu.edu.cn/cggl.htm"
+   },
+   {
+    "t": "查看更多",
+    "h": "https://zcc.jmu.edu.cn/sysglyaq/gzdt.htm"
+   },
+   {
+    "t": "查看更多",
+    "h": "https://zcc.jmu.edu.cn/%3Cspan%20style='color:red;font-size:9pt'%3E%E8%BD%AC%E6%8D%A2%E9%93%BE%E6%8E%A5%E9%94%99%E8%AF%AF%3C/span%3E"
+   },
+   {
+    "t": "查看更多",
+    "h": "https://zcc.jmu.edu.cn/gzzd/xngzzd.htm"
+   }
+  ],
+  "cands": [
+   {
+    "u": "https://zcc.jmu.edu.cn/",
+    "label": "home",
+    "scanned": 18,
+    "oldest": "2022-02-22",
+    "n": 0,
+    "newest": [
+     "2026-09-23 2026年资产与设备管理处国庆、中秋假期值班表",
+     "2026-04-23 我校组织参加教育部2026年高校实验室安全工作培训会",
+     "2026-03-27 筑牢安全防线！我校开展实验室气体气瓶安全管理专项检查"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zcc.jmu.edu.cn/index/gzdt.htm",
+    "label": "查看更多",
+    "scanned": 1,
+    "oldest": "2022-01-01",
+    "n": 0,
+    "newest": [
+     "2022-01-01 集美大学周转房管理工作补充说明"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zcc.jmu.edu.cn/index/tzgg.htm",
+    "label": "查看更多",
+    "scanned": 15,
+    "oldest": "2023-11-06",
+    "n": 0,
+    "newest": [
+     "2026-09-23 2026年资产与设备管理处国庆、中秋假期值班表",
+     "2026-09-20 “大宗货物”政府采购标准化货物规格",
+     "2025-03-20 集美大学大型仪器设备开放共享测试服务费收费标准"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zcc.jmu.edu.cn/tdfcgl/gzdt.htm",
+    "label": "查看更多",
+    "scanned": 13,
+    "oldest": "2017-02-20",
+    "n": 0,
+    "newest": [
+     "2024-09-09 集美大学周转房管理工作补充说明",
+     "2024-03-18 我校与集美街道联合开展沿街店面安全检查",
+     "2024-01-25 我处组织开展学期末房产巡查排查"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zcc.jmu.edu.cn/gdzcgl.htm",
+    "label": "查看更多",
+    "scanned": 14,
+    "oldest": "2022-02-22",
+    "n": 0,
+    "newest": [
+     "2022-02-22 福建省财政厅 福建省机关事务管理局关于调整省级行政事业单",
+     "2026-10-14 关于采取环保回收方式处置的废旧家具类资产的公示(2026",
+     "2026-09-15 关于采取环保回收方式处置的废旧家具类资产的公示(2026"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zcc.jmu.edu.cn/cggl.htm",
+    "label": "查看更多",
+    "scanned": 15,
+    "oldest": "2025-09-16",
+    "n": 0,
+    "newest": [
+     "2025-09-16 “大宗货物”政府采购标准化货物规格",
+     "2026-06-23 学校集中采购、政府采购（非大宗货物）流程图(2026.9",
+     "2026-06-23 学校分散采购（非大宗货物）流程图(2026.9.1起)"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zcc.jmu.edu.cn/sysglyaq/gzdt.htm",
+    "label": "查看更多",
+    "scanned": 15,
+    "oldest": "2024-11-29",
+    "n": 0,
+    "newest": [
+     "2026-04-23 我校组织参加教育部2026年高校实验室安全工作培训会",
+     "2026-03-27 筑牢安全防线！我校开展实验室气体气瓶安全管理专项检查",
+     "2026-01-14 我校开展期末实验室安全检查"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zcc.jmu.edu.cn/gzzd/xngzzd.htm",
+    "label": "查看更多",
+    "scanned": 15,
+    "oldest": "2023-11-07",
+    "n": 0,
+    "newest": [
+     "2026-08-19 集大综发〔2026〕15号 关于印发《集美大学教学科研单",
+     "2026-08-19 集大综发〔2026〕14号 关于印发《集美大学房产管理办",
+     "2026-07-03 集美大学大型仪器设备购置可行性论证报告（2026版）"
+    ],
+    "rows": []
+   }
+  ],
+  "sfwErr": "page.evaluate: Error: no 思必得 list query returned results\n    at readSfw (eval at <anonymous> (eval a"
+ },
+ {
+  "key": "JMU",
+  "title": "登录 - i集大门户",
+  "url": "https://cas.paas.jmu.edu.cn/cas/login?service=http://caigou.jmu.edu.cn/",
+  "sfw": false,
+  "navs": [],
+  "cands": []
+ },
+ {
+  "key": "YANGTZEU",
+  "title": "长江大学招标采购网",
+  "url": "https://ztbgl.yangtzeu.edu.cn/",
+  "sfw": false,
+  "navs": [
+   {
+    "t": "采购公告",
+    "h": "https://ztbgl.yangtzeu.edu.cn/cggg.htm"
+   },
+   {
+    "t": "货物类",
+    "h": "https://ztbgl.yangtzeu.edu.cn/cggg/hwl.htm"
+   },
+   {
+    "t": "货物类",
+    "h": "https://ztbgl.yangtzeu.edu.cn/jggg/hwl.htm"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://ztbgl.yangtzeu.edu.cn/xqgg/yxgk.htm"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://ztbgl.yangtzeu.edu.cn/xqgg/cgxq.htm"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://ztbgl.yangtzeu.edu.cn/xqgg/dylygs.htm"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://ztbgl.yangtzeu.edu.cn/cggg/fwl.htm"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://ztbgl.yangtzeu.edu.cn/cggg/gcl.htm"
+   }
+  ],
+  "cands": [
+   {
+    "u": "https://ztbgl.yangtzeu.edu.cn/",
+    "label": "home",
+    "scanned": 89,
+    "oldest": "2023-04-06",
+    "n": 0,
+    "newest": [
+     "2026-09-24 长江大学2026年10月政府采购意向公开",
+     "2026-09-24 长江大学2026年10月政府采购意向公开",
+     "2026-09-20 长江大学2026年10月政府采购意向公开"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://ztbgl.yangtzeu.edu.cn/cggg.htm",
+    "label": "采购公告",
+    "scanned": 12,
+    "oldest": "2026-09-20",
+    "n": 0,
+    "newest": [
+     "2026-10-15 长江大学电子舌项目采购竞争性磋商更正公告",
+     "2026-10-14 长江大学电子舌项目采购竞争性磋商公告",
+     "2026-10-13 长江大学GPU算力租赁服务磋商公告"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://ztbgl.yangtzeu.edu.cn/cggg/hwl.htm",
+    "label": "货物类",
+    "scanned": 12,
+    "oldest": "2026-09-17",
+    "n": 0,
+    "newest": [
+     "2026-10-15 长江大学电子舌项目采购竞争性磋商更正公告",
+     "2026-10-14 长江大学电子舌项目采购竞争性磋商公告",
+     "2026-10-12 长江大学AI能力中心平台竞争性磋商公告"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://ztbgl.yangtzeu.edu.cn/jggg/hwl.htm",
+    "label": "货物类",
+    "scanned": 12,
+    "oldest": "2026-09-03",
+    "n": 0,
+    "newest": [
+     "2026-10-16 本研教务融合建设与教务数据治理应用采购成交结果公告",
+     "2026-10-09 长江大学农学院作物生理与表型分析研究等专用仪器设备采购项",
+     "2026-09-30 张红娜实验室家具采购成交结果公告"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://ztbgl.yangtzeu.edu.cn/xqgg/yxgk.htm",
+    "label": "更多>>",
+    "scanned": 12,
+    "oldest": "2026-04-30",
+    "n": 0,
+    "newest": [
+     "2026-09-24 长江大学2026年10月政府采购意向公开",
+     "2026-09-24 长江大学2026年10月政府采购意向公开",
+     "2026-09-20 长江大学2026年10月政府采购意向公开"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://ztbgl.yangtzeu.edu.cn/xqgg/cgxq.htm",
+    "label": "更多>>",
+    "scanned": 1,
+    "oldest": "2024-02-02",
+    "n": 0,
+    "newest": [
+     "2024-02-02 长江大学武汉校区校园网建设项目征求意见公告"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://ztbgl.yangtzeu.edu.cn/xqgg/dylygs.htm",
+    "label": "更多>>",
+    "scanned": 12,
+    "oldest": "2024-10-15",
+    "n": 0,
+    "newest": [
+     "2026-09-09 AUTHOR CONNECT学术影响力提升服务单一来源公",
+     "2026-06-30 长江大学大学360度数据监测平台和学科发展水平数据监测平",
+     "2026-05-28 长江大学使用广联达造价软件年租续费单一来源采购公示"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://ztbgl.yangtzeu.edu.cn/cggg/fwl.htm",
+    "label": "更多>>",
+    "scanned": 12,
+    "oldest": "2026-07-06",
+    "n": 0,
+    "newest": [
+     "2026-10-13 长江大学GPU算力租赁服务磋商公告",
+     "2026-10-09 长江大学中层领导干部经济责任审计服务竞争性磋商公告",
+     "2026-09-17 MMA脑损害生物样本蛋白质组学和非靶向代谢组学检测磋商公"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://ztbgl.yangtzeu.edu.cn/cggg/gcl.htm",
+    "label": "更多>>",
+    "scanned": 12,
+    "oldest": "2026-07-20",
+    "n": 0,
+    "newest": [
+     "2026-09-10 长江大学二次离子质谱实验室改造装修项目（土建与装饰装修部",
+     "2026-08-28 长江大学机械工程学院井下实验室供电改造磋商公告(第二次)",
+     "2026-08-25 长江大学老旧楼栋消防隐患整改（二次）竞争性磋商公告"
+    ],
+    "rows": []
+   }
+  ]
+ }
+]
