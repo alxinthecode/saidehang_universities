@@ -1,0 +1,76 @@
+[
+ {
+  "key": "CCUT",
+  "dom": "ccut.edu.cn",
+  "home": "https://www.ccut.edu.cn/",
+  "links": [
+   "招标采购 https://zbcgfwzx.ccut.edu.cn/"
+  ],
+  "hosts": [
+   "zcglc.ccut.edu.cn",
+   "cggl.ccut.edu.cn",
+   "zbcgfwzx.ccut.edu.cn"
+  ]
+ },
+ {
+  "key": "HYIT",
+  "dom": "hyit.edu.cn",
+  "home": "https://www.hyit.edu.cn/",
+  "links": [
+   "2026.10.15\n  https://www.hau.edu.cn/info/1262/20018.htm",
+   "2026.10.12\n  https://www.hau.edu.cn/info/1262/19959.htm",
+   "2026.09.30\n  https://www.hau.edu.cn/info/1262/19937.htm"
+  ],
+  "hosts": [
+   "cwc.hyit.edu.cn",
+   "zbb.hyit.edu.cn",
+   "sbc.hyit.edu.cn"
+  ]
+ },
+ {
+  "key": "ECJTU",
+  "dom": "ecjtu.edu.cn",
+  "home": "https://www.ecjtu.edu.cn/",
+  "links": [
+   "政府采购招标办 http://zfcgzbb.ecjtu.edu.cn/",
+   "招标采购 http://zfcgzbb.ecjtu.edu.cn/"
+  ],
+  "hosts": [
+   "cwc.ecjtu.edu.cn",
+   "zbcg.ecjtu.edu.cn",
+   "zcglc.ecjtu.edu.cn",
+   "zcgl.ecjtu.edu.cn",
+   "zfcgzbb.ecjtu.edu.cn"
+  ]
+ },
+ {
+  "key": "USC",
+  "dom": "usc.edu.cn",
+  "home": "https://www.usc.edu.cn/",
+  "links": [],
+  "hosts": []
+ },
+ {
+  "key": "XSYU",
+  "dom": "xsyu.edu.cn",
+  "home": "https://www.xsyu.edu.cn/",
+  "links": [
+   "招标信息 http://ztb.xsyu.edu.cn/"
+  ],
+  "hosts": [
+   "cwc.xsyu.edu.cn",
+   "ztb.xsyu.edu.cn",
+   "zb.xsyu.edu.cn",
+   "gzc.xsyu.edu.cn",
+   "zcgl.xsyu.edu.cn",
+   "zbc.xsyu.edu.cn"
+  ]
+ },
+ {
+  "key": "YNU",
+  "dom": "ynu.edu.cn",
+  "home": "https://www.ynu.edu.cn/",
+  "links": [],
+  "hosts": []
+ }
+]

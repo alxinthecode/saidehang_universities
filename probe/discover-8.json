@@ -1,0 +1,395 @@
+[
+ {
+  "key": "CCUT",
+  "title": "资产管理处",
+  "url": "https://zcglc.ccut.edu.cn/",
+  "sfw": false,
+  "navs": [
+   {
+    "t": "+MORE",
+    "h": "https://zcglc.ccut.edu.cn/fgsdfh/dfg.htm"
+   },
+   {
+    "t": "+MORE",
+    "h": "https://zcglc.ccut.edu.cn/gzzd/xxzd.htm"
+   },
+   {
+    "t": "+MORE",
+    "h": "https://zcglc.ccut.edu.cn/sdfa/zbjggs.htm"
+   },
+   {
+    "t": "+MORE",
+    "h": "https://zcglc.ccut.edu.cn/gzdt/dfgsdf.htm"
+   }
+  ],
+  "cands": []
+ },
+ {
+  "key": "CCUT",
+  "title": "招标采购服务中心",
+  "url": "https://zbcgfwzx.ccut.edu.cn/",
+  "sfw": false,
+  "navs": [
+   {
+    "t": "采购公告",
+    "h": "https://zbcgfwzx.ccut.edu.cn/cggg.htm"
+   },
+   {
+    "t": "竞价系统",
+    "h": "https://zbcgfwzx.ccut.edu.cn/jjxt.htm"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://zbcgfwzx.ccut.edu.cn/gzdt.htm"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://zbcgfwzx.ccut.edu.cn/jggs.htm"
+   }
+  ],
+  "cands": [
+   {
+    "u": "https://zbcgfwzx.ccut.edu.cn/cggg.htm",
+    "label": "采购公告",
+    "scanned": 15,
+    "oldest": "2026-05-26",
+    "n": 0,
+    "newest": [
+     "2026-09-21 长春工业大学“校园邮箱服务项目”采用单一来源采购公式公告",
+     "2026-09-17 长春工业大学校（园）方责任保险项目竞争性谈判公告",
+     "2026-09-08 长春工业大学2027年保安服务采购项目公告"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zbcgfwzx.ccut.edu.cn/gzdt.htm",
+    "label": "更多>>",
+    "scanned": 3,
+    "oldest": "2024-09-26",
+    "n": 0,
+    "newest": [
+     "2026-03-09 2026年度印刷服务、硒鼓墨盒、打印纸集中采购申报通知",
+     "2025-11-24 招标采购服务中心集中学习《招标人主体责任履行指引》",
+     "2024-09-26 学校召开2024年财政专项执行进度推进会"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zbcgfwzx.ccut.edu.cn/jggs.htm",
+    "label": "更多>>",
+    "scanned": 15,
+    "oldest": "2026-05-22",
+    "n": 0,
+    "newest": [
+     "2026-09-24 长春工业大学校（园）方责任保险项目中标结果公告",
+     "2026-09-01 长春工业大学2026年中秋节教职工福利采购项目中标结果公",
+     "2026-09-01 长春工业大学2026年教师节教职工福利采购项目中标结果公"
+    ],
+    "rows": []
+   }
+  ]
+ },
+ {
+  "key": "HYIT",
+  "title": "淮安大学 招标办公室",
+  "url": "https://zbb.hau.edu.cn/",
+  "sfw": false,
+  "navs": [
+   {
+    "t": "采购公告",
+    "h": "https://zbb.hau.edu.cn/cggg.htm"
+   }
+  ],
+  "cands": [
+   {
+    "u": "https://zbb.hau.edu.cn/cggg.htm",
+    "label": "采购公告",
+    "scanned": 16,
+    "oldest": "2026-08-21",
+    "n": 0,
+    "newest": [
+     "2026-10-15 HDZB2026050-淮安大学北京路校区物业、安保服务",
+     "2026-10-12 HDJC2026010-淮安大学教学成果管理系统采购竞争",
+     "2026-09-30 次HDZB2026044-淮安大学人工智能通识教育实验室"
+    ],
+    "rows": []
+   }
+  ]
+ },
+ {
+  "key": "HYIT",
+  "title": "国有资产与实验室管理处",
+  "url": "https://sbc.hau.edu.cn/",
+  "sfw": false,
+  "navs": [
+   {
+    "t": "询价公告",
+    "h": "https://sbc.hau.edu.cn/xjgg.htm"
+   },
+   {
+    "t": "04/27房屋询价公告",
+    "h": "https://sbc.hau.edu.cn/info/1044/2091.htm"
+   }
+  ],
+  "cands": [
+   {
+    "u": "https://sbc.hau.edu.cn/xjgg.htm",
+    "label": "询价公告",
+    "scanned": 8,
+    "oldest": "2021-03-25",
+    "n": 0,
+    "newest": [
+     "2025-12-04 淮阴工学院工程训练中心数控车间教学设备维修保养项目询价公",
+     "2025-09-26 淮阴工学院2025年9月设备采购项目市场询价结果公告",
+     "2025-09-16 化学工程学院显示屏系统项目询价"
+    ],
+    "rows": []
+   }
+  ]
+ },
+ {
+  "key": "ECJTU",
+  "title": "招标采购系统",
+  "url": "https://zfcgzbb.ecjtu.edu.cn/",
+  "sfw": false,
+  "navs": [
+   {
+    "t": "招标公告",
+    "h": "https://zfcgzbb.ecjtu.edu.cn/zbgg.htm"
+   },
+   {
+    "t": "货物类",
+    "h": "https://zfcgzbb.ecjtu.edu.cn/zbgg/hwl.htm"
+   },
+   {
+    "t": "更多+",
+    "h": "https://zfcgzbb.ecjtu.edu.cn/xwdt.htm"
+   },
+   {
+    "t": "更多+",
+    "h": "https://zfcgzbb.ecjtu.edu.cn/cgyx.htm"
+   },
+   {
+    "t": "更多+",
+    "h": "https://zfcgzbb.ecjtu.edu.cn/zbgg/fwl.htm"
+   },
+   {
+    "t": "更多+",
+    "h": "https://zfcgzbb.ecjtu.edu.cn/zbgg/gcl.htm"
+   },
+   {
+    "t": "更多+",
+    "h": "https://zfcgzbb.ecjtu.edu.cn/jggs/hwljggs.htm"
+   },
+   {
+    "t": "更多+",
+    "h": "https://zfcgzbb.ecjtu.edu.cn/jggs/fwljggs.htm"
+   }
+  ],
+  "cands": [
+   {
+    "u": "https://zfcgzbb.ecjtu.edu.cn/",
+    "label": "home",
+    "scanned": 5,
+    "oldest": "2026-06-30",
+    "n": 0,
+    "newest": [
+     "2026-07-08 07-08江西银隆管理咨询有限公司关于2026年",
+     "2026-06-30 06-30江西明台项目咨询管理有限公司关于江",
+     "2026-06-30 06-25江西银隆管理咨询有限公司关于华东交"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zfcgzbb.ecjtu.edu.cn/zbgg.htm",
+    "label": "招标公告",
+    "scanned": 15,
+    "oldest": "2026-06-06",
+    "n": 0,
+    "newest": [
+     "2026-09-02 江西明台项目咨询管理有限公司关于华东交通大学土建学院设备",
+     "2026-08-26 江西好望投资咨询有限有限公司关于江西华大工程质量检测有限",
+     "2026-08-17 江西合胜合招标咨询有限公司关于江西华交科技产业集团有限公"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zfcgzbb.ecjtu.edu.cn/zbgg/hwl.htm",
+    "label": "货物类",
+    "scanned": 15,
+    "oldest": "2026-03-28",
+    "n": 0,
+    "newest": [
+     "2026-09-02 江西明台项目咨询管理有限公司关于华东交通大学土建学院设备",
+     "2026-08-26 江西好望投资咨询有限有限公司关于江西华大工程质量检测有限",
+     "2026-08-17 江西合胜合招标咨询有限公司关于江西华交科技产业集团有限公"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zfcgzbb.ecjtu.edu.cn/xwdt.htm",
+    "label": "更多+",
+    "scanned": 15,
+    "oldest": "2023-06-20",
+    "n": 0,
+    "newest": [
+     "2026-04-16 吴锦武副校长深入招标办调研指导工作",
+     "2026-03-01 校领导到招标办调研指导工作",
+     "2025-09-18 我校召开2025年设备更新专项招标采购工作推进会"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zfcgzbb.ecjtu.edu.cn/cgyx.htm",
+    "label": "更多+",
+    "scanned": 15,
+    "oldest": "2025-09-22",
+    "n": 0,
+    "newest": [
+     "2026-05-12 华东交通大学基建处2026～2027年度检测技术服务项目",
+     "2025-10-28 华东交通大学2025年10至11月政府采购意向20251",
+     "2025-10-24 华东交通大学2025年10至11月政府采购意向20251"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zfcgzbb.ecjtu.edu.cn/zbgg/fwl.htm",
+    "label": "更多+",
+    "scanned": 15,
+    "oldest": "2025-12-19",
+    "n": 0,
+    "newest": [
+     "2026-07-08 江西银隆管理咨询有限公司关于2026年-2028年华东交",
+     "2026-06-30 江西明台项目咨询管理有限公司关于江西华交科技产业集团有限",
+     "2026-06-25 江西银隆管理咨询有限公司关于华东交通大学继续教育学院20"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zfcgzbb.ecjtu.edu.cn/zbgg/gcl.htm",
+    "label": "更多+",
+    "scanned": 15,
+    "oldest": "2024-09-15",
+    "n": 0,
+    "newest": [
+     "2026-06-12 江西合胜合招标咨询有限公司关于华东交通大学基建处2026",
+     "2026-05-21 [省本级]江西省百巨招标咨询有限公司关于华东交通大学20",
+     "2026-03-13 华东交通大学50号学生宿舍工程设计项目"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zfcgzbb.ecjtu.edu.cn/jggs/hwljggs.htm",
+    "label": "更多+",
+    "scanned": 15,
+    "oldest": "2026-04-20",
+    "n": 0,
+    "newest": [
+     "2026-09-24 江西明台项目咨询管理有限公司关于华东交通大学土建学院设备",
+     "2026-09-08 江西好望投资咨询有限公司关于江西华大工程质量检测有限公司",
+     "2026-08-28 江西合胜合招标咨询有限公司关于江西华交科技产业集团有限公"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zfcgzbb.ecjtu.edu.cn/jggs/fwljggs.htm",
+    "label": "更多+",
+    "scanned": 15,
+    "oldest": "2026-01-10",
+    "n": 0,
+    "newest": [
+     "2026-07-21 江西明台项目咨询管理有限公司关于江西华交科技产业集团有限",
+     "2026-07-21 江西骏马招标咨询有限公司关于江西华交科技产业集团有限公司",
+     "2026-07-20 江西银隆管理咨询有限公司关于2026年-2028年华东交"
+    ],
+    "rows": []
+   }
+  ]
+ },
+ {
+  "key": "XSYU",
+  "title": "首页 - 采购招标处 - 西安石油大学",
+  "url": "https://ztb.xsyu.edu.cn/",
+  "sfw": false,
+  "navs": [
+   {
+    "t": "货物类",
+    "h": "https://ztb.xsyu.edu.cn/cggg1/hwl.htm"
+   },
+   {
+    "t": "采购公告",
+    "h": "https://ztb.xsyu.edu.cn/cggg/hwl.htm"
+   },
+   {
+    "t": "货物类",
+    "h": "https://ztb.xsyu.edu.cn/jggs/hwl.htm"
+   },
+   {
+    "t": "公开招标流程图",
+    "h": "https://ztb.xsyu.edu.cn/info/1166/3204.htm"
+   },
+   {
+    "t": "竞争性磋商流程图",
+    "h": "https://ztb.xsyu.edu.cn/info/1166/3206.htm"
+   },
+   {
+    "t": "西安石油大学竞价采购网",
+    "h": "https://pu.easyjcx.com/edu/10705#/login"
+   }
+  ],
+  "cands": [
+   {
+    "u": "https://ztb.xsyu.edu.cn/",
+    "label": "home",
+    "scanned": 8,
+    "oldest": "2022-06-20",
+    "n": 0,
+    "newest": [
+     "2025-03-04 关于做好2025年采购招标工作的通知",
+     "2024-05-09 2024年度政府采购工作推进会暨政府采购业务培训会议通知",
+     "2024-03-15 关于做好2024年采购招标工作的通知"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://ztb.xsyu.edu.cn/cggg1/hwl.htm",
+    "label": "货物类",
+    "scanned": 16,
+    "oldest": "2026-04-10",
+    "n": 0,
+    "newest": [
+     "2026-10-12 2026-10-12高真空多源集成复合薄膜制备系统项目政",
+     "2026-09-24 2026-09-24盖层封盖性物理模拟装置采购项目政府采",
+     "2026-08-12 2026-08-12西安石油大学石油与天然气工程学科创新"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://ztb.xsyu.edu.cn/cggg/hwl.htm",
+    "label": "采购公告",
+    "scanned": 16,
+    "oldest": "2026-08-21",
+    "n": 0,
+    "newest": [
+     "2026-10-15 2026-10-15西安石油大学高温高压超低渗岩石在三轴",
+     "2026-10-09 2026-10-09西安石油大学图书馆专用设备等购置安装",
+     "2026-09-30 2026-09-30西安石油大学深度学习和大数据处理平台"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://ztb.xsyu.edu.cn/jggs/hwl.htm",
+    "label": "货物类",
+    "scanned": 16,
+    "oldest": "2026-08-13",
+    "n": 0,
+    "newest": [
+     "2026-10-10 2026-10-10西安石油大学热裂解-气相色谱质谱联用",
+     "2026-09-29 2026-09-29西安石油大学高温高压气体质量流量计成",
+     "2026-09-29 2026-09-29西安石油大学真三轴煤与瓦斯突出模拟装"
+    ],
+    "rows": []
+   }
+  ]
+ }
+]
