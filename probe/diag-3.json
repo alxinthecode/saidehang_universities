@@ -1,0 +1,94 @@
+[
+ {
+  "key": "USTB",
+  "dom": "ustb.edu.cn",
+  "home": "https://www.ustb.edu.cn/",
+  "links": [
+   "- 招标公告 http://xxgk.ustb.edu.cn/xinxigongkaimulu/caiwuzichan/yiqitushuyaoping/"
+  ],
+  "hosts": [
+   "cg.ustb.edu.cn",
+   "zb.ustb.edu.cn",
+   "zcgl.ustb.edu.cn",
+   "xxgk.ustb.edu.cn"
+  ]
+ },
+ {
+  "key": "SCUT",
+  "dom": "scut.edu.cn",
+  "home": "https://www.scut.edu.cn/",
+  "links": [],
+  "hosts": [
+   "zbzx.scut.edu.cn"
+  ]
+ },
+ {
+  "key": "NCU",
+  "dom": "ncu.edu.cn",
+  "home": "https://www.ncu.edu.cn/",
+  "links": [
+   "招标采购 https://www.ncu.edu.cn/goto/go.html?u=zcxt"
+  ],
+  "hosts": [
+   "cwc.ncu.edu.cn",
+   "cgzx.ncu.edu.cn",
+   "cg.ncu.edu.cn",
+   "zcc.ncu.edu.cn",
+   "zcgl.ncu.edu.cn"
+  ]
+ },
+ {
+  "key": "OUC",
+  "dom": "ouc.edu.cn",
+  "home": "https://www.ouc.edu.cn/",
+  "links": [
+   "招标公告 http://zb.ouc.edu.cn/"
+  ],
+  "hosts": [
+   "cwc.ouc.edu.cn",
+   "zb.ouc.edu.cn",
+   "zcgl.ouc.edu.cn",
+   "gzc.ouc.edu.cn"
+  ]
+ },
+ {
+  "key": "SWUST",
+  "dom": "swust.edu.cn",
+  "home": null,
+  "links": [],
+  "hosts": [
+   "zb.swust.edu.cn"
+  ]
+ },
+ {
+  "key": "NANKAI",
+  "dom": "nankai.edu.cn",
+  "home": "https://www.nankai.edu.cn/",
+  "links": [
+   "南开招标网 https://nkzbb.nankai.edu.cn/"
+  ],
+  "hosts": [
+   "cwc.nankai.edu.cn",
+   "zbgl.nankai.edu.cn",
+   "zbcg.nankai.edu.cn",
+   "cg.nankai.edu.cn",
+   "cgc.nankai.edu.cn",
+   "zcgl.nankai.edu.cn",
+   "nkzbb.nankai.edu.cn"
+  ]
+ },
+ {
+  "key": "IPC",
+  "dom": "ipc.cas.cn",
+  "home": null,
+  "links": [],
+  "hosts": []
+ },
+ {
+  "key": "DICP",
+  "dom": "dicp.cas.cn",
+  "home": "https://www.dicp.cas.cn/",
+  "links": [],
+  "hosts": []
+ }
+]
