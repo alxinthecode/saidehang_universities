@@ -1,0 +1,88 @@
+[
+ {
+  "key": "XATU",
+  "title": "采购招标-西安工业大学",
+  "url": "https://www.xatu.edu.cn/index/cgzb.htm",
+  "sfw": false,
+  "navs": [],
+  "cands": []
+ },
+ {
+  "key": "JUST",
+  "title": "招投标办公室",
+  "url": "https://zbb.just.edu.cn/",
+  "sfw": false,
+  "navs": [
+   {
+    "t": "招标公告",
+    "h": "https://zbb.just.edu.cn/zbgg/list.htm"
+   }
+  ],
+  "cands": [
+   {
+    "u": "https://zbb.just.edu.cn/",
+    "label": "home",
+    "scanned": 17,
+    "oldest": "2026-07-11",
+    "n": 0,
+    "newest": [
+     "2026-09-22 学校举办招标采购政策宣讲会",
+     "2026-08-11 学校首次通过电子招投标完成食堂特色风味窗口劳务采购",
+     "2026-07-16 招投标办公室组织召开社会代理机构2026年度考核评审会"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zbb.just.edu.cn/zbgg/list.htm",
+    "label": "招标公告",
+    "scanned": 6,
+    "oldest": "2026-07-18",
+    "n": 0,
+    "newest": [
+     "2026-09-24 招标公告：江苏科技大学长山校区泳池池底垫层项目（HW-G",
+     "2026-09-14 招标公告：江苏科技大学图书馆桌椅采购（HW-GZ-202",
+     "2026-09-09 招标公告：江苏科技大学自助打印设备及配套系统租赁（FW-"
+    ],
+    "rows": []
+   }
+  ]
+ },
+ {
+  "key": "SWPU",
+  "title": "人才政策-西南石油大学门户网站",
+  "url": "https://www.swpu.edu.cn/zpzb/rczc.htm",
+  "sfw": false,
+  "navs": [
+   {
+    "t": "采购信息发布网",
+    "h": "http://cwcggl.swpu.edu.cn/index.chtml"
+   }
+  ],
+  "cands": []
+ },
+ {
+  "key": "SWPU",
+  "title": "西南石油大学采购管理系统",
+  "url": "http://cwcggl.swpu.edu.cn/",
+  "sfw": false,
+  "navs": [],
+  "cands": []
+ },
+ {
+  "key": "ZJU",
+  "title": "登陆 - 采购中心客户服务系统",
+  "url": "http://cgzx.zju.edu.cn/login;jsessionid=752AE393EBCCC179B5F22D44699DBA4A",
+  "sfw": false,
+  "navs": [],
+  "cands": []
+ },
+ {
+  "key": "ZJU",
+  "title": "浙江大学全流程电子化采购平台",
+  "url": "https://cgywxt.zju.edu.cn/sfw/",
+  "sfw": true,
+  "navs": [],
+  "cands": [],
+  "sfwErr": "page.evaluate: Error: no 思必得 list query returned results\n    at readSfw (eval at <anonymous> (eval a"
+ }
+]
