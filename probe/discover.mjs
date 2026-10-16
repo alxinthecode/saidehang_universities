@@ -25,7 +25,7 @@ const brief = r => ({ scanned: r.scanned, oldest: r.oldest, n: r.rows.length, ne
 
 async function open(url) {
   const page = await ctx.newPage();
-  try { await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 15000 }); await page.waitForTimeout(2500); return page; }
+  try { await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 10000 }); await page.waitForTimeout(1500); return page; }
   catch { await page.close(); return null; }
 }
 async function examine(key, page, out) {
@@ -35,7 +35,7 @@ async function examine(key, page, out) {
       sfw: /\/sfw[\w]*\//.test(location.href) || /sfw_cms|\/sfw\/e\?/.test(html.slice(0, 40000)),
       navs: Array.from(document.querySelectorAll('a[href]'))
         .filter(a => /采购公告|招标公告|询价|竞价|比选|磋商|采购信息|招标信息|货物|公开招标|更多|MORE|more/.test(a.textContent) && a.textContent.trim().length <= 12)
-        .map(a => ({ t: a.textContent.trim(), h: a.href })).filter(x => /^https?:/.test(x.h) && !seen.has(x.h) && seen.add(x.h)).slice(0, 12) };
+        .map(a => ({ t: a.textContent.trim(), h: a.href })).filter(x => /^https?:/.test(x.h) && !seen.has(x.h) && seen.add(x.h)).slice(0, 8) };
   });
   const e = { key, ...info, cands: [] };
   if (info.sfw) { try { e.sfwScan = brief(await run(page, { key, kind: 'sfw' })); } catch (err) { e.sfwErr = String(err.message || err).slice(0, 100); } }
@@ -46,8 +46,10 @@ async function examine(key, page, out) {
   console.log('SITE', key, info.title.slice(0, 30), info.sfw, e.cands.length);
 }
 
+const SHARD = Number(process.env.SHARD || 0), SHARDS = Number(process.env.SHARDS || 1);
+const FILE = new URL(`./discover-${SHARD}.json`, import.meta.url);
 const out = [];
-for (const [key, dom] of Object.entries(UNIS)) {
+for (const [key, dom] of Object.entries(UNIS).filter((_, i) => i % SHARDS === SHARD)) {
   const hosts = new Set();
   await Promise.all(PREFIX.map(async p => { try { await dns.lookup(`${p}.${dom}`); hosts.add(`${p}.${dom}`); } catch {} }));
   // links from the university home page
@@ -63,9 +65,10 @@ for (const [key, dom] of Object.entries(UNIS)) {
     for (const proto of ['https', 'http']) { page = await open(`${proto}://${h}/`); if (page) break; }
     if (!page) continue;
     const title = await page.title();
-    if (REL.test(title) || /sfw/.test(page.url())) await examine(key, page, out);
+    if (REL.test(title) || /sfw/.test(page.url())) await examine(key, page, out).catch(() => {});
     await page.close();
   }
+  await writeFile(FILE, JSON.stringify(out, null, 1));
 }
 await browser.close();
-await writeFile(new URL('./discover.json', import.meta.url), JSON.stringify(out, null, 1));
+await writeFile(FILE, JSON.stringify(out, null, 1));
