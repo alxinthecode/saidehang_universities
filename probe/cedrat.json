@@ -1,0 +1,4431 @@
+[
+ {
+  "url": "https://cedrat-technologies.com/produit/apa30uxs/",
+  "cat": "piezo-actuators",
+  "model": "APA30uXS",
+  "sub": "Amplified Piezo Actuator",
+  "posted": [
+   "Amplified piezo actuator",
+   "Piezo actuators"
+  ],
+  "specs": {
+   "Blocked Force": "3,7",
+   "Capacitance": "0,04",
+   "Nominal Stroke": "34",
+   "Stiffness": "0,11",
+   "Resonance frequency": "4778",
+   "Available options": "Non-magnetic shell, Vacuum Compatibility",
+   "Status": "Standard"
+  },
+  "desc": "Applications: Earing implants – Actuation in Micro Aerial Vehicle – Energy harvester for pacemaker – Micro electro optical systems",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/APA30uXS.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/produit/apa150xxs/",
+  "cat": "piezo-actuators",
+  "model": "APA150XXS",
+  "sub": "Amplified Piezo Actuator",
+  "posted": [
+   "Amplified piezo actuator",
+   "Piezo actuators"
+  ],
+  "specs": {
+   "Blocked Force": "3,2",
+   "Capacitance": "0,18",
+   "Nominal Stroke": "132",
+   "Stiffness": "0,02",
+   "Resonance frequency": "1100",
+   "Available options": "Vacuum compatibility",
+   "Status": "Standard"
+  },
+  "desc": "Applications: Earing implants – Actuation in Micro Aerial Vehicle – Energy harvester for pacemaker – Micro electro optical systems",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/APA150XXS.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/produit/apa35xs/",
+  "cat": "piezo-actuators",
+  "model": "APA35XS",
+  "sub": "Amplified Piezo Actuator",
+  "posted": [
+   "Amplified piezo actuator",
+   "Piezo actuators"
+  ],
+  "specs": {
+   "Blocked Force": "27",
+   "Capacitance": "0,3",
+   "Nominal Stroke": "52",
+   "Stiffness": "0,52",
+   "Resonance frequency": "3880",
+   "Available options": "Strain gauge, Non-magnetic shell, Vacuum Compatibility",
+   "Status": "Standard"
+  },
+  "desc": "Applications: Micro optical mechanisms – Micro controllers dynamic valves – Space qualified micro tips tilts – Miniature brakes",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/APA35XS.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/produit/apa50xs/",
+  "cat": "piezo-actuators",
+  "model": "APA50XS",
+  "sub": "Amplified Piezo Actuator",
+  "posted": [
+   "Amplified piezo actuator",
+   "Piezo actuators"
+  ],
+  "specs": {
+   "Blocked Force": "16",
+   "Capacitance": "0,3",
+   "Nominal Stroke": "66",
+   "Stiffness": "0,24",
+   "Resonance frequency": "2730",
+   "Available options": "Non-magnetic shell, Vacuum Compatibility",
+   "Status": "Standard"
+  },
+  "desc": "Applications: Micro optical mechanisms – Micro controllers dynamic valves – Space qualified micro tips tilts – Miniature brakes",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/APA50XS.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/produit/apa60s/",
+  "cat": "piezo-actuators",
+  "model": "APA60S",
+  "sub": "Amplified Piezo Actuator",
+  "posted": [
+   "Amplified piezo actuator",
+   "Piezo actuators"
+  ],
+  "specs": {
+   "Blocked Force": "130",
+   "Capacitance": "1,1",
+   "Nominal Stroke": "75",
+   "Stiffness": "1,7",
+   "Resonance frequency": "2860",
+   "Available options": "Strain gauge, Non-magnetic shell, Vacuum Compatibility",
+   "Status": "Standard"
+  },
+  "desc": "Applications: Shaking powder for X-ray diffraction – Optical stabilization for embedded cameras – Space qualified optical stages – Nano indentation",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/APA60S-1.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/produit/apa120s/",
+  "cat": "piezo-actuators",
+  "model": "APA120S",
+  "sub": "Amplified Piezo Actuator",
+  "posted": [
+   "Amplified piezo actuator",
+   "Piezo actuators"
+  ],
+  "specs": {
+   "Blocked Force": "46",
+   "Capacitance": "1,1",
+   "Nominal Stroke": "140",
+   "Stiffness": "0,33",
+   "Resonance frequency": "1340",
+   "Available options": "Strain gauge, Non-magnetic shell, Vacuum Compatibility",
+   "Status": "Standard"
+  },
+  "desc": "Applications: Shaking powder for X-ray diffraction – Optical stabilization for embedded cameras – Space qualified optical stages – Nano indentation",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/APA120S.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/produit/apa40sm/",
+  "cat": "piezo-actuators",
+  "model": "APA40SM",
+  "sub": "Amplified Piezo Actuator",
+  "posted": [
+   "Amplified piezo actuator",
+   "Piezo actuators"
+  ],
+  "specs": {
+   "Blocked Force": "260",
+   "Capacitance": "1,1",
+   "Nominal Stroke": "54",
+   "Stiffness": "4,9",
+   "Resonance frequency": "4130",
+   "Available options": "Strain gauge, Vacuum Compatibility",
+   "Status": "Standard"
+  },
+  "desc": "Applications: Shock energy harvester in wireless switches – Material stress cycling – Injectors",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/APA40SM.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/produit/apa60sm/",
+  "cat": "piezo-actuators",
+  "model": "APA60SM",
+  "sub": "Amplified Piezo Actuator",
+  "posted": [
+   "Amplified piezo actuator",
+   "Piezo actuators"
+  ],
+  "specs": {
+   "Blocked Force": "140",
+   "Capacitance": "1,1",
+   "Nominal Stroke": "77",
+   "Stiffness": "1,8",
+   "Resonance frequency": "2802",
+   "Available options": "Strain gauge, Non-magnetic shell, Vacuum Compatibility",
+   "Status": "Standard"
+  },
+  "desc": "Applications: Fast X-ray vacuum compatible shutters – dynamic valves – laser cavity tuning – miniature active flaps for aero vehicles",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/APA60SM.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/produit/apa60sl/",
+  "cat": "piezo-actuators",
+  "model": "APA60SL",
+  "sub": "Amplified Piezo Actuator",
+  "posted": [
+   "Amplified piezo actuator",
+   "Piezo actuators"
+  ],
+  "specs": {
+   "Blocked Force": "390",
+   "Capacitance": "6,2",
+   "Nominal Stroke": "57",
+   "Stiffness": "6,8",
+   "Resonance frequency": "3120",
+   "Available options": "Strain gauge, Vacuum Compatibility",
+   "Status": "Standard"
+  },
+  "desc": "Applications: Active clamping",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/APA60SL.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/produit/apa100m/",
+  "cat": "piezo-actuators",
+  "model": "APA100M",
+  "sub": "Amplified Piezo Actuator",
+  "posted": [
+   "Amplified piezo actuator",
+   "Piezo actuators"
+  ],
+  "specs": {
+   "Blocked Force": "230",
+   "Capacitance": "2,2",
+   "Nominal Stroke": "125",
+   "Stiffness": "1,9",
+   "Resonance frequency": "1910",
+   "Available options": "Strain gauge, Non-magnetic shell, Vacuum Compatibility",
+   "Status": "Standard"
+  },
+  "desc": "Applications: Fast X-ray vacuum compatible shutters – dynamic valves – laser cavity tuning – miniature active flaps for aero vehicles",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/APA100M.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/produit/apa150m/",
+  "cat": "piezo-actuators",
+  "model": "APA150M",
+  "sub": "Amplified Piezo Actuator",
+  "posted": [
+   "Amplified piezo actuator",
+   "Piezo actuators"
+  ],
+  "specs": {
+   "Blocked Force": "130",
+   "Capacitance": "2,2",
+   "Nominal Stroke": "185",
+   "Stiffness": "0,68",
+   "Resonance frequency": "1300",
+   "Available options": "Strain gauge, Non-magnetic shell, Vacuum Compatibility",
+   "Status": "Standard"
+  },
+  "desc": "Applications: Fast X-ray vacuum compatible shutters – dynamic valves – laser cavity tuning – miniature active flaps for aero vehicles",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/APA150M.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/produit/apa200m/",
+  "cat": "piezo-actuators",
+  "model": "APA200M",
+  "sub": "Amplified Piezo Actuator",
+  "posted": [
+   "Amplified piezo actuator",
+   "Piezo actuators"
+  ],
+  "specs": {
+   "Blocked Force": "87",
+   "Capacitance": "2,2",
+   "Nominal Stroke": "235",
+   "Stiffness": "0,37",
+   "Resonance frequency": "906",
+   "Available options": "Strain gauge, Vacuum Compatibility",
+   "Status": "Standard"
+  },
+  "desc": "Applications: Fast X-ray vacuum compatible shutters – dynamic valves – laser cavity tuning – miniature active flaps for aero vehicles",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/APA200M.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/produit/apa400m/",
+  "cat": "piezo-actuators",
+  "model": "APA400M",
+  "sub": "Amplified Piezo Actuator",
+  "posted": [
+   "Amplified piezo actuator",
+   "Piezo actuators"
+  ],
+  "specs": {
+   "Blocked Force": "34",
+   "Capacitance": "2,2",
+   "Nominal Stroke": "455",
+   "Stiffness": "0,07",
+   "Resonance frequency": "423",
+   "Available options": "Strain gauge, Vacuum Compatibility",
+   "Status": "Standard"
+  },
+  "desc": "Applications: Clamping in wire feeding system – Inverted microscope positionner – Haptic technology feedback for display panels – Energy harvesters",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/APA400M.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/produit/apa600m/",
+  "cat": "piezo-actuators",
+  "model": "APA600M",
+  "sub": "Amplified Piezo Actuator",
+  "posted": [
+   "Amplified piezo actuator",
+   "Piezo actuators"
+  ],
+  "specs": {
+   "Blocked Force": "24",
+   "Capacitance": "2,2",
+   "Nominal Stroke": "550",
+   "Stiffness": "0,04",
+   "Resonance frequency": "316",
+   "Available options": "Strain gauge, Vacuum Compatibility",
+   "Status": "Standard"
+  },
+  "desc": "Applications: Clamping in wire feeding system – Inverted microscope positioner – Haptic technology feedback for display panels – Energy harvesters",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/APA600M.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/produit/apa900m/",
+  "cat": "piezo-actuators",
+  "model": "APA900M",
+  "sub": "Amplified Piezo Actuator",
+  "posted": [
+   "Amplified piezo actuator",
+   "Piezo actuators"
+  ],
+  "specs": {
+   "Blocked Force": "18",
+   "Capacitance": "2,2",
+   "Nominal Stroke": "785",
+   "Stiffness": "0,02",
+   "Resonance frequency": "259",
+   "Available options": "Vacuum compatibility",
+   "Status": "Standard"
+  },
+  "desc": "Applications: Clamping in wire feeding system – Inverted microscope positioner – Haptic technology feedback for display panels – Energy harvesters",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/APA900M.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/produit/apa100mml/",
+  "cat": "piezo-actuators",
+  "model": "APA100MML",
+  "sub": "Amplified Piezo Actuator",
+  "posted": [
+   "Amplified piezo actuator",
+   "Piezo actuators"
+  ],
+  "specs": {
+   "Blocked Force": "830",
+   "Capacitance": "6,3",
+   "Nominal Stroke": "100",
+   "Stiffness": "8,3",
+   "Resonance frequency": "1730",
+   "Available options": "Strain gauge, Vacuum Compatibility",
+   "Status": "Standard"
+  },
+  "desc": "Applications: Active stabilisation of a watt balance – High frequency shakers – Elasto MRI – Long range cavity modulation in interferometers",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/APA100MML.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/produit/apa400mml/",
+  "cat": "piezo-actuators",
+  "model": "APA400MML",
+  "sub": "Amplified Piezo Actuator",
+  "posted": [
+   "Amplified piezo actuator",
+   "Piezo actuators"
+  ],
+  "specs": {
+   "Blocked Force": "180",
+   "Capacitance": "6,3",
+   "Nominal Stroke": "355",
+   "Stiffness": "0,52",
+   "Resonance frequency": "634",
+   "Available options": "Strain gauge, Non-magnetic shell, Vacuum Compatibility",
+   "Status": "Standard"
+  },
+  "desc": "Applications: Active stabilisation of a watt balance – High frequency shakers – Elasto MRI – Long range cavity modulation in interferometers",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/APA400MML.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/produit/apa600mml/",
+  "cat": "piezo-actuators",
+  "model": "APA600MML",
+  "sub": "Amplified Piezo Actuator",
+  "posted": [
+   "Amplified piezo actuator",
+   "Piezo actuators"
+  ],
+  "specs": {
+   "Blocked Force": "78",
+   "Capacitance": "6,3",
+   "Nominal Stroke": "650",
+   "Stiffness": "0,12",
+   "Resonance frequency": "323",
+   "Available options": "Strain gauge, Non-magnetic shell, Vacuum Compatibility",
+   "Status": "Standard"
+  },
+  "desc": "Applications: Active stabilisation of a watt balance – High frequency shakers – Elasto MRI – Long range cavity modulation in interferometers",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/APA600MML.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/produit/apa60ml/",
+  "cat": "piezo-actuators",
+  "model": "APA60ML",
+  "sub": "Amplified Piezo Actuator",
+  "posted": [
+   "Amplified piezo actuator",
+   "Piezo actuators"
+  ],
+  "specs": {
+   "Blocked Force": "3300",
+   "Capacitance": "13",
+   "Nominal Stroke": "65",
+   "Stiffness": "51",
+   "Resonance frequency": "2555",
+   "Available options": "Strain gauge, Vacuum Compatibility",
+   "Status": "Standard"
+  },
+  "desc": "Applications: Shaker – Force generator – Heavy load positionner – Dynamic Actuator",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/APA60ML.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/produit/apa95ml/",
+  "cat": "piezo-actuators",
+  "model": "APA95ML",
+  "sub": "Amplified Piezo Actuator",
+  "posted": [
+   "Amplified piezo actuator",
+   "Piezo actuators"
+  ],
+  "specs": {
+   "Blocked Force": "2100",
+   "Capacitance": "13",
+   "Nominal Stroke": "99",
+   "Stiffness": "21",
+   "Resonance frequency": "2090",
+   "Available options": "Strain gauge, Vacuum Compatibility",
+   "Status": "Standard"
+  },
+  "desc": "Applications: Active control of vibration on medical robots – High frequency shakers – Fretting fatigue testing – Space qualified positionner",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/APA95ML.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/produit/apa120ml/",
+  "cat": "piezo-actuators",
+  "model": "APA120ML",
+  "sub": "Amplified Piezo Actuator",
+  "posted": [
+   "Amplified piezo actuator",
+   "Piezo actuators"
+  ],
+  "specs": {
+   "Blocked Force": "1500",
+   "Capacitance": "13",
+   "Nominal Stroke": "120",
+   "Stiffness": "12",
+   "Resonance frequency": "1880",
+   "Available options": "Strain gauge, Vacuum Compatibility",
+   "Status": "Standard"
+  },
+  "desc": "Applications: Active control of vibration on medical robots – High frequency shakers – Fretting fatigue testing – Space qualified positionner",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/APA120ML.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/produit/apa200ml/",
+  "cat": "piezo-actuators",
+  "model": "APA200ML",
+  "sub": "Amplified Piezo Actuator",
+  "posted": [
+   "Amplified piezo actuator",
+   "Piezo actuators"
+  ],
+  "specs": {
+   "Blocked Force": "780",
+   "Capacitance": "13",
+   "Nominal Stroke": "220",
+   "Stiffness": "3,6",
+   "Resonance frequency": "1015",
+   "Available options": "Strain gauge, Vacuum Compatibility",
+   "Status": "Standard"
+  },
+  "desc": "Applications: Active control of vibration on medical robots – High frequency shakers – Fretting fatigue testing – Space qualified positionner",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/APA200ML.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/produit/apa300ml/",
+  "cat": "piezo-actuators",
+  "model": "APA300ML",
+  "sub": "Amplified Piezo Actuator",
+  "posted": [
+   "Amplified piezo actuator",
+   "Piezo actuators"
+  ],
+  "specs": {
+   "Blocked Force": "540",
+   "Capacitance": "13",
+   "Nominal Stroke": "300",
+   "Stiffness": "1,8",
+   "Resonance frequency": "758",
+   "Available options": "Strain gauge, Vacuum Compatibility",
+   "Status": "Standard"
+  },
+  "desc": "Applications: Active control of vibration on medical robots – High frequency shakers – Fretting fatigue testing – Space qualified positionner",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/APA300ML.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/produit/apa230l/",
+  "cat": "piezo-actuators",
+  "model": "APA230L",
+  "sub": "Amplified Piezo Actuator",
+  "posted": [
+   "Amplified piezo actuator",
+   "Piezo actuators"
+  ],
+  "specs": {
+   "Blocked Force": "1300",
+   "Capacitance": "26",
+   "Nominal Stroke": "230",
+   "Stiffness": "5,8",
+   "Resonance frequency": "857",
+   "Available options": "Strain gauge, Non-magnetic shell, Vacuum Compatibility",
+   "Status": "Standard"
+  },
+  "desc": "Applications: Helicopter flaps – High frequency shakers – Material stress cycling – Mirror positioning in telescopes and instruments",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/APA230L.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/produit/apa500l/",
+  "cat": "piezo-actuators",
+  "model": "APA500L",
+  "sub": "Amplified Piezo Actuator",
+  "posted": [
+   "Amplified piezo actuator",
+   "Piezo actuators"
+  ],
+  "specs": {
+   "Blocked Force": "580",
+   "Capacitance": "26",
+   "Nominal Stroke": "510",
+   "Stiffness": "1,1",
+   "Resonance frequency": "456",
+   "Available options": "Strain gauge, Non-magnetic shell, Vacuum Compatibility",
+   "Status": "Standard"
+  },
+  "desc": "Applications: Helicopter flaps – High frequency shakers – Material stress cycling – Mirror positioning in telescopes and instruments",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/APA500L.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/produit/apa1000l/",
+  "cat": "piezo-actuators",
+  "model": "APA1000L",
+  "sub": "Amplified Piezo Actuator",
+  "posted": [
+   "Amplified piezo actuator",
+   "Piezo actuators"
+  ],
+  "specs": {
+   "Blocked Force": "350",
+   "Capacitance": "26",
+   "Nominal Stroke": "870",
+   "Stiffness": "0,4",
+   "Resonance frequency": "290",
+   "Available options": "Strain gauge, Non-magnetic shell, Vacuum Compatibility",
+   "Status": "Standard"
+  },
+  "desc": "Applications: Helicopter flaps – High frequency shakers – Material stress cycling – Mirror positioning in telescopes and instruments",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/APA1000L.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/produit/apa1500l/",
+  "cat": "piezo-actuators",
+  "model": "APA1500L",
+  "sub": "Amplified Piezo Actuator",
+  "posted": [
+   "Amplified piezo actuator",
+   "Piezo actuators"
+  ],
+  "specs": {
+   "Blocked Force": "99",
+   "Capacitance": "26",
+   "Nominal Stroke": "1480",
+   "Stiffness": "0,07",
+   "Resonance frequency": "135",
+   "Available options": "Strain gauge, Non-magnetic shell, Vacuum Compatibility",
+   "Status": "Standard"
+  },
+  "desc": "Applications: Helicopter flaps – High frequency shakers – Material stress cycling – Mirror positioning in telescopes and instruments",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/APA1500L.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/produit/apa2000l/",
+  "cat": "piezo-actuators",
+  "model": "APA2000L",
+  "sub": "Amplified Piezo Actuator",
+  "posted": [
+   "Amplified piezo actuator",
+   "Piezo actuators"
+  ],
+  "specs": {
+   "Blocked Force": "62",
+   "Capacitance": "26",
+   "Nominal Stroke": "2010",
+   "Stiffness": "0,03",
+   "Resonance frequency": "87",
+   "Available options": "Strain gauge, Non-magnetic shell, Vacuum Compatibility",
+   "Status": "Standard"
+  },
+  "desc": "Applications: Helicopter flaps – High frequency shakers – Material stress cycling – Mirror positioning in telescopes and instruments",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/APA2000L.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/produit/apa500xl/",
+  "cat": "piezo-actuators",
+  "model": "APA500XL",
+  "sub": "Amplified Piezo Actuator",
+  "posted": [
+   "Amplified piezo actuator",
+   "Piezo actuators"
+  ],
+  "specs": {
+   "Blocked Force": "1400",
+   "Capacitance": "77",
+   "Nominal Stroke": "590",
+   "Stiffness": "2,4",
+   "Resonance frequency": "345",
+   "Available options": "Strain gauge, Vacuum Compatibility",
+   "Status": "Standard"
+  },
+  "desc": "Applications: High frequency shakers – Fretting fatigue testing – Positioning of heavy loads – Force testing",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/APA500XL.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/produit/apa1000xl/",
+  "cat": "piezo-actuators",
+  "model": "APA1000XL",
+  "sub": "Amplified Piezo Actuator",
+  "posted": [
+   "Amplified piezo actuator",
+   "Piezo actuators"
+  ],
+  "specs": {
+   "Blocked Force": "770",
+   "Capacitance": "77",
+   "Nominal Stroke": "1100",
+   "Stiffness": "0,7",
+   "Resonance frequency": "212",
+   "Available options": "Strain gauge, Vacuum Compatibility",
+   "Status": "Standard"
+  },
+  "desc": "Applications: High frequency shakers – Fretting fatigue testing – Positioning of heavy loads – Force testing",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/APA1000XL.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/produit/apa500xxl/",
+  "cat": "piezo-actuators",
+  "model": "APA500XXL",
+  "sub": "Amplified Piezo Actuator",
+  "posted": [
+   "Amplified piezo actuator",
+   "Piezo actuators"
+  ],
+  "specs": {
+   "Blocked Force": "44000",
+   "Capacitance": "42",
+   "Nominal Stroke": "690",
+   "Stiffness": "64",
+   "Resonance frequency": "300",
+   "Available options": "Vacuum compatibility",
+   "Status": "Preliminary"
+  },
+  "desc": "Applications: Large mirror for telescope – Fast steering mirror – Active stabilization",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/APA500XXL.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/produit/ppa10m/",
+  "cat": "piezo-actuators",
+  "model": "PPA10M",
+  "sub": "Parallel Pre-Stressed Actuator",
+  "posted": [
+   "Parallel Pre-stressed Actuator",
+   "Piezo actuators"
+  ],
+  "specs": {
+   "Blocked Force": "850",
+   "Capacitance": "0,55",
+   "Nominal Stroke": "8,3",
+   "Stiffness": "102,4",
+   "Resonance frequency": "32300",
+   "Available options": "Strain gauge, Non-magnetic shell, Vacuum Compatibility",
+   "Status": "Standard"
+  },
+  "desc": "Applications: Vibration assistance – Needle vibrator in a space Atomic Force Microscope – Active deformation of mirror in telescopes – Ultrasonic injection",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/PPA10M.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/produit/ppa20m/",
+  "cat": "piezo-actuators",
+  "model": "PPA20M",
+  "sub": "Parallel Pre-Stressed Actuator",
+  "posted": [
+   "Parallel Pre-stressed Actuator",
+   "Piezo actuators"
+  ],
+  "specs": {
+   "Blocked Force": "850",
+   "Capacitance": "1,1",
+   "Nominal Stroke": "19,5",
+   "Stiffness": "43,6",
+   "Resonance frequency": "20200",
+   "Available options": "Strain gauge, Non-magnetic shell, Vacuum Compatibility",
+   "Status": "Standard"
+  },
+  "desc": "Applications: Vibration assistance – Needle vibrator in a space Atomic Force Microscope – Active deformation of mirror in telescopes – Ultrasonic injection",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/PPA20M.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/produit/ppa40m/",
+  "cat": "piezo-actuators",
+  "model": "PPA40M",
+  "sub": "Parallel Pre-Stressed Actuator",
+  "posted": [
+   "Parallel Pre-stressed Actuator",
+   "Piezo actuators"
+  ],
+  "specs": {
+   "Blocked Force": "850",
+   "Capacitance": "2,2",
+   "Nominal Stroke": "38",
+   "Stiffness": "22,4",
+   "Resonance frequency": "11300",
+   "Available options": "Strain gauge, Non-magnetic shell, Vacuum Compatibility",
+   "Status": "Standard"
+  },
+  "desc": "Applications: Vibration assistance – Needle vibrator in a space Atomic Force Microscope – Active deformation of mirror in telescopes – Ultrasonic injection",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/PPA40M.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/produit/ppa40l/",
+  "cat": "piezo-actuators",
+  "model": "PPA40L",
+  "sub": "Parallel Pre-Stressed Actuator",
+  "posted": [
+   "Parallel Pre-stressed Actuator",
+   "Piezo actuators"
+  ],
+  "specs": {
+   "Blocked Force": "3500",
+   "Capacitance": "8,8",
+   "Nominal Stroke": "44",
+   "Stiffness": "79,5",
+   "Resonance frequency": "8320",
+   "Available options": "Strain gauge, Non-magnetic shell, Vacuum Compatibility",
+   "Status": "Standard"
+  },
+  "desc": "Applications: Active control of vibration – Oval piston machining – Heavy local positioning",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/PPA40L.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/produit/ppa60l/",
+  "cat": "piezo-actuators",
+  "model": "PPA60L",
+  "sub": "Parallel Pre-Stressed Actuator",
+  "posted": [
+   "Parallel Pre-stressed Actuator",
+   "Piezo actuators"
+  ],
+  "specs": {
+   "Blocked Force": "3500",
+   "Capacitance": "13",
+   "Nominal Stroke": "67",
+   "Stiffness": "52,2",
+   "Resonance frequency": "5980",
+   "Available options": "Strain gauge, Non-magnetic shell, Vacuum Compatibility",
+   "Status": "Standard"
+  },
+  "desc": "Applications: Active control of vibration – Oval piston machining – Heavy local positioning",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/ppa60l.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/produit/ppa80l/",
+  "cat": "piezo-actuators",
+  "model": "PPA80L",
+  "sub": "Parallel Pre-Stressed Actuator",
+  "posted": [
+   "Parallel Pre-stressed Actuator",
+   "Piezo actuators"
+  ],
+  "specs": {
+   "Blocked Force": "3500",
+   "Capacitance": "18",
+   "Nominal Stroke": "85",
+   "Stiffness": "41,2",
+   "Resonance frequency": "4670",
+   "Available options": "Strain gauge, Non-magnetic shell, Vacuum Compatibility",
+   "Status": "Standard"
+  },
+  "desc": "Applications: Active control of vibration – Oval piston machining – Heavy local positioning",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/PPA80L.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/produit/ppa120l/",
+  "cat": "piezo-actuators",
+  "model": "PPA120L",
+  "sub": "Parallel Pre-Stressed Actuator",
+  "posted": [
+   "Parallel Pre-stressed Actuator",
+   "Piezo actuators"
+  ],
+  "specs": {
+   "Blocked Force": "3500",
+   "Capacitance": "26",
+   "Nominal Stroke": "130",
+   "Stiffness": "26,9",
+   "Resonance frequency": "3260",
+   "Available options": "Strain gauge, Non-magnetic shell, Vacuum Compatibility",
+   "Status": "Standard"
+  },
+  "desc": "Applications: Active control of vibration – Oval piston machining – Heavy local positioning",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/PPA120L.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/produit/ppa40xl/",
+  "cat": "piezo-actuators",
+  "model": "PPA40XL",
+  "sub": "Parallel Pre-Stressed Actuator",
+  "posted": [
+   "Parallel Pre-stressed Actuator",
+   "Piezo actuators"
+  ],
+  "specs": {
+   "Blocked Force": "7000",
+   "Capacitance": "17",
+   "Nominal Stroke": "43",
+   "Stiffness": "162,8",
+   "Resonance frequency": "8040",
+   "Available options": "Strain gauge, Non-magnetic shell, Vacuum Compatibility",
+   "Status": "Standard"
+  },
+  "desc": "Applications: Stabilisation of heavy loads in precision machine tool – Fretting fatigue testing – High frequency shakers",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/PPA40XL.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/produit/ppa80xl/",
+  "cat": "piezo-actuators",
+  "model": "PPA80XL",
+  "sub": "Parallel Pre-Stressed Actuator",
+  "posted": [
+   "Parallel Pre-stressed Actuator",
+   "Piezo actuators"
+  ],
+  "specs": {
+   "Blocked Force": "7000",
+   "Capacitance": "34",
+   "Nominal Stroke": "90",
+   "Stiffness": "77,8",
+   "Resonance frequency": "4620",
+   "Available options": "Strain gauge, Non-magnetic shell, Vacuum Compatibility",
+   "Status": "Standard"
+  },
+  "desc": "Applications: Stabilisation of heavy loads in precision machine tool – Fretting fatigue testing – High frequency shakers",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/PPA80XL.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/produit/ppa120xl/",
+  "cat": "piezo-actuators",
+  "model": "PPA120XL",
+  "sub": "Parallel Pre-Stressed Actuator",
+  "posted": [
+   "Parallel Pre-stressed Actuator",
+   "Piezo actuators"
+  ],
+  "specs": {
+   "Blocked Force": "7000",
+   "Capacitance": "51",
+   "Nominal Stroke": "130",
+   "Stiffness": "53,8",
+   "Resonance frequency": "3250",
+   "Available options": "Strain gauge, Non-magnetic shell, Vacuum Compatibility",
+   "Status": "Standard"
+  },
+  "desc": "Applications: Stabilisation of heavy loads in precision machine tool – Fretting fatigue testing – High frequency shakers",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/PPA120XL.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/produit/x60s/",
+  "cat": "piezo-actuators",
+  "model": "X60S",
+  "sub": "Request for information",
+  "posted": [
+   "Piezo actuators",
+   "Piezo stages"
+  ],
+  "specs": {
+   "Max no load displacement": "55 µm",
+   "Unloaded resonance frequency": "1840 Hz",
+   "Response time": "0,27 ms",
+   "Dimensions": "30mm*30mm*12mm",
+   "Available options": "Strain gauge, Vacuum Compatibility",
+   "Status": "Prototype"
+  },
+  "desc": "The piezoelectric stage X60S has a stroke up to 110µm along the X axis and can be equipped with strain gauges for a very fine accuracy up to 10 nm.",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/X60S.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/produit/x120s/",
+  "cat": "piezo-actuators",
+  "model": "X120S",
+  "sub": "Request for information",
+  "posted": [
+   "Piezo actuators",
+   "Piezo stages"
+  ],
+  "specs": {
+   "Max no load displacement": "110 µm",
+   "Unloaded resonance frequency": "850 Hz",
+   "Response time": "0,59 ms",
+   "Dimensions": "30mm*30mm*12mm",
+   "Available options": "Strain gauge, Vacuum Compatibility",
+   "Status": "Prototype"
+  },
+  "desc": "The piezoelectric stage X120S has a stroke up to 110µm along the X axis and can be equipped with strain gauges for a very fine accuracy up to 10 nm.",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/X120S.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/produit/xy25xs/",
+  "cat": "piezo-actuators",
+  "model": "XY25XS",
+  "sub": "Request for information",
+  "posted": [
+   "Piezo actuators",
+   "Piezo stages"
+  ],
+  "specs": {
+   "Max no load displacement": "25 µm",
+   "Unloaded resonance frequency": "3000 Hz",
+   "Response time": "0,17ms",
+   "Dimensions": "50mm550mm*19mm",
+   "Available options": "Strain gauge, Vacuum Compatibility",
+   "Status": "Standard"
+  },
+  "desc": "The piezoelectric stage XY25XS is based on the APA 25XS actuators. The compact XY25XS stage is well suited to integrated devices for fiber positioning, micro scanning.",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/XY25XS.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/produit/xy200m/",
+  "cat": "piezo-actuators",
+  "model": "XY200M",
+  "sub": "Request for information",
+  "posted": [
+   "Piezo actuators",
+   "Piezo stages"
+  ],
+  "specs": {
+   "Max no load displacement": "200 µm",
+   "Unloaded resonance frequency": "580 Hz",
+   "Response time": "0,86 ms",
+   "Dimensions": "100mm*100mm*22mm",
+   "Available options": "Strain gauge, Vacuum Compatibility",
+   "Status": "Standard"
+  },
+  "desc": "The piezoelectric stage XY200M is based on the APA 200M actuators and posseses a high stiffness. Applications include mask positioning, atomic force or scanning tunneling microscopes.",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/XY200M.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/produit/xyz200m/",
+  "cat": "piezo-actuators",
+  "model": "XYZ200M",
+  "sub": "Request for information",
+  "posted": [
+   "Piezo actuators",
+   "Piezo stages"
+  ],
+  "specs": {
+   "Max no load displacement": "200 µm",
+   "Unloaded resonance frequency": "380 Hz",
+   "Response time": "1,32 ms",
+   "Dimensions": "100mm*100mm*49mm",
+   "Available options": "Strain gauge, Vacuum Compatibility",
+   "Status": "Standard"
+  },
+  "desc": "The piezoelectric stage XYZ200M is based on APA 200M actuators and posseses a high stiffness. Applications include confocal microscopy, mask positioning, inspection.",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/XYZ200M.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/produit/fps400m/",
+  "cat": "piezo-actuators",
+  "model": "FPS400M",
+  "sub": "Fast Piezo Shutter",
+  "posted": [
+   "Fast Piezo Shutters",
+   "Piezo actuators"
+  ],
+  "specs": {
+   "Maximum beam diameter": "0,7 mm",
+   "Aperture & closing time": "4 ms",
+   "Dimensions": "60mm*44mm*21mm",
+   "Mass": "84 g",
+   "Available options": "UHV compatibility",
+   "Status": "Standard"
+  },
+  "desc": "The FPS400M (derived from FPS200M) is based on standard amplified piezo actuators APA 400M with a special optical head. The FPS400M is a compact, low jitter and high stroke shutter solution. Tungsten optical teeth are included.",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/FPS400M.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/produit/fps900m/",
+  "cat": "piezo-actuators",
+  "model": "FPS900M",
+  "sub": "Fast Piezo Shutter",
+  "posted": [
+   "Fast Piezo Shutters",
+   "Piezo actuators"
+  ],
+  "specs": {
+   "Maximum beam diameter": "1,1 mm",
+   "Aperture & closing time": "10 ms",
+   "Dimensions": "60mm*44mm*23mm",
+   "Mass": "82 g",
+   "Available options": "UHV compatibility",
+   "Status": "On demand"
+  },
+  "desc": "The FPS900M (derived from FPS400M) is based on customized amplified piezo actuators APA900M with a special optical head. The FPS900M is a compact, low jitter and high stroke shutter solution. Tungsten optical teeth are included.",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/FPS900M.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/produit/faps400m/",
+  "cat": "piezo-actuators",
+  "model": "FAPS400M",
+  "sub": "Fast Amplified Piezo Shutter",
+  "posted": [
+   "Fast Piezo Shutters",
+   "Piezo actuators"
+  ],
+  "specs": {
+   "Maximum beam diameter": "3,0 mm",
+   "Aperture & closing time": "8 ms",
+   "Dimensions": "73mm*54mm*65mm",
+   "Mass": "152 g",
+   "Available options": "UHV compatibility",
+   "Status": "Standard"
+  },
+  "desc": "The FAPS400M is a fast shutter for X-ray beam offering the largest aperture of the Cedrat Technologies Shutters family with a stroke higher than 3mm and a short response time lower than 8ms. It is built with 2 APA400M activating a mechanical amplifier or “lever arm”. All the FAPS400M include tungsten optical teeth.",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/FAPS400M.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/produit/vacuum-box/",
+  "cat": "piezo-actuators",
+  "model": "Vacuum Box",
+  "sub": "Request for information",
+  "posted": [
+   "Fast Piezo Shutters",
+   "Piezo actuators"
+  ],
+  "specs": {
+   "Locking interface": "KF40",
+   "Dimensions": "93mm*105mm*144mm",
+   "Status": "Standard",
+   "Mass": "1,3 Kg"
+  },
+  "desc": "CTEC has developed a fully integrated solution for FPS and FAPS products in Vacuum Environments. The Shutter is mounted inside the Box with vacuum cable feedtrought. The shutter can be unmounted and mounted again without removing the Vacuum Box from the beamline.",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/VACUUM_BOX.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/produit/cable-for-shutters/",
+  "cat": "piezo-actuators",
+  "model": "Cable for Shutters",
+  "sub": "Request for information",
+  "posted": [
+   "Fast Piezo Shutters",
+   "Piezo actuators"
+  ],
+  "specs": {
+   "Length": "150 cm",
+   "Electrical connection side 1": "SUB-D9 Femelle",
+   "Electrical connection side 2": "3 LEMO connectors",
+   "Status": "Standard"
+  },
+  "desc": "This cable is designed to connect the CTEC shutters with the Electronics Rack .",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/shutter_cable.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/produit/mspa30uxs/",
+  "cat": "piezo-motors",
+  "model": "MSPA30uXS",
+  "sub": "Modular Stepping Piezo Actuator",
+  "posted": [
+   "Piezo motors",
+   "Stepping Piezo Actuators"
+  ],
+  "specs": {
+   "Volume": "2 cm³",
+   "Maximum speed": "50 mm/s",
+   "Maximum driving force": "0,3 N",
+   "Lifetime": ">2 Km",
+   "Available options": "Amagnetic, Vacuum compatibility",
+   "Status": "Preliminary"
+  },
+  "desc": "MSPA is a module that provides unlimited motion in both rotation and translation. Since it’s a module it easily fits any existing devices requiring 0.3 N of driving force.",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/MSPA30uXS.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/produit/mspa35xs/",
+  "cat": "piezo-motors",
+  "model": "MSPA35XS",
+  "sub": "Modular Stepping Piezo Actuator",
+  "posted": [
+   "Piezo motors",
+   "Stepping Piezo Actuators"
+  ],
+  "specs": {
+   "Volume": "7 cm³",
+   "Maximum speed": "20 mm/s",
+   "Maximum driving force": "1 N",
+   "Lifetime": ">2 Km",
+   "Available options": "Amagnetic, Vacuum compatibility",
+   "Status": "Preliminary"
+  },
+  "desc": "MSPA is a module that provides unlimited motion in both rotation and translation. Since it’s a module it easily fits any existing devices requiring 1 N of driving force.",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/mspa35xs.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/produit/mspa40sm/",
+  "cat": "piezo-motors",
+  "model": "MSPA40SM",
+  "sub": "Modular Stepping Piezo Actuator",
+  "posted": [
+   "Piezo motors",
+   "Stepping Piezo Actuators"
+  ],
+  "specs": {
+   "Volume": "20 cm³",
+   "Maximum speed": "10 mm/s",
+   "Maximum driving force": "2.5 N",
+   "Lifetime": ">2 Km",
+   "Available options": "Amagnetic, Vacuum compatibility",
+   "Status": "Preliminary"
+  },
+  "desc": "MSPA is a module that provides unlimited motion in both rotation and translation. Since it’s a module it easily fits any existing devices requiring 25 N of driving force.",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/MSPA40SM.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/produit/lspa30uxs/",
+  "cat": "piezo-motors",
+  "model": "LSPA30uXS",
+  "sub": "Linear Stepping Piezo Actuator",
+  "posted": [
+   "Piezo motors",
+   "Stepping Piezo Actuators"
+  ],
+  "specs": {
+   "Mass": "1,9 g",
+   "Maximum speed": "70 mm/s",
+   "Maximum driving force": "0,3 N",
+   "Max no load displacement": "6 mm",
+   "Available options": "Non-magnetic, MRI compatible",
+   "Status": "Prototype"
+  },
+  "desc": "The Linear Stepping Piezo Actuator LSPA30uXS is a high-force density stepping linear micro piezomotor.",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/LSPA30uXS.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/produit/rspa30xs/",
+  "cat": "piezo-motors",
+  "model": "RSPA30XS",
+  "sub": "Rotary Stepping Piezo Actuator",
+  "posted": [
+   "Piezo motors",
+   "Stepping Piezo Actuators"
+  ],
+  "specs": {
+   "Mass": "3 g",
+   "Maximum speed": "65 rpm",
+   "Maximum driving force": "1,33 Nmm",
+   "Status": "Preliminary"
+  },
+  "desc": "Rotary Stepping Piezoelectric Actuators (RSPA) are new long-stroke rotating piezoelectric motors for micro/nano positioning applications benefiting from the APA® heritage. They operate by accumulation of small steps.",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/RSPA30XS.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/produit/spc45/",
+  "cat": "piezo-motors",
+  "model": "SPC45",
+  "sub": "Stepping Piezo Controller",
+  "posted": [
+   "Piezo motors",
+   "Piezo motors controllers"
+  ],
+  "specs": {
+   "Number of control channels": "1",
+   "Max. output current": "5mA"
+  },
+  "desc": "The Stepping Piezo Controller SPC45 is the driver board of the SPA30uXS. It includes control functions, numerical and analogical interfaces and serial communication ports. The SPC45 is powered with the provided standard AC/DC converter (12V to 24V).",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/SPC45.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/produit/lspa35xs/",
+  "cat": "piezo-motors",
+  "model": "LSPA35XS",
+  "sub": "Linear Stepping Piezo Actuator",
+  "posted": [
+   "Piezo motors",
+   "Stepping Piezo Actuators"
+  ],
+  "specs": {
+   "Mass": "5 g",
+   "Maximum speed": "30 mm/s",
+   "Maximum driving force": "1 N",
+   "Max no load displacement": "10 mm",
+   "Available options": "Amagnetic",
+   "Status": "Prototype"
+  },
+  "desc": "The Linear Stepping Piezo Actuator LSPA35XS is a high-force density stepping linear micro piezomotor.",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/lspa35xs.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/produit/lsps35xs/",
+  "cat": "piezo-motors",
+  "model": "LSPS35XS",
+  "sub": "Linear Stepping Piezo Stage",
+  "posted": [
+   "Piezo motors",
+   "Stepping Piezo Stages"
+  ],
+  "specs": {
+   "Max no load displacement": "10 mm",
+   "Maximum speed": "30 mm/s",
+   "Maximum driving force": "1 N",
+   "Dimensions": "30mm*30mm",
+   "Status": "Prototype"
+  },
+  "desc": "The Linear Stepping Piezo Stage LSPS35XS is based on the Stepping Piezo Actuator’s principle. It provides both long stroke and micro positioning resolution.",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/LSPS35XS.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/produit/lsps40sm/",
+  "cat": "piezo-motors",
+  "model": "LSPS40SM",
+  "sub": "Linear Stepping Piezo Stage",
+  "posted": [
+   "Piezo motors",
+   "Stepping Piezo Stages"
+  ],
+  "specs": {
+   "Max no load displacement": "10 mm",
+   "Maximum speed": "30 mm/s",
+   "Maximum driving force": "1 N",
+   "Dimensions": "30mm*30mm",
+   "Status": "Preliminary"
+  },
+  "desc": "The Linear Stepping Piezo Stage LSPS40SM is based on the Stepping Piezo Actuator’s principle. It provides both long stroke and micro positioning resolution.",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/LSPS40SM.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/produit/fspa35xs/",
+  "cat": "piezo-motors",
+  "model": "FSPA35XS",
+  "sub": "Fine Stepping Piezo Actuator",
+  "posted": [
+   "Piezo motors",
+   "Stepping Piezo Actuators"
+  ],
+  "specs": {
+   "Actuating force": ">100 N",
+   "Travel range": "5 mm",
+   "Typical lifetime": "100 cycles",
+   "Available options": "Micro/Nano positioning, Locking mechanism",
+   "Status": "Preliminary"
+  },
+  "desc": "Fine Stepping Piezo Actuator (FSPA35XS) is a patented actuator that combines SPA technology with mechanical reduction. Step sizes lower than 100nm are achievable in fine displacement. Typical max speed for this FSPA is 200 um/s.",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/FSPA35XS.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/produit/mica20cs-fb/",
+  "cat": "magnetic-actuators",
+  "model": "MICA20CS-FB",
+  "sub": "Moving Iron Controllable Actuator",
+  "posted": [
+   "Linear Magnetic Actuators",
+   "Magnetic actuators"
+  ],
+  "specs": {
+   "Stroke (peak to peak)": "4 mm",
+   "Continuous force": "50 N",
+   "Dynamic Force": "70 N",
+   "Status": "Standard"
+  },
+  "desc": "The MICA20CS-FB provides 50 N continuous force with a 4 mm stroke, offering high resolution and efficiency in a small footprint. Its flexure bearing ensures maintenance-free operation, while optimized thermal management improves stability. Works seamlessly with CTEC’s MCSA480 amplifier and other standard drivers.",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/MICA20CS-1.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/produit/mica300cm-fb/",
+  "cat": "magnetic-actuators",
+  "model": "MICA300CM-FB",
+  "sub": "Moving Iron Controllable Actuator",
+  "posted": [
+   "Linear Magnetic Actuators",
+   "Magnetic actuators"
+  ],
+  "specs": {
+   "Stroke (peak to peak)": "8 mm",
+   "Continuous force": "220 N",
+   "Dynamic Force": "350 N",
+   "Status": "Standard"
+  },
+  "desc": "The MICA300CM-FB delivers 220 N continuous force with an 8 mm stroke, making it ideal for dynamic applications requiring high power in a compact design. Its frictionless flexure bearing ensures long lifespan and precision, while low self-heating enhances reliability. Compatible with CTEC’s MCSA480 amplifier and standard power electronics.",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/mica300cm.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/produit/mica20cs-pm/",
+  "cat": "magnetic-actuators",
+  "model": "MICA20CS-PM",
+  "sub": "Compact Proof Mass Actuator",
+  "posted": [
+   "Magnetic actuators",
+   "Proof Mass Magnetic Actuators"
+  ],
+  "specs": {
+   "Dynamic Force": "70 N",
+   "Dynamic current": "0.9 A",
+   "Resonance frequency": "30 Hz",
+   "Status": "Standard"
+  },
+  "desc": "The MICA20CS-PM offers a highly compact solution for precision vibration control. Its proof mass design enables efficient dynamic force generation, ideal for small-scale damping and excitation applications. Equipped with a frictionless flexure bearing, it ensures maintenance-free reliability and integrates with CTEC’s MCSA480 amplifier and other standard drivers.",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/mica20cs-pm.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/produit/mica300cm-pm/",
+  "cat": "magnetic-actuators",
+  "model": "MICA300CM-PM",
+  "sub": "High-Force Proof Mass Actuator",
+  "posted": [
+   "Magnetic actuators",
+   "Proof Mass Magnetic Actuators"
+  ],
+  "specs": {
+   "Dynamic Force": "350 N",
+   "Dynamic current": "15 A",
+   "Resonance frequency": "25 Hz",
+   "Status": "Standard"
+  },
+  "desc": "The MICA300CM-PM is designed for vibration excitation and damping in structural applications. Its proof mass configuration optimizes dynamic force generation at resonance, making it ideal for machining tools, active damping systems, and structural testing. Featuring flexure bearing technology for long life and precision, it integrates seamlessly with CTEC’s MCSA480 amplifier and standard power electronics.",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/mica300cm-pm.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/produit/ccbu20-ns/",
+  "cat": "piezo-controllers",
+  "model": "CCBu20-NS",
+  "sub": "Compact Controller Board for NewSpace",
+  "posted": [
+   "OEM Amplifiers",
+   "Piezo controllers"
+  ],
+  "specs": {
+   "Number Of Channels": "2",
+   "Push-Pull option": "Included, not optional",
+   "Output voltage range": "-20 … +150 V",
+   "Available options": "Various space grades",
+   "Status": "Prototype"
+  },
+  "desc": "The CCBu20-NS is a compact dual-axis controller board derived from the CCBu20, optimized for New Space applications. Designed to withstand harsh space environments (radiation, vibrations), it features 170Vpp linear amplifiers, a strain gauge conditioner, closed-loop control, TM/TC interfaces, and fast SPI communication. Ideal for driving CTEC piezo actuators in small satellites (DTT, FSM, APA®, etc.).",
+  "datasheet": ""
+ },
+ {
+  "url": "https://cedrat-technologies.com/produit/pla05/",
+  "cat": "piezo-controllers",
+  "model": "PLa05",
+  "sub": "Piezo Linear Amplifier",
+  "posted": [
+   "Piezo controllers",
+   "PLa Series: Linear Piezo Amplifiers"
+  ],
+  "specs": {
+   "Permanent output current": "0.5 A",
+   "Max. output current": "1 A",
+   "Output voltage range": "-20 … +150 V",
+   "Low noise SNR": "90 dB"
+  },
+  "desc": "The PLA05 control electronics offer a new alternative to the LA75B electronics for controlling piezoelectric actuators. Building on 20 years of success with the LA75B, the PLA05 offers several advantages: although it is power electronics, the PLA05 is CE marked , ensuring a safe, efficient, and versatile solution for laboratory or industrial applications. More compact and easier to integrate than the LA75B, the PLA05 can be installed in a third-party cabinet or a benchtop enclosure. PLA05 modules can be combined in a master/slave topology for multi-channel or push-pull configurations. It delivers a continuous current of 0.5 A and a peak current of 1 A, with a voltage range of 170 V. This voltage, adjustable from -20 V to 150 V, is perfectly suited to CTEC piezoelectric actuators and mechan",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/pla05.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/produit/pla25/",
+  "cat": "piezo-controllers",
+  "model": "PLa25",
+  "sub": "Piezo Linear Amplifier",
+  "posted": [
+   "Piezo controllers",
+   "PLa Series: Linear Piezo Amplifiers"
+  ],
+  "specs": {
+   "Continuous output": "2.5 A",
+   "Peak output": "5 A",
+   "Output voltage range": "-20 … +150 V",
+   "Low noise SNR": "85 dB"
+  },
+  "desc": "The PLA25 control electronics offer a new alternative to the LA75C electronics for controlling piezoelectric actuators. Building on 20 years of success with the LA75C, the PLA25 offers several advantages: although it is power electronics, the PLA25 is CE marked, ensuring a safe, efficient, and versatile solution for laboratory or industrial applications. More compact and easier to integrate than the LA75C, the PLA25 can be installed in a third-party cabinet or a benchtop enclosure. PLA25 modules can be combined in a master/slave topology for multi-channel or push-pull configurations. It delivers a continuous current of 2.5 A and a peak current of 5 A, with a voltage range of 170 V. This voltage, adjustable from -20 V to 150 V, is perfectly suited to CTEC piezoelectric actuators and mechani",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/pla25.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/produit/rk42f3u-lc75b/",
+  "cat": "piezo-controllers",
+  "model": "RK42F3U-LC75B",
+  "sub": "Powered Rack",
+  "posted": [
+   "Piezo controllers",
+   "Powered Racks"
+  ],
+  "specs": {
+   "Max current": "0,75 A",
+   "Status": "Standard"
+  },
+  "desc": "For driving and controlling piezo actuators between -20 and 150V the powered benchtop case RK42F3U-LC75B solution includes a RK42F3U case and an AC-DC converter LC75B.",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/RK42F3U-LC75B.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/produit/rk42f4u-lc75c/",
+  "cat": "piezo-controllers",
+  "model": "RK42F4U-LC75C",
+  "sub": "Powered Rack",
+  "posted": [
+   "Piezo controllers",
+   "Powered Racks"
+  ],
+  "specs": {
+   "Max current": "2,55 A",
+   "Max. driver card": "1",
+   "Max sensor card": "1",
+   "Status": "Standard"
+  },
+  "desc": "For driving and controlling piezo actuators between -20 and 150V the powered benchtop case RK42F4U-LC75C solution includes a RK42F4U case and an AC-DC converter board LC75C.",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/RK42F4U-LC75C.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/produit/rk84f4u-1lc75b/",
+  "cat": "piezo-controllers",
+  "model": "RK84F4U-1LC75B",
+  "sub": "Powered Rack",
+  "posted": [
+   "Piezo controllers",
+   "Powered Racks"
+  ],
+  "specs": {
+   "Max current": "0,75 A",
+   "Status": "Standard"
+  },
+  "desc": "For driving and controlling piezo actuators between -20 and 150V the powered subrack RK84F4U-1LC75B solution includes a 19” RK84F4U subrack and an AC-DC converter board LC75B. The solution offered is ready for cabinet integration.",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/RK84F4U-1LC75B.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/produit/rk84f4u-1lc75c/",
+  "cat": "piezo-controllers",
+  "model": "RK84F4U-1LC75C",
+  "sub": "Powered Rack",
+  "posted": [
+   "Piezo controllers",
+   "Powered Racks"
+  ],
+  "specs": {
+   "Max current": "2,55 A",
+   "Status": "Standard"
+  },
+  "desc": "For driving and controlling piezo actuators between -20 and 150V the powered subrack RK84F4U-1LC75C solution includes a 19”RK84F4U subrack and an AC-DC converter board LC75C. The solution offered is ready for cabinet integration.",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/RK84F4U-1LC75C.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/produit/rk84f4u-1sc75/",
+  "cat": "piezo-controllers",
+  "model": "RK84F4U-1SC75",
+  "sub": "Powered Rack",
+  "posted": [
+   "Piezo controllers",
+   "Powered Racks"
+  ],
+  "specs": {
+   "Max current": "20 A",
+   "Max. driver card": "1",
+   "Max conditioner board": "1",
+   "Status": "Standard"
+  },
+  "desc": "For driving and controlling piezo actuators between -20 and 150V the powered subrack RK84F4U-1SC75 solution includes a 19” RK84F4U subrack and a switching converter board SC75. The solution offered is ready for cabinet integration.",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/RK84F4U-1SC75.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/produit/rk84f4u-2lc75c/",
+  "cat": "piezo-controllers",
+  "model": "RK84F4U-2LC75C",
+  "sub": "Powered Rack",
+  "posted": [
+   "Piezo controllers",
+   "Powered Racks"
+  ],
+  "specs": {
+   "Max current": "5,1 A",
+   "Max. driver card": "2",
+   "Max conditioner board": "2",
+   "Status": "Standard"
+  },
+  "desc": "For driving and controlling piezo actuators between -20 and 150V the powered subrack RK84F4U-2LC75C solution includes a 19”RK84F4U subrack and 2 AC-DC converter boards LC75C. The solution offered is ready for cabinet integration.",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/RK84F4U-2LC75C.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/produit/la75a/",
+  "cat": "piezo-controllers",
+  "model": "LA75A",
+  "sub": "Linear Amplifier Board",
+  "posted": [
+   "Electronic Amplifier Boards",
+   "Piezo controllers"
+  ],
+  "specs": {
+   "Output Average Current": "90 mA",
+   "Number Of Channels": "1…3",
+   "Gain factor": "20",
+   "SNR": "85 dB",
+   "Available options": "Push Pull, Digital servo controller",
+   "Status": "Standard"
+  },
+  "desc": "The Linear Amplifier LA75A is designed to drive capacitive loads like Piezoelectric Actuators with extremely low noise. The LA75A is a medium-power amplifier.",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/LA75A.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/produit/la75b/",
+  "cat": "piezo-controllers",
+  "model": "LA75B",
+  "sub": "Request for information",
+  "posted": [
+   "Electronic Amplifier Boards",
+   "Piezo controllers"
+  ],
+  "specs": {
+   "Output Average Current": "360 mA",
+   "Number Of Channels": "1…2",
+   "Gain factor": "20",
+   "SNR": "85 dB",
+   "Available options": "Push Pull, Digital servo controller",
+   "Status": "Standard"
+  },
+  "desc": "The Linear Amplifier LA75B is designed to drive capacitive loads like Piezoelectric Actuators with extremely low noise. The LA75B is a high-power amplifier.",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/LA75B.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/produit/la75c/",
+  "cat": "piezo-controllers",
+  "model": "LA75C",
+  "sub": "Linear Amplifier Board",
+  "posted": [
+   "Electronic Amplifier Boards",
+   "Piezo controllers"
+  ],
+  "specs": {
+   "Output Average Current": "2400 mA",
+   "Number Of Channels": "1",
+   "Gain factor": "20",
+   "SNR": "85 dB",
+   "Available options": "Digital servo controller",
+   "Status": "Standard"
+  },
+  "desc": "The LA75C is the most powerfull linear amplifier board, offering low noise and high current for dynamic and precise motion applications.",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/LA75C.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/produit/ccbu20/",
+  "cat": "piezo-controllers",
+  "model": "CCBu20",
+  "sub": "Compact Controller Board",
+  "posted": [
+   "OEM Amplifiers",
+   "Piezo controllers"
+  ],
+  "specs": {
+   "Number Of Channels": "2",
+   "Push-Pull option": "Yes",
+   "Output voltage range": "-20 … +150 V",
+   "Available options": "0-5V analog input sensor, advanced controller",
+   "Status": "Standard"
+  },
+  "desc": "The Compact Controller Board CCBu20 is an embedded all-in-one controller for piezo actuators. It features everything to drive and control a 2 axis piezo-mechanism in position loop. In standard, its integrated dual channel SG conditioner allows reading the position of the two axis of the mechanism. A powerful processor realizes closed-loop control at high refresh rate, and the controller can be tuned by the user with the HDPM45 interface. Thanks to a compact design, it has dimensions of only 91x77x37mm, making it suitable for embedded applications, or industrial applications where the volume is an issue. The Graphical User Interface to modify the parameters of the CCBu20 is similar to the UC digital controllers that can be downloaded on the dedicated page.",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/CCBu20-1.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/produit/ccbu40/",
+  "cat": "piezo-controllers",
+  "model": "CCBu40",
+  "sub": "Compact Controller Board",
+  "posted": [
+   "OEM Amplifiers",
+   "Piezo controllers"
+  ],
+  "specs": {
+   "Number Of Channels": "2",
+   "Push-Pull option": "Yes",
+   "Output voltage range": "-20 … +150 V",
+   "Available options": "0-5V analog input sensor, advanced controller",
+   "Status": "Standard"
+  },
+  "desc": "The Compact Controller Board CCBu40 is an embedded all-in-one controller for piezo actuators. It features everything to drive and control a 2 axis piezo-mechanism in position loop. In standard, its integrated dual channel SG conditioner allows reading the position of the two axis of the mechanism. A powerful processor realizes closed-loop control at high refresh rate, and the controller can be tuned by the user with the HDPM45 interface. Thanks to a compact design and powerful amplifier channels, it is relevant for embedded dynamic applications, or industrial applications where the volume constraint and power requirement is an issue. The Graphical User Interface to modify the parameters of the CCBu40 is similar to the UC digital controllers that can be downloaded on the dedicated page.",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/ccbu40.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/produit/sp75a/",
+  "cat": "piezo-controllers",
+  "model": "SP75A",
+  "sub": "Switching Amplifier Board",
+  "posted": [
+   "Electronic Amplifier Boards",
+   "Piezo controllers"
+  ],
+  "specs": {
+   "Output Average Current": "360 mA",
+   "Number Of Channels": "1…2",
+   "SNR": "85 dB",
+   "Available options": "SG Sensor; Vacuum compatibility",
+   "Status": "Standard"
+  },
+  "desc": "The SP75 is a bipolar (-20 / +150 V) switching power amplifier for driving low voltage piezoelectric actuators, controlled with a TTL signal. It is particularly adapted for driving shutters like the FPS.",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/SP75A.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/produit/cau10/",
+  "cat": "piezo-controllers",
+  "model": "CAu10",
+  "sub": "Compact Amplifier",
+  "posted": [
+   "OEM Amplifiers",
+   "Piezo controllers"
+  ],
+  "specs": {
+   "Number Of Channels": "2",
+   "Push-Pull option": "Yes",
+   "Output voltage range": "+5 … +150 V",
+   "Status": "Standard"
+  },
+  "desc": "The CAu10 is a unipolar (5V..150V) miniature linear amplifier with low noise and low cost features. A SPI digital to analogue converter is able to convert 10 bits words in analogue signal for the linear amplifier. Optional inputs can be connected if necessary to shunt the SPI bus and send directly the analogue order on the linear amplifiers.",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/CAu10.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/produit/sa75a/",
+  "cat": "piezo-controllers",
+  "model": "SA75A",
+  "sub": "Switching Amplifier Board",
+  "posted": [
+   "Electronic Amplifier Boards",
+   "Piezo controllers"
+  ],
+  "specs": {
+   "Output Average Current": "5 A",
+   "Number Of Channels": "1…2",
+   "Gain factor": "20",
+   "SNR": "60 dB",
+   "Available options": "Digital servo controller",
+   "Status": "Standard"
+  },
+  "desc": "The Switching Power amplifier SA75A is designed to drive high capacitive loads like piezo actuators in dynamics conditions.",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/SA75A.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/produit/sa75b/",
+  "cat": "piezo-controllers",
+  "model": "SA75B",
+  "sub": "Switching Amplifier Board",
+  "posted": [
+   "Electronic Amplifier Boards",
+   "Piezo controllers"
+  ],
+  "specs": {
+   "Output Average Current": "10 A",
+   "Number Of Channels": "1…2",
+   "Gain factor": "20",
+   "SNR": "60 dB",
+   "Available options": "Digital servo controller",
+   "Status": "Standard"
+  },
+  "desc": "The Switching Power amplifier SA75B is designed to drive high capacitive loads like piezo actuators in dynamics conditions.",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/SA75B.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/produit/sa75d/",
+  "cat": "piezo-controllers",
+  "model": "SA75D",
+  "sub": "Switching Amplifier Board",
+  "posted": [
+   "Electronic Amplifier Boards",
+   "Piezo controllers"
+  ],
+  "specs": {
+   "Output Average Current": "20 A",
+   "Number Of Channels": "1",
+   "Gain factor": "20",
+   "SNR": "60 dB",
+   "Available options": "Digital servo controller, Multi-output",
+   "Status": "Standard"
+  },
+  "desc": "The Switching Power amplifier SA75D is the most powerfull amplifier working in continuous mode on the market, designed to drive high capacitive loads like piezo actuators in dynamics conditions.",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/SA75D.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/produit/uc55/",
+  "cat": "piezo-controllers",
+  "model": "UC55",
+  "sub": "Controller board",
+  "posted": [
+   "Digital Controllers",
+   "Piezo controllers"
+  ],
+  "specs": {
+   "Sampling frequency": "10/15/30 kSps",
+   "Computer interface": "USB type B",
+   "Status": "Standard"
+  },
+  "desc": "The UC55 board has the same format than the UC45, but it features a higher control rate and it exists in three different versions: single channel, dual channel, and triple channel. In single channel, the control rate is 30kSps, in dual channels, 15kSps, and in triple channels, 10kSps. The UC55 boards can also be stacked to handle several independent control channels at high frequency (up to 3).",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/UC55.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/produit/mcla18/",
+  "cat": "magnetic-controllers",
+  "model": "MCLA18",
+  "sub": "Compact Linear Amplifier",
+  "posted": [
+   "Magnetic Controllers"
+  ],
+  "specs": {
+   "Supply voltage": "+15Vdc or +/- 6 at 36V",
+   "Max outpout current & voltage": "Up to 1A and 32V",
+   "Power output": "Max 32W per channel",
+   "Commands": "analog (control) / digital (PID configuration via USB or RS422"
+  },
+  "desc": "The new MCLA18 electronic driver has been specifically developed for the driving of small size Magnetic Fast Steering Mirrors such as M-FSM45. It has an internal current control and can be driven in closed loop via 2 analog inputs for orders and 2 analog inputs for position sensors.",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/mcla18.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/produit/mcsa480/",
+  "cat": "magnetic-controllers",
+  "model": "MCSA480",
+  "sub": "Compact Switching Amplifier",
+  "posted": [
+   "Magnetic Controllers"
+  ],
+  "specs": {
+   "Supply voltage": "24-48 Vdc",
+   "Power output": "48-96 W",
+   "Status": "Preliminary"
+  },
+  "desc": "The MCSA480 is a compact 2-channel power switching amplifier for M-FSM mechanisms. It features a wide bandwidth current controller and can run with an external DC supply. It can be controlled in closed loop via 2 analog command inputs and 2 analog sensors inputs.",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/MCSA480.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/produit/cmau10/",
+  "cat": "magnetic-controllers",
+  "model": "CMAu10",
+  "sub": "Compact Linear Amplifier",
+  "posted": [
+   "Magnetic Controllers"
+  ],
+  "specs": {
+   "Output current offset": "<5 mA",
+   "Max. output load": "Illimitée",
+   "Status": "Standard"
+  },
+  "desc": "The new CMAµ10 drive electronic has been specifically developed for the driving of small size linear magnetic actuators, such as MICA20CS, as well as small size magnetic Fast Steering Mirrors such as M-FSM62.",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/CMAu10.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/produit/ecs25/",
+  "cat": "sensors",
+  "model": "ECS25",
+  "sub": "Request for information",
+  "posted": [
+   "Eddy Current Sensors",
+   "Sensors"
+  ],
+  "specs": {
+   "Output voltage range": "+9 … +36 Vdc",
+   "Resolution": "Mechanism depending",
+   "Output bandwidth": "1 … 12 kHz",
+   "Thermal drift": "400% FS/°C",
+   "Number Of Channels": "2 or 4",
+   "Status": "Standard"
+  },
+  "desc": "The ECS25 Eddy Current Sensor conditioner is a compact solution designed for integration into mechanisms. It provides signal conditioning for CTEC Eddy Current Probes and enables direct, contactless position measurement in demanding dynamic applications.",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/ecs25.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/produit/sg-75/",
+  "cat": "sensors",
+  "model": "SG-75",
+  "sub": "Request for information",
+  "posted": [
+   "Sensors",
+   "Strain Gauges"
+  ],
+  "specs": {
+   "Sensor type": "Jauge de contrainte / 4 fils",
+   "Max outpout current & voltage": "-10…+10 V",
+   "Max number of channels": "3 par carte",
+   "Resolution": "0,01% full range",
+   "Available options": "Special cable lengths on request",
+   "Status": "Standard"
+  },
+  "desc": "The SG75 Strain Gauges Conditioner uses the signal from the strain gauge probe. It is implemented on a 19′ board and can include up to 3 independant channels.",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/SG75.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/produit/strain-gauge-sensor/",
+  "cat": "sensors",
+  "model": "Strain Gauge Sensor",
+  "sub": "Request for information",
+  "posted": [
+   "Sensors",
+   "Strain Gauges"
+  ],
+  "specs": {
+   "Bridge impedance": "350 Ohms",
+   "Bridge sensitivity": "1,33 uV/ppm/V",
+   "Empty Compatibility": "Oui",
+   "Available options": "Other interfaces on request",
+   "Status": "Integrated product"
+  },
+  "desc": "The SG Strain Gauge Sensor is a contact sensor which is bonded to the ceramics in order to measure their deformation",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/SG.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/produit/ecp1000/",
+  "cat": "sensors",
+  "model": "ECP1000",
+  "sub": "Request for information",
+  "posted": [
+   "Eddy Current Sensors",
+   "Sensors"
+  ],
+  "specs": {
+   "Nominal range": "1000 µm",
+   "Résolution (BW=1kHz)": "0,003% full range",
+   "Available options": "Straight/right-angle cable bundles",
+   "Status": "Integrated product"
+  },
+  "desc": "The ECP1000 Eddy Current Probe is a contactless sensor able to measure the distance on a range of 1000um. Possibility of extended range up to 2000um.",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/ECP1000.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/produit/ecp500/",
+  "cat": "sensors",
+  "model": "ECP500",
+  "sub": "Request for information",
+  "posted": [
+   "Eddy Current Sensors",
+   "Sensors"
+  ],
+  "specs": {
+   "Nominal range": "500 µm",
+   "Résolution (BW=1kHz)": "0,005% full range",
+   "Available options": "Straight/right-angle cable bundles",
+   "Status": "Integrated product"
+  },
+  "desc": "The ECP500 Eddy Current Probe is a contactless sensor able to measure the distance on a range of 500um. Possibility of extended range up to 1000um.",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/ECP500.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/produit/ecs45/",
+  "cat": "sensors",
+  "model": "ECS45",
+  "sub": "Request for information",
+  "posted": [
+   "Eddy Current Sensors",
+   "Sensors"
+  ],
+  "specs": {
+   "Max outpout current & voltage": "-10…+10 V",
+   "Resolution": "0,003% full range",
+   "Output bandwidth": "20 kHz",
+   "Thermal drift": ">0,05% FS/C°",
+   "Supply voltage": "24 VDC",
+   "Number Of Channels": "1…3",
+   "Status": "Standard"
+  },
+  "desc": "The ECS45 eddy current probe Conditioner is an OEM version integrated in a rack 12F supplied by an external DC power supply.",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/ECS45.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/produit/ecs75/",
+  "cat": "sensors",
+  "model": "ECS75",
+  "sub": "Request for information",
+  "posted": [
+   "Eddy Current Sensors",
+   "Sensors"
+  ],
+  "specs": {
+   "Max outpout current & voltage": "-10…+10 V",
+   "Resolution": "0,003% full range",
+   "Output bandwidth": "20 kHz",
+   "Thermal drift": ">0,05% FS/C°",
+   "Number Of Channels": "1…3",
+   "Status": "Standard"
+  },
+  "desc": "The ECS75 Eddy current probe conditioner is implemented on a 19’board and can include up to 3 independent channels. The gain of each channel is generally set when the Eddy Current Sensor is embedded in the Piezo Mechanism.",
+  "datasheet": ""
+ },
+ {
+  "url": "https://cedrat-technologies.com/produit/ecsu10/",
+  "cat": "sensors",
+  "model": "ECSu10",
+  "sub": "Request for information",
+  "posted": [
+   "Eddy Current Sensors",
+   "Sensors"
+  ],
+  "specs": {
+   "Max outpout current & voltage": "-10…+10 V",
+   "Resolution": "0,003% full range",
+   "Output bandwidth": "15 kHz",
+   "Thermal drift": ">0,05% FS/C°",
+   "Supply voltage": "15 VDC",
+   "Status": "Standard"
+  },
+  "desc": "The OEM Eddy Current Probe conditioner ECSu10 is a cost effective conditioner. It is built around an input analogue stage without the linearization.",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/ECSu10.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/fr/produit/ecs25/",
+  "cat": "sitemap",
+  "model": "ECS25",
+  "sub": "Demande d'information",
+  "posted": [
+   "Capteurs",
+   "Capteurs de courant de Foucault"
+  ],
+  "specs": {
+   "Plage de tension de sortie": "+9 … +36 Vdc",
+   "Resolution": "En fonction du mécanisme",
+   "Largeur de bande de sortie": "1 … 12 kHz",
+   "Dérive thermique": "400% FS/°C",
+   "Nombre de canaux": "2 or 4",
+   "Statut": "Standard"
+  },
+  "desc": "Le conditionneur de capteur à courants de Foucault ECS25 est une solution compacte conçue pour être intégrée dans les mécanismes. Il assure le conditionnement du signal des sondes à courants de Foucault CTEC et permet une mesure directe et sans contact de la position dans les applications dynamiques exigeantes.",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/ecs25.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/produit/a-piezoelectrically-actuated-high-gain-antenna-pointing-mechanism-for-the-lisa-mission/",
+  "cat": "sitemap",
+  "model": "A piezoelectrically actuated high-gain antenna pointing mechanism for the LISA mission",
+  "sub": "Request for information",
+  "posted": [
+   "Active control of vibration",
+   "Drive and control",
+   "FSM & Tilt stages",
+   "Publications",
+   "Several DOF",
+   "Space"
+  ],
+  "specs": {},
+  "desc": "",
+  "datasheet": ""
+ },
+ {
+  "url": "https://cedrat-technologies.com/fr/produit/mecanisme-de-pointage-dantenne-a-fort-gain-a-actionnement-piezoelectrique-pour-la-mission-lisa/",
+  "cat": "sitemap",
+  "model": "Mécanisme de pointage d’antenne à fort gain à actionnement piézoélectrique pour la mission LISA",
+  "sub": "Produits similaires",
+  "posted": [
+   "Contrôle actif de vibration",
+   "Degrés de libertés multiples",
+   "FSM & Plateformes Tip Tilt",
+   "Moteurs piézo",
+   "Pilotage & contrôle",
+   "Publications",
+   "Space"
+  ],
+  "specs": {},
+  "desc": "",
+  "datasheet": ""
+ },
+ {
+  "url": "https://cedrat-technologies.com/fr/produit/mspa30uxs/",
+  "cat": "sitemap",
+  "model": "MSPA30uXS",
+  "sub": "Actionneur Piezo Modulaire à Pas",
+  "posted": [
+   "Actionneurs piezo pas à pas",
+   "Moteurs piézo"
+  ],
+  "specs": {
+   "Volume": "2 cm³",
+   "Vitesse maximale": "50 mm/s",
+   "Force motrice maximale": "0,3 N",
+   "Durée de vie": ">2 Km",
+   "Options disponibles": "Amagnétique, Compatibilité vide",
+   "Statut": "Préliminaire"
+  },
+  "desc": "MSPA est un module qui fournit un mouvement illimité dans la rotation et la translation. Comme il s’agit d’un module, il s’adapte facilement à tous les appareils existants nécessitant 0,3 N de force motrice.",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/MSPA30uXS.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/fr/produit/mspa35xs/",
+  "cat": "sitemap",
+  "model": "MSPA35XS",
+  "sub": "Actionneur Piezo Modulaire à Pas",
+  "posted": [
+   "Actionneurs piezo pas à pas",
+   "Moteurs piézo"
+  ],
+  "specs": {
+   "Volume": "7 cm³",
+   "Vitesse maximale": "20 mm/s",
+   "Force motrice maximale": "1 N",
+   "Durée de vie": ">2 Km",
+   "Options disponibles": "Amagnétique, Compatibilité vide",
+   "Statut": "Préliminaire"
+  },
+  "desc": "MSPA est un module qui fournit un mouvement illimité dans la rotation et la translation. Comme il s’agit d’un module, il s’adapte facilement à tous les appareils existants nécessitant 1 N de force motrice.",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/mspa35xs.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/fr/produit/mspa40sm/",
+  "cat": "sitemap",
+  "model": "MSPA40SM",
+  "sub": "Actionneur Piezo Modulaire à Pas",
+  "posted": [
+   "Actionneurs piezo pas à pas",
+   "Moteurs piézo"
+  ],
+  "specs": {
+   "Volume": "20 cm³",
+   "Vitesse maximale": "10 mm/s",
+   "Force motrice maximale": "2.5 N",
+   "Durée de vie": ">2 Km",
+   "Options disponibles": "Amagnétique, Compatibilité vide",
+   "Statut": "Préliminaire"
+  },
+  "desc": "MSPA est un module qui fournit un mouvement illimité dans la rotation et la translation. Comme il s’agit d’un module, il s’adapte facilement à tous les appareils existants nécessitant 25 N de force motrice.",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/MSPA40SM.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/fr/produit/ccbu40/",
+  "cat": "sitemap",
+  "model": "CCBu40",
+  "sub": "Carte de Contrôle Compacte",
+  "posted": [
+   "Amplificateurs Standalone Piezo",
+   "Contrôleurs piezo"
+  ],
+  "specs": {
+   "Nombre de canaux": "2",
+   "Option Push-Pull": "Oui",
+   "Plage de tension de sortie": "-20 … +150 V",
+   "Options disponibles": "Capteur analogue d'entrée 0-5V, Contrôleur avancé",
+   "Statut": "Standard"
+  },
+  "desc": "La carte contrôleur compacte CCbu40 est un contrôleur tout-en-un intégré pour les actionneurs piézoélectriques. Il dispose de tout pour conduire et contrôler un mécanisme piézo-2 axes en boucle de position. En standard, son conditionneur SG double canal intégré permet de lire la position des deux axes du mécanisme. Un puissant processeur réalise le contrôle en boucle fermée à une vitesse de rafraîchissement élevée, et le contrôleur peut être réglé par l’utilisateur avec l’interface HDPM45. Grâce à une conception compacte, il est approprié pour les applications intégrées ou des applications industrielles où le volume est un problème. L’interface utilisateur graphique pour modifier les paramètres du CCbu40 est similaire aux contrôleurs numériques UC qui peuvent être téléchargés sur la page d",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/ccbu40.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/fr/produit/improving-the-reliability-of-piezoelectric-actuators-and-motors-subjected-to-significant-self-heating-and-several-billion-actuation-cycles-or-severe-environments/",
+  "cat": "sitemap",
+  "model": "Améliorer la fiabilité des actionneurs et moteurs piézo soumis à un échauffement propre important et à plusieurs milliards de cycles de fonctionnement, ou à des conditions d’environnement extrêmes",
+  "sub": "Produits similaires",
+  "posted": [
+   "Actionneurs linéaires",
+   "Matériaux & Essais",
+   "Moteurs piézo",
+   "Piézo",
+   "Pilotage & contrôle",
+   "Publications",
+   "Scientific Instrumentation",
+   "Space",
+   "Systèmes méchatroniques"
+  ],
+  "specs": {},
+  "desc": "",
+  "datasheet": ""
+ },
+ {
+  "url": "https://cedrat-technologies.com/fr/produit/magnetic-fast-steering-mirrors-for-tracking-and-optical-communica-tion-for-defense-and-aerospace-industries/",
+  "cat": "sitemap",
+  "model": "Fast Steering Mirrors magnétiques pour le suivi de cible et les communications optiques dans les secteurs de la défense et de l’aérospatial",
+  "sub": "Produits similaires",
+  "posted": [
+   "Actionneurs linéaires",
+   "Actionneurs magnétiques linéaires",
+   "Défense",
+   "FSM & Plateformes Tip Tilt",
+   "Instrumentation optique",
+   "Mécanismes",
+   "Optronique",
+   "Publications",
+   "Space"
+  ],
+  "specs": {},
+  "desc": "",
+  "datasheet": ""
+ },
+ {
+  "url": "https://cedrat-technologies.com/fr/produit/moteurs-piezoelectriques-rotatifs-haute-resolution-pour-la-mission-spatiale-lisa-laser-interferometer-space-antenna/",
+  "cat": "sitemap",
+  "model": "Moteurs piézoélectriques rotatifs haute résolution pour la mission spatiale LISA (Laser Interferometer Space Antenna)",
+  "sub": "Produits similaires",
+  "posted": [
+   "Actionneurs linéaires",
+   "Machines tournantes",
+   "Mécanismes",
+   "Micropositionnement",
+   "Moteurs piézo",
+   "Publications",
+   "Scientific Instrumentation",
+   "Space",
+   "Systèmes méchatroniques"
+  ],
+  "specs": {},
+  "desc": "",
+  "datasheet": ""
+ },
+ {
+  "url": "https://cedrat-technologies.com/fr/produit/jet-synthetique-actionne-par-piezoelectricite-pour-les-applications-daeronefs-furtifs/",
+  "cat": "sitemap",
+  "model": "Jet synthétique actionné par piézoélectricité pour les applications d’aéronefs furtifs",
+  "sub": "Produits similaires",
+  "posted": [
+   "Actionneurs linéaires",
+   "Actionneurs piézo",
+   "Applications électro-fluidiques",
+   "Défense",
+   "Pilotage & contrôle",
+   "Publications",
+   "Systèmes méchatroniques"
+  ],
+  "specs": {},
+  "desc": "",
+  "datasheet": ""
+ },
+ {
+  "url": "https://cedrat-technologies.com/fr/produit/piezoelectric-fine-steering-mirrors-and-electronics-for-optical-inter-satellite-links/",
+  "cat": "sitemap",
+  "model": "Fine Steering Mirrors piézoélectriques et électronique de commande pour les liaisons optiques inter-satellites",
+  "sub": "Produits similaires",
+  "posted": [
+   "Actionneurs linéaires",
+   "Actionneurs piézo",
+   "FSM & Plateformes Tip Tilt",
+   "Instrumentation optique",
+   "Mécanismes",
+   "Optronique",
+   "Pilotage & contrôle",
+   "Publications",
+   "Space",
+   "Systèmes méchatroniques"
+  ],
+  "specs": {},
+  "desc": "",
+  "datasheet": ""
+ },
+ {
+  "url": "https://cedrat-technologies.com/fr/produit/bistable-piezoelectric-energy-harvester-with-embedded-power-management-electronics-for-railway-monitoring/",
+  "cat": "sitemap",
+  "model": "Récupérateur d’énergie piézoélectrique bistable avec électronique embarquée de gestion de puissance pour la surveillance des infrastructures ferroviaires",
+  "sub": "Produits similaires",
+  "posted": [
+   "Actionneurs linéaires",
+   "Actionneurs piézo",
+   "Essais & Mesures",
+   "Matériaux & essais",
+   "Piézo",
+   "Publications",
+   "Récupérateur d'énergie",
+   "Système d'énergie embarqué",
+   "Systèmes méchatroniques",
+   "Transducteurs NDT & SHM"
+  ],
+  "specs": {},
+  "desc": "",
+  "datasheet": ""
+ },
+ {
+  "url": "https://cedrat-technologies.com/fr/produit/amplified-piezo-actuators-with-embedded-eddy-current-sensor-for-cryo-space-de-spin-mechanism/",
+  "cat": "sitemap",
+  "model": "Actionneurs piézoélectriques amplifiés avec capteur à courants de Foucault intégré pour un mécanisme spatial de De-SPIN cryogénique",
+  "sub": "Produits similaires",
+  "posted": [
+   "Actionneurs linéaires",
+   "Actionneurs piézo",
+   "Capteurs",
+   "FSM & Plateformes Tip Tilt",
+   "Instrumentation optique",
+   "Mécanismes",
+   "Publications",
+   "Space"
+  ],
+  "specs": {},
+  "desc": "",
+  "datasheet": ""
+ },
+ {
+  "url": "https://cedrat-technologies.com/produit/amplified-piezo-actuators-with-embedded-eddy-current-sensor-for-cryo-space-de-spin-mechanism/",
+  "cat": "sitemap",
+  "model": "Amplified Piezo Actuators with embedded Eddy Current Sensor for cryo space De-SPIN mechanism",
+  "sub": "Request for information",
+  "posted": [
+   "FSM & Tilt stages",
+   "Linear actuators",
+   "Mechanisms",
+   "Piezo actuators",
+   "Publications",
+   "Sensors",
+   "Space"
+  ],
+  "specs": {},
+  "desc": "",
+  "datasheet": ""
+ },
+ {
+  "url": "https://cedrat-technologies.com/produit/bistable-piezoelectric-energy-harvester-with-embedded-power-management-electronics-for-railway-monitoring/",
+  "cat": "sitemap",
+  "model": "Bistable Piezoelectric Energy harvester with embedded power management electronics for railway monitoring",
+  "sub": "Request for information",
+  "posted": [
+   "Linear actuators",
+   "Materials & Testing",
+   "Piezo",
+   "Piezo actuators",
+   "Publications",
+   "Systèmes méchatroniques",
+   "Testing & Measurement"
+  ],
+  "specs": {},
+  "desc": "",
+  "datasheet": ""
+ },
+ {
+  "url": "https://cedrat-technologies.com/produit/piezoelectric-fine-steering-mirrors-and-electronics-for-optical-inter-satellite-links/",
+  "cat": "sitemap",
+  "model": "Piezoelectric Fine Steering Mirrors and electronics for Optical Inter-Satellite Links",
+  "sub": "Request for information",
+  "posted": [
+   "FSM & Tilt stages",
+   "Linear actuators",
+   "Mechanisms",
+   "Optic instrumentation",
+   "Optronics",
+   "Piezo actuators",
+   "Publications",
+   "Space",
+   "Systèmes méchatroniques"
+  ],
+  "specs": {},
+  "desc": "",
+  "datasheet": ""
+ },
+ {
+  "url": "https://cedrat-technologies.com/produit/piezo-actuated-jet-for-stealth-aircraft-applications/",
+  "cat": "sitemap",
+  "model": "Piezo Actuated jet for stealth aircraft applications",
+  "sub": "Request for information",
+  "posted": [
+   "Defence",
+   "Linear actuators",
+   "Piezo actuators",
+   "Publications",
+   "Systèmes méchatroniques"
+  ],
+  "specs": {},
+  "desc": "",
+  "datasheet": ""
+ },
+ {
+  "url": "https://cedrat-technologies.com/produit/high-resolution-rotating-piezo-motors-for-lisa-laser-interferometer-space-antenna/",
+  "cat": "sitemap",
+  "model": "High-resolution Rotating Piezo Motors for LISA (Laser Interferometer Space Antenna)",
+  "sub": "Request for information",
+  "posted": [
+   "Linear actuators",
+   "Piezo motors",
+   "Publications",
+   "Rotating machines",
+   "Scientific Instrumentation",
+   "Space",
+   "Systèmes méchatroniques"
+  ],
+  "specs": {},
+  "desc": "",
+  "datasheet": ""
+ },
+ {
+  "url": "https://cedrat-technologies.com/produit/magnetic-fast-steering-mirrors-for-tracking-and-optical-communica-tion-for-defense-and-aerospace-industries/",
+  "cat": "sitemap",
+  "model": "Magnetic Fast Steering Mirrors for Tracking and Optical Communica-tion for Defense and Aerospace Industries",
+  "sub": "Request for information",
+  "posted": [
+   "Defence",
+   "FSM & Tilt stages",
+   "Linear actuators",
+   "Magnetic linear actuators",
+   "Mechanisms",
+   "Optic instrumentation",
+   "Optronics",
+   "Publications",
+   "Space"
+  ],
+  "specs": {},
+  "desc": "",
+  "datasheet": ""
+ },
+ {
+  "url": "https://cedrat-technologies.com/produit/improving-the-reliability-of-piezoelectric-actuators-and-motors-subjected-to-significant-self-heating-and-several-billion-actuation-cycles-or-severe-environments/",
+  "cat": "sitemap",
+  "model": "Improving the reliability of piezoelectric actuators and motors subjected to significant self-heating and several billion actuation cycles or severe environments",
+  "sub": "Request for information",
+  "posted": [
+   "Drive and control",
+   "Linear actuators",
+   "Mechatronic Systems",
+   "Piezo motors",
+   "Publications",
+   "Scientific Instrumentation",
+   "Space"
+  ],
+  "specs": {},
+  "desc": "",
+  "datasheet": ""
+ },
+ {
+  "url": "https://cedrat-technologies.com/fr/produit/fps900m/",
+  "cat": "sitemap",
+  "model": "FPS900M",
+  "sub": "Obturateur Piézo Rapide",
+  "posted": [
+   "Actionneurs piézo",
+   "Obturateurs Piezo Rapides"
+  ],
+  "specs": {
+   "Diamètre maximum du faisceau": "1,1 mm",
+   "Temps d’ouverture & fermeture": "10 ms",
+   "Dimensions": "60mm*44mm*23mm",
+   "Masse": "82 g",
+   "Options disponibles": "Compatibilité UHV",
+   "Statut": "Sur demande"
+  },
+  "desc": "Le FPS900M (dérivé du FPS400M) est composé d’Actionneurs Piezo Amplifiés personnalisés APA900M, avec une tête optique dédiée. Le FPS900M est compact, stable et offre une plus grande course que les autres FPS. Il intègre des têtes optiques en Tungstène.",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/FPS900M.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/fr/produit/x120s/",
+  "cat": "sitemap",
+  "model": "X120S",
+  "sub": "Demande d'information",
+  "posted": [
+   "Actionneurs piézo",
+   "Platines Piezo"
+  ],
+  "specs": {
+   "Déplacement max sans charge": "110 µm",
+   "Fréquence résonance sans charge": "850 Hz",
+   "Temps de réponse": "0,59 ms",
+   "Dimensions": "30mm*30mm*12mm",
+   "Options disponibles": "Jauge de contrainte, Compatibilité vide",
+   "Statut": "Prototype"
+  },
+  "desc": "La platine piézoélectrique X120S a une course allant jusqu’à 110µm le long de l’axe X et peut être équipée de jauges de contrainte pour une précision très fine allant jusqu’à 10 nm.",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/X120S.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/fr/produit/x60s/",
+  "cat": "sitemap",
+  "model": "X60S",
+  "sub": "Demande d'information",
+  "posted": [
+   "Actionneurs piézo",
+   "Platines Piezo"
+  ],
+  "specs": {
+   "Déplacement max sans charge": "55 µm",
+   "Fréquence résonance sans charge": "1840 Hz",
+   "Temps de réponse": "0,27 ms",
+   "Dimensions": "30mm*30mm*12mm",
+   "Options disponibles": "Jauge de contrainte, Compatibilité vide",
+   "Statut": "Prototype"
+  },
+  "desc": "La platine piézoélectrique X60S a une course allant jusqu’à 110µm le long de l’axe X et peut être équipée de jauges de contrainte pour une précision très fine allant jusqu’à 10 nm.",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/X60S.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/fr/produit/p-fsm150s/",
+  "cat": "sitemap",
+  "model": "P-FSM150S",
+  "sub": "Fast Steering Mirror Piézoélectrique",
+  "posted": [
+   "Fast Steering Mirrors"
+  ],
+  "specs": {
+   "Course nominale": "18 mrad",
+   "Fréquence de résonance en charge": "700 Hz",
+   "Statut": "Standard",
+   "Dimensions": "61mm*63mm*H30mm"
+  },
+  "desc": "Le P-FSM150S est un Fast Steering Mirror piézoélectrique avec une ouverture optique de + de 15 mm de diamètre (avec un substrat en SiC, métal ou verre) et une course angulaire de + de 18 mrad. Le P-FSM150S est équipé de jauges de contraintes (Strain Gauges, SG) pour un contrôle précis en positionnement. Le P-FSM150S a été qualifié pour les conditions environementales spatiales.",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/P-FSM150S.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/produit/p-fsm150s/",
+  "cat": "sitemap",
+  "model": "P-FSM150S",
+  "sub": "Piezoelectric Fast Steering Mirror",
+  "posted": [
+   "Fast Steering Mirrors"
+  ],
+  "specs": {
+   "Nominal Stroke": "18 mrad",
+   "Loaded resonance frequency": "700 Hz",
+   "Status": "Standard",
+   "Dimensions": "61mm*63mm*H30mm"
+  },
+  "desc": "The P-FSM150S is a piezo based Fast Steering Mirror of +15 mm diameter clear aperture (in SiC, metallic or glass substrate) with +18 mrad angular stroke. The P-FSM150S is equipped with Strain Gages positioning sensor for accurate positioning control. The P-FSM150S has been qualified for Space environmental conditions.",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/P-FSM150S.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/fr/produit/cable-for-shutters/",
+  "cat": "sitemap",
+  "model": "Cable for Shutters",
+  "sub": "Demande d'information",
+  "posted": [
+   "Actionneurs piézo",
+   "Obturateurs Piezo Rapides"
+  ],
+  "specs": {
+   "Longueur": "150 cm",
+   "Connection électrique côté 1": "SUB-D9 Femelle",
+   "Connection électrique côté 2": "3 connecteurs LEMO",
+   "Statut": "Standard"
+  },
+  "desc": "Ce câble est conçu pour connecter les shutters CTEC avec leur rack d’éléctroniques.",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/shutter_cable.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/fr/produit/defis-de-conception-et-de-test-des-mecanismes-de-pointage-piezoelectriques-spatiaux-a-mesure-que-la-masse-du-miroir-augmente/",
+  "cat": "sitemap",
+  "model": "Défis de conception et de test des mécanismes de pointage piézoélectriques spatiaux à mesure que la masse du miroir augmente",
+  "sub": "Produits similaires",
+  "posted": [
+   "Domaine",
+   "Publications",
+   "Spatial"
+  ],
+  "specs": {},
+  "desc": "",
+  "datasheet": ""
+ },
+ {
+  "url": "https://cedrat-technologies.com/fr/produit/progress-in-piezoelectric-fine-steering-mirrors-for-optical-inter-satellite-links-in-space-constellations/",
+  "cat": "sitemap",
+  "model": "Progrès réalisés dans le domaine des miroirs de guidage piézoélectriques de précision pour les liaisons optiques inter-satellites dans les constellations spatiales",
+  "sub": "Produits similaires",
+  "posted": [
+   "FSM & Plateformes Tip Tilt",
+   "Instrumentation optique",
+   "Mécanismes",
+   "Optronique",
+   "Pilotage & contrôle",
+   "Publications",
+   "Spatial",
+   "Système d'énergie embarqué",
+   "Systèmes méchatroniques"
+  ],
+  "specs": {},
+  "desc": "",
+  "datasheet": ""
+ },
+ {
+  "url": "https://cedrat-technologies.com/produit/progress-in-piezoelectric-fine-steering-mirrors-for-optical-inter-satellite-links-in-space-constellations/",
+  "cat": "sitemap",
+  "model": "Progress in piezoelectric fine steering mirrors for optical inter-satellite links in space constellations",
+  "sub": "Request for information",
+  "posted": [
+   "Drive and control",
+   "Embedded power systems",
+   "FSM & Tilt stages",
+   "Mechanisms",
+   "Mechatronic Systems",
+   "Optronics",
+   "Publications"
+  ],
+  "specs": {},
+  "desc": "",
+  "datasheet": ""
+ },
+ {
+  "url": "https://cedrat-technologies.com/fr/produit/pla05/",
+  "cat": "sitemap",
+  "model": "PLa05",
+  "sub": "Amplificateur Piézo Linéaire",
+  "posted": [
+   "Contrôleurs piezo",
+   "Série PLa : Amplificateurs Linéaires Piézoélectriques"
+  ],
+  "specs": {
+   "Courant de sortie permanent": "0.5 A",
+   "Courant de sortie max": "1 A",
+   "Plage de tension de sortie": "-20 … +150 V",
+   "Rapport signal sur bruit": "90 dB"
+  },
+  "desc": "L’électronique de commande PLa05 constitue une nouvelle alternative à l’électronique LA75B pour la commande d’actionneurs piézoélectriques. Forte de 20 ans de succès avec la LA75B, la PLa25 offre plusieurs avantages : bien qu’il s’agisse d’une électronique de puissance, la PLa05 est marquée CE, garantissant ainsi une solution sûre, efficace et polyvalente pour les applications de laboratoire ou industrielles. Plus compacte et plus facile à intégrer que la LA75B, la PLa05 peut être installée dans une armoire tierce ou un boîtier de table. Les modules PLa05 peuvent être combinés en topologie maître/esclave pour des configurations multicanaux ou push-pull. Elle délivre un courant de 0,5 A en régime permanent et un courant de crête de 1 A, avec une plage de tension de 170 V. Cette tension, rég",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/pla05.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/fr/produit/pla25/",
+  "cat": "sitemap",
+  "model": "PLa25",
+  "sub": "Amplificateur Piézo Linéaire",
+  "posted": [
+   "Contrôleurs piezo",
+   "Série PLa : Amplificateurs Linéaires Piézoélectriques"
+  ],
+  "specs": {
+   "Sortie continue": "2.5 A",
+   "Courant crête": "5 A",
+   "Plage de tension de sortie": "-20 … +150 V",
+   "Rapport signal sur bruit": "85 dB"
+  },
+  "desc": "L’électronique de commande PLa25 constitue une nouvelle alternative à l’électronique LA75C pour la commande d’actionneurs piézoélectriques. Forte de 20 ans de succès avec la LA75C, la PLa25 offre plusieurs avantages : bien qu’il s’agisse d’une électronique de puissance, la PLa25 est marquée CE, garantissant ainsi une solution sûre, efficace et polyvalente pour les applications de laboratoire ou industrielles. Plus compacte et plus facile à intégrer que la LA75C, la PLa25 peut être installée dans une armoire tierce ou un boîtier de table. Les modules PLa25 peuvent être combinés en topologie maître/esclave pour des configurations multicanaux ou push-pull. Elle délivre un courant de 2,5 A en régime permanent et un courant de crête de 5 A, avec une plage de tension de 170 V. Cette tension, rég",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/pla25.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/produit/design-and-testing-challenges-of-space-piezoelectric-pointing-mechanisms-as-mirror-mass-increases/",
+  "cat": "sitemap",
+  "model": "Design and testing challenges of space piezoelectric pointing mechanisms as mirror mass increases",
+  "sub": "Request for information",
+  "posted": [
+   "Domain",
+   "Publications"
+  ],
+  "specs": {},
+  "desc": "",
+  "datasheet": ""
+ },
+ {
+  "url": "https://cedrat-technologies.com/fr/produit/m-fsm62/",
+  "cat": "sitemap",
+  "model": "M-FSM62",
+  "sub": "Fast Steering Mirror Magnétique",
+  "posted": [
+   "Fast Steering Mirrors"
+  ],
+  "specs": {
+   "Course angulaire max": "140 mrad",
+   "Fréquence de résonance en charge": "100 Hz",
+   "Dimensions": "Ø62mm*60mm",
+   "Statut": "Standard"
+  },
+  "desc": "Le M-FSM62 est un Fast Steering Mirror magnétique avec une ouverture optique de + de 30 mm de diamètre avec un substrat en SiC et une course angulaire de 140 mrad en boucle ouverte et de 120 mrad en boucle fermée. Le M-FSM62 peut être équipé de capteurs à courants de Foucault (Eddy Current Sensors, ECS) pour un contrôle précis en positionnement.",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/M-FSM62.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/produit/m-fsm62/",
+  "cat": "sitemap",
+  "model": "M-FSM62",
+  "sub": "Magnetic Fast Steering Mirror",
+  "posted": [
+   "Fast Steering Mirrors"
+  ],
+  "specs": {
+   "Max angular stroke": "140 mrad",
+   "Loaded resonance frequency": "100 Hz",
+   "Dimensions": "Ø62mm*60mm",
+   "Status": "Standard"
+  },
+  "desc": "The MFSM62 is a Magnetic based Fast Steering Mirror of +30 mm diameter clear aperture in SiC substrate with 140 mrad angular stroke in open loop and 120 mrad in closed loop. The MFSM62 can be equipped with Eddy Current positioning sensor (ECS) for accurate positioning control.",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/M-FSM62.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/fr/produit/dtt35xs-sg/",
+  "cat": "sitemap",
+  "model": "DTT35XS-SG",
+  "sub": "Mécanisme Tip-Tilt Dynamique",
+  "posted": [
+   "Fast Steering Platforms"
+  ],
+  "specs": {
+   "Course angulaire max": "5 mrad",
+   "Fréquence résonance sans charge": "2600 Hz",
+   "Dimensions": "Ø45mm*22mm",
+   "Statut": "Standard"
+  },
+  "desc": "Le mécanisme dynamique Tip Tilt DTT35XS-SG est une plateforme pouvant faire basculer un miroir en verre le long de 2 axes orthogonaux avec une course angulaire de 5 mrad. Le DTT35XS-SG est équipé de jauges de contraintes (Strain Gauges, SG) et d’une carte de conditionnement intégrée, pour un contrôle précis en positionnement. Le DTT35XS-SG convient à tout de type de miroir en verre de diamètre inférieur à 30 mm.",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/DTT35XS-SG.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/produit/dtt35xs-sg/",
+  "cat": "sitemap",
+  "model": "DTT35XS-SG",
+  "sub": "Dynamic Tip-Tilt Mechanism",
+  "posted": [
+   "Fast Steering Platforms"
+  ],
+  "specs": {
+   "Max angular stroke": "5 mrad",
+   "Unloaded resonance frequency": "2600 Hz",
+   "Dimensions": "Ø45mm*22mm",
+   "Status": "Standard"
+  },
+  "desc": "The Dynamic Tip Tilt DTT35XS-SG is a piezo based fast-steering platform able to rotate Fused Silica based mirror along 2 orthogonal axes with 5 mrad angular stroke. The DTT35XS-SG is equipped with Strain Gages positioning sensor for accurate positioning control. The DTT35XS-SG is suitable for glass mirror with less than 30 mm diameter.",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/DTT35XS-SG.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/fr/produit/dtt60sm-sg/",
+  "cat": "sitemap",
+  "model": "DTT60SM-SG",
+  "sub": "Mécanisme Tip-Tilt Dynamique",
+  "posted": [
+   "Fast Steering Platforms"
+  ],
+  "specs": {
+   "Course angulaire max": "10 mrad",
+   "Fréquence résonance sans charge": "1750 Hz",
+   "Dimensions": "Ø65mm * 40 mm",
+   "Statut": "Standard"
+  },
+  "desc": "Le mécanisme Tipt Tilt DTT60SM-SG génère 2 rotations autour des axes X et Y. Il inclut des capteurs de position à jauges de contraintes (Strain Gauges, SG) avec leur carte de conditionnement intégrée, pour une plus grande résolution et une plus grande robustesse en contrôle de position dans les applications embarquées et sur le terrain. L’angle de déflection optique peut atteindre 1,2 ° avec un miroir de 2 pouces de diamètre.",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/DTT60SM-SG.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/produit/dtt60sm-sg/",
+  "cat": "sitemap",
+  "model": "DTT60SM-SG",
+  "sub": "Dynamic Tip-Tilt Mechanism",
+  "posted": [
+   "Fast Steering Platforms"
+  ],
+  "specs": {
+   "Max angular stroke": "10 mrad",
+   "Unloaded resonance frequency": "1750 Hz",
+   "Dimensions": "Ø65mm * 40 mm",
+   "Status": "Standard"
+  },
+  "desc": "The piezo tip tilt DTT60SM-SG generates 2 rotations around axis X (tip) and Y (tilt). It includes strain gages (SG) positioning sensors and their build-in SG conditioner electronic board for higher resolution and positioning control robustness in embedded and field applications. The optical deflection angle can reach up 1.2° with mirror up to 2 inches diameter.",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/DTT60SM-SG.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/fr/produit/ccbu20-ns/",
+  "cat": "sitemap",
+  "model": "CCBu20-NS",
+  "sub": "Carte de Contrôle Compacte pour le NewSpace",
+  "posted": [
+   "Amplificateurs Standalone Piezo",
+   "Contrôleurs piezo"
+  ],
+  "specs": {
+   "Nombre de canaux": "2",
+   "Option Push-Pull": "Inclue, non optionnelle",
+   "Plage de tension de sortie": "-20 … +150 V",
+   "Options disponibles": "Différentes qualifications spatiales",
+   "Statut": "Prototype"
+  },
+  "desc": "La CCBu20-NS est une carte de commande compacte double axe, dérivée de la CCBu20, optimisée pour les applications New Space. Conçue pour résister aux contraintes du milieu spatial (radiations, vibrations), elle intègre des amplificateurs linéaires 170Vpp, un conditionneur de jauge de contrainte, une boucle fermée, des interfaces TM/TC et une communication SPI rapide. Idéale pour le pilotage d’actionneurs piezo CTEC dans les petits satellites (DTT, FSM, APA®, etc.).",
+  "datasheet": ""
+ },
+ {
+  "url": "https://cedrat-technologies.com/fr/produit/ccbu20/",
+  "cat": "sitemap",
+  "model": "CCBu20",
+  "sub": "Carte de Contrôle Compacte",
+  "posted": [
+   "Amplificateurs Standalone Piezo",
+   "Contrôleurs piezo"
+  ],
+  "specs": {
+   "Nombre de canaux": "2",
+   "Option Push-Pull": "Oui",
+   "Plage de tension de sortie": "-20 … +150 V",
+   "Options disponibles": "Capteur analogue d'entrée 0-5V, Contrôleur avancé",
+   "Statut": "Standard"
+  },
+  "desc": "La carte contrôleur compacte Ccbu20 est un contrôleur tout-en-un intégré pour les actionneurs piézoélectriques. Il dispose de tout pour conduire et contrôler un mécanisme piézo-2 axes en boucle de position. En standard, son conditionneur SG double canal intégré permet de lire la position des deux axes du mécanisme. Un puissant processeur réalise le contrôle en boucle fermée à une vitesse de rafraîchissement élevée, et le contrôleur peut être réglé par l’utilisateur avec l’interface HDPM45. Grâce à une conception compacte, il a des dimensions de seulement 91x77x37mm, ce qui le rend approprié pour les applications intégrées ou des applications industrielles où le volume est un problème. L’interface utilisateur graphique pour modifier les paramètres du Ccbu20 est similaire aux contrôleurs num",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/CCBu20-1.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/fr/produit/cau10/",
+  "cat": "sitemap",
+  "model": "CAu10",
+  "sub": "Amplificateur Compact",
+  "posted": [
+   "Amplificateurs Standalone Piezo",
+   "Contrôleurs piezo"
+  ],
+  "specs": {
+   "Nombre de canaux": "2",
+   "Option Push-Pull": "Oui",
+   "Plage de tension de sortie": "+5 … +150 V",
+   "Statut": "Standard"
+  },
+  "desc": "Le Cau10 est un amplificateur linéaire unipolaire (5V..150V) miniature avec un faible bruit et des fonctionnalités à faible coût. Un convertisseur numérique-analogique SPI est capable de convertir des mots de 10 bits en signal analogique pour l’amplificateur linéaire. Des entrées optionnelles peuvent être connectées si nécessaire pour shunter le bus SPI et envoyer directement l’ordre analogique sur les amplificateurs linéaires.",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/CAu10.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/fr/produit/mica300cm-pm/",
+  "cat": "sitemap",
+  "model": "MICA300CM-PM",
+  "sub": "Actionneur Proof Mass à force élevée",
+  "posted": [
+   "Actionneurs magnétiques",
+   "Actionneurs Magnétiques Proof Mass"
+  ],
+  "specs": {
+   "Force dynamique": "350 N",
+   "Courant dynamique": "15 A",
+   "Fréquence de résonance": "25 Hz",
+   "Statut": "Standard"
+  },
+  "desc": "Le MICA300CM-PM est un actionneur conçu pour l’excitation et l’amortissement des vibrations dans les applications structurelles. Sa configuration de masse de preuve optimise la génération de force dynamique à la résonance, ce qui le rend idéal pour les outils d’usinage, les systèmes d’amortissement actifs et les tests structurels. Doté de la technologie des paliers flexibles pour une durée de vie et une précision accrues, il s’intègre parfaitement à l’amplificateur MCSA480 de CTEC et aux électroniques de puissance standard.",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/mica300cm-pm.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/fr/produit/mica20cs-pm/",
+  "cat": "sitemap",
+  "model": "MICA20CS-PM",
+  "sub": "Actionneur Proof Mass compact",
+  "posted": [
+   "Actionneurs magnétiques",
+   "Actionneurs Magnétiques Proof Mass"
+  ],
+  "specs": {
+   "Force dynamique": "70 N",
+   "Courant dynamique": "0.9 A",
+   "Fréquence de résonance": "30 Hz",
+   "Statut": "Standard"
+  },
+  "desc": "Le MICA20CS-PM offre une solution très compacte pour un contrôle précis des vibrations. Sa conception à masse de preuve permet de générer une force dynamique efficace, idéale pour les applications d’amortissement et d’excitation à petite échelle. Équipé d’un palier flexible sans frottement, il garantit une fiabilité sans entretien et s’intègre à l’amplificateur MCSA480 de CTEC ainsi qu’à d’autres pilotes standard.",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/mica20cs-pm.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/fr/produit/mica300cm-fb/",
+  "cat": "sitemap",
+  "model": "MICA300CM-FB",
+  "sub": "Actionneur à Fer Mobile Contrôlable",
+  "posted": [
+   "Actionneurs magnétiques",
+   "Actionneurs Magnétiques Linéaires"
+  ],
+  "specs": {
+   "Course (crête à crête)": "8 mm",
+   "Force continue": "220 N",
+   "Force dynamique": "350 N",
+   "Statut": "Standard"
+  },
+  "desc": "Le MICA300CM-FB délivre une force continue de 220 N avec une course de 8 mm, ce qui le rend idéal pour les applications dynamiques nécessitant une puissance élevée dans un design compact. Son palier flexible sans frottement garantit une longue durée de vie et une grande précision, tandis que son faible échauffement améliore sa fiabilité. Compatible avec l’amplificateur MCSA480 de CTEC et les électroniques de puissance standard.",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/mica300cm.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/fr/produit/mica20cs-fb/",
+  "cat": "sitemap",
+  "model": "MICA20CS-FB",
+  "sub": "Actionneur à Fer Mobile Contrôlable",
+  "posted": [
+   "Actionneurs magnétiques",
+   "Actionneurs Magnétiques Linéaires"
+  ],
+  "specs": {
+   "Course (crête à crête)": "4 mm",
+   "Force continue": "50 N",
+   "Force dynamique": "70 N",
+   "Statut": "Standard"
+  },
+  "desc": "Le MICA20CS-FB fournit une force continue de 50 N avec une course de 4 mm, offrant une haute résolution et une grande efficacité dans un faible encombrement. Son palier flexible garantit un fonctionnement sans entretien, tandis que la gestion thermique optimisée améliore la stabilité. Il fonctionne parfaitement avec l’amplificateur MCSA480 de CTEC et d’autres pilotes standard.",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/MICA20CS-1.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/fr/produit/rspa30xs/",
+  "cat": "sitemap",
+  "model": "RSPA30XS",
+  "sub": "Actionneur Piézoélectrique à Pas Rotatif",
+  "posted": [
+   "Actionneurs piezo pas à pas",
+   "Moteurs piézo"
+  ],
+  "specs": {
+   "Masse": "3 g",
+   "Vitesse maximale": "65 rpm",
+   "Force motrice maximale": "1,33 Nmm",
+   "Statut": "Préliminaire"
+  },
+  "desc": "Les actionneurs piézoélectriques rotatifs à pas (RSPA) sont de nouveaux moteurs piézoélectriques rotatifs à course longue pour des applications de positionnement micro/nano bénéficiant de l’héritage APA®. Ils opèrent par accumulation de petites marches.",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/RSPA30XS.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/fr/produit/lspa30uxs/",
+  "cat": "sitemap",
+  "model": "LSPA30uXS",
+  "sub": "Actionneur Piézoélectrique à Pas Linéaire",
+  "posted": [
+   "Actionneurs piezo pas à pas",
+   "Moteurs piézo"
+  ],
+  "specs": {
+   "Masse": "1,9 g",
+   "Vitesse maximale": "70 mm/s",
+   "Force motrice maximale": "0,3 N",
+   "Déplacement max sans charge": "6 mm",
+   "Options disponibles": "Amagnétique, Compatibilité IRM",
+   "Statut": "Prototype"
+  },
+  "desc": "Le micromoteur piézoélectrique linéaire « Linear Stepping Actuator » Lspa30uxs est un micromoteur piézoélectrique linéaire à haute densité de force.",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/LSPA30uXS.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/fr/produit/lspa35xs/",
+  "cat": "sitemap",
+  "model": "LSPA35XS",
+  "sub": "Actionneur Piézoélectrique à Pas Linéaire",
+  "posted": [
+   "Actionneurs piezo pas à pas",
+   "Moteurs piézo"
+  ],
+  "specs": {
+   "Masse": "5 g",
+   "Vitesse maximale": "30 mm/s",
+   "Force motrice maximale": "1 N",
+   "Déplacement max sans charge": "10 mm",
+   "Options disponibles": "Amagnétique",
+   "Statut": "Prototype"
+  },
+  "desc": "L’actionneur piézoélectrique à pas linéaire LSPA35XS est un micromoteur piézoélectrique linéaire à haute densité de force.",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/lspa35xs.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/fr/produit/lsps35xs/",
+  "cat": "sitemap",
+  "model": "LSPS35XS",
+  "sub": "platine piézoélectrique à pas linéaire",
+  "posted": [
+   "Moteurs piézo",
+   "Platines piezo pas à pas"
+  ],
+  "specs": {
+   "Déplacement max sans charge": "10 mm",
+   "Vitesse maximale": "30 mm/s",
+   "Force motrice maximale": "1 N",
+   "Dimensions": "30mm*30mm",
+   "Statut": "Prototype"
+  },
+  "desc": "La platine piézoélectrique à pas linéaire LSPS35XS est basée sur le principe de l’actionneur Piezo Step. Il offre une résolution longue course et micro positionnement.",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/LSPS35XS.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/fr/produit/lsps40sm/",
+  "cat": "sitemap",
+  "model": "LSPS40SM",
+  "sub": "Platine piézoélectrique à pas linéaire",
+  "posted": [
+   "Moteurs piézo",
+   "Platines piezo pas à pas"
+  ],
+  "specs": {
+   "Déplacement max sans charge": "10 mm",
+   "Vitesse maximale": "30 mm/s",
+   "Force motrice maximale": "1 N",
+   "Dimensions": "30mm*30mm",
+   "Statut": "Préliminaire"
+  },
+  "desc": "La platine piézoélectrique à pas linéaire LSPS35XS est basée sur le principe de l’actionneur Piezo Step. Il offre une résolution longue course et micro positionnement.",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/LSPS40SM.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/fr/produit/spc45/",
+  "cat": "sitemap",
+  "model": "SPC45",
+  "sub": "Contrôleur d'actionneur à pas",
+  "posted": [
+   "Contrôleurs de moteurs piezo",
+   "Moteurs piézo"
+  ],
+  "specs": {
+   "Nombre de canaux de contrôle": "1",
+   "Courant de sortie max": "5mA"
+  },
+  "desc": "Le Step Piezo Controller SPC45 est la carte pilote des Spa30uxs. Il comprend des fonctions de contrôle, des interfaces numériques et analogiques et des ports de communication série. Le SPC45 est alimenté par le convertisseur CA/CC standard fourni (12 V à 24 V).",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/SPC45.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/fr/produit/fspa35xs/",
+  "cat": "sitemap",
+  "model": "FSPA35XS",
+  "sub": "Actionneur Piézoélectrique à Pas Fins",
+  "posted": [
+   "Actionneurs piezo pas à pas",
+   "Moteurs piézo"
+  ],
+  "specs": {
+   "Force d'actionnement": ">100 N",
+   "Plage de déplacement": "5 mm",
+   "Durée de vie typique": "100 cycles",
+   "Options disponibles": "Micro/Nano positionnement, Mécanisme de verrouillage",
+   "Statut": "Préliminaire"
+  },
+  "desc": "L’actionneur piézo à pas fin (FSPA35XS) est un actionneur breveté qui combine la technologie SPA et la réduction mécanique. Des tailles de pas inférieures à 100 nm sont réalisables en déplacement fin. La vitesse maximale typique pour ce FSPA est de 200 um/s.",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/FSPA35XS.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/fr/produit/rk84f4u-1lc75c/",
+  "cat": "sitemap",
+  "model": "RK84F4U-1LC75C",
+  "sub": "Rack électronique",
+  "posted": [
+   "Contrôleurs piezo",
+   "Racks electroniques"
+  ],
+  "specs": {
+   "Courant max": "2,55 A",
+   "Statut": "Standard"
+  },
+  "desc": "Pour l’entraînement et le contrôle des actionneurs piézo entre -20 et 150 V, la solution RK84F4U-1LC75C comprend un sous-rack 19′ ‘RK84F4U et une carte de convertisseur AC-DC LC75C. La solution proposée est prête pour l’intégration des armoires.",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/RK84F4U-1LC75C.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/fr/produit/rk42f4u-lc75c/",
+  "cat": "sitemap",
+  "model": "RK42F4U-LC75C",
+  "sub": "Rack électronique",
+  "posted": [
+   "Contrôleurs piezo",
+   "Racks electroniques"
+  ],
+  "specs": {
+   "Courant max": "2,55 A",
+   "Carte pilote max": "1",
+   "Carte capteur max": "1",
+   "Statut": "Standard"
+  },
+  "desc": "Pour l’entraînement et le contrôle des actionneurs piézo entre -20 et 150 V, la solution RK42F4U-LC75C comprend un boîtier RK42F4U et une carte de convertisseur AC-DC LC75C.",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/RK42F4U-LC75C.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/fr/produit/rk84f4u-1lc75b/",
+  "cat": "sitemap",
+  "model": "RK84F4U-1LC75B",
+  "sub": "Rack électronique",
+  "posted": [
+   "Contrôleurs piezo",
+   "Racks electroniques"
+  ],
+  "specs": {
+   "Courant max": "0,75 A",
+   "Statut": "Standard"
+  },
+  "desc": "Pour l’entraînement et le contrôle des actionneurs piézo entre -20 et 150V, la solution RK84F4U-LC75B comprend un rack RK84F4U de 84” et un convertisseur AC-DC LC75B.",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/RK84F4U-1LC75B.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/fr/produit/rk42f3u-lc75b/",
+  "cat": "sitemap",
+  "model": "RK42F3U-LC75B",
+  "sub": "Rack électronique",
+  "posted": [
+   "Contrôleurs piezo",
+   "Racks electroniques"
+  ],
+  "specs": {
+   "Courant max": "0,75 A",
+   "Statut": "Standard"
+  },
+  "desc": "Pour l’entraînement et le contrôle des actionneurs piézo entre -20 et 150V, la solution RK42F3U-LC75B comprend un boîtier RK42F3U et un convertisseur AC-DC LC75B.",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/RK42F3U-LC75B.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/fr/produit/rk84f4u-1sc75/",
+  "cat": "sitemap",
+  "model": "RK84F4U-1SC75",
+  "sub": "Rack électronique",
+  "posted": [
+   "Contrôleurs piezo",
+   "Racks electroniques"
+  ],
+  "specs": {
+   "Courant max": "20 A",
+   "Carte pilote max": "1",
+   "Carte conditionneur max": "1",
+   "Statut": "Standard"
+  },
+  "desc": "Pour l’entraînement et le contrôle des actionneurs piézo entre -20 et 150V, la solution RK84F4U-1SC75 comprend un sous-rack 19 » RK84F4U et une carte de convertisseur de commutation SC75. La solution proposée est prête pour l’intégration des armoires.",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/RK84F4U-1SC75.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/fr/produit/rk84f4u-2lc75c/",
+  "cat": "sitemap",
+  "model": "RK84F4U-2LC75C",
+  "sub": "Rack électronique",
+  "posted": [
+   "Contrôleurs piezo",
+   "Racks electroniques"
+  ],
+  "specs": {
+   "Courant max": "5,1 A",
+   "Carte pilote max": "2",
+   "Carte conditionneur max": "2",
+   "Statut": "Standard"
+  },
+  "desc": "Pour l’entraînement et le contrôle des actionneurs piézo entre -20 et 150V, le sous-rack RK84F4U-2LC75C comprend un sous-rack 19 »RK84F4U et 2 cartes de convertisseur AC-DC LC75C. La solution proposée est prête pour l’intégration des armoires.",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/RK84F4U-2LC75C.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/fr/produit/faps400m/",
+  "cat": "sitemap",
+  "model": "FAPS400M",
+  "sub": "Obturateur Piézo Rapide Amplifié",
+  "posted": [
+   "Actionneurs piézo",
+   "Obturateurs Piezo Rapides"
+  ],
+  "specs": {
+   "Diamètre maximum du faisceau": "3,0 mm",
+   "Temps d’ouverture & fermeture": "8 ms",
+   "Dimensions": "73mm*54mm*65mm",
+   "Masse": "152 g",
+   "Options disponibles": "Compatibilité UHV",
+   "Statut": "Standard"
+  },
+  "desc": "Le FAPS400M est un shutter rapide pour faisceau à rayons X offrant la plus grande ouverture de la gamme des Shutters de Cedrat Technologies avec une course supérieure à 3mm et un temps de réponse court inférieur à 8 ms. Il est composé de 2 APA400M actionnant un amplificateur mécanique ou « bras de levier ». Tous les FAPS400M intègrent des têtes optiques en Tungstène.",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/FAPS400M.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/fr/produit/fps400m/",
+  "cat": "sitemap",
+  "model": "FPS400M",
+  "sub": "Obturateur Piézo Rapide",
+  "posted": [
+   "Actionneurs piézo",
+   "Obturateurs Piezo Rapides"
+  ],
+  "specs": {
+   "Diamètre maximum du faisceau": "0,7 mm",
+   "Temps d’ouverture & fermeture": "4 ms",
+   "Dimensions": "60mm*44mm*21mm",
+   "Masse": "84 g",
+   "Options disponibles": "Compatibilité UHV",
+   "Statut": "Standard"
+  },
+  "desc": "Le FPS400M (dérivé du FPS200M) est composé d’Actionneurs Piezo Amplifiés APA400M avec une tête optique dédiée. Le FPS400M est compact, stable et offre une plus grande course que le FPS200M. Il intègre des têtes optiques en Tungstène.",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/FPS400M.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/fr/produit/ppa120l/",
+  "cat": "sitemap",
+  "model": "PPA120L",
+  "sub": "Actionneur Direct à Précharge Parallèle",
+  "posted": [
+   "Actionneur Direct à Précharge Parallèle",
+   "Actionneurs piézo"
+  ],
+  "specs": {
+   "Force bloquée": "3500",
+   "Capacité": "26",
+   "Course nominale": "130",
+   "Raideur": "26,9",
+   "Fréquence de résonance": "3260",
+   "Options disponibles": "Jauge de contrainte, Coque non magnétique, Compatibilité vide",
+   "Statut": "Standard"
+  },
+  "desc": "Applications : Contrôle actif de vibration – Usinage de piston ovale – Positionnement fin de charges lourdes",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/PPA120L.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/fr/produit/ppa80xl/",
+  "cat": "sitemap",
+  "model": "PPA80XL",
+  "sub": "Actionneur Direct à Précharge Parallèle",
+  "posted": [
+   "Actionneur Direct à Précharge Parallèle",
+   "Actionneurs piézo"
+  ],
+  "specs": {
+   "Force bloquée": "7000",
+   "Capacité": "34",
+   "Course nominale": "90",
+   "Raideur": "77,8",
+   "Fréquence de résonance": "4620",
+   "Options disponibles": "Jauge de contrainte, Coque non magnétique, Compatibilité vide",
+   "Statut": "Standard"
+  },
+  "desc": "Applications : Stabilisation de charges Lourdes dans les machines-outils de précision – Tests de fatigue par frettage – Agitateurs haute fréquence",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/PPA80XL.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/fr/produit/ppa80l/",
+  "cat": "sitemap",
+  "model": "PPA80L",
+  "sub": "Actionneur Direct à Précharge Parallèle",
+  "posted": [
+   "Actionneur Direct à Précharge Parallèle",
+   "Actionneurs piézo"
+  ],
+  "specs": {
+   "Force bloquée": "3500",
+   "Capacité": "18",
+   "Course nominale": "85",
+   "Raideur": "41,2",
+   "Fréquence de résonance": "4670",
+   "Options disponibles": "Jauge de contrainte, Coque non magnétique, Compatibilité vide",
+   "Statut": "Standard"
+  },
+  "desc": "Applications : Contrôle actif de vibration – Usinage de piston ovale – Positionnement fin de charges lourdes",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/PPA80L.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/fr/produit/ppa40xl/",
+  "cat": "sitemap",
+  "model": "PPA40XL",
+  "sub": "Actionneur Direct à Précharge Parallèle",
+  "posted": [
+   "Actionneur Direct à Précharge Parallèle",
+   "Actionneurs piézo"
+  ],
+  "specs": {
+   "Force bloquée": "7000",
+   "Capacité": "17",
+   "Course nominale": "43",
+   "Raideur": "162,8",
+   "Fréquence de résonance": "8040",
+   "Options disponibles": "Jauge de contrainte, Coque non magnétique, Compatibilité vide",
+   "Statut": "Standard"
+  },
+  "desc": "Applications : Stabilisation de charges Lourdes dans les machines-outils de précision – Tests de fatigue par frettage – Agitateurs haute fréquence",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/PPA40XL.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/fr/produit/ppa40l/",
+  "cat": "sitemap",
+  "model": "PPA40L",
+  "sub": "Actionneur Direct à Précharge Parallèle",
+  "posted": [
+   "Actionneur Direct à Précharge Parallèle",
+   "Actionneurs piézo"
+  ],
+  "specs": {
+   "Force bloquée": "3500",
+   "Capacité": "8,8",
+   "Course nominale": "44",
+   "Raideur": "79,5",
+   "Fréquence de résonance": "8320",
+   "Options disponibles": "Jauge de contrainte, Coque non magnétique, Compatibilité vide",
+   "Statut": "Standard"
+  },
+  "desc": "Applications : Control actif de vibration – Usinage de piston ovale – Positionnement fin de charges lourdes",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/PPA40L.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/fr/produit/ppa60l/",
+  "cat": "sitemap",
+  "model": "PPA60L",
+  "sub": "Actionneur Direct à Précharge Parallèle",
+  "posted": [
+   "Actionneur Direct à Précharge Parallèle",
+   "Actionneurs piézo"
+  ],
+  "specs": {
+   "Force bloquée": "3500",
+   "Capacité": "13",
+   "Course nominale": "67",
+   "Raideur": "52,2",
+   "Fréquence de résonance": "5980",
+   "Options disponibles": "Jauge de contrainte, Coque non magnétique, Compatibilité vide",
+   "Statut": "Standard"
+  },
+  "desc": "Applications : Control actif de vibration – Usinage de piston ovale – Positionnement fin de charges lourdes",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/PPA60L.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/fr/produit/ppa40m/",
+  "cat": "sitemap",
+  "model": "PPA40M",
+  "sub": "Actionneur Direct à Précharge Parallèle",
+  "posted": [
+   "Actionneur Direct à Précharge Parallèle",
+   "Actionneurs piézo"
+  ],
+  "specs": {
+   "Force bloquée": "850",
+   "Capacité": "2,2",
+   "Course nominale": "38",
+   "Raideur": "22,4",
+   "Fréquence de résonance": "11300",
+   "Options disponibles": "Jauge de contrainte, Coque non magnétique, Compatibilité vide",
+   "Statut": "Standard"
+  },
+  "desc": "Applications : Assistance vibratoire – Vibreur de pointe pour Microscope à Force Atomique – Déformation active de miroirs de télescopes – Injection ultrasonique",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/PPA40M.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/fr/produit/ppa20m/",
+  "cat": "sitemap",
+  "model": "PPA20M",
+  "sub": "Actionneur Direct à Précharge Parallèle",
+  "posted": [
+   "Actionneur Direct à Précharge Parallèle",
+   "Actionneurs piézo"
+  ],
+  "specs": {
+   "Force bloquée": "850",
+   "Capacité": "1,1",
+   "Course nominale": "19,5",
+   "Raideur": "43,6",
+   "Fréquence de résonance": "20200",
+   "Options disponibles": "Jauge de contrainte, Coque non magnétique, Compatibilité vide",
+   "Statut": "Standard"
+  },
+  "desc": "Applications : Assistance vibratoire – Vibreur de pointe pour Microscope à Force Atomique – Déformation active de miroirs de télescopes – Injection ultrasonique",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/PPA20M.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/fr/produit/ppa10m/",
+  "cat": "sitemap",
+  "model": "PPA10M",
+  "sub": "Actionneur Direct à Précharge Parallèle",
+  "posted": [
+   "Actionneur Direct à Précharge Parallèle",
+   "Actionneurs piézo"
+  ],
+  "specs": {
+   "Force bloquée": "850",
+   "Capacité": "0,55",
+   "Course nominale": "8,3",
+   "Raideur": "102,4",
+   "Fréquence de résonance": "32300",
+   "Options disponibles": "Jauge de contrainte, Coque non magnétique, Compatibilité vide",
+   "Statut": "Standard"
+  },
+  "desc": "Applications : Assistance vibratoire – Vibreur de pointe pour Microscope à Force Atomique – Déformation active de miroirs de télescopes – Injection ultrasonique",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/PPA10M.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/fr/produit/ppa120xl/",
+  "cat": "sitemap",
+  "model": "PPA120XL",
+  "sub": "Actionneur Direct à Précharge Parallèle",
+  "posted": [
+   "Actionneur Direct à Précharge Parallèle",
+   "Actionneurs piézo"
+  ],
+  "specs": {
+   "Force bloquée": "7000",
+   "Capacité": "51",
+   "Course nominale": "130",
+   "Raideur": "53,8",
+   "Fréquence de résonance": "3250",
+   "Options disponibles": "Jauge de contrainte, Coque non magnétique, Compatibilité vide",
+   "Statut": "Standard"
+  },
+  "desc": "Applications : Stabilisation de charges Lourdes dans les machines-outils de précision – Tests de fatigue par frettage – Agitateurs haute fréquence",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/PPA120XL.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/fr/produit/apa100m/",
+  "cat": "sitemap",
+  "model": "APA100M",
+  "sub": "Actionneur Piézolélectrique Amplifié",
+  "posted": [
+   "Actionneur Piezo Amplifié",
+   "Actionneurs piézo"
+  ],
+  "specs": {
+   "Force bloquée": "230",
+   "Capacité": "2,2",
+   "Course nominale": "125",
+   "Raideur": "1,9",
+   "Fréquence de résonance": "1910",
+   "Options disponibles": "Jauge de contrainte, Coque non magnétique, Compatibilité vide",
+   "Statut": "Standard"
+  },
+  "desc": "Applications : Obturateurs rapides pour rayons X, compatibles vide – Vannes dynamiques – Ajustement de cavité laser – Volets actifs miniatures pour mirco drones.",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/APA100M.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/fr/produit/apa150m/",
+  "cat": "sitemap",
+  "model": "APA150M",
+  "sub": "Actionneur Piézolélectrique Amplifié",
+  "posted": [
+   "Actionneur Piezo Amplifié",
+   "Actionneurs piézo"
+  ],
+  "specs": {
+   "Force bloquée": "130",
+   "Capacité": "2,2",
+   "Course nominale": "185",
+   "Raideur": "0,68",
+   "Fréquence de résonance": "1300",
+   "Options disponibles": "Jauge de contrainte, Coque non magnétique, Compatibilité vide",
+   "Statut": "Standard"
+  },
+  "desc": "Applications : Obturateurs rapides pour rayons X, compatibles vide – Vannes dynamiques – Ajustement de cavité laser – Volets actifs miniatures pour mirco drones.",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/APA150M.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/fr/produit/apa60sm/",
+  "cat": "sitemap",
+  "model": "APA60SM",
+  "sub": "Actionneur Piézolélectrique Amplifié",
+  "posted": [
+   "Actionneur Piezo Amplifié",
+   "Actionneurs piézo"
+  ],
+  "specs": {
+   "Force bloquée": "140",
+   "Capacité": "1,1",
+   "Course nominale": "77",
+   "Raideur": "1,8",
+   "Fréquence de résonance": "2802",
+   "Options disponibles": "Jauge de contrainte, Coque non magnétique, Compatibilité vide",
+   "Statut": "Standard"
+  },
+  "desc": "Applications : Obturateurs rapides pour rayons X, compatibles vide – Vannes dynamiques – Ajustement de cavité laser – Volets actifs miniatures pour mirco drones.",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/APA60SM.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/fr/produit/apa30uxs/",
+  "cat": "sitemap",
+  "model": "APA30uXS",
+  "sub": "Actionneur Piézolélectrique Amplifié",
+  "posted": [
+   "Actionneur Piezo Amplifié",
+   "Actionneurs piézo"
+  ],
+  "specs": {
+   "Force bloquée": "3,7",
+   "Capacité": "0,04",
+   "Course nominale": "34",
+   "Raideur": "0,11",
+   "Fréquence de résonance": "4778",
+   "Options disponibles": "Coque non magnétique, Compatibilité vide",
+   "Statut": "Standard"
+  },
+  "desc": "Applications : Implants auditifs – Actionnement pour Micro Drones – Récupérateurs d’Enrgie pour Pacemakers – Systèmes électro optiques miniatures",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/APA30uXS.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/fr/produit/apa60s/",
+  "cat": "sitemap",
+  "model": "APA60S",
+  "sub": "Actionneur Piézolélectrique Amplifié",
+  "posted": [
+   "Actionneur Piezo Amplifié",
+   "Actionneurs piézo"
+  ],
+  "specs": {
+   "Force bloquée": "130",
+   "Capacité": "1,1",
+   "Course nominale": "75",
+   "Raideur": "1,7",
+   "Fréquence de résonance": "2860",
+   "Options disponibles": "Jauge de contrainte, Coque non magnétique, Compatibilité vide",
+   "Statut": "Standard"
+  },
+  "desc": "Applications : Agitation de poudres pour diffraction X – Stabilisation optique pour caméras embarquées – Platines optiques qualifiées pour le spatial – Nano indentation",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/APA60S-1.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/fr/produit/apa1500l/",
+  "cat": "sitemap",
+  "model": "APA1500L",
+  "sub": "Actionneur Piézolélectrique Amplifié",
+  "posted": [
+   "Actionneur Piezo Amplifié",
+   "Actionneurs piézo"
+  ],
+  "specs": {
+   "Force bloquée": "99",
+   "Capacité": "26",
+   "Course nominale": "1480",
+   "Raideur": "0,07",
+   "Fréquence de résonance": "135",
+   "Options disponibles": "Jauge de contrainte, Coque non magnétique, Compatibilité vide",
+   "Statut": "Standard"
+  },
+  "desc": "Applications : Volets pour pales d’hélicoptères – Agitateurs haute fréquence – Cyclage de matériaux sous contrainte – Positionnement de miroirs dans les télescopes et les instruments",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/APA1500L.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/fr/produit/apa200m/",
+  "cat": "sitemap",
+  "model": "APA200M",
+  "sub": "Actionneur Piézolélectrique Amplifié",
+  "posted": [
+   "Actionneur Piezo Amplifié",
+   "Actionneurs piézo"
+  ],
+  "specs": {
+   "Force bloquée": "87",
+   "Capacité": "2,2",
+   "Course nominale": "235",
+   "Raideur": "0,37",
+   "Fréquence de résonance": "906",
+   "Options disponibles": "Jauge de contrainte, Compatibilité vide",
+   "Statut": "Standard"
+  },
+  "desc": "Applications : Obturateurs rapides pour rayons X, compatibles vide – Vannes dynamiques – Ajustement de cavité laser – Volets actifs miniatures pour mirco drones.",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/APA200M.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/fr/produit/apa600mml/",
+  "cat": "sitemap",
+  "model": "APA600MML",
+  "sub": "Actionneur Piézolélectrique Amplifié",
+  "posted": [
+   "Actionneur Piezo Amplifié",
+   "Actionneurs piézo"
+  ],
+  "specs": {
+   "Force bloquée": "78",
+   "Capacité": "6,3",
+   "Course nominale": "650",
+   "Raideur": "0,12",
+   "Fréquence de résonance": "323",
+   "Options disponibles": "Jauge de contrainte, Coque non magnétique, Compatibilité vide",
+   "Statut": "Standard"
+  },
+  "desc": "Applications : Stabilisation active d’une balance de Watt – Agitateurs haute fréquence – Elasto-IRM – Modulation de cavité dans les interféromètres à longue base",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/APA600MML.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/fr/produit/apa2000l/",
+  "cat": "sitemap",
+  "model": "APA2000L",
+  "sub": "Actionneur Piézolélectrique Amplifié",
+  "posted": [
+   "Actionneur Piezo Amplifié",
+   "Actionneurs piézo"
+  ],
+  "specs": {
+   "Force bloquée": "62",
+   "Capacité": "26",
+   "Course nominale": "2010",
+   "Raideur": "0,03",
+   "Fréquence de résonance": "87",
+   "Options disponibles": "Jauge de contrainte, Coque non magnétique, Compatibilité vide",
+   "Statut": "Standard"
+  },
+  "desc": "Applications : Volets pour pales d’hélicoptères – Agitateurs haute fréquence – Cyclage de matériaux sous contrainte – Positionnement de miroirs dans les télescopes et les instruments",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/APA2000L.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/fr/produit/apa120s/",
+  "cat": "sitemap",
+  "model": "APA120S",
+  "sub": "Actionneur Piézolélectrique Amplifié",
+  "posted": [
+   "Actionneur Piezo Amplifié",
+   "Actionneurs piézo"
+  ],
+  "specs": {
+   "Force bloquée": "46",
+   "Capacité": "1,1",
+   "Course nominale": "140",
+   "Raideur": "0,33",
+   "Fréquence de résonance": "1340",
+   "Options disponibles": "Jauge de contrainte, Coque non magnétique, Compatibilité vide",
+   "Statut": "Standard"
+  },
+  "desc": "Applications : Agitation de poudres pour diffraction X – Stabilisation optique pour caméras embarquées – Platines optiques qualifiées pour le spatial – Nano indentation",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/APA120S.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/fr/produit/apa35xs/",
+  "cat": "sitemap",
+  "model": "APA35XS",
+  "sub": "Actionneur Piézolélectrique Amplifié",
+  "posted": [
+   "Actionneur Piezo Amplifié",
+   "Actionneurs piézo"
+  ],
+  "specs": {
+   "Force bloquée": "27",
+   "Capacité": "0,3",
+   "Course nominale": "52",
+   "Raideur": "0,52",
+   "Fréquence de résonance": "3880",
+   "Options disponibles": "Jauge de contrainte, Coque non magnétique, Compatibilité vide",
+   "Statut": "Standard"
+  },
+  "desc": "Applications : Mécanismes optiques miniatures – Contrôle dynamique de micro-vannes – Dispositifs orientables miniatures qualifiés pour le spatial – Frein miniatures",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/APA35XS.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/fr/produit/apa400m/",
+  "cat": "sitemap",
+  "model": "APA400M",
+  "sub": "Actionneur Piézolélectrique Amplifié",
+  "posted": [
+   "Actionneur Piezo Amplifié",
+   "Actionneurs piézo"
+  ],
+  "specs": {
+   "Force bloquée": "34",
+   "Capacité": "2,2",
+   "Course nominale": "455",
+   "Raideur": "0,07",
+   "Fréquence de résonance": "423",
+   "Options disponibles": "Jauge de contrainte, Compatibilité vide",
+   "Statut": "Standard"
+  },
+  "desc": "Applications : Pinces pour systèmes d’alimentation de fils – Positionneur pour microscope inversé – Technologie de retour haptique pour écran tactile – Récupérateurs d’énergie",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/APA400M.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/fr/produit/apa600m/",
+  "cat": "sitemap",
+  "model": "APA600M",
+  "sub": "Actionneur Piézolélectrique Amplifié",
+  "posted": [
+   "Actionneur Piezo Amplifié",
+   "Actionneurs piézo"
+  ],
+  "specs": {
+   "Force bloquée": "24",
+   "Capacité": "2,2",
+   "Course nominale": "550",
+   "Raideur": "0,04",
+   "Fréquence de résonance": "316",
+   "Options disponibles": "Jauge de contrainte, Compatibilité vide",
+   "Statut": "Standard"
+  },
+  "desc": "Applications : Pinces pour systèmes d’alimentation de fils – Positionneur pour microscope inversé – Technologie de retour haptique pour écran tactile – Récupérateurs d’énergie",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/APA600M.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/fr/produit/apa1000l/",
+  "cat": "sitemap",
+  "model": "APA1000L",
+  "sub": "Actionneur Piézolélectrique Amplifié",
+  "posted": [
+   "Actionneur Piezo Amplifié",
+   "Actionneurs piézo"
+  ],
+  "specs": {
+   "Force bloquée": "350",
+   "Capacité": "26",
+   "Course nominale": "870",
+   "Raideur": "0,4",
+   "Fréquence de résonance": "290",
+   "Options disponibles": "Jauge de contrainte, Coque non magnétique, Compatibilité vide",
+   "Statut": "Standard"
+  },
+  "desc": "Applications : Volets pour pales d’hélicoptères – Agitateurs haute fréquence – Cyclage de matériaux sous contrainte – Positionnement de miroirs dans les télescopes et les instruments",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/APA1000L.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/fr/produit/apa40sm/",
+  "cat": "sitemap",
+  "model": "APA40SM",
+  "sub": "Actionneur Piézolélectrique Amplifié",
+  "posted": [
+   "Actionneur Piezo Amplifié",
+   "Actionneurs piézo"
+  ],
+  "specs": {
+   "Force bloquée": "260",
+   "Capacité": "1,1",
+   "Course nominale": "54",
+   "Raideur": "4,9",
+   "Fréquence de résonance": "4130",
+   "Options disponibles": "Jauge de contrainte, Compatibilité vide",
+   "Statut": "Standard"
+  },
+  "desc": "Applications : Récupérateur de choc d’énergie dans les interrupteurs sans fil – Cyclage de matériaux sous contrainte – Injecteurs",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/APA40SM.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/fr/produit/apa50xs/",
+  "cat": "sitemap",
+  "model": "APA50XS",
+  "sub": "Actionneur Piézolélectrique Amplifié",
+  "posted": [
+   "Actionneur Piezo Amplifié",
+   "Actionneurs piézo"
+  ],
+  "specs": {
+   "Force bloquée": "16",
+   "Capacité": "0,3",
+   "Course nominale": "66",
+   "Raideur": "0,24",
+   "Fréquence de résonance": "2730",
+   "Options disponibles": "Coque non magnétique, Compatibilité vide",
+   "Statut": "Standard"
+  },
+  "desc": "Applications : Mécanismes optiques miniatures – Contrôle dynamique de micro-vannes – Dispositifs orientables miniatures qualifiés pour le spatial – Frein miniatures",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/APA50XS.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/fr/produit/apa900m/",
+  "cat": "sitemap",
+  "model": "APA900M",
+  "sub": "Actionneur Piézolélectrique Amplifié",
+  "posted": [
+   "Actionneur Piezo Amplifié",
+   "Actionneurs piézo"
+  ],
+  "specs": {
+   "Force bloquée": "18",
+   "Capacité": "2,2",
+   "Course nominale": "785",
+   "Raideur": "0,02",
+   "Fréquence de résonance": "259",
+   "Options disponibles": "Compatibilité vide",
+   "Statut": "Standard"
+  },
+  "desc": "Applications : Pinces pour systèmes d’alimentation de fils – Positionneur pour microscope inversé – Technologie de retour haptique pour écran tactile – Récupérateurs d’énergie",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/APA900M.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/fr/produit/apa400mml/",
+  "cat": "sitemap",
+  "model": "APA400MML",
+  "sub": "Actionneur Piézolélectrique Amplifié",
+  "posted": [
+   "Actionneur Piezo Amplifié",
+   "Actionneurs piézo"
+  ],
+  "specs": {
+   "Force bloquée": "180",
+   "Capacité": "6,3",
+   "Course nominale": "355",
+   "Raideur": "0,52",
+   "Fréquence de résonance": "634",
+   "Options disponibles": "Jauge de contrainte, Coque non magnétique, Compatibilité vide",
+   "Statut": "Standard"
+  },
+  "desc": "Applications : Stabilisation active d’une balance de Watt – Agitateurs haute fréquence – Elasto-IRM – Modulation de cavité dans les interféromètres à longue base",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/APA400MML.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/fr/produit/apa150xxs/",
+  "cat": "sitemap",
+  "model": "APA150XXS",
+  "sub": "Actionneur Piézolélectrique Amplifié",
+  "posted": [
+   "Actionneur Piezo Amplifié",
+   "Actionneurs piézo"
+  ],
+  "specs": {
+   "Force bloquée": "3,2",
+   "Capacité": "0,18",
+   "Course nominale": "132",
+   "Raideur": "0,02",
+   "Fréquence de résonance": "1100",
+   "Options disponibles": "Compatibilité vide",
+   "Statut": "Standard"
+  },
+  "desc": "Applications : Implants auditifs – Actionnement pour Micro Drones – Récupérateurs d’Enrgie pour Pacemakers – Systèmes électro optiques miniatures",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/APA150XXS.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/fr/produit/apa500xxl/",
+  "cat": "sitemap",
+  "model": "APA500XXL",
+  "sub": "Actionneur Piézolélectrique Amplifié",
+  "posted": [
+   "Actionneur Piezo Amplifié",
+   "Actionneurs piézo"
+  ],
+  "specs": {
+   "Force bloquée": "44000",
+   "Capacité": "42",
+   "Course nominale": "690",
+   "Raideur": "64",
+   "Fréquence de résonance": "300",
+   "Options disponibles": "Compatibilité vide",
+   "Statut": "Préliminaire"
+  },
+  "desc": "Applications : Grand miroir pour téléscope – Mirroir à déviation rapide – Stabilisation Active",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/APA500XXL.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/fr/produit/apa95ml/",
+  "cat": "sitemap",
+  "model": "APA95ML",
+  "sub": "Actionneur Piézolélectrique Amplifié",
+  "posted": [
+   "Actionneur Piezo Amplifié",
+   "Actionneurs piézo"
+  ],
+  "specs": {
+   "Force bloquée": "2100",
+   "Capacité": "13",
+   "Course nominale": "99",
+   "Raideur": "21",
+   "Fréquence de résonance": "2090",
+   "Options disponibles": "Jauge de contrainte, Compatibilité vide",
+   "Statut": "Standard"
+  },
+  "desc": "Applications : Contrôle actif de vibration pour robots médicaux – Agitateurs haute fréquence – Test de fatigue par frottement (fretting) – Positionneur qualifié pour le spatial",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/APA95ML.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/fr/produit/apa120ml/",
+  "cat": "sitemap",
+  "model": "APA120ML",
+  "sub": "Actionneur Piézolélectrique Amplifié",
+  "posted": [
+   "Actionneur Piezo Amplifié",
+   "Actionneurs piézo"
+  ],
+  "specs": {
+   "Force bloquée": "1500",
+   "Capacité": "13",
+   "Course nominale": "120",
+   "Raideur": "12",
+   "Fréquence de résonance": "1880",
+   "Options disponibles": "Jauge de contrainte, Compatibilité vide",
+   "Statut": "Standard"
+  },
+  "desc": "Applications : Contrôle actif de vibration pour robots médicaux – Agitateurs haute fréquence – Test de fatigue par frottement (fretting) – Positionneur qualifié pour le spatial",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/APA120ML.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/fr/produit/apa500xl/",
+  "cat": "sitemap",
+  "model": "APA500XL",
+  "sub": "Actionneur Piézolélectrique Amplifié",
+  "posted": [
+   "Actionneur Piezo Amplifié",
+   "Actionneurs piézo"
+  ],
+  "specs": {
+   "Force bloquée": "1400",
+   "Capacité": "77",
+   "Course nominale": "590",
+   "Raideur": "2,4",
+   "Fréquence de résonance": "345",
+   "Options disponibles": "Jauge de contrainte, Compatibilité vide",
+   "Statut": "Standard"
+  },
+  "desc": "Applications : Agitateurs haute fréquence – Test de fatigue par frottement (fretting) – Positionnement de charges lourdes – Test de force",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/APA500XL.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/fr/produit/apa230l/",
+  "cat": "sitemap",
+  "model": "APA230L",
+  "sub": "Actionneur Piézolélectrique Amplifié",
+  "posted": [
+   "Actionneur Piezo Amplifié",
+   "Actionneurs piézo"
+  ],
+  "specs": {
+   "Force bloquée": "1300",
+   "Capacité": "26",
+   "Course nominale": "230",
+   "Raideur": "5,8",
+   "Fréquence de résonance": "857",
+   "Options disponibles": "Jauge de contrainte, Coque non magnétique, Compatibilité vide",
+   "Statut": "Standard"
+  },
+  "desc": "Applications : Volets pour pales d’hélicoptères – Agitateurs haute fréquence – Cyclage de matériaux sous contrainte – Positionnement de miroirs dans les télescopes et les instruments",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/APA230L.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/fr/produit/apa100mml/",
+  "cat": "sitemap",
+  "model": "APA100MML",
+  "sub": "Actionneur Piézolélectrique Amplifié",
+  "posted": [
+   "Actionneur Piezo Amplifié",
+   "Actionneurs piézo"
+  ],
+  "specs": {
+   "Force bloquée": "830",
+   "Capacité": "6,3",
+   "Course nominale": "100",
+   "Raideur": "8,3",
+   "Fréquence de résonance": "1730",
+   "Options disponibles": "Jauge de contrainte, Compatibilité vide",
+   "Statut": "Standard"
+  },
+  "desc": "Applications : Stabilisation active d’une balance de Watt – Agitateurs haute fréquence – Elasto-IRM – Modulation de cavité dans les interféromètres à longue base",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/APA100MML.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/fr/produit/apa200ml/",
+  "cat": "sitemap",
+  "model": "APA200ML",
+  "sub": "Actionneur Piézolélectrique Amplifié",
+  "posted": [
+   "Actionneur Piezo Amplifié",
+   "Actionneurs piézo"
+  ],
+  "specs": {
+   "Force bloquée": "780",
+   "Capacité": "13",
+   "Course nominale": "220",
+   "Raideur": "3,6",
+   "Fréquence de résonance": "1015",
+   "Options disponibles": "Jauge de contrainte, Compatibilité vide",
+   "Statut": "Standard"
+  },
+  "desc": "Applications : Contrôle actif de vibration pour robots médicaux – Agitateurs haute fréquence – Test de fatigue par frottement (fretting) – Positionneur qualifié pour le spatial",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/APA200ML.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/fr/produit/apa1000xl/",
+  "cat": "sitemap",
+  "model": "APA1000XL",
+  "sub": "Actionneur Piézolélectrique Amplifié",
+  "posted": [
+   "Actionneur Piezo Amplifié",
+   "Actionneurs piézo"
+  ],
+  "specs": {
+   "Force bloquée": "770",
+   "Capacité": "77",
+   "Course nominale": "1100",
+   "Raideur": "0,7",
+   "Fréquence de résonance": "212",
+   "Options disponibles": "Jauge de contrainte, Compatibilité vide",
+   "Statut": "Standard"
+  },
+  "desc": "Applications : Agitateurs haute fréquence – Test de fatigue par frottement (fretting) – Positionnement de charges lourdes – Test de force",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/APA1000XL.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/fr/produit/apa500l/",
+  "cat": "sitemap",
+  "model": "APA500L",
+  "sub": "Actionneur Piézolélectrique Amplifié",
+  "posted": [
+   "Actionneur Piezo Amplifié",
+   "Actionneurs piézo"
+  ],
+  "specs": {
+   "Force bloquée": "580",
+   "Capacité": "26",
+   "Course nominale": "510",
+   "Raideur": "1,1",
+   "Fréquence de résonance": "456",
+   "Options disponibles": "Jauge de contrainte, Coque non magnétique, Compatibilité vide",
+   "Statut": "Standard"
+  },
+  "desc": "Applications : Volets pour pales d’hélicoptères – Agitateurs haute fréquence – Cyclage de matériaux sous contrainte – Positionnement de miroirs dans les télescopes et les instruments",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/APA500L.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/fr/produit/apa300ml/",
+  "cat": "sitemap",
+  "model": "APA300ML",
+  "sub": "Actionneur Piézolélectrique Amplifié",
+  "posted": [
+   "Actionneur Piezo Amplifié",
+   "Actionneurs piézo"
+  ],
+  "specs": {
+   "Force bloquée": "540",
+   "Capacité": "13",
+   "Course nominale": "300",
+   "Raideur": "1,8",
+   "Fréquence de résonance": "758",
+   "Options disponibles": "Jauge de contrainte, Compatibilité vide",
+   "Statut": "Standard"
+  },
+  "desc": "Applications : Contrôle actif de vibration pour robots médicaux – Agitateurs haute fréquence – Test de fatigue par frottement (fretting) – Positionneur qualifié pour le spatial",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/APA300ML.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/fr/produit/apa60sl/",
+  "cat": "sitemap",
+  "model": "APA60SL",
+  "sub": "Actionneur Piézolélectrique Amplifié",
+  "posted": [
+   "Actionneur Piezo Amplifié",
+   "Actionneurs piézo"
+  ],
+  "specs": {
+   "Force bloquée": "390",
+   "Capacité": "6,2",
+   "Course nominale": "57",
+   "Raideur": "6,8",
+   "Fréquence de résonance": "3120",
+   "Options disponibles": "Jauge de contrainte, Compatibilité vide",
+   "Statut": "Standard"
+  },
+  "desc": "Applications : Verrouillage actif",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/APA60SL.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/fr/produit/cmau10/",
+  "cat": "sitemap",
+  "model": "CMAu10",
+  "sub": "Amplificateur Linéaire Compact",
+  "posted": [
+   "Amplificateurs Standalone Magnétiques",
+   "Contrôleurs magnétiques"
+  ],
+  "specs": {
+   "Décalage de courant de sortie": "<5 mA",
+   "Charge de sortie max": "Illimitée",
+   "Statut": "Standard"
+  },
+  "desc": "La nouvelle électronique de commande CMAµ10 a été spécialement développée pour la commande d’actionneurs magnétiques linéaires de petite taille, tels que le MICA20CS, ainsi que des Fast Steering Mirrors magnétiques de petite taille, tels que M-FSM62.",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/CMAu10.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/fr/produit/mcla18/",
+  "cat": "sitemap",
+  "model": "MCLA18",
+  "sub": "Amplificateur Linéaire Compact",
+  "posted": [
+   "Contrôleurs magnétiques"
+  ],
+  "specs": {
+   "Tension d’alimentation": "+15Vdc ou +/- 6 à 36V",
+   "Courant et tension de sortie maximum": "Max 1A et 32V",
+   "Puissance de sortie": "Max 32W par voie",
+   "Commandes": "analogique (contrôle) / digitale (configuration PID via USB ou RS422)"
+  },
+  "desc": "La MCLA18 est un amplificateur linéaire de courant compact à 2 voies, conçu pour piloter les mécanismes de type M-FSM. Il possède une boucle d’asservissement en courant et peut être contrôlé en boucle fermée via 2 entrées analogiques pour les consignes et 2 entrées analogiques pour les capteurs de position.",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/mcla18.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/fr/produit/sa75b/",
+  "cat": "sitemap",
+  "model": "SA75B",
+  "sub": "Amplificateur de puissance de commutation",
+  "posted": [
+   "Amplificateurs linéaires",
+   "Contrôleurs piezo"
+  ],
+  "specs": {
+   "Courant moyen de sortie": "10 A",
+   "Nombre de canaux": "1…2",
+   "Facteur de gain": "20",
+   "SNR": "60 dB",
+   "Options disponibles": "Servo-controlleur numérique",
+   "Statut": "Standard"
+  },
+  "desc": "L’amplificateur de puissance de commutation SA75B est conçu pour entraîner des charges capacitives élevées comme des actionneurs piézoélectriques dans des conditions dynamiques.",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/SA75B.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/fr/produit/sp75a/",
+  "cat": "sitemap",
+  "model": "SP75A",
+  "sub": "Amplificateur de puissance de commutation",
+  "posted": [
+   "Amplificateurs linéaires",
+   "Contrôleurs piezo"
+  ],
+  "specs": {
+   "Courant moyen de sortie": "360 mA",
+   "Nombre de canaux": "1…2",
+   "SNR": "85 dB",
+   "Options disponibles": "Servo-controlleur numérique, Communication RS422",
+   "Statut": "Standard"
+  },
+  "desc": "Le SP75 est un amplificateur bipolaire (-20 / +150 V) de puissance de commutation pour la conduite d’actionneurs piézoélectriques à basse tension, contrôlé par un signal TTL. Il est particulièrement adapté à la conduite d’obturateurs comme le FPS.",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/SP75A.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/fr/produit/sa75a/",
+  "cat": "sitemap",
+  "model": "SA75A",
+  "sub": "Amplificateur de puissance de commutation",
+  "posted": [
+   "Amplificateurs linéaires",
+   "Contrôleurs piezo"
+  ],
+  "specs": {
+   "Courant moyen de sortie": "5 A",
+   "Nombre de canaux": "1…2",
+   "Facteur de gain": "20",
+   "SNR": "60 dB",
+   "Options disponibles": "Servo-controlleur numérique",
+   "Statut": "Standard"
+  },
+  "desc": "L’amplificateur de puissance de commutation SA75A est conçu pour entraîner des charges capacitives élevées comme des actionneurs piézoélectriques dans des conditions dynamiques.",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/SA75A.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/fr/produit/sa75d/",
+  "cat": "sitemap",
+  "model": "SA75D",
+  "sub": "Amplificateur de puissance de commutation",
+  "posted": [
+   "Amplificateurs linéaires",
+   "Contrôleurs piezo"
+  ],
+  "specs": {
+   "Courant moyen de sortie": "20 A",
+   "Nombre de canaux": "1",
+   "Facteur de gain": "20",
+   "SNR": "60 dB",
+   "Options disponibles": "Servo-controlleur numérique, Multi-sortie",
+   "Statut": "Standard"
+  },
+  "desc": "L’amplificateur de puissance de commutation SA75D est l’amplificateur le plus puissant fonctionnant en mode continu sur le marché, conçu pour entraîner des charges capacitives élevées comme des actionneurs piézoélectriques dans des conditions dynamiques.",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/SA75D.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/fr/produit/la75a/",
+  "cat": "sitemap",
+  "model": "LA75A",
+  "sub": "Carte d'Amplification Linéaire",
+  "posted": [
+   "Amplificateurs linéaires",
+   "Contrôleurs piezo"
+  ],
+  "specs": {
+   "Courant moyen de sortie": "90 mA",
+   "Nombre de canaux": "1…3",
+   "Facteur de gain": "20",
+   "SNR": "85 dB",
+   "Options disponibles": "Push Pull, Servo-controlleur numérique",
+   "Statut": "Standard"
+  },
+  "desc": "L’amplificateur linéaire LA75A est conçu pour piloter des charges capacitives comme des actionneurs piézoélectriques avec un bruit extrêmement faible. Le LA75A est un amplificateur de puissance moyenne.",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/LA75A.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/fr/produit/la75c/",
+  "cat": "sitemap",
+  "model": "LA75C",
+  "sub": "Carte d'Amplification Linéaire",
+  "posted": [
+   "Amplificateurs linéaires",
+   "Contrôleurs piezo"
+  ],
+  "specs": {
+   "Courant moyen de sortie": "2400 mA",
+   "Nombre de canaux": "1",
+   "Facteur de gain": "20",
+   "SNR": "85 dB",
+   "Options disponibles": "Servo-controlleur numérique",
+   "Statut": "Standard"
+  },
+  "desc": "Le LA75C est la carte amplificateur linéaire la plus puissante, offrant un faible bruit et un courant élevé pour des applications de mouvement dynamiques et précises.",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/LA75C.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/fr/produit/dtt15xs-sg/",
+  "cat": "sitemap",
+  "model": "DTT15XS-SG",
+  "sub": "Mécanisme Tip-Tilt Dynamique",
+  "posted": [
+   "Fast Steering Platforms"
+  ],
+  "specs": {
+   "Course angulaire max": "2 mrad",
+   "Fréquence résonance sans charge": "3000 Hz",
+   "Dimensions": "40mm*40mm*24mm",
+   "Statut": "Standard"
+  },
+  "desc": "Le mécanisme dynamique Tip Tilt DTT15XS-SG est une plateforme pouvant faire basculer un miroir en verre les long de 2 axes orthogonaux avec une course angulaire de 2 mrad. Le DTT15XS-SG est équipé de jauges de contraintes (Strain Gauges, SG) et d’une carte de conditionnement intégrée, pour un contrôle précis en positionnement. Le DTT15XS-SG convient à tout de type de miroir en verre de diamètre inéfrieur à 40 mm.",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/DTT15XS-SG.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/fr/produit/tt60sm-sg/",
+  "cat": "sitemap",
+  "model": "TT60SM-SG",
+  "sub": "Translateur Tilt",
+  "posted": [
+   "Fast Steering Platforms"
+  ],
+  "specs": {
+   "Course angulaire max": "20 mrad",
+   "Fréquence résonance sans charge": "2180 Hz",
+   "Dimensions": "⌀55*25 mm",
+   "Statut": "Standard"
+  },
+  "desc": "Le mécanisme Tip Tilt 1 monoaxial est basé sur 2 actionneurs de type APA60SM. Deux types de mouvements peuvent être générés : translation et rotation. Seule la rotation est disponible en version standard.",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/TT60SM.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/produit/tt60sm-sg/",
+  "cat": "sitemap",
+  "model": "TT60SM-SG",
+  "sub": "Tilt Translator",
+  "posted": [
+   "Fast Steering Platforms"
+  ],
+  "specs": {
+   "Max angular stroke": "20 mrad",
+   "Unloaded resonance frequency": "2180 Hz",
+   "Dimensions": "⌀55*25 mm",
+   "Status": "Standard"
+  },
+  "desc": "The tilt translator is based on 2 APA 60SM actuators. Two types of movement can be generated: translation and tilt but only Tilt motion is available in standard definition.",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/TT60SM.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/produit/dtt15xs-sg/",
+  "cat": "sitemap",
+  "model": "DTT15XS-SG",
+  "sub": "Dynamic Tip-Tilt Mechanism",
+  "posted": [
+   "Fast Steering Platforms"
+  ],
+  "specs": {
+   "Max angular stroke": "2 mrad",
+   "Unloaded resonance frequency": "3000 Hz",
+   "Dimensions": "40mm*40mm*24mm",
+   "Status": "Standard"
+  },
+  "desc": "The Dynamic Tip Tilt DTT15XS-SG is a piezo based fast-steering platform able to rotate Fused Silica based mirror along 2 orthogonal axes with 2 mrad angular stroke. The DTT15XS-SG is equipped with Strain Gages positioning sensor & embedded conditioning board for accurate positioning control. The DTT15XS-SG is suitable for any glass mirror with less than 40 mm diameter.",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/DTT15XS-SG.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/fr/produit/uc55/",
+  "cat": "sitemap",
+  "model": "UC55",
+  "sub": "Carte de contrôle",
+  "posted": [
+   "Contrôleurs digitaux",
+   "Contrôleurs piezo"
+  ],
+  "specs": {
+   "Fréquence d’échantillonnage": "10/15/30 kSps",
+   "Interface informatique": "USB type B",
+   "Statut": "Standard"
+  },
+  "desc": "La carte UC55 a le même format que la UC45, mais elle dispose d’un taux de contrôle plus élevé et il existe en trois versions différentes : un canal, deux canaux et trois canaux. En un canal, le taux de contrôle est de 30kSps, en deux canaux, 15kSps, et en trois canaux, 10kSps. Les cartes UC55 peuvent également être empilées pour gérer plusieurs canaux de commande indépendants à haute fréquence (jusqu’à 3).",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/UC55.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/fr/produit/m-fsm45/",
+  "cat": "sitemap",
+  "model": "M-FSM45",
+  "sub": "Fast Steering Mirror Magnétique",
+  "posted": [
+   "Fast Steering Mirrors"
+  ],
+  "specs": {
+   "Course angulaire max": "50 mrad",
+   "Fréquence de résonance en charge": "100 Hz",
+   "Dimensions": "Ø45mm*40mm",
+   "Statut": "Standard"
+  },
+  "desc": "Le M-FSM45 est un Fast Steering Mirror magnétique de +15 mm de diamètre d’ouverture utile (substrat en SiC, métallique ou en verre) avec une course angulaire de +50 mrad. Le M-FSM45 est équipé de capteurs de positionnement à courants de Foucault (ECS) pour un contrôle précis du positionnement. Il est qualifié pour la communication optique en espace libre.",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/M-FSM45.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/produit/m-fsm45/",
+  "cat": "sitemap",
+  "model": "M-FSM45",
+  "sub": "Magnetic Fast Steering Mirror",
+  "posted": [
+   "Fast Steering Mirrors"
+  ],
+  "specs": {
+   "Max angular stroke": "50 mrad",
+   "Loaded resonance frequency": "100 Hz",
+   "Dimensions": "Ø45mm*40mm",
+   "Status": "Standard"
+  },
+  "desc": "The M-FSM45 is a Magnetic based Fast Steering Mirror of +15 mm diameter clear aperture (in SiC, metallic or glass substrate) with +50 mrad angular stroke. The M-FSM45 is equipped with Eddy Current positioning sensors (ECS) for accurate positioning control. It is space-qualified for free space optical communication.",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/M-FSM45.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/fr/produit/m-fsm45-hpl/",
+  "cat": "sitemap",
+  "model": "M-FSM45-HPL",
+  "sub": "Fast Steering Mirror Magnétique pour lasers de haute puissance",
+  "posted": [
+   "Fast Steering Mirrors"
+  ],
+  "specs": {
+   "Course angulaire max": "90 mrad",
+   "Fréquence de résonance en charge": "80 Hz",
+   "Dimensions": "⌀45 * 60mm",
+   "Statut": "Standard"
+  },
+  "desc": "Le M-FSM45-HPL est un Fast Steering Mirror magnétique pour laser de haute puissance d’une ouverture utile de +16 mm de diamètre (substrat SiC, métallique ou en verre) avec une course angulaire de +90 mrad. Le M-FSM45-HPL est équipé de capteurs de positionnement à courants de Foucault (ECS) pour un contrôle précis du positionnement. Il est qualifié pour la communication optique Feeder-link, étant optimisé pour une puissance laser continue sous vide.",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/m-fsm45-hpl.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/produit/m-fsm45-hpl/",
+  "cat": "sitemap",
+  "model": "M-FSM45-HPL",
+  "sub": "Magnetic Fast Steering Mirror for High Power Laser",
+  "posted": [
+   "Fast Steering Mirrors"
+  ],
+  "specs": {
+   "Max angular stroke": "90 mrad",
+   "Loaded resonance frequency": "80 Hz",
+   "Dimensions": "⌀45 * 60mm",
+   "Status": "Standard"
+  },
+  "desc": "The M-FSM45-HPL is a Magnetic based Fast Steering Mirror for High Power Laser of +16 mm diameter clear aperture (in SiC, metallic or glass substrate) with +90 mrad angular stroke. The M-FSM45-HPL is equipped with Eddy Current positioning sensors (ECS) for accurate positioning control. It is space-qualified for Feeder-link optical communication, being optimized for continuous laser power under vacuum.",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/m-fsm45-hpl.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/fr/produit/strain-gauge-sensor/",
+  "cat": "sitemap",
+  "model": "Strain Gauge Sensor",
+  "sub": "Demande d'information",
+  "posted": [
+   "Capteurs",
+   "Jauges de contrainte"
+  ],
+  "specs": {
+   "Pont d'impédance": "350 Ohms",
+   "Pont de sensibilité": "1,33 uV/ppm/V",
+   "Compatibilité vide": "Oui",
+   "Options disponibles": "Autres interfaces sur demande",
+   "Statut": "Produit intégré"
+  },
+  "desc": "Le capteur de jauge de contrainte SG est un capteur de contact qui est lié à la céramique afin de mesurer leur déformation.",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/SG.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/fr/produit/ecp1000/",
+  "cat": "sitemap",
+  "model": "ECP1000",
+  "sub": "Demande d'information",
+  "posted": [
+   "Capteurs",
+   "Capteurs de courant de Foucault"
+  ],
+  "specs": {
+   "Plage nominale": "1000 µm",
+   "Résolution (BW=1kHz)": "0,003% de la pleine échelle",
+   "Options disponibles": "Paquets de câbles droits/à angle droit",
+   "Statut": "Produit intégré"
+  },
+  "desc": "La sonde de courant de Foucault ECP1000 est un capteur sans contact capable de mesurer la distance sur une plage de 1000um. Possibilité de portée étendue jusqu’à 2000um.",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/ECP1000.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/fr/produit/ecp500/",
+  "cat": "sitemap",
+  "model": "ECP500",
+  "sub": "Demande d'information",
+  "posted": [
+   "Capteurs",
+   "Capteurs de courant de Foucault"
+  ],
+  "specs": {
+   "Plage nominale": "500 µm",
+   "Résolution (BW=1kHz)": "0,005% de la pleine échelle",
+   "Options disponibles": "Paquets de câbles droits/à angle droit",
+   "Statut": "Produit intégré"
+  },
+  "desc": "La sonde de courant de Foucault ECP500 est un capteur sans contact capable de mesurer la distance sur une plage de 500um. Possibilité d’extension de la plage jusqu’à 1000um.",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/ECP500.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/fr/produit/vacuum-box/",
+  "cat": "sitemap",
+  "model": "Vacuum Box",
+  "sub": "Demande d'information",
+  "posted": [
+   "Actionneurs piézo",
+   "Obturateurs Piezo Rapides"
+  ],
+  "specs": {
+   "Interface de verrouillage": "KF40",
+   "Dimensions": "93mm*105mm*144mm",
+   "Statut": "Standard",
+   "Masse": "1,3 Kg"
+  },
+  "desc": "CTEC a développé une solution entièrement intégrable sous vide pour ses shutters FPS et FAPS. Le shutter est monté à l’intérieur de la boite avec une alimentation par câble sous vide. Le shutter peut être sorti puis replacé sans retirer la Vacuum Box du faisceau.",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/VACUUM_BOX.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/fr/produit/mcsa480/",
+  "cat": "sitemap",
+  "model": "MCSA480",
+  "sub": "Demande d'information",
+  "posted": [
+   "Amplificateurs Standalone Magnétiques",
+   "Contrôleurs magnétiques"
+  ],
+  "specs": {
+   "Tension d’alimentation": "24-48 Vdc",
+   "Puissance de sortie": "48-96 W",
+   "Statut": "Préliminaire"
+  },
+  "desc": "Le MCSA480 est un amplificateur à découpage compact à 2 voies, conçu pour les mécanismes de type M-FSM. Il possède un contrôleur de courant à large bande et utilise une source de courant continu externe. Il peut être contrôlé en boucle fermée via 2 entrées analogiques pour les consignes et 2 entrées analogiques pour les capteurs de position.",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/MCSA480.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/fr/produit/ecs45/",
+  "cat": "sitemap",
+  "model": "ECS45",
+  "sub": "Demande d'information",
+  "posted": [
+   "Capteurs",
+   "Capteurs de courant de Foucault"
+  ],
+  "specs": {
+   "Tension de sortie": "-10…+10 V",
+   "Resolution": "0,003% de la pleine échelle",
+   "Largeur de bande de sortie": "20 kHz",
+   "Dérive thermique": ">0,05% FS/C°",
+   "Tension d’alimentation": "24 VDC",
+   "Nombre de canaux": "1…3",
+   "Statut": "Standard"
+  },
+  "desc": "Le conditionneur de sonde de courant de Foucault ECS45 est une version OEM intégrée dans un rack 12F fourni par une alimentation CC externe.",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/ECS45.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/fr/produit/ecs75/",
+  "cat": "sitemap",
+  "model": "ECS75",
+  "sub": "Demande d'information",
+  "posted": [
+   "Capteurs",
+   "Capteurs de courant de Foucault"
+  ],
+  "specs": {
+   "Tension de sortie": "-10…+10 V",
+   "Resolution": "0,003% de la pleine échelle",
+   "Largeur de bande de sortie": "20 kHz",
+   "Dérive thermique": ">0,05% FS/C°",
+   "Nombre de canaux": "1…3",
+   "Statut": "Standard"
+  },
+  "desc": "Le conditionneur de sonde de courant de Foucault ECS75 est implémenté sur une carte 19′ et peut inclure jusqu’à 3 canaux indépendants. Le gain de chaque canal est généralement défini lorsque le capteur de courant de Foucault est intégré dans le mécanisme piézoélectrique.",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/ECS75.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/fr/produit/ecsu10/",
+  "cat": "sitemap",
+  "model": "ECSu10",
+  "sub": "Demande d'information",
+  "posted": [
+   "Capteurs",
+   "Capteurs de courant de Foucault"
+  ],
+  "specs": {
+   "Tension de sortie": "-10…+10 V",
+   "Resolution": "0,003% de la pleine échelle",
+   "Largeur de bande de sortie": "15 kHz",
+   "Dérive thermique": ">0,05% FS/C°",
+   "Tension d’alimentation": "15 VDC",
+   "Statut": "Standard"
+  },
+  "desc": "Le conditionneur Ecsu10 de sonde de courant de Foucault OEM est un conditionneur rentable. Il est construit autour d’un étage analogique d’entrée sans linéarisation.",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/ECSu10.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/fr/produit/sg-75/",
+  "cat": "sitemap",
+  "model": "SG-75",
+  "sub": "Demande d'information",
+  "posted": [
+   "Capteurs",
+   "Jauges de contrainte"
+  ],
+  "specs": {
+   "Type de capteur": "Jauge de contrainte / 4 fils",
+   "Tension de sortie": "-10…+10 V",
+   "Nombre de canaux max": "3 par carte",
+   "Resolution": "0,01% de la pleine échelle",
+   "Options disponibles": "Longueur de câble spécifique sur demande",
+   "Statut": "Standard"
+  },
+  "desc": "Le conditionneur de jauges de contrainte SG75 utilise le signal de la sonde de jauge de contrainte. Il est mis en œuvre sur une carte de 19′ et peut inclure jusqu’à 3 canaux indépendants.",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/SG75.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/fr/produit/la75b/",
+  "cat": "sitemap",
+  "model": "LA75B",
+  "sub": "Demande d'information",
+  "posted": [
+   "Amplificateurs linéaires",
+   "Contrôleurs piezo"
+  ],
+  "specs": {
+   "Courant moyen de sortie": "360 mA",
+   "Nombre de canaux": "1…2",
+   "Facteur de gain": "20",
+   "SNR": "85 dB",
+   "Options disponibles": "Push Pull, Servo-controlleur numérique",
+   "Statut": "Standard"
+  },
+  "desc": "L’amplificateur linéaire LA75B est conçu pour piloter des charges capacitives comme des actionneurs piézoélectriques avec un bruit extrêmement faible. Le LA75B est un amplificateur de grande puissance.",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/LA75B.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/fr/produit/xyz200m/",
+  "cat": "sitemap",
+  "model": "XYZ200M",
+  "sub": "Demande d'information",
+  "posted": [
+   "Actionneurs piézo",
+   "Platines Piezo"
+  ],
+  "specs": {
+   "Déplacement max sans charge": "200 µm",
+   "Fréquence résonance sans charge": "380 Hz",
+   "Temps de réponse": "1,32 ms",
+   "Dimensions": "100mm*100mm*49mm",
+   "Options disponibles": "Jauge de contrainte, Compatibilité vide",
+   "Statut": "Standard"
+  },
+  "desc": "La platine piézoélectrique XYZ200M est basée sur les actionneurs APA 200M et possède une haute rigidité. Parmi les applications on peut citer le positionnement de masque, la microscopie confocale et à balayage.",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/XYZ200M.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/fr/produit/xy200m/",
+  "cat": "sitemap",
+  "model": "XY200M",
+  "sub": "Demande d'information",
+  "posted": [
+   "Actionneurs piézo",
+   "Platines Piezo"
+  ],
+  "specs": {
+   "Déplacement max sans charge": "200 µm",
+   "Fréquence résonance sans charge": "580 Hz",
+   "Temps de réponse": "0,86 ms",
+   "Dimensions": "100mm*100mm*22mm",
+   "Options disponibles": "Jauge de contrainte, Compatibilité vide",
+   "Statut": "Standard"
+  },
+  "desc": "La platine piézoélectrique XY200M est basée sur les actionneurs APA200M et jouit d’une grande rigidité. Parmi ses applications on peut citer le positionnement de masque, les microscopes à balayage, à force atomique et les pinces optiques.",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/XY200M.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/fr/produit/xy25xs/",
+  "cat": "sitemap",
+  "model": "XY25XS",
+  "sub": "Demande d'information",
+  "posted": [
+   "Actionneurs piézo",
+   "Platines Piezo"
+  ],
+  "specs": {
+   "Déplacement max sans charge": "25 µm",
+   "Fréquence résonance sans charge": "3000 Hz",
+   "Temps de réponse": "0,17ms",
+   "Dimensions": "50mm550mm*19mm",
+   "Options disponibles": "Jauge de contrainte, Compatibilité vide",
+   "Statut": "Standard"
+  },
+  "desc": "La platine piézoélectrique XY25XS est basée sur les actionneurs de type APA 25XS. Cette platine de taille compact convient particulièrement aux systèmes intégrés pour le positionnement de fibres, le microscan de lentilles et de détecteurs CCD ou CMOS.",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/XY25XS.pdf"
+ },
+ {
+  "url": "https://cedrat-technologies.com/fr/produit/apa60ml/",
+  "cat": "sitemap",
+  "model": "APA60ML",
+  "sub": "Demande d'information",
+  "posted": [
+   "Actionneur Piezo Amplifié",
+   "Actionneurs piézo"
+  ],
+  "specs": {
+   "Force bloquée": "3300",
+   "Capacité": "13",
+   "Course nominale": "65",
+   "Raideur": "51",
+   "Fréquence de résonance": "2555",
+   "Options disponibles": "Jauge de contrainte, Compatibilité vide",
+   "Statut": "Standard"
+  },
+  "desc": "Applications : Agitateur – Générateur de force – Positionneur de charges lourdes – Actionneur dynamique",
+  "datasheet": "https://cedrat-technologies.com/wp-content/uploads/products/datasheets/APA60ML.pdf"
+ }
+]
