@@ -15,7 +15,7 @@
     "SJTU": {
       "note": "按正文匹配；ebidding 列表需登录，但公告同步到此平台",
       "noteEn": "Full text matched; the ebidding list needs a login, but its notices are mirrored here",
-      "oldest": "2026-09-11",
+      "oldest": "2026-09-14",
       "scanned": 100
     },
     "THU": {
@@ -109,6 +109,82 @@
     "NJTECH": {
       "scanned": 12,
       "oldest": "2026-08-07"
+    },
+    "JLU": {
+      "scanned": 100,
+      "oldest": "2026-07-30"
+    },
+    "SDU": {
+      "scanned": 100,
+      "oldest": "2026-09-02"
+    },
+    "BUCT": {
+      "scanned": 100,
+      "oldest": "2026-05-14"
+    },
+    "SZTU": {
+      "scanned": 100,
+      "oldest": "2026-09-15"
+    },
+    "AHU": {
+      "scanned": 100,
+      "oldest": "2026-08-14"
+    },
+    "XIDIAN": {
+      "scanned": 30,
+      "oldest": "2026-08-17"
+    },
+    "UCAS": {
+      "scanned": 201,
+      "oldest": "2022-10-13"
+    },
+    "SUDA": {
+      "scanned": 28,
+      "oldest": "2026-08-06"
+    },
+    "ECNU": {
+      "scanned": 10,
+      "oldest": "2026-09-29"
+    },
+    "SHANGHAITECH": {
+      "scanned": 28,
+      "oldest": "2025-12-12"
+    },
+    "SCNU": {
+      "scanned": 70,
+      "oldest": "2026-10-14"
+    },
+    "NJUPT": {
+      "scanned": 22,
+      "oldest": "2026-09-04"
+    },
+    "HDU": {
+      "scanned": 14,
+      "oldest": "2026-09-07"
+    },
+    "SWJTU": {
+      "scanned": 15,
+      "oldest": "2026-09-29"
+    },
+    "CSU": {
+      "scanned": 48,
+      "oldest": "2026-08-11"
+    },
+    "SZU": {
+      "scanned": 84,
+      "oldest": "2023-10-19"
+    },
+    "HEBUT": {
+      "scanned": 20,
+      "oldest": "2026-08-07"
+    },
+    "UJS": {
+      "scanned": 45,
+      "oldest": "2026-08-03"
+    },
+    "TYUT": {
+      "scanned": 15,
+      "oldest": "2026-10-09"
     }
   },
   "extra": [
@@ -137,7 +213,7 @@
       "url": "https://cgzx.hit.edu.cn/sfw_cms/e?page=cms.news2"
     }
   ],
-  "lastRun": "2026-10-16T19:51",
+  "lastRun": "2026-10-17T03:02",
   "lastResults": [
     {
       "school": "THU",
@@ -195,9 +271,8 @@
     },
     {
       "school": "WESTLAKE",
-      "ok": true,
-      "scanned": 100,
-      "matches": 3
+      "ok": false,
+      "error": "page.evaluate: Error: no 思必得 list query returned results"
     },
     {
       "school": "BUPT",
@@ -225,9 +300,8 @@
     },
     {
       "school": "DLMU",
-      "ok": true,
-      "scanned": 100,
-      "matches": 0
+      "ok": false,
+      "error": "page.goto: Timeout 60000ms exceeded."
     },
     {
       "school": "HUST",
@@ -287,6 +361,125 @@
       "school": "NJTECH",
       "ok": true,
       "scanned": 12,
+      "matches": 0
+    },
+    {
+      "school": "JLU",
+      "ok": true,
+      "scanned": 100,
+      "matches": 0
+    },
+    {
+      "school": "SDU",
+      "ok": true,
+      "scanned": 100,
+      "matches": 0
+    },
+    {
+      "school": "BUCT",
+      "ok": true,
+      "scanned": 100,
+      "matches": 0
+    },
+    {
+      "school": "SZTU",
+      "ok": true,
+      "scanned": 100,
+      "matches": 11
+    },
+    {
+      "school": "AHU",
+      "ok": true,
+      "scanned": 100,
+      "matches": 2
+    },
+    {
+      "school": "XIDIAN",
+      "ok": true,
+      "scanned": 30,
+      "matches": 0
+    },
+    {
+      "school": "UCAS",
+      "ok": true,
+      "scanned": 201,
+      "matches": 0
+    },
+    {
+      "school": "SUDA",
+      "ok": true,
+      "scanned": 28,
+      "matches": 0
+    },
+    {
+      "school": "ECNU",
+      "ok": true,
+      "scanned": 10,
+      "matches": 0
+    },
+    {
+      "school": "SHANGHAITECH",
+      "ok": true,
+      "scanned": 28,
+      "matches": 0
+    },
+    {
+      "school": "SCNU",
+      "ok": true,
+      "scanned": 70,
+      "matches": 0
+    },
+    {
+      "school": "NJUPT",
+      "ok": true,
+      "scanned": 22,
+      "matches": 1
+    },
+    {
+      "school": "HDU",
+      "ok": true,
+      "scanned": 14,
+      "matches": 0
+    },
+    {
+      "school": "SWJTU",
+      "ok": true,
+      "scanned": 15,
+      "matches": 0
+    },
+    {
+      "school": "CSU",
+      "ok": true,
+      "scanned": 48,
+      "matches": 0
+    },
+    {
+      "school": "SZU",
+      "ok": true,
+      "scanned": 84,
+      "matches": 1
+    },
+    {
+      "school": "DHU",
+      "ok": false,
+      "error": "page.goto: Timeout 60000ms exceeded."
+    },
+    {
+      "school": "HEBUT",
+      "ok": true,
+      "scanned": 20,
+      "matches": 0
+    },
+    {
+      "school": "UJS",
+      "ok": true,
+      "scanned": 45,
+      "matches": 0
+    },
+    {
+      "school": "TYUT",
+      "ok": true,
+      "scanned": 15,
       "matches": 0
     }
   ]

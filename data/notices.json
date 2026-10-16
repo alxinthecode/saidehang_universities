@@ -46,6 +46,124 @@
     "noteEn": ""
   },
   {
+    "_id": "SZTU-SZTUWSJJ2600361",
+    "school": "SZTU",
+    "title": "亚微米级成像高速飞拍平台（SZTUWSJJ2600361）采购公告",
+    "url": "http://ztb.sztu.edu.cn/provider/#/publish/20MVAQJ2H4K8B2LE",
+    "published": "2026-10-16",
+    "deadline": "2026-10-21 17:00",
+    "method": "网上竞价",
+    "no": "SZTUWSJJ2600361",
+    "budget": "",
+    "imports": "",
+    "strong": [],
+    "weak": [
+      "精密运动"
+    ],
+    "tier": "weak",
+    "snippet": "平台 1 台 其他光学仪器 预算 ￥ 424,000 技术参数 1.00级大理石精密运动平台，搭载微孔陶瓷载物台，载物台平面度小于3um； 2.XY轴行程大于250mm，Z轴行程大于150mm，XYZ轴重复定位精度为≤ 0.5um； 3.X",
+    "status": "new",
+    "note": "",
+    "firstSeen": "2026-10-17",
+    "titleEn": "",
+    "noteEn": ""
+  },
+  {
+    "_id": "SZTU-SZTUWSJJ2600352",
+    "school": "SZTU",
+    "title": "信号系统检测实验箱（SZTUWSJJ2600352）采购公告",
+    "url": "http://ztb.sztu.edu.cn/provider/#/publish/20MVAQCI04CH52JP",
+    "published": "2026-10-16",
+    "deadline": "2026-10-21 17:00",
+    "method": "网上竞价",
+    "no": "SZTUWSJJ2600352",
+    "budget": "",
+    "imports": "",
+    "strong": [
+      "压电"
+    ],
+    "weak": [],
+    "tier": "strong",
+    "snippet": "250微秒；系统内置引导程序，固件可根据需求永久免费升级； 9、实验箱配置直流稳压电源：输出电压：0-60V；输出电流：0-5A；具有4位电压/电流显示； 10、电源满量程解析度：10mV/1mA; 11、电源支持RS-232信号通讯，具有",
+    "status": "new",
+    "note": "",
+    "firstSeen": "2026-10-17",
+    "titleEn": "",
+    "noteEn": ""
+  },
+  {
+    "_id": "SZTU-SZTUWSJJ2600359",
+    "school": "SZTU",
+    "title": "飞秒激光智能加工控制器（SZTUWSJJ2600359）采购公告",
+    "url": "http://ztb.sztu.edu.cn/provider/#/publish/20MVAQ983L6BHM8Q",
+    "published": "2026-10-16",
+    "deadline": "2026-10-21 17:00",
+    "method": "网上竞价",
+    "no": "SZTUWSJJ2600359",
+    "budget": "",
+    "imports": "",
+    "strong": [],
+    "weak": [
+      "位移台",
+      "振镜"
+    ],
+    "tier": "weak",
+    "snippet": "控制器 1 套 终端控制器 预算 ￥ 285,000 技术参数 1. 加工软件以位移台位置同步信号为基准，可控制激光器开关、振镜扫描路径等硬件操作，实现复杂图形加工。 2. 脚本化加工指令引擎：支持 Lua 脚本编写加工流程，可实现路径分支",
+    "status": "new",
+    "note": "",
+    "firstSeen": "2026-10-17",
+    "titleEn": "",
+    "noteEn": ""
+  },
+  {
+    "_id": "SZTU-SZTUWSJJ2600357",
+    "school": "SZTU",
+    "title": "精密位移台（SZTUWSJJ2600357）采购公告",
+    "url": "http://ztb.sztu.edu.cn/provider/#/publish/20MVAQ7IVH7M2BCB",
+    "published": "2026-10-16",
+    "deadline": "2026-10-21 17:00",
+    "method": "网上竞价",
+    "no": "SZTUWSJJ2600357",
+    "budget": "",
+    "imports": "",
+    "strong": [],
+    "weak": [
+      "位移台",
+      "隔振",
+      "振镜"
+    ],
+    "tier": "weak",
+    "snippet": "精密位移台（SZTUWSJJ2600357）采购公告 项目名称 精密位移台 项目编号 SZTUWSJJ2600357 公示开始日期 2026-10-16 16:48",
+    "status": "new",
+    "note": "",
+    "firstSeen": "2026-10-17",
+    "titleEn": "",
+    "noteEn": ""
+  },
+  {
+    "_id": "SZTU-SZTUWSJJ2600350",
+    "school": "SZTU",
+    "title": "星闪音频消音测试平台（SZTUWSJJ2600350）采购公告",
+    "url": "http://ztb.sztu.edu.cn/provider/#/publish/20MVA9N842TXOVHR",
+    "published": "2026-10-16",
+    "deadline": "2026-10-21 10:00",
+    "method": "网上竞价",
+    "no": "SZTUWSJJ2600350",
+    "budget": "",
+    "imports": "",
+    "strong": [],
+    "weak": [
+      "隔振"
+    ],
+    "tier": "weak",
+    "snippet": "吸声系数应≥99%，吸声性能均匀且无异味(需提供佐证材料证明满足要求) (12)隔振系统应采用弹簧式隔振器，并依据建筑物重量、尺寸及隔振器布设位置的承载情况，选用共振频率不高于5Hz的产品，确保良好的隔振效果 (13)辅助支撑与承重应增设钢",
+    "status": "new",
+    "note": "",
+    "firstSeen": "2026-10-17",
+    "titleEn": "",
+    "noteEn": ""
+  },
+  {
     "budget": "66万元（22套，单套≤3万）",
     "budgetEn": "CNY 660k (22 units, max CNY 30k each)",
     "deadline": "2026-10-23 09:30",
@@ -71,6 +189,52 @@
     "_id": "TJU-TDZC2026N0110"
   },
   {
+    "_id": "SZTU-SZTUWSJJ2600325",
+    "school": "SZTU",
+    "title": "原位电化学可视化超景深系统（SZTUWSJJ2600325）采购公告",
+    "url": "http://ztb.sztu.edu.cn/provider/#/publish/20MV7FLPYX2RYJ7G",
+    "published": "2026-10-14",
+    "deadline": "2026-10-19 10:00",
+    "method": "网上竞价",
+    "no": "SZTUWSJJ2600325",
+    "budget": "",
+    "imports": "",
+    "strong": [],
+    "weak": [
+      "电动平台"
+    ],
+    "tier": "weak",
+    "snippet": "合、环形、片射照明、四分区独立控制。 4. 三轴电动多角度载物平台： 4.1镜头电动平台：总电动行程≥100mm，支架可带动镜头左、右侧倾斜观测，左右侧分别倾斜角度≥90度，倾斜角度传感器识别分辨率1度。Z轴扫描台可拆卸式设计，可拓展安装在",
+    "status": "new",
+    "note": "",
+    "firstSeen": "2026-10-17",
+    "titleEn": "",
+    "noteEn": ""
+  },
+  {
+    "_id": "AHU-AHU-XNJJ20260284",
+    "school": "AHU",
+    "title": "气浮摆杆隔振光学平台（AHU-XNJJ20260284）采购公告",
+    "url": "https://cgzx.ahu.edu.cn/provider/#/publish/20MV1O1DD5VHU2L1",
+    "published": "2026-10-10",
+    "deadline": "2026-10-14 09:00",
+    "method": "网上竞价",
+    "no": "AHU-XNJJ20260284",
+    "budget": "",
+    "imports": "",
+    "strong": [],
+    "weak": [
+      "隔振"
+    ],
+    "tier": "weak",
+    "snippet": "",
+    "status": "new",
+    "note": "",
+    "firstSeen": "2026-10-17",
+    "titleEn": "",
+    "noteEn": ""
+  },
+  {
     "_id": "SCU-ZBZXFB2026009",
     "school": "SCU",
     "title": "扫描探针显微镜维修（ZBZXFB2026009）采购公告",
@@ -91,6 +255,76 @@
     "note": "",
     "firstSeen": "2026-10-16",
     "titleEn": "Scanning probe microscope repair (ZBZXFB2026009)",
+    "noteEn": ""
+  },
+  {
+    "_id": "SZTU-SZTUWSJJ2600341",
+    "school": "SZTU",
+    "title": "膜片钳配套倒置显微镜（SZTUWSJJ2600341）采购公告",
+    "url": "http://ztb.sztu.edu.cn/provider/#/publish/20MUYWLLBEMJMZ8D",
+    "published": "2026-10-08",
+    "deadline": "2026-10-12 11:00",
+    "method": "网上竞价",
+    "no": "SZTUWSJJ2600341",
+    "budget": "",
+    "imports": "",
+    "strong": [],
+    "weak": [
+      "隔振"
+    ],
+    "tier": "weak",
+    "snippet": "mm，台面采用400铁磁不锈钢，具有高抗形变能力；平面度≤0.1mm/m2，气浮隔振；振幅≤1.2um 11.配备膜片钳专用观察方式以及对应物镜倍率的观察环 12.与显微镜主机同品牌的20倍复消色差空气物镜 N.A. ≥0.8, W.D. ",
+    "status": "new",
+    "note": "",
+    "firstSeen": "2026-10-17",
+    "titleEn": "",
+    "noteEn": ""
+  },
+  {
+    "_id": "SZTU-SZTUWSJJ2600314",
+    "school": "SZTU",
+    "title": "自适应光学波前传感测量装置（SZTUWSJJ2600314）采购公告",
+    "url": "http://ztb.sztu.edu.cn/provider/#/publish/20MUNREJ6Q879YBS",
+    "published": "2026-09-30",
+    "deadline": "2026-10-09 16:00",
+    "method": "网上竞价",
+    "no": "SZTUWSJJ2600314",
+    "budget": "",
+    "imports": "",
+    "strong": [
+      "自适应光学",
+      "变形镜"
+    ],
+    "weak": [],
+    "tier": "strong",
+    "snippet": "自适应光学波前传感测量装置（SZTUWSJJ2600314）采购公告 项目名称 自适应光学波前传感测量装置 项目编号 SZTUWSJJ2600314 公示开始日",
+    "status": "new",
+    "note": "",
+    "firstSeen": "2026-10-17",
+    "titleEn": "",
+    "noteEn": ""
+  },
+  {
+    "_id": "SZU-info1013371949.htm",
+    "school": "SZU",
+    "title": "深圳大学作动器式激振加速加载试验机意向公开",
+    "url": "https://bidding.szu.edu.cn/info/1013/371949.htm",
+    "published": "2026-09-30",
+    "deadline": "",
+    "method": "",
+    "no": "",
+    "budget": "",
+    "imports": "",
+    "strong": [
+      "作动器"
+    ],
+    "weak": [],
+    "tier": "strong",
+    "snippet": "",
+    "status": "new",
+    "note": "",
+    "firstSeen": "2026-10-17",
+    "titleEn": "",
     "noteEn": ""
   },
   {
@@ -137,6 +371,29 @@
     "note": "",
     "firstSeen": "2026-10-16",
     "titleEn": "Atomic force microscope (WLU-HW-KS-NM-2026-1225)",
+    "noteEn": ""
+  },
+  {
+    "_id": "NJUPT-zbgghwl9769.chtml",
+    "school": "NJUPT",
+    "title": "南京邮电大学工程实验教学部直流稳压电源采购公开比选公告",
+    "url": "https://zbb.njupt.edu.cn/zbgghwl/9769.chtml",
+    "published": "2026-09-28",
+    "deadline": "",
+    "method": "",
+    "no": "",
+    "budget": "",
+    "imports": "",
+    "strong": [
+      "压电"
+    ],
+    "weak": [],
+    "tier": "strong",
+    "snippet": "",
+    "status": "new",
+    "note": "",
+    "firstSeen": "2026-10-17",
+    "titleEn": "",
     "noteEn": ""
   },
   {
@@ -211,6 +468,29 @@
     "noteEn": ""
   },
   {
+    "_id": "SZTU-SZTUWSJJ2600298",
+    "school": "SZTU",
+    "title": "座舱设计验证及体验平台（SZTUWSJJ2600298）采购公告",
+    "url": "http://ztb.sztu.edu.cn/provider/#/publish/20MUC2HU8GB2RQ1L",
+    "published": "2026-09-22",
+    "deadline": "2026-09-25 11:00",
+    "method": "网上竞价",
+    "no": "SZTUWSJJ2600298",
+    "budget": "",
+    "imports": "",
+    "strong": [],
+    "weak": [
+      "六自由度"
+    ],
+    "tier": "weak",
+    "snippet": "座舱、仿真驾驶程序三方数据互通，用于课程实训、毕业设计、交互设计作品展演。 二、六自由度动感运动平台硬件核心参数 2.1硬件结构 完整六自由度并联伺服结构，覆盖 Z 轴升降 (Heave)、Y 轴前后平移 (Surge)、X 轴左右侧移 (",
+    "status": "new",
+    "note": "",
+    "firstSeen": "2026-10-17",
+    "titleEn": "",
+    "noteEn": ""
+  },
+  {
     "budget": "",
     "deadline": "2026-09-27 13:00",
     "firstSeen": "2026-10-15",
@@ -255,6 +535,52 @@
       "六自由度"
     ],
     "_id": "TJU-TDZC2026N0135"
+  },
+  {
+    "_id": "SZTU-SZTUWSJJ2600276",
+    "school": "SZTU",
+    "title": "实验室智能终端（SZTUWSJJ2600276）采购公告",
+    "url": "http://ztb.sztu.edu.cn/provider/#/publish/20MU3VGDUQUAD16H",
+    "published": "2026-09-16",
+    "deadline": "2026-09-20 17:05",
+    "method": "网上竞价",
+    "no": "SZTUWSJJ2600276",
+    "budget": "",
+    "imports": "",
+    "strong": [
+      "压电"
+    ],
+    "weak": [],
+    "tier": "strong",
+    "snippet": "普、泰克等；电子测量仪器的种类至少支持数字示波器、信号发生器、台式万用表、直流稳压电源等； 27、测量仪器和智能AI交互终端异常情况时，能够及时给出信息提醒（如智能AI交互终端是否在线、测量仪器连接是否正常等）； 28、具备显示屏：≥14英",
+    "status": "new",
+    "note": "",
+    "firstSeen": "2026-10-17",
+    "titleEn": "",
+    "noteEn": ""
+  },
+  {
+    "_id": "SZTU-SZTUWSJJ2600275",
+    "school": "SZTU",
+    "title": "二极直流溅射多功能镀膜仪（SZTUWSJJ2600275）采购公告",
+    "url": "http://ztb.sztu.edu.cn/provider/#/publish/20MU2EG2AMXVINBH",
+    "published": "2026-09-15",
+    "deadline": "2026-09-18 17:00",
+    "method": "网上竞价",
+    "no": "SZTUWSJJ2600275",
+    "budget": "",
+    "imports": "",
+    "strong": [
+      "压电"
+    ],
+    "weak": [],
+    "tier": "strong",
+    "snippet": "冷却系统：真空泵采用分子泵风冷系统，溅射靶头、膜厚探头采用水冷 膜厚仪： QCM压电陶瓷膜厚仪1套:包含水冷探头，探测精度0.1埃 探头位置探头位置：探头位置、高度可调节 晶振片：晶振片6MHz镀金石英片，含晶振寿命监测 通道数：默认单通道",
+    "status": "new",
+    "note": "",
+    "firstSeen": "2026-10-17",
+    "titleEn": "",
+    "noteEn": ""
   },
   {
     "budget": "",
@@ -348,6 +674,29 @@
       "六自由度"
     ],
     "_id": "THU-20260235"
+  },
+  {
+    "_id": "AHU-AHU-XNJJ20260209",
+    "school": "AHU",
+    "title": "双频阻尼隔振拼接光学平台(第二次)（AHU-XNJJ20260209(第二次)）采购公告",
+    "url": "https://cgzx.ahu.edu.cn/provider/#/publish/20MSS9IV34LWBTJ7",
+    "published": "2026-08-14",
+    "deadline": "2026-08-19 10:00",
+    "method": "网上竞价",
+    "no": "AHU-XNJJ20260209(第二次)",
+    "budget": "",
+    "imports": "",
+    "strong": [],
+    "weak": [
+      "隔振"
+    ],
+    "tier": "weak",
+    "snippet": "",
+    "status": "new",
+    "note": "",
+    "firstSeen": "2026-10-17",
+    "titleEn": "",
+    "noteEn": ""
   },
   {
     "budget": "",
