@@ -1,0 +1,46 @@
+[
+ {
+  "key": "IEECAS",
+  "title": "中国科学院空天信息创新研究院",
+  "url": "https://www.aircas.ac.cn/#zbxx_kty",
+  "sfw": false,
+  "navs": [
+   {
+    "t": "更多...",
+    "h": "https://aircas.cas.cn/dtxw/rdxw/"
+   },
+   {
+    "t": "招标信息",
+    "h": "https://www.aircas.ac.cn/#zbxx_kty"
+   }
+  ],
+  "cands": [
+   {
+    "u": "https://www.aircas.ac.cn/#zbxx_kty",
+    "label": "招标信息",
+    "scanned": 24,
+    "oldest": "2026-09-11",
+    "n": 0,
+    "newest": [
+     "2026-10-16 空天院荣获联合国粮农组织成就奖",
+     "2026-10-13 空天院无创连续血压监测技术推动高端监护装备国产化",
+     "2026-10-10 《物联网与数字孪生融合系统参考架构》团体标准发布"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://www.aircas.ac.cn/#zbxx_kty",
+    "label": "招标信息",
+    "scanned": 24,
+    "oldest": "2026-09-11",
+    "n": 0,
+    "newest": [
+     "2026-10-16 空天院荣获联合国粮农组织成就奖",
+     "2026-10-13 空天院无创连续血压监测技术推动高端监护装备国产化",
+     "2026-10-10 《物联网与数字孪生融合系统参考架构》团体标准发布"
+    ],
+    "rows": []
+   }
+  ]
+ }
+]
