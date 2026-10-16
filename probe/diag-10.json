@@ -1,0 +1,80 @@
+[
+ {
+  "key": "ZSTU",
+  "dom": "zstu.edu.cn",
+  "home": "https://www.zstu.edu.cn/",
+  "links": [
+   "采购中心 http://cgzx.zstu.edu.cn/"
+  ],
+  "hosts": [
+   "cgzx.zstu.edu.cn"
+  ]
+ },
+ {
+  "key": "NJUST",
+  "dom": "njust.edu.cn",
+  "home": "https://www.njust.edu.cn/",
+  "links": [],
+  "hosts": [
+   "cwc.njust.edu.cn",
+   "tzgg.njust.edu.cn",
+   "cgzx.njust.edu.cn",
+   "zb.njust.edu.cn",
+   "gzc.njust.edu.cn",
+   "zcgl.njust.edu.cn"
+  ]
+ },
+ {
+  "key": "CDUT",
+  "dom": "cdut.edu.cn",
+  "home": "https://www.cdut.edu.cn/",
+  "links": [],
+  "hosts": [
+   "cg.cdut.edu.cn",
+   "cgzb.cdut.edu.cn",
+   "zb.cdut.edu.cn"
+  ]
+ },
+ {
+  "key": "NUIST",
+  "dom": "nuist.edu.cn",
+  "home": null,
+  "links": [],
+  "hosts": []
+ },
+ {
+  "key": "SHIEP",
+  "dom": "shiep.edu.cn",
+  "home": "https://www.shiep.edu.cn/",
+  "links": [
+   "采购公告 https://xxgk.shiep.edu.cn/574/list.htm"
+  ],
+  "hosts": [
+   "cwc.shiep.edu.cn",
+   "xxgk.shiep.edu.cn"
+  ]
+ },
+ {
+  "key": "IOE",
+  "dom": "ioe.cas.cn",
+  "home": "https://www.ioe.cas.cn/",
+  "links": [],
+  "hosts": []
+ },
+ {
+  "key": "IOM",
+  "dom": "imech.cas.cn",
+  "home": "https://www.imech.cas.cn/",
+  "links": [
+   "中国科学院中关村四号园区 https://www.imech.cas.cn/notice/202507/t20250710_7883883.html"
+  ],
+  "hosts": []
+ },
+ {
+  "key": "ISA",
+  "dom": "xao.cas.cn",
+  "home": "https://www.xao.cas.cn/",
+  "links": [],
+  "hosts": []
+ }
+]
