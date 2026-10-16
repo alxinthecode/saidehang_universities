@@ -1,0 +1,78 @@
+[
+ {
+  "key": "HEBUST",
+  "dom": "hebust.edu.cn",
+  "home": "https://www.hebust.edu.cn/",
+  "links": [
+   "招标采购专题网 https://zcgl.hebust.edu.cn/company/hbkjdx/index"
+  ],
+  "hosts": [
+   "caigou.hebust.edu.cn",
+   "gzc.hebust.edu.cn",
+   "zcgl.hebust.edu.cn"
+  ]
+ },
+ {
+  "key": "CCZU",
+  "dom": "cczu.edu.cn",
+  "home": "https://www.cczu.edu.cn/",
+  "links": [
+   "采购招标 https://zb.cczu.edu.cn/"
+  ],
+  "hosts": [
+   "cwc.cczu.edu.cn",
+   "cg.cczu.edu.cn",
+   "zb.cczu.edu.cn",
+   "zcglc.cczu.edu.cn",
+   "gzc.cczu.edu.cn"
+  ]
+ },
+ {
+  "key": "AUST",
+  "dom": "aust.edu.cn",
+  "home": "https://www.aust.edu.cn/",
+  "links": [],
+  "hosts": [
+   "cwc.aust.edu.cn",
+   "cgzx.aust.edu.cn",
+   "cg.aust.edu.cn",
+   "gzc.aust.edu.cn",
+   "zcgl.aust.edu.cn"
+  ]
+ },
+ {
+  "key": "HBUT",
+  "dom": "hbut.edu.cn",
+  "home": null,
+  "links": [],
+  "hosts": [
+   "cwc.hbut.edu.cn",
+   "zcc.hbut.edu.cn",
+   "zcgl.hbut.edu.cn"
+  ]
+ },
+ {
+  "key": "CUIT",
+  "dom": "cuit.edu.cn",
+  "home": "https://www.cuit.edu.cn/",
+  "links": [],
+  "hosts": [
+   "gzzx.cuit.edu.cn",
+   "ztb.cuit.edu.cn",
+   "cg.cuit.edu.cn",
+   "ztbzx.cuit.edu.cn",
+   "zcglc.cuit.edu.cn",
+   "zcgl.cuit.edu.cn"
+  ]
+ },
+ {
+  "key": "CNU",
+  "dom": "cnu.edu.cn",
+  "home": "https://www.cnu.edu.cn/",
+  "links": [],
+  "hosts": [
+   "cwc.cnu.edu.cn",
+   "gzc.cnu.edu.cn"
+  ]
+ }
+]

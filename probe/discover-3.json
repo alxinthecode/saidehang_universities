@@ -1,0 +1,644 @@
+[
+ {
+  "key": "CCZU",
+  "title": "常州大学招标公告网",
+  "url": "https://zb.cczu.edu.cn/",
+  "sfw": false,
+  "navs": [
+   {
+    "t": "采购公告",
+    "h": "https://zb.cczu.edu.cn/21623/list.htm"
+   },
+   {
+    "t": "货物类",
+    "h": "https://zb.cczu.edu.cn/21648/list.htm"
+   },
+   {
+    "t": "招标公告（往...",
+    "h": "https://zb.cczu.edu.cn/22431/list.htm"
+   },
+   {
+    "t": "货物类",
+    "h": "https://zb.cczu.edu.cn/21651/list.htm"
+   },
+   {
+    "t": "更多>>",
+    "h": "http://zb.cczu.edu.cn/21641/list.htm"
+   },
+   {
+    "t": "更多>>",
+    "h": "http://zb.cczu.edu.cn/21648/list.htm"
+   },
+   {
+    "t": "更多>>",
+    "h": "http://zb.cczu.edu.cn/21647/list.htm"
+   },
+   {
+    "t": "更多>>",
+    "h": "http://zb.cczu.edu.cn/21649/list.htm"
+   }
+  ],
+  "cands": [
+   {
+    "u": "https://zb.cczu.edu.cn/",
+    "label": "home",
+    "scanned": 126,
+    "oldest": "2017-07-28",
+    "n": 0,
+    "newest": [
+     "2026-07-08 国有资产管理处、采购与招标管理办公室（合署）暑假值班安排",
+     "2026-04-03 采招办召开横向科研项目经费采购管理办法文件修订征求意见座",
+     "2026-04-03 党委第四巡察组向国采党支部反馈巡察情况"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zb.cczu.edu.cn/21623/list.htm",
+    "label": "采购公告",
+    "scanned": 14,
+    "oldest": "2026-07-06",
+    "n": 0,
+    "newest": [
+     "2026-09-05 [询价]常州大学西太湖校区博雅居3号楼、4号楼屋面防水修",
+     "2026-09-01 [询价]常州大学档案馆新址监控系统采购与安装项目询价公告",
+     "2026-09-01 [询价]常州大学档案馆新址除湿机采购项目询价公告"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zb.cczu.edu.cn/21648/list.htm",
+    "label": "货物类",
+    "scanned": 14,
+    "oldest": "2026-07-22",
+    "n": 0,
+    "newest": [
+     "2026-10-09 [公开招标]常州大学2026-2027年食堂米面油采购项",
+     "2026-09-28 [公开招标]常州大学2026-2027年食堂米面油采购项",
+     "2026-09-22 [公开招标]常州大学2026-2027年食堂米面油采购项"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zb.cczu.edu.cn/22431/list.htm",
+    "label": "招标公告（往...",
+    "scanned": 13,
+    "oldest": "2025-05-27",
+    "n": 0,
+    "newest": [
+     "2025-09-12 常州大学怀德学院建筑消防设施维护保养服务",
+     "2025-06-30 常州大学现代工程训练中心数字化智能升级采购项目",
+     "2025-06-26 常州大学高比能固态电池实验室空调采购及安装项目比选邀请公"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zb.cczu.edu.cn/21651/list.htm",
+    "label": "货物类",
+    "scanned": 14,
+    "oldest": "2026-08-03",
+    "n": 0,
+    "newest": [
+     "2026-10-10 [公开招标]常州大学教学大模型应用实践平台采购项目终止公",
+     "2026-09-24 [单一来源]常州大学功率器件分析仪项目中标（成交）公告",
+     "2026-09-22 [竞争性磋商]常州大学原子层沉积系统采购项目成交公告"
+    ],
+    "rows": []
+   }
+  ]
+ },
+ {
+  "key": "CCZU",
+  "title": "常州大学实验室建设与管理处",
+  "url": "https://zcglc.cczu.edu.cn/",
+  "sfw": false,
+  "navs": [
+   {
+    "t": "+ 更多",
+    "h": "http://zcglc.cczu.edu.cn/3563/list.htm"
+   },
+   {
+    "t": "+ 更多",
+    "h": "http://zcglc.cczu.edu.cn/3564/list.htm"
+   }
+  ],
+  "cands": [
+   {
+    "u": "https://zcglc.cczu.edu.cn/",
+    "label": "home",
+    "scanned": 1,
+    "oldest": "2025-06-26",
+    "n": 0,
+    "newest": [
+     "2025-06-26 重大科研基础设施和大型科研仪器设备2025年度开放共享服"
+    ],
+    "rows": []
+   }
+  ]
+ },
+ {
+  "key": "CCZU",
+  "title": "常州大学国有资产管理处",
+  "url": "https://gzc.cczu.edu.cn/",
+  "sfw": false,
+  "navs": [],
+  "cands": [
+   {
+    "u": "https://gzc.cczu.edu.cn/",
+    "label": "home",
+    "scanned": 28,
+    "oldest": "2014-07-01",
+    "n": 0,
+    "newest": [
+     "2025-12-05 关于修订《常州大学固定资产损失赔偿管理办法》的通知 【常",
+     "2025-09-17 [国家级]中共中央办公厅 国务院办公厅 印发《党政机关办",
+     "2025-09-17 [国家级]关于印发党政机关办公用房建设标准的通知(发改投"
+    ],
+    "rows": []
+   }
+  ]
+ },
+ {
+  "key": "AUST",
+  "title": "安徽理工大学采购中心",
+  "url": "https://cg.aust.edu.cn/sfw_cms/e?page=cms.index",
+  "sfw": true,
+  "navs": [
+   {
+    "t": "更多",
+    "h": "https://cg.aust.edu.cn/sfw_cms/e?page=cms.news&cid=102795"
+   },
+   {
+    "t": "更多",
+    "h": "https://cg.aust.edu.cn/sfw_cms/e?page=cms.psms.gglist&type=ZFCG&typeDetail=XQ&categoryId=100275"
+   },
+   {
+    "t": "更多",
+    "h": "https://cg.aust.edu.cn/sfw_cms/e?page=cms.psms.gglist&type=XXCG&typeDetail=XQ&categoryId=100278"
+   },
+   {
+    "t": "更多",
+    "h": "https://cg.aust.edu.cn/sfw_cms/e?page=cms.psms.gglist&shopping_type=DYLY&typeDetail=XQ&categoryId=100281"
+   },
+   {
+    "t": "更多",
+    "h": "https://cg.aust.edu.cn/sfw_cms/e?page=cms.news&cid=102796"
+   },
+   {
+    "t": "更多",
+    "h": "https://cg.aust.edu.cn/sfw_cms/e?page=cms.news&cid=102799"
+   }
+  ],
+  "cands": [
+   {
+    "u": "https://cg.aust.edu.cn/sfw_cms/e?page=cms.index",
+    "label": "home",
+    "scanned": 28,
+    "oldest": "2026-05-25",
+    "n": 0,
+    "newest": [
+     "2026-09-29 安徽理工大学2026年教学仪器设备购置项目（九）招标公告",
+     "2026-09-29 安徽理工大学2026年教学仪器设备购置项目（五）招标公告",
+     "2026-09-24 安徽理工大学2026年教学仪器设备购置项目（二）第2包招"
+    ],
+    "rows": []
+   }
+  ],
+  "sfwScan": {
+   "scanned": 100,
+   "oldest": "2026-02-04",
+   "n": 0,
+   "newest": [
+    "2026-10-16 安徽理工大学智能驾驶计算平台/域控制器教学仪器设备采购项",
+    "2026-10-16 安徽理工大学百川实验楼改造设计服务项目磋商公告",
+    "2026-10-10 安徽理工大学网络访客认证系统采购项目谈判公告"
+   ],
+   "rows": []
+  }
+ },
+ {
+  "key": "AUST",
+  "title": "国有资产管理处",
+  "url": "https://gzc.aust.edu.cn/",
+  "sfw": false,
+  "navs": [
+   {
+    "t": "更多>>",
+    "h": "https://gzc.aust.edu.cn/xwdt.htm"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://gzc.aust.edu.cn/tzgg.htm"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://gzc.aust.edu.cn/fdcgl.htm"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://gzc.aust.edu.cn/list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1022"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://gzc.aust.edu.cn/gyzcgl.htm"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://gzc.aust.edu.cn/zhgl.htm"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://gzc.aust.edu.cn/dwzwgk.htm"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://gzc.aust.edu.cn/xzzx.htm"
+   }
+  ],
+  "cands": [
+   {
+    "u": "https://gzc.aust.edu.cn/",
+    "label": "home",
+    "scanned": 6,
+    "oldest": "2021-10-29",
+    "n": 0,
+    "newest": [
+     "2022-03-09 2022年3月9日国有资产管理处会议纪要",
+     "2022-02-18 2022年2月18日国有资产管理处会议纪要",
+     "2022-01-14 2022年1月14日国有资产管理处会议纪要"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://gzc.aust.edu.cn/xwdt.htm",
+    "label": "更多>>",
+    "scanned": 20,
+    "oldest": "2022-10-03",
+    "n": 0,
+    "newest": [
+     "2025-12-15 机关四支部开展主题党日活动",
+     "2025-12-02 机关三支部赴附属小学开展爱心活动",
+     "2025-10-29 机关三支部联合开展主题党日活动"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://gzc.aust.edu.cn/tzgg.htm",
+    "label": "更多>>",
+    "scanned": 5,
+    "oldest": "2018-09-07",
+    "n": 0,
+    "newest": [
+     "2020-09-29 关于资产管理工作的几点要求",
+     "2020-05-27 关于进一步加强资产卡片信息管理工作的通知",
+     "2018-11-19 关于报送资产管理员备案信息的通知"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://gzc.aust.edu.cn/fdcgl.htm",
+    "label": "更多>>",
+    "scanned": 5,
+    "oldest": "2009-09-26",
+    "n": 0,
+    "newest": [
+     "2013-02-27 房屋建筑工程和市政基础设施工程竣工验收备案管理暂行办法",
+     "2013-02-22 安徽理工大学周转房管理实施细则",
+     "2013-02-22 关于印发《安徽理工大学住房装饰装修管理规定（试行）》的通"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://gzc.aust.edu.cn/gyzcgl.htm",
+    "label": "更多>>",
+    "scanned": 13,
+    "oldest": "2008-07-06",
+    "n": 0,
+    "newest": [
+     "2026-06-29 关于印发《安徽理工大学国有资产管理办法（2026年修订）",
+     "2022-12-07 关于印发《安徽理工大学国有资产处置管理办法（2022年修",
+     "2020-04-21 关于印发《安徽理工大学行政办公设备家具配置办法》的通知"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://gzc.aust.edu.cn/zhgl.htm",
+    "label": "更多>>",
+    "scanned": 4,
+    "oldest": "2017-04-17",
+    "n": 0,
+    "newest": [
+     "2020-09-18 国有资产管理处发文签批单",
+     "2018-06-01 国有资产管理处信息发布流程图",
+     "2018-06-01 国有资产管理处信息发布管理办法"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://gzc.aust.edu.cn/dwzwgk.htm",
+    "label": "更多>>",
+    "scanned": 6,
+    "oldest": "2016-09-02",
+    "n": 0,
+    "newest": [
+     "2025-08-15 国有资产管理处、采购中心科级岗位工作职责",
+     "2025-06-03 转发：中纪委：党员干部参加这20种饭局就出局！（附典型案",
+     "2020-04-21 安徽理工大学国有资产处置流程图"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://gzc.aust.edu.cn/xzzx.htm",
+    "label": "更多>>",
+    "scanned": 19,
+    "oldest": "2016-01-12",
+    "n": 0,
+    "newest": [
+     "2019-11-11 安徽理工大学固定资产增值单（房屋及构筑物）",
+     "2019-07-02 安徽理工大学住房补贴资金使用、支取审批表",
+     "2018-11-19 安徽理工大学固定资产新增附件入库单"
+    ],
+    "rows": []
+   }
+  ]
+ },
+ {
+  "key": "HBUT",
+  "title": "湖北工业大学实验室与资产管理处",
+  "url": "http://zcc.hbut.edu.cn/",
+  "sfw": false,
+  "navs": [
+   {
+    "t": "招标信息",
+    "h": "http://zcc.hbut.edu.cn/zbxx1.htm"
+   },
+   {
+    "t": "招标公告",
+    "h": "http://zcc.hbut.edu.cn/zbxx1/zbgg.htm"
+   }
+  ],
+  "cands": [
+   {
+    "u": "http://zcc.hbut.edu.cn/",
+    "label": "home",
+    "scanned": 8,
+    "oldest": "2026-05-07",
+    "n": 0,
+    "newest": [
+     "2026-05-07 05/19行政事业性国有资产管理条例",
+     "2026-05-19 05/07《高等学校实验室安全检查项目表（2026...",
+     "2026-05-07 05/07《危险化学品目录》"
+    ],
+    "rows": []
+   },
+   {
+    "u": "http://zcc.hbut.edu.cn/zbxx1.htm",
+    "label": "招标信息",
+    "scanned": 16,
+    "oldest": "2018-12-07",
+    "n": 0,
+    "newest": [
+     "2025-06-09 湖北工业大学气体供应商遴选项目成交公告",
+     "2022-09-20 湖北工业大学部分报废资产处置结果中标公告(四)",
+     "2022-09-13 湖北工业大学2022年部分报废资产处置招标公告（四）"
+    ],
+    "rows": []
+   },
+   {
+    "u": "http://zcc.hbut.edu.cn/zbxx1/zbgg.htm",
+    "label": "招标公告",
+    "scanned": 4,
+    "oldest": "2019-01-02",
+    "n": 0,
+    "newest": [
+     "2019-05-16 关于招标信息网址更换的说明",
+     "2019-01-08 检验试剂、耗材采购公告",
+     "2019-01-04 湖北工业大学资产全生命周期管理系统项目终止公告"
+    ],
+    "rows": []
+   }
+  ]
+ },
+ {
+  "key": "CUIT",
+  "title": "资产招投标中心",
+  "url": "https://ztb.cuit.edu.cn/",
+  "sfw": false,
+  "navs": [
+   {
+    "t": "更多",
+    "h": "http://ztb.cuit.edu.cn/tzgg.htm"
+   },
+   {
+    "t": "更多",
+    "h": "https://ztb.cuit.edu.cn/hwcg.htm"
+   },
+   {
+    "t": "体育部教学器材采购公告",
+    "h": "https://ztb.cuit.edu.cn/info/1061/2612.htm"
+   },
+   {
+    "t": "更多",
+    "h": "https://ztb.cuit.edu.cn/gccg.htm"
+   },
+   {
+    "t": "更多",
+    "h": "https://ztb.cuit.edu.cn/fwcg.htm"
+   },
+   {
+    "t": "网上询价采购系统",
+    "h": "https://cloud.zepride.com/cloud/index.html"
+   },
+   {
+    "t": "政采网上竞价系统",
+    "h": "https://www.ccgp-sichuan.gov.cn/"
+   },
+   {
+    "t": "更多",
+    "h": "https://ztb.cuit.edu.cn/xzzx.htm"
+   }
+  ],
+  "cands": [
+   {
+    "u": "https://ztb.cuit.edu.cn/",
+    "label": "home",
+    "scanned": 83,
+    "oldest": "2020-07-26",
+    "n": 0,
+    "newest": [
+     "2026-09-16 成都信息工程大学党委第一巡察组公告",
+     "2026-06-27 关于资产管理处（招投标中心）2026年招用助学助管员招用",
+     "2026-06-26 成都信息工程大学资产管理处（招投标中心）关于2026年招"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://ztb.cuit.edu.cn/hwcg.htm",
+    "label": "更多",
+    "scanned": 12,
+    "oldest": "2026-09-14",
+    "n": 0,
+    "newest": [
+     "2026-10-12 2026年成都信息工程大学田径运动会教职工项目奖品采购公",
+     "2026-10-08 成都信息工程大学校卫队执勤服装采购项目结果公告",
+     "2026-09-28 体育部教学器材采购项目结果公告"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://ztb.cuit.edu.cn/gccg.htm",
+    "label": "更多",
+    "scanned": 12,
+    "oldest": "2021-03-11",
+    "n": 0,
+    "newest": [
+     "2026-09-29 智慧文旅学院办公教学环境改造项目结果公告",
+     "2026-09-22 智慧文旅学院办公教学环境改造项目",
+     "2025-06-30 成都信息工程大学航空港校区新气象楼电子工程学院、大气科学"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://ztb.cuit.edu.cn/fwcg.htm",
+    "label": "更多",
+    "scanned": 12,
+    "oldest": "2026-06-15",
+    "n": 0,
+    "newest": [
+     "2026-08-20 教学楼大厅文化建设服务项目结果公告",
+     "2026-08-20 成都信息工程大学非涉密终端与服务器安全防护服务项目结果公",
+     "2026-08-17 成都信息工程大学非涉密终端与服务器安全防护服务项目评审结"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://ztb.cuit.edu.cn/xzzx.htm",
+    "label": "更多",
+    "scanned": 4,
+    "oldest": "2023-03-15",
+    "n": 0,
+    "newest": [
+     "2024-06-24 中长期贷款项目 政府采购合同模板",
+     "2024-05-23 采购业务知识文件集（2024年5月）",
+     "2024-01-11 1-5万询价采购业务流程及报销规范"
+    ],
+    "rows": []
+   }
+  ]
+ },
+ {
+  "key": "CUIT",
+  "title": "资产管理处",
+  "url": "https://zcglc.cuit.edu.cn/",
+  "sfw": false,
+  "navs": [
+   {
+    "t": "更多>>",
+    "h": "https://zcglc.cuit.edu.cn/gzdt/xwdt.htm"
+   },
+   {
+    "t": "更多 >>",
+    "h": "https://zcglc.cuit.edu.cn/gzdt/tzgg.htm"
+   },
+   {
+    "t": "更多 >>",
+    "h": "https://zcglc.cuit.edu.cn/bszn.htm"
+   },
+   {
+    "t": "更多 >>",
+    "h": "https://zcglc.cuit.edu.cn/zcdj.htm"
+   },
+   {
+    "t": "更多 >>",
+    "h": "https://zcglc.cuit.edu.cn/zcfg.htm"
+   },
+   {
+    "t": "更多 >>",
+    "h": "https://zcglc.cuit.edu.cn/zlxz.htm"
+   },
+   {
+    "t": "更多 >>",
+    "h": "https://zcglc.cuit.edu.cn/index/ljlb.htm"
+   }
+  ],
+  "cands": [
+   {
+    "u": "https://zcglc.cuit.edu.cn/gzdt/xwdt.htm",
+    "label": "更多>>",
+    "scanned": 8,
+    "oldest": "2024-04-30",
+    "n": 0,
+    "newest": [
+     "2026-09-16 * 党委第一巡察组巡察资产管理处（招投标中心）党支部动员",
+     "2026-06-01 * 资产管理处（招投标中心成功举办采购及资产管理业务培训",
+     "2026-05-13 * 重走长征路 赓续红色魂——资产管理处（招投标中心）党"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zcglc.cuit.edu.cn/gzdt/tzgg.htm",
+    "label": "更多 >>",
+    "scanned": 8,
+    "oldest": "2026-06-05",
+    "n": 0,
+    "newest": [
+     "2026-09-16 * 成都信息工程大学党委第一巡察组公告",
+     "2026-07-16 * 成都信息工程大学2026年非固定资产报废处置项目结果",
+     "2026-07-15 * 成都信息工程大学2026年非固定资产报废处置竞价项目"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zcglc.cuit.edu.cn/bszn.htm",
+    "label": "更多 >>",
+    "scanned": 8,
+    "oldest": "2022-04-12",
+    "n": 0,
+    "newest": [
+     "2024-06-03 * 资产管理科-资产入库流程",
+     "2024-05-22 * 涉密设备不入库流程图",
+     "2022-04-12 * 资产管理科-因科研项目需要将设备带离校园审核备案流程"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zcglc.cuit.edu.cn/zcdj.htm",
+    "label": "更多 >>",
+    "scanned": 7,
+    "oldest": "2019-12-13",
+    "n": 0,
+    "newest": [
+     "2023-10-18 * 机柜调剂公告",
+     "2021-08-24 * 航空港校区拟处置木质双开衣柜调剂公告",
+     "2021-06-17 * 航空港校区图书馆拟处置资产调剂公告"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zcglc.cuit.edu.cn/zcfg.htm",
+    "label": "更多 >>",
+    "scanned": 8,
+    "oldest": "2020-12-30",
+    "n": 0,
+    "newest": [
+     "2025-04-08 * 四川省行政事业性国有资产管理办法",
+     "2025-04-08 * 关于印发《四川省省属高等学校国有资产管理办法》的通知",
+     "2025-04-08 * 关于印发《四川省省直行政事业单位国有资产处置管理实施"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zcglc.cuit.edu.cn/zlxz.htm",
+    "label": "更多 >>",
+    "scanned": 8,
+    "oldest": "2016-11-23",
+    "n": 0,
+    "newest": [
+     "2024-05-22 * 成都信息工程大学涉密设备备案表",
+     "2023-12-05 * 资产综合管理系统操作手册",
+     "2021-11-26 * 大额采购项目验收登记表（单价10万以上）"
+    ],
+    "rows": []
+   }
+  ]
+ }
+]
