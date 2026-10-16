@@ -1,0 +1,109 @@
+[
+ {
+  "key": "PKU",
+  "try": "cg.pku.edu.cn",
+  "ok": false,
+  "err": "page.goto: Timeout 25000ms exceeded."
+ },
+ {
+  "key": "PKU",
+  "try": "zb.pku.edu.cn",
+  "ok": false,
+  "err": "page.goto: Timeout 25000ms exceeded."
+ },
+ {
+  "key": "YZU",
+  "try": "cgb.yzu.edu.cn",
+  "ok": true,
+  "title": "",
+  "url": "https://cgb.yzu.edu.cn/",
+  "cands": []
+ },
+ {
+  "key": "YZU",
+  "try": "cggl.yzu.edu.cn",
+  "ok": true,
+  "title": "",
+  "url": "https://cggl.yzu.edu.cn/",
+  "cands": []
+ },
+ {
+  "key": "YZU",
+  "try": "cgc.yzu.edu.cn",
+  "ok": true,
+  "title": "",
+  "url": "https://cgc.yzu.edu.cn/",
+  "cands": []
+ },
+ {
+  "key": "NCU",
+  "try": "cgzx.ncu.edu.cn",
+  "ok": true,
+  "title": "南昌大学",
+  "url": "https://cgzx.ncu.edu.cn/",
+  "cands": [
+   {
+    "u": "https://cgzx.ncu.edu.cn/",
+    "label": "home",
+    "scanned": 10,
+    "oldest": "2023-07-14",
+    "n": 0,
+    "newest": [
+     "2026-10-16 前湖、青山湖和东湖校区白蚁、红蚁和隐翅虫防治消杀项目（Z",
+     "2026-10-15 江西国政招标咨询有限公司关于江西省南昌大学2027年纸质",
+     "2026-10-13 江西银信工程造价咨询有限公司关于南昌大学法学院文化墙设计"
+    ]
+   },
+   {
+    "u": "https://cgzx.ncu.edu.cn/gzdt/index.htm",
+    "label": "MORE >",
+    "scanned": 20,
+    "oldest": "2024-09-10",
+    "n": 0,
+    "newest": [
+     "2026-10-15 青山湖海关工作组来校开展“十五五”进口设备免税政策专题宣",
+     "2026-09-24 江西财经大学副校长谢花林一行来校调研交流",
+     "2026-06-10 南昌师范学院副校长徐斌一行来校调研交流"
+    ]
+   }
+  ]
+ },
+ {
+  "key": "NCU",
+  "try": "cg.ncu.edu.cn",
+  "ok": false,
+  "err": "page.goto: net::ERR_CONNECTION_REFUSED at http://cg.ncu.edu.cn/"
+ },
+ {
+  "key": "XATU",
+  "try": "cgzb.xatu.edu.cn",
+  "ok": true,
+  "title": "错误代码：502",
+  "url": "https://cgzb.xatu.edu.cn/",
+  "cands": []
+ },
+ {
+  "key": "XATU",
+  "try": "www.xatu.edu.cn/index/cgzb.htm",
+  "ok": true,
+  "title": "采购招标-西安工业大学",
+  "url": "https://www.xatu.edu.cn/index/cgzb.htm",
+  "cands": []
+ },
+ {
+  "key": "SSLAB",
+  "try": "www.sslab.org.cn/news/notice",
+  "ok": true,
+  "title": "通知公告 - 松山湖材料实验室",
+  "url": "https://www.sslab.org.cn/news/notice",
+  "cands": []
+ },
+ {
+  "key": "AIOFM",
+  "try": "www.aiofm.cas.cn/tzgg/",
+  "ok": true,
+  "title": "页面没有找到",
+  "url": "https://www.aiofm.cas.cn/tzgg/",
+  "cands": []
+ }
+]
