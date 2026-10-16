@@ -1,4 +1,4 @@
-// Headless scan of the five university procurement platforms.
+// Headless scan of the university and research-institute procurement platforms.
 // Runs scraper/scan.js inside each site with Playwright, then merges new
 // matches into data/notices.json (keeping status/notes) and updates
 // data/meta.json. Used by .github/workflows/scan.yml; also runs locally:
@@ -30,29 +30,35 @@ const browser = await chromium.launch();
 const ctx = await browser.newContext({ locale: 'zh-CN', timezoneId: 'Asia/Shanghai' });
 await ctx.addInitScript(pages => { window.__CEDRAT_HEADLESS = true; window.__CEDRAT_PAGES = pages; }, PAGES);
 
-const results = [];
-async function scanSite(site, attempt) {
-  const page = await ctx.newPage();
-  try {
-    await page.goto(site.url, { waitUntil: 'domcontentloaded', timeout: 60000 });
-    await page.waitForLoadState('networkidle', { timeout: 30000 }).catch(() => {});
-    const res = await page.evaluate(([src, cfg]) => { window.__CEDRAT_SITE = cfg; return (0, eval)(src); }, [scanSrc, site]);
-    if (!res || !Array.isArray(res.rows)) throw new Error('scan returned no result (page layout may have changed)');
-    return { school: site.key, ok: true, ...res };
-  } catch (e) {
-    return { school: site.key, ok: false, error: String(e.message || e).split('\n')[0] + (attempt > 1 ? ' (after retry)' : '') };
-  } finally {
-    await page.close();
-  }
-}
-
-for (const site of SITES) {
+// Scan several sites at once (sites are on different servers); one retry per site.
+const CONCURRENCY = Number(process.env.SCAN_CONCURRENCY || 6);
+async function scanSite(site) {
   site.school = site.key;
-  let r = await scanSite(site, 1);
-  if (!r.ok) { await new Promise(res => setTimeout(res, 5000)); r = await scanSite(site, 2); }
-  results.push(r);
-  console.log(r.ok ? `${r.school}: scanned ${r.scanned}, back to ${r.oldest}, ${r.rows.length} matches` : `${r.school}: FAILED — ${r.error}`);
+  let last;
+  for (let attempt = 1; attempt <= 2; attempt++) {
+    const page = await ctx.newPage();
+    try {
+      await page.goto(site.url, { waitUntil: 'domcontentloaded', timeout: 60000 });
+      await page.waitForLoadState('networkidle', { timeout: 30000 }).catch(() => {});
+      const res = await page.evaluate(([src, cfg]) => { window.__CEDRAT_SITE = cfg; return (0, eval)(src); }, [scanSrc, site]);
+      if (!res || !Array.isArray(res.rows)) throw new Error('scan returned no result (page layout may have changed)');
+      console.log(`${site.school}: scanned ${res.scanned}, back to ${res.oldest}, ${res.rows.length} matches`);
+      return { school: site.school, ok: true, ...res };
+    } catch (e) {
+      last = String(e.message || e).split('\n')[0];
+    } finally {
+      await page.close();
+    }
+    if (attempt === 1) await new Promise(r => setTimeout(r, 5000));
+  }
+  console.log(`${site.school}: FAILED — ${last} (after retry)`);
+  return { school: site.school, ok: false, error: `${last} (after retry)` };
 }
+const results = new Array(SITES.length);
+let next = 0;
+await Promise.all(Array.from({ length: CONCURRENCY }, async () => {
+  while (next < SITES.length) { const i = next++; results[i] = await scanSite(SITES[i]); }
+}));
 await browser.close();
 
 // Merge: keep everything already in the file; add new ids; refresh deadline/budget/imports

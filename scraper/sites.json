@@ -531,5 +531,897 @@
     "url": "/xxgk/zfcg.htm"
    }
   ]
+ },
+ {
+  "key": "BIT",
+  "zh": "北理工",
+  "en": "Beijing IT",
+  "kind": "sfw",
+  "url": "https://cgzx.bit.edu.cn/sfw_cms/e?page=cms.index"
+ },
+ {
+  "key": "HITWH",
+  "zh": "哈工大(威海)",
+  "en": "HIT Weihai",
+  "kind": "sfw",
+  "url": "https://zcgl.hitwh.edu.cn/sfw_cms/e?page=cms.index"
+ },
+ {
+  "key": "JIANGNAN",
+  "zh": "江南大学",
+  "en": "Jiangnan U",
+  "kind": "sfw",
+  "url": "https://bidding.jiangnan.edu.cn/sfw_cms/e?page=cms.index"
+ },
+ {
+  "key": "CAUC",
+  "zh": "中国民航大学",
+  "en": "Civil Aviation U",
+  "kind": "list",
+  "url": "http://www.cauc.edu.cn/zbcgzx/cggg/hwl.htm",
+  "lists": [
+   {
+    "url": "/zbcgzx/cggg/hwl.htm",
+    "label": "采购公告·货物"
+   }
+  ]
+ },
+ {
+  "key": "WZU",
+  "zh": "温州大学",
+  "en": "Wenzhou U",
+  "kind": "list",
+  "url": "https://zczx.wzu.edu.cn/list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1081",
+  "lists": [
+   {
+    "url": "/list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1081",
+    "label": "招标公告"
+   },
+   {
+    "url": "/list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1071",
+    "label": "采购公告"
+   }
+  ]
+ },
+ {
+  "key": "WHUT",
+  "zh": "武汉理工",
+  "en": "Wuhan UT",
+  "kind": "list",
+  "url": "http://cgyztb.whut.edu.cn/cgjzcg/index.chtml",
+  "lists": [
+   {
+    "url": "/cgjzcg/index.chtml",
+    "label": "集中采购"
+   },
+   {
+    "url": "/cgfscg/index.chtml",
+    "label": "分散采购"
+   }
+  ]
+ },
+ {
+  "key": "NCHU",
+  "zh": "南昌航空",
+  "en": "Nanchang Hangkong",
+  "kind": "list",
+  "url": "https://zbcg.nchu.edu.cn/cggg",
+  "lists": [
+   {
+    "url": "/cggg",
+    "label": "采购公告"
+   }
+  ]
+ },
+ {
+  "key": "HFUT",
+  "zh": "合肥工业",
+  "en": "Hefei UT",
+  "kind": "list",
+  "url": "https://zb.hfut.edu.cn/cms/",
+  "lists": [
+   {
+    "url": "/cms/",
+    "label": "采购公告"
+   }
+  ]
+ },
+ {
+  "key": "QDU",
+  "zh": "青岛大学",
+  "en": "Qingdao U",
+  "kind": "list",
+  "url": "https://cg.qdu.edu.cn/cgxxhw/index.chtml",
+  "lists": [
+   {
+    "url": "/cgxxhw/index.chtml",
+    "label": "采购公告·货物"
+   },
+   {
+    "url": "/jjgg/index.chtml",
+    "label": "竞价公告"
+   }
+  ]
+ },
+ {
+  "key": "ZJNU",
+  "zh": "浙江师范",
+  "en": "Zhejiang Normal",
+  "kind": "list",
+  "url": "https://cgzx.zjnu.edu.cn/cgxmgg_20614/list.htm",
+  "lists": [
+   {
+    "url": "/cgxmgg_20614/list.htm",
+    "label": "招标公告"
+   },
+   {
+    "url": "/20374/list.htm",
+    "label": "询价公告"
+   },
+   {
+    "url": "/20380/list.htm",
+    "label": "磋商公告"
+   }
+  ]
+ },
+ {
+  "key": "SDUST",
+  "zh": "山东科大",
+  "en": "Shandong UST",
+  "kind": "list",
+  "url": "http://www.sdust.edu.cn/index/zbgg.htm",
+  "lists": [
+   {
+    "url": "/index/zbgg.htm",
+    "label": "招标公告"
+   }
+  ]
+ },
+ {
+  "key": "JUST",
+  "zh": "江苏科大",
+  "en": "Jiangsu UST",
+  "kind": "list",
+  "url": "https://zbb.just.edu.cn/zbgg/list.htm",
+  "lists": [
+   {
+    "url": "/zbgg/list.htm",
+    "label": "招标公告"
+   }
+  ]
+ },
+ {
+  "key": "CUMT",
+  "zh": "中国矿大",
+  "en": "China U of Mining",
+  "kind": "list",
+  "url": "https://zhbb.cumt.edu.cn/cggghwl/index.chtml",
+  "lists": [
+   {
+    "url": "/cggghwl/index.chtml",
+    "label": "采购公告·货物"
+   },
+   {
+    "url": "/xjgg/index.chtml",
+    "label": "询价公告"
+   }
+  ]
+ },
+ {
+  "key": "ECUST",
+  "zh": "华东理工",
+  "en": "ECUST",
+  "kind": "list",
+  "url": "https://czzx.ecust.edu.cn/pgoods/index.chtml",
+  "lists": [
+   {
+    "url": "/pgoods/index.chtml",
+    "label": "采购公告·货物"
+   },
+   {
+    "url": "/jjgg/index.chtml",
+    "label": "竞价公告"
+   },
+   {
+    "url": "/ejdwcggg/index.chtml",
+    "label": "二级单位采购"
+   }
+  ]
+ },
+ {
+  "key": "NTU",
+  "zh": "南通大学",
+  "en": "Nantong U",
+  "kind": "list",
+  "url": "https://ztb.ntu.edu.cn/cgxxhw/index.chtml",
+  "lists": [
+   {
+    "url": "/cgxxhw/index.chtml",
+    "label": "采购信息·货物"
+   },
+   {
+    "url": "/jjgg/index.chtml",
+    "label": "竞价公告"
+   }
+  ]
+ },
+ {
+  "key": "CCNU",
+  "zh": "华中师范",
+  "en": "Central China Normal",
+  "kind": "list",
+  "url": "https://zb.ccnu.edu.cn/",
+  "lists": [
+   {
+    "url": "/",
+    "label": "招标信息"
+   }
+  ]
+ },
+ {
+  "key": "XTU",
+  "zh": "湘潭大学",
+  "en": "Xiangtan U",
+  "kind": "list",
+  "url": "https://cggl.xtu.edu.cn/zbfzbgg/index.chtml",
+  "lists": [
+   {
+    "url": "/zbfzbgg/index.chtml",
+    "label": "采购公告"
+   },
+   {
+    "url": "/jjgg/index.chtml",
+    "label": "竞价公告"
+   }
+  ]
+ },
+ {
+  "key": "CUG",
+  "zh": "中国地大(武汉)",
+  "en": "China U of Geosciences",
+  "kind": "list",
+  "url": "https://cggl.cug.edu.cn/wtcggg/index.chtml",
+  "lists": [
+   {
+    "url": "/wtcggg/index.chtml",
+    "label": "采购公告"
+   }
+  ]
+ },
+ {
+  "key": "NCEPU",
+  "zh": "华北电力",
+  "en": "North China Electric Power",
+  "kind": "list",
+  "url": "https://zb.ncepu.edu.cn/zbcggg/index.htm",
+  "lists": [
+   {
+    "url": "/zbcggg/index.htm",
+    "label": "招标采购公告"
+   }
+  ]
+ },
+ {
+  "key": "NUC",
+  "zh": "中北大学",
+  "en": "North U of China",
+  "kind": "list",
+  "url": "https://zbcg.nuc.edu.cn/cgxx/hwl.htm",
+  "lists": [
+   {
+    "url": "/cgxx/hwl.htm",
+    "label": "采购信息·货物"
+   }
+  ]
+ },
+ {
+  "key": "OUC",
+  "zh": "中国海洋大学",
+  "en": "Ocean U of China",
+  "kind": "sfw",
+  "url": "http://zb.ouc.edu.cn/sfw_cms/e?page=cms.index"
+ },
+ {
+  "key": "BJTU",
+  "zh": "北交大",
+  "en": "Beijing Jiaotong",
+  "kind": "list",
+  "url": "https://gzc.bjtu.edu.cn/zb/zbcggs/index.htm",
+  "lists": [
+   {
+    "url": "/zb/zbcggs/index.htm",
+    "label": "招标采购公告"
+   }
+  ]
+ },
+ {
+  "key": "HRBUST",
+  "zh": "哈理工",
+  "en": "Harbin U of Sci & Tech",
+  "kind": "list",
+  "url": "https://gzc.hrbust.edu.cn/1291/list.htm",
+  "lists": [
+   {
+    "url": "/1291/list.htm",
+    "label": "招标信息"
+   }
+  ]
+ },
+ {
+  "key": "NANKAI",
+  "zh": "南开",
+  "en": "Nankai",
+  "kind": "list",
+  "url": "https://nkzbb.nankai.edu.cn/jghw/index.chtml",
+  "lists": [
+   {
+    "url": "/jghw/index.chtml",
+    "label": "货物类"
+   }
+  ]
+ },
+ {
+  "key": "SAU",
+  "zh": "沈阳航空航天",
+  "en": "Shenyang Aerospace",
+  "kind": "list",
+  "url": "https://zbcgb.sau.edu.cn/cgxx/cggg.htm",
+  "lists": [
+   {
+    "url": "/cgxx/cggg.htm",
+    "label": "采购公告"
+   }
+  ]
+ },
+ {
+  "key": "SHIEP",
+  "zh": "上海电力",
+  "en": "Shanghai U of Electric Power",
+  "kind": "list",
+  "url": "https://xxgk.shiep.edu.cn/574/list.htm",
+  "lists": [
+   {
+    "url": "/574/list.htm",
+    "label": "仪器设备采购信息"
+   }
+  ]
+ },
+ {
+  "key": "SWPU",
+  "zh": "西南石油",
+  "en": "Southwest Petroleum",
+  "kind": "list",
+  "url": "http://cwcggl.swpu.edu.cn/cgzzcg/index.chtml",
+  "lists": [
+   {
+    "url": "/cgzzcg/index.chtml",
+    "label": "自行组织采购"
+   },
+   {
+    "url": "/cgtycg/index.chtml",
+    "label": "采购公告"
+   }
+  ]
+ },
+ {
+  "key": "XAUAT",
+  "zh": "西安建大",
+  "en": "Xi'an U of Arch & Tech",
+  "kind": "list",
+  "url": "https://jdzcb.xauat.edu.cn/cgxx/cggg/hwl.htm",
+  "lists": [
+   {
+    "url": "/cgxx/cggg/hwl.htm",
+    "label": "采购公告·货物"
+   }
+  ]
+ },
+ {
+  "key": "XJU",
+  "zh": "新疆大学",
+  "en": "Xinjiang U",
+  "kind": "list",
+  "url": "https://zcglc.xju.edu.cn/zbcg.htm",
+  "lists": [
+   {
+    "url": "/zbcg.htm",
+    "label": "招标采购"
+   }
+  ]
+ },
+ {
+  "key": "NCU",
+  "zh": "南昌大学",
+  "en": "Nanchang U",
+  "kind": "list",
+  "url": "https://cgzx.ncu.edu.cn/",
+  "lists": [
+   {
+    "url": "/",
+    "label": "采购公告"
+   }
+  ]
+ },
+ {
+  "key": "AUST",
+  "zh": "安徽理工",
+  "en": "Anhui UST",
+  "kind": "sfw",
+  "url": "https://cg.aust.edu.cn/sfw_cms/e?page=cms.index"
+ },
+ {
+  "key": "SNNU",
+  "zh": "陕西师范",
+  "en": "Shaanxi Normal",
+  "kind": "sfw",
+  "url": "https://zbb.snnu.edu.cn/sfw_cms/e?page=cms.index"
+ },
+ {
+  "key": "CUP",
+  "zh": "中国石油(北京)",
+  "en": "China U of Petroleum (Beijing)",
+  "kind": "sfw",
+  "url": "https://zcb.cup.edu.cn/sfw_cms/e?page=cms.index"
+ },
+ {
+  "key": "CUMTB",
+  "zh": "中国矿大(北京)",
+  "en": "China U of Mining (Beijing)",
+  "kind": "sfw",
+  "url": "https://zcc.cumtb.edu.cn/sfw_cms/e?page=cms.index"
+ },
+ {
+  "key": "AHUT",
+  "zh": "安徽工业",
+  "en": "Anhui U of Technology",
+  "kind": "list",
+  "url": "https://zcc.ahut.edu.cn/index/cgxx.htm",
+  "lists": [
+   {
+    "url": "/index/cgxx.htm",
+    "label": "采购信息"
+   },
+   {
+    "url": "/index/cjxx.htm",
+    "label": "采购公告"
+   }
+  ]
+ },
+ {
+  "key": "CCZU",
+  "zh": "常州大学",
+  "en": "Changzhou U",
+  "kind": "list",
+  "url": "https://zb.cczu.edu.cn/21651/list.htm",
+  "lists": [
+   {
+    "url": "/21651/list.htm",
+    "label": "货物类·公开招标"
+   },
+   {
+    "url": "/21648/list.htm",
+    "label": "货物类"
+   }
+  ]
+ },
+ {
+  "key": "CUIT",
+  "zh": "成都信息工程",
+  "en": "Chengdu U of Info Tech",
+  "kind": "list",
+  "url": "https://ztb.cuit.edu.cn/hwcg.htm",
+  "lists": [
+   {
+    "url": "/hwcg.htm",
+    "label": "货物采购"
+   }
+  ]
+ },
+ {
+  "key": "HAUT",
+  "zh": "河南工业",
+  "en": "Henan U of Technology",
+  "kind": "list",
+  "url": "http://ztb.haut.edu.cn/zbxx/index.chtml",
+  "lists": [
+   {
+    "url": "/zbxx/index.chtml",
+    "label": "采购公告"
+   },
+   {
+    "url": "/zbxx1/index.chtml",
+    "label": "招标信息"
+   }
+  ]
+ },
+ {
+  "key": "HNUST",
+  "zh": "湖南科技",
+  "en": "Hunan UST",
+  "kind": "list",
+  "url": "https://cgzx.hnust.edu.cn/cgxx/cggg/index.htm",
+  "lists": [
+   {
+    "url": "/cgxx/cggg/index.htm",
+    "label": "采购公告"
+   }
+  ]
+ },
+ {
+  "key": "HPU",
+  "zh": "河南理工",
+  "en": "Henan Polytechnic",
+  "kind": "list",
+  "url": "http://gzc.hpu.edu.cn/gzc_cggg.aspx",
+  "lists": [
+   {
+    "url": "/gzc_cggg.aspx",
+    "label": "采购公告"
+   }
+  ]
+ },
+ {
+  "key": "HAU",
+  "zh": "淮安大学",
+  "en": "Huai'an U",
+  "kind": "list",
+  "url": "https://zbb.hau.edu.cn/cggg.htm",
+  "lists": [
+   {
+    "url": "/cggg.htm",
+    "label": "采购公告"
+   }
+  ]
+ },
+ {
+  "key": "IMUT",
+  "zh": "内蒙古工业",
+  "en": "Inner Mongolia UT",
+  "kind": "list",
+  "url": "https://zbcg.imut.edu.cn/cggg/wtcggg.htm",
+  "lists": [
+   {
+    "url": "/cggg/wtcggg.htm",
+    "label": "委托采购公告"
+   }
+  ]
+ },
+ {
+  "key": "JSNU",
+  "zh": "江苏师范",
+  "en": "Jiangsu Normal",
+  "kind": "list",
+  "url": "http://ztbb.jsnu.edu.cn/3158/list.htm",
+  "lists": [
+   {
+    "url": "/3158/list.htm",
+    "label": "采购公告"
+   }
+  ]
+ },
+ {
+  "key": "LNTU",
+  "zh": "辽宁工程技术",
+  "en": "Liaoning Technical U",
+  "kind": "list",
+  "url": "https://gzc.lntu.edu.cn/xxgk/cgxx.htm",
+  "lists": [
+   {
+    "url": "/xxgk/cgxx.htm",
+    "label": "采购信息"
+   }
+  ]
+ },
+ {
+  "key": "NEPU",
+  "zh": "东北石油",
+  "en": "Northeast Petroleum",
+  "kind": "list",
+  "url": "https://cgxxw.nepu.edu.cn/index/zbgg.htm",
+  "lists": [
+   {
+    "url": "/index/zbgg.htm",
+    "label": "招标公告"
+   }
+  ]
+ },
+ {
+  "key": "SDJU",
+  "zh": "上海电机",
+  "en": "Shanghai Dianji U",
+  "kind": "list",
+  "url": "https://zbb.sdju.edu.cn/sbl_4617/list.htm",
+  "lists": [
+   {
+    "url": "/sbl_4617/list.htm",
+    "label": "设备类"
+   },
+   {
+    "url": "/",
+    "label": "招投标"
+   }
+  ]
+ },
+ {
+  "key": "SIT",
+  "zh": "上海应用技术",
+  "en": "Shanghai Inst. of Technology",
+  "kind": "list",
+  "url": "https://czb.sit.edu.cn/cggg.htm",
+  "lists": [
+   {
+    "url": "/cggg.htm",
+    "label": "采购公告"
+   }
+  ]
+ },
+ {
+  "key": "STU",
+  "zh": "汕头大学",
+  "en": "Shantou U",
+  "kind": "list",
+  "url": "https://ztbzx.stu.edu.cn/portalwebController.do?goAtriclelist&articltype=cggg&page=1&rows=16",
+  "lists": [
+   {
+    "url": "/portalwebController.do?goAtriclelist&articltype=cggg&page=1&rows=16",
+    "label": "采购公告"
+   },
+   {
+    "url": "/portalwebController.do?goAtriclelist&articltype=hwl&page=1&rows=16",
+    "label": "货物类"
+   }
+  ]
+ },
+ {
+  "key": "SUSE",
+  "zh": "四川轻化工",
+  "en": "Sichuan U of Sci & Eng",
+  "kind": "list",
+  "url": "https://jyzx.suse.edu.cn/xxczgg/index.chtml",
+  "lists": [
+   {
+    "url": "/xxczgg/index.chtml",
+    "label": "采购公告"
+   },
+   {
+    "url": "/czgg/index.chtml",
+    "label": "采购公告"
+   }
+  ]
+ },
+ {
+  "key": "UJN",
+  "zh": "济南大学",
+  "en": "U of Jinan",
+  "kind": "list",
+  "url": "https://sygz.ujn.edu.cn/cggg.htm",
+  "lists": [
+   {
+    "url": "/cggg.htm",
+    "label": "采购公告"
+   }
+  ]
+ },
+ {
+  "key": "WYU",
+  "zh": "五邑大学",
+  "en": "Wuyi U",
+  "kind": "list",
+  "url": "https://www.wyu.edu.cn/ztb/wscg/cggg.htm",
+  "lists": [
+   {
+    "url": "/ztb/wscg/cggg.htm",
+    "label": "采购公告"
+   },
+   {
+    "url": "/ztb/",
+    "label": "采购招标"
+   }
+  ]
+ },
+ {
+  "key": "XAUT",
+  "zh": "西安理工",
+  "en": "Xi'an U of Technology",
+  "kind": "list",
+  "url": "https://www.xaut.edu.cn/ggzy/zbxx/zbgg.htm",
+  "lists": [
+   {
+    "url": "/ggzy/zbxx/zbgg.htm",
+    "label": "招标公告"
+   }
+  ]
+ },
+ {
+  "key": "XSYU",
+  "zh": "西安石油",
+  "en": "Xi'an Shiyou U",
+  "kind": "list",
+  "url": "https://ztb.xsyu.edu.cn/cggg/hwl.htm",
+  "lists": [
+   {
+    "url": "/cggg/hwl.htm",
+    "label": "采购公告·货物"
+   },
+   {
+    "url": "/cggg1/hwl.htm",
+    "label": "货物类"
+   }
+  ]
+ },
+ {
+  "key": "YANGTZEU",
+  "zh": "长江大学",
+  "en": "Yangtze U",
+  "kind": "list",
+  "url": "https://ztbgl.yangtzeu.edu.cn/cggg/hwl.htm",
+  "lists": [
+   {
+    "url": "/cggg/hwl.htm",
+    "label": "采购公告·货物"
+   }
+  ]
+ },
+ {
+  "key": "YCIT",
+  "zh": "盐城工学院",
+  "en": "Yancheng Inst. of Technology",
+  "kind": "list",
+  "url": "https://zbxx.ycit.edu.cn/zbxx.htm",
+  "lists": [
+   {
+    "url": "/zbxx.htm",
+    "label": "招标信息"
+   }
+  ]
+ },
+ {
+  "key": "YTU",
+  "zh": "烟台大学",
+  "en": "Yantai U",
+  "kind": "list",
+  "url": "https://zcc.ytu.edu.cn/zfcgzx/zbgg.htm",
+  "lists": [
+   {
+    "url": "/zfcgzx/zbgg.htm",
+    "label": "招标公告"
+   }
+  ]
+ },
+ {
+  "key": "CCUT",
+  "zh": "长春工业",
+  "en": "Changchun UT",
+  "kind": "list",
+  "url": "https://zbcgfwzx.ccut.edu.cn/cggg.htm",
+  "lists": [
+   {
+    "url": "/cggg.htm",
+    "label": "采购公告"
+   }
+  ]
+ },
+ {
+  "key": "GDOU",
+  "zh": "广东海洋",
+  "en": "Guangdong Ocean U",
+  "kind": "list",
+  "url": "https://www.gdou.edu.cn/kstd/zbxx.htm",
+  "lists": [
+   {
+    "url": "/kstd/zbxx.htm",
+    "label": "招标信息"
+   }
+  ]
+ },
+ {
+  "key": "ECJTU",
+  "zh": "华东交通",
+  "en": "East China Jiaotong",
+  "kind": "list",
+  "url": "https://zfcgzbb.ecjtu.edu.cn/zbgg/hwl.htm",
+  "lists": [
+   {
+    "url": "/zbgg/hwl.htm",
+    "label": "招标公告·货物"
+   }
+  ]
+ },
+ {
+  "key": "JXUST",
+  "zh": "江西理工",
+  "en": "Jiangxi UST",
+  "kind": "list",
+  "url": "https://www.jxust.edu.cn/jxustn/zbgg.htm",
+  "lists": [
+   {
+    "url": "/jxustn/zbgg.htm",
+    "label": "招标公告"
+   }
+  ]
+ },
+ {
+  "key": "AIRCAS",
+  "zh": "中科院空天院",
+  "en": "CAS Aerospace Information Research Inst.",
+  "kind": "list",
+  "url": "https://www.aircas.ac.cn/tzgg/",
+  "lists": [
+   {
+    "url": "/tzgg/",
+    "label": "通知公告"
+   }
+  ],
+  "org": "institute"
+ },
+ {
+  "key": "CIOMP",
+  "zh": "中科院长春光机所",
+  "en": "CAS Changchun Inst. of Optics (CIOMP)",
+  "kind": "list",
+  "url": "https://www.ciomp.cas.cn/tzgg/",
+  "lists": [
+   {
+    "url": "/tzgg/",
+    "label": "通知公告"
+   }
+  ],
+  "org": "institute"
+ },
+ {
+  "key": "SITP",
+  "zh": "中科院上海技物所",
+  "en": "CAS Shanghai Inst. of Technical Physics",
+  "kind": "list",
+  "url": "https://www.sitp.cas.cn/ggtz/",
+  "lists": [
+   {
+    "url": "/ggtz/",
+    "label": "公告通知"
+   }
+  ],
+  "org": "institute"
+ },
+ {
+  "key": "NAOC",
+  "zh": "中科院国家天文台",
+  "en": "CAS National Astronomical Observatories",
+  "kind": "list",
+  "url": "https://nao.cas.cn/news/tz/",
+  "lists": [
+   {
+    "url": "/news/tz/",
+    "label": "通知公告"
+   }
+  ],
+  "org": "institute"
+ },
+ {
+  "key": "IOA",
+  "zh": "中科院声学所",
+  "en": "CAS Inst. of Acoustics",
+  "kind": "list",
+  "url": "https://www.ioa.cas.cn/tzgg/",
+  "lists": [
+   {
+    "url": "/tzgg/",
+    "label": "通知公告"
+   }
+  ],
+  "org": "institute"
+ },
+ {
+  "key": "QIBEBT",
+  "zh": "中科院青岛能源所",
+  "en": "CAS Qingdao Inst. of Bioenergy",
+  "kind": "list",
+  "url": "https://qibebt.cas.cn/news/notice/",
+  "lists": [
+   {
+    "url": "/news/notice/",
+    "label": "通知公告"
+   }
+  ],
+  "org": "institute"
  }
 ]
