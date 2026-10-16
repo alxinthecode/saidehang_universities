@@ -1,0 +1,338 @@
+[
+ {
+  "key": "ECUST",
+  "title": "华东理工大学采购信息网 - 首页",
+  "url": "https://czzx.ecust.edu.cn/",
+  "sfw": false,
+  "navs": [
+   {
+    "t": "货物类",
+    "h": "https://czzx.ecust.edu.cn/pgoods/index.chtml"
+   },
+   {
+    "t": "竞价公告",
+    "h": "https://czzx.ecust.edu.cn/jjgg/index.chtml"
+   },
+   {
+    "t": "二级单位采购公告",
+    "h": "https://czzx.ecust.edu.cn/ejdwcggg/index.chtml"
+   },
+   {
+    "t": "货物类",
+    "h": "https://czzx.ecust.edu.cn/rgoods/index.chtml"
+   },
+   {
+    "t": "竞价结果",
+    "h": "https://czzx.ecust.edu.cn/jjjg/index.chtml"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://czzx.ecust.edu.cn/dynamic/index.chtml"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://czzx.ecust.edu.cn/exposure1/index.chtml"
+   },
+   {
+    "t": "自动化合成系统招标公告",
+    "h": "https://czzx.ecust.edu.cn/pgoods/8464.chtml"
+   }
+  ],
+  "cands": [
+   {
+    "u": "https://czzx.ecust.edu.cn/",
+    "label": "home",
+    "scanned": 72,
+    "oldest": "2020-10-16",
+    "n": 0,
+    "newest": [
+     "2026-09-23 化工原理实验设备更新",
+     "2026-09-09 消防控制室值班人员安保服务",
+     "2026-09-09 流程全局优化服务器采购"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://czzx.ecust.edu.cn/pgoods/index.chtml",
+    "label": "货物类",
+    "scanned": 15,
+    "oldest": "2026-07-07",
+    "n": 0,
+    "newest": [
+     "2026-10-15 华东理工大学实时优化应用服务器公开招标公告",
+     "2026-10-13 自动化合成系统招标公告",
+     "2026-10-08 华东理工大学双源单波长能量X射线荧光光谱仪公开招标公告"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://czzx.ecust.edu.cn/jjgg/index.chtml",
+    "label": "竞价公告",
+    "scanned": 15,
+    "oldest": "2025-05-12",
+    "n": 0,
+    "newest": [
+     "2026-10-15 徐汇校区学生公寓开水机采购竞价公告",
+     "2026-09-22 2026年华东理工大学奉贤校区E教饮水机采购项目竞价公告",
+     "2026-07-02 2026年奉贤校区研究生公寓直饮机采购竞价公告"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://czzx.ecust.edu.cn/ejdwcggg/index.chtml",
+    "label": "二级单位采购公告",
+    "scanned": 15,
+    "oldest": "2026-10-12",
+    "n": 0,
+    "newest": [
+     "2026-10-16 石化工业智能调控过程的全域状态感知与集群决策优化技术研究",
+     "2026-10-15 二维材料显微转移系统采购公告",
+     "2026-10-15 液氮气体采购公告"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://czzx.ecust.edu.cn/rgoods/index.chtml",
+    "label": "货物类",
+    "scanned": 15,
+    "oldest": "2026-07-21",
+    "n": 0,
+    "newest": [
+     "2026-09-14 华东理工大学在线学习一体化配套项目中标公告",
+     "2026-09-08 华东理工大学实时多检测器联用及原位光谱成像系统中标公告",
+     "2026-09-08 华东理工大学实验动物中心洗消杀与分析处理基础设备中选公告"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://czzx.ecust.edu.cn/jjjg/index.chtml",
+    "label": "竞价结果",
+    "scanned": 15,
+    "oldest": "2024-12-31",
+    "n": 0,
+    "newest": [
+     "2026-09-28 2026年华东理工大学奉贤校区E教饮水机采购项目结果公告",
+     "2026-07-06 2026年奉贤校区研究生公寓开水机采购结果公告",
+     "2026-07-06 2026年奉贤校区研究生公寓直饮机采购结果公告"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://czzx.ecust.edu.cn/dynamic/index.chtml",
+    "label": "更多>>",
+    "scanned": 15,
+    "oldest": "2023-05-24",
+    "n": 0,
+    "newest": [
+     "2026-03-11 采招中心组织召开二级单位采购工作宣讲会",
+     "2025-10-28 采招中心赴复旦大学开展调研交流",
+     "2024-12-06 赵黎明副校长采招中心调研"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://czzx.ecust.edu.cn/exposure1/index.chtml",
+    "label": "更多>>",
+    "scanned": 14,
+    "oldest": "2026-03-12",
+    "n": 0,
+    "newest": [
+     "2026-09-23 化工原理实验设备更新",
+     "2026-09-09 消防控制室值班人员安保服务",
+     "2026-09-09 流程全局优化服务器采购"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://czzx.ecust.edu.cn/pgoods/8464.chtml",
+    "label": "自动化合成系统招标公告",
+    "scanned": 1,
+    "oldest": "2026-10-12",
+    "n": 0,
+    "newest": [
+     "2026-10-12 华东理工大学自动化合成系统公开招标公告"
+    ],
+    "rows": []
+   }
+  ]
+ },
+ {
+  "key": "NTU",
+  "title": "南通大学招投标办公室 - 首页",
+  "url": "https://ztb.ntu.edu.cn/",
+  "sfw": false,
+  "navs": [
+   {
+    "t": "采购信息",
+    "h": "https://ztb.ntu.edu.cn/cgxxhw/index.chtml"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://ztb.ntu.edu.cn/tz/index.chtml"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://ztb.ntu.edu.cn/cgxqdc/index.chtml"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://ztb.ntu.edu.cn/yxgk/index.chtml"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://ztb.ntu.edu.cn/jjgg/index.chtml"
+   },
+   {
+    "t": "科学计算设备2竞价公告",
+    "h": "https://ztb.ntu.edu.cn/jjgg/8608.chtml"
+   },
+   {
+    "t": "智能计算服务器2竞价公告",
+    "h": "https://ztb.ntu.edu.cn/jjgg/8603.chtml"
+   },
+   {
+    "t": "办公电脑采购竞价公告",
+    "h": "https://ztb.ntu.edu.cn/jjgg/8599.chtml"
+   }
+  ],
+  "cands": [
+   {
+    "u": "https://ztb.ntu.edu.cn/",
+    "label": "home",
+    "scanned": 83,
+    "oldest": "2025-09-16",
+    "n": 0,
+    "newest": [
+     "2026-08-06 关于调整2027年度采购计划申报截止时间的更正通知",
+     "2026-07-15 关于组织做好2027年度采购计划申报工作的通知",
+     "2026-09-17 泰州学院后勤管理处来校调研采购管理工作"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://ztb.ntu.edu.cn/cgxxhw/index.chtml",
+    "label": "采购信息",
+    "scanned": 15,
+    "oldest": "2026-09-03",
+    "n": 0,
+    "newest": [
+     "2026-10-13 南通大学多模态高通量生理监测与调控系统公开招标公告",
+     "2026-10-12 南通大学食堂豆制品采购项目公开招标公告",
+     "2026-10-10 南通大学杏林学院教学楼加盖教室课桌椅采购公开招标变更公告"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://ztb.ntu.edu.cn/tz/index.chtml",
+    "label": "更多>>",
+    "scanned": 15,
+    "oldest": "2024-10-17",
+    "n": 0,
+    "newest": [
+     "2026-08-06 关于调整2027年度采购计划申报截止时间的更正通知",
+     "2026-07-15 关于组织做好2027年度采购计划申报工作的通知",
+     "2026-07-02 关于开展校内仪器设备免费巡检活动的通知 ——2026年第"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://ztb.ntu.edu.cn/cgxqdc/index.chtml",
+    "label": "更多>>",
+    "scanned": 2,
+    "oldest": "2026-04-22",
+    "n": 0,
+    "newest": [
+     "2026-04-22 南通大学启东校区物业服务外包项目",
+     "2026-04-22 南通大学启东校区校园安保服务"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://ztb.ntu.edu.cn/yxgk/index.chtml",
+    "label": "更多>>",
+    "scanned": 15,
+    "oldest": "2026-01-12",
+    "n": 0,
+    "newest": [
+     "2026-10-16 南通大学2026年政府采购意向公开（第17批）",
+     "2026-10-09 南通大学2026年政府采购意向公开（第16批）",
+     "2026-08-03 南通大学2026年政府采购意向公开（第15批）"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://ztb.ntu.edu.cn/jjgg/index.chtml",
+    "label": "更多>>",
+    "scanned": 15,
+    "oldest": "2026-09-14",
+    "n": 0,
+    "newest": [
+     "2026-10-16 Mellanox ConnectX-5 EDR 100G",
+     "2026-10-16 科学计算设备2竞价公告",
+     "2026-10-15 智能计算服务器2竞价公告"
+    ],
+    "rows": []
+   }
+  ]
+ },
+ {
+  "key": "CCNU",
+  "title": "华中师范大学招标信息网",
+  "url": "https://zb.ccnu.edu.cn/",
+  "sfw": false,
+  "navs": [
+   {
+    "t": "查看更多",
+    "h": "https://zb.ccnu.edu.cn/topic/Procurement.jsp"
+   },
+   {
+    "t": "查看更多",
+    "h": "https://zb.ccnu.edu.cn/topic/FsProcurement.jsp"
+   },
+   {
+    "t": "查看更多",
+    "h": "https://zb.ccnu.edu.cn/topic/Caigouyx.jsp"
+   },
+   {
+    "t": "查看更多",
+    "h": "https://zb.ccnu.edu.cn/topic/Baoguang.jsp"
+   },
+   {
+    "t": "网上竞价用户操作手册",
+    "h": "https://zb.ccnu.edu.cn/viewer.do?id=4067899&ver=2"
+   }
+  ],
+  "cands": [
+   {
+    "u": "https://zb.ccnu.edu.cn/",
+    "label": "home",
+    "scanned": 108,
+    "oldest": "2017-10-27",
+    "n": 0,
+    "newest": [
+     "2026-10-16 （新）【HSAWT01-20260237】华中师范大学卓",
+     "2026-10-16 （新）【HSBWT05-20260230】华中师范大学2",
+     "2026-10-15 （新）【HSAWT01-20260245】华中师范大学校"
+    ],
+    "rows": []
+   }
+  ]
+ },
+ {
+  "key": "SEU",
+  "title": "东南大学采购档案管理系统",
+  "url": "https://cgzx.seu.edu.cn/",
+  "sfw": false,
+  "navs": [],
+  "cands": []
+ },
+ {
+  "key": "SEU",
+  "title": "东南大学国有资产统筹管理平台",
+  "url": "https://zcgl.seu.edu.cn/sfw/",
+  "sfw": true,
+  "navs": [],
+  "cands": [],
+  "sfwErr": "page.evaluate: Error: no 思必得 list query returned results\n    at readSfw (eval at <anonymous> (eval a"
+ }
+]
