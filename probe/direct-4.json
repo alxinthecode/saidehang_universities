@@ -1,0 +1,167 @@
+[
+ {
+  "key": "SCUT",
+  "try": "zbzx.scut.edu.cn",
+  "ok": false,
+  "err": "page.goto: net::ERR_EMPTY_RESPONSE at http://zbzx.scut.edu.cn/"
+ },
+ {
+  "key": "SEU",
+  "try": "zbb.seu.edu.cn",
+  "ok": true,
+  "title": "电子评标系统",
+  "url": "https://zbb.seu.edu.cn/",
+  "cands": []
+ },
+ {
+  "key": "SEU",
+  "try": "cgzx.seu.edu.cn",
+  "ok": true,
+  "title": "东南大学采购档案管理系统",
+  "url": "https://cgzx.seu.edu.cn/",
+  "cands": []
+ },
+ {
+  "key": "HRBUST",
+  "try": "gzc.hrbust.edu.cn",
+  "ok": true,
+  "title": "国有资产管理处",
+  "url": "https://gzc.hrbust.edu.cn/",
+  "cands": [
+   {
+    "u": "https://gzc.hrbust.edu.cn/",
+    "label": "home",
+    "scanned": 21,
+    "oldest": "2019-09-09",
+    "n": 0,
+    "newest": [
+     "2026-09-30 学校领导带队开展国庆假期前实验室安全专项检查",
+     "2026-09-15 补齐应急救护短板 筑牢校园生命安全防线——实验室与设备管",
+     "2026-08-29 安全不放假，保障不断档：学校暑期扎实推进资产管理与实验室"
+    ]
+   },
+   {
+    "u": "https://gzc.hrbust.edu.cn/1291/list.htm",
+    "label": "招标信息",
+    "scanned": 14,
+    "oldest": "2026-10-14",
+    "n": 0,
+    "newest": [
+     "2026-10-16 哈尔滨理工大学具身智能与机器人实验平台采购竞争性磋商公告",
+     "2026-10-16 哈尔滨理工大学采购雇主责任险项目竞争性磋商公告",
+     "2026-10-16 哈尔滨理工大学后勤管理处校医院外委化验项目竞争性磋商公告"
+    ]
+   },
+   {
+    "u": "https://gzc.hrbust.edu.cn/1289/list.htm",
+    "label": "更多",
+    "scanned": 14,
+    "oldest": "2015-04-07",
+    "n": 0,
+    "newest": [
+     "2023-01-03 哈尔滨理工大学国有资产管理处 2022年工勤人员转岗聘用",
+     "2022-03-09 机关党委国有资产管理处党支部召开支部党员大会学习贯彻学校",
+     "2022-03-04 栉风沐雨守初心、新征程催人奋进"
+    ]
+   }
+  ]
+ },
+ {
+  "key": "XAUAT",
+  "try": "jdzcb.xauat.edu.cn/cgxx/cggg/hwl.htm",
+  "ok": true,
+  "title": "货物类-西安建筑科技大学",
+  "url": "https://jdzcb.xauat.edu.cn/cgxx/cggg/hwl.htm",
+  "cands": [
+   {
+    "u": "https://jdzcb.xauat.edu.cn/cgxx/cggg/hwl.htm",
+    "label": "采购信息",
+    "scanned": 15,
+    "oldest": "2026-09-29",
+    "n": 0,
+    "newest": [
+     "2026-10-09 2026-10-09西安建筑科技大学综合智慧能源监测与管",
+     "2026-10-09 2026-10-09微波耦合多场材料再生与动态性能综合研",
+     "2026-10-09 2026-10-09往复式压缩系统综合实验平台采购项目竞"
+    ]
+   },
+   {
+    "u": "https://jdzcb.xauat.edu.cn/cgxx/cggg/hwl.htm",
+    "label": "采购信息",
+    "scanned": 15,
+    "oldest": "2026-09-29",
+    "n": 0,
+    "newest": [
+     "2026-10-09 2026-10-09西安建筑科技大学综合智慧能源监测与管",
+     "2026-10-09 2026-10-09微波耦合多场材料再生与动态性能综合研",
+     "2026-10-09 2026-10-09往复式压缩系统综合实验平台采购项目竞"
+    ]
+   },
+   {
+    "u": "https://jdzcb.xauat.edu.cn/cgxx/cjgg/hwl.htm",
+    "label": "货物类",
+    "scanned": 15,
+    "oldest": "2026-09-24",
+    "n": 0,
+    "newest": [
+     "2026-10-10 2026-10-10建融慧学校园智慧一卡通建设项目结果公",
+     "2026-10-10 2026-10-10高精密声振三维测试与分析系统采购项目",
+     "2026-10-09 2026-10-09古建筑智能建造监测分析系统中标(成交"
+    ]
+   },
+   {
+    "u": "https://jdzcb.xauat.edu.cn/cgxx/yxgk/hwl.htm",
+    "label": "货物类",
+    "scanned": 15,
+    "oldest": "2026-06-24",
+    "n": 0,
+    "newest": [
+     "2026-10-10 2026-10-10西安建筑科技大学2026年11月政府",
+     "2026-10-09 2026-10-09西安建筑科技大学2026年11月政府",
+     "2026-09-30 2026-09-30西安建筑科技大学2026年11月政府"
+    ]
+   },
+   {
+    "u": "https://jdzcb.xauat.edu.cn/cgxx/fscg/hwl.htm",
+    "label": "货物类",
+    "scanned": 15,
+    "oldest": "2026-04-30",
+    "n": 0,
+    "newest": [
+     "2026-09-22 2026-09-22校医院-校医院耗材配送服务采购项目结",
+     "2026-09-22 2026-09-22校医院-校医院检验试剂配送服务采购项",
+     "2026-09-10 2026-09-10体育学院-篮球架结果公示"
+    ]
+   }
+  ]
+ },
+ {
+  "key": "NAOC",
+  "try": "nao.cas.cn/news/tz/",
+  "ok": true,
+  "title": "通知公告--中国科学院国家天文台",
+  "url": "https://nao.cas.cn/news/tz/",
+  "cands": [
+   {
+    "u": "https://nao.cas.cn/news/tz/",
+    "label": "home",
+    "scanned": 14,
+    "oldest": "2026-01-30",
+    "n": 0,
+    "newest": [
+     "2026-10-15 中国科学院国家天文台单一来源采购近红外探测器征求意见公示",
+     "2026-10-08 关于2026年度中国科学院杰出科技成就奖的推荐公示",
+     "2026-10-08 关于2026年度中国科学院杰出科技成就奖的推荐公示"
+    ]
+   }
+  ]
+ },
+ {
+  "key": "SIA",
+  "try": "www.sia.cas.cn/tzgg/",
+  "ok": true,
+  "title": "页面没有找到",
+  "url": "https://www.sia.cas.cn/tzgg/",
+  "cands": []
+ }
+]
