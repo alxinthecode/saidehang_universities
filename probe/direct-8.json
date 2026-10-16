@@ -1,0 +1,90 @@
+[
+ {
+  "key": "JNU",
+  "try": "cgzx.jnu.edu.cn",
+  "ok": true,
+  "title": "502 Bad Gateway",
+  "url": "https://cgzx.jnu.edu.cn/",
+  "cands": []
+ },
+ {
+  "key": "JNU",
+  "try": "zbcg.jnu.edu.cn",
+  "ok": true,
+  "title": "统一身份认证平台",
+  "url": "https://icas.jnu.edu.cn/cas/login?service=https%3A%2F%2Fauth4.jnu.edu.cn%2Fcas_auth%2Fpublic%2FcasLogin%3FverifyID%3D1bca455af44c420494a8139241c1a6e1",
+  "cands": []
+ },
+ {
+  "key": "JNU",
+  "try": "zbtb.jnu.edu.cn",
+  "ok": true,
+  "title": "502 Bad Gateway",
+  "url": "https://auth7.jnu.edu.cn/wechat_auth/public/wechatLogin?verifyID=b5b9f227f82042ae80bf11a8166874b0",
+  "cands": []
+ },
+ {
+  "key": "HUBU",
+  "try": "ztb.hubu.edu.cn",
+  "ok": false,
+  "err": "page.goto: Timeout 25000ms exceeded."
+ },
+ {
+  "key": "HUBU",
+  "try": "cg.hubu.edu.cn",
+  "ok": false,
+  "err": "page.goto: Timeout 25000ms exceeded."
+ },
+ {
+  "key": "ZSTU",
+  "try": "cgzx.zstu.edu.cn",
+  "ok": true,
+  "title": "浙江理工大学—访问提示",
+  "url": "https://cgzx.zstu.edu.cn/",
+  "cands": []
+ },
+ {
+  "key": "USTB",
+  "try": "cg.ustb.edu.cn",
+  "ok": false,
+  "err": "page.goto: Timeout 25000ms exceeded."
+ },
+ {
+  "key": "USTB",
+  "try": "zb.ustb.edu.cn",
+  "ok": true,
+  "err": "page.goto: Timeout 25000ms exceeded.",
+  "title": "视频会议直播系统",
+  "url": "http://meeting.ustb.edu.cn/app.SPManage/",
+  "cands": []
+ },
+ {
+  "key": "SIAT",
+  "try": "www.siat.cas.cn/jggl/tzgg/",
+  "ok": true,
+  "title": "通知公告--中国科学院深圳先进技术研究院",
+  "url": "https://www.siat.cas.cn/jggl/tzgg/",
+  "cands": []
+ },
+ {
+  "key": "AIRCAS",
+  "try": "www.aircas.ac.cn/tzgg/",
+  "ok": true,
+  "title": "通知公告----中国科学院空天信息创新研究院",
+  "url": "https://www.aircas.ac.cn/tzgg/",
+  "cands": [
+   {
+    "u": "https://www.aircas.ac.cn/tzgg/",
+    "label": "home",
+    "scanned": 12,
+    "oldest": "2026-03-05",
+    "n": 0,
+    "newest": [
+     "2026-10-14 中国科学院空天信息创新研究院关于举办2026光电产业测试",
+     "2026-09-30 微波成像全国重点实验室2026年度开放基金项目评审结果公",
+     "2026-09-07 中国科学院空天信息创新研究院声明"
+    ]
+   }
+  ]
+ }
+]
