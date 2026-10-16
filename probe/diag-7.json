@@ -1,0 +1,69 @@
+[
+ {
+  "key": "LNTU",
+  "dom": "lntu.edu.cn",
+  "home": "https://www.lntu.edu.cn/",
+  "links": [],
+  "hosts": [
+   "cwc.lntu.edu.cn",
+   "gzc.lntu.edu.cn"
+  ]
+ },
+ {
+  "key": "USTS",
+  "dom": "usts.edu.cn",
+  "home": null,
+  "links": [],
+  "hosts": []
+ },
+ {
+  "key": "JXUST",
+  "dom": "jxust.edu.cn",
+  "home": "https://www.jxust.edu.cn/",
+  "links": [
+   "招标公告 https://www.jxust.edu.cn/jxustn/zbgg.htm",
+   "三十载“食”光坚守  护 https://www.jxust.edu.cn/info/1739/39463.htm",
+   "身边好人\n        https://www.jxust.edu.cn/info/1361/39443.htm"
+  ],
+  "hosts": [
+   "gzc.jxust.edu.cn"
+  ]
+ },
+ {
+  "key": "HNUST",
+  "dom": "hnust.edu.cn",
+  "home": "https://www.hnust.edu.cn/",
+  "links": [
+   "招标公告 https://cgzx.hnust.edu.cn/cgxx/cggg/index.htm"
+  ],
+  "hosts": [
+   "cwc.hnust.edu.cn",
+   "cgzx.hnust.edu.cn",
+   "cg.hnust.edu.cn",
+   "cgzb.hnust.edu.cn",
+   "zcgl.hnust.edu.cn",
+   "gzc.hnust.edu.cn"
+  ]
+ },
+ {
+  "key": "XAUT",
+  "dom": "xaut.edu.cn",
+  "home": "https://www.xaut.edu.cn/",
+  "links": [
+   "招标信息 https://www.xaut.edu.cn/ggzy/zbxx/zbgg.htm"
+  ],
+  "hosts": [
+   "zbgl.xaut.edu.cn",
+   "zcc.xaut.edu.cn",
+   "zcgl.xaut.edu.cn",
+   "zbc.xaut.edu.cn"
+  ]
+ },
+ {
+  "key": "BJUT",
+  "dom": "bjut.edu.cn",
+  "home": null,
+  "links": [],
+  "hosts": []
+ }
+]

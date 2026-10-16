@@ -1,0 +1,832 @@
+[
+ {
+  "key": "LNTU",
+  "title": "国有资产与实验室管理处",
+  "url": "https://gzc.lntu.edu.cn/",
+  "sfw": false,
+  "navs": [
+   {
+    "t": "采购信息",
+    "h": "https://gzc.lntu.edu.cn/xxgk/cgxx.htm"
+   },
+   {
+    "t": "更多",
+    "h": "https://gzc.lntu.edu.cn/gzdt.htm"
+   },
+   {
+    "t": "更多",
+    "h": "https://gzc.lntu.edu.cn/tzgg.htm"
+   },
+   {
+    "t": "更多",
+    "h": "https://gzc.lntu.edu.cn/xxgk/xzzx.htm"
+   }
+  ],
+  "cands": [
+   {
+    "u": "https://gzc.lntu.edu.cn/",
+    "label": "home",
+    "scanned": 20,
+    "oldest": "2022-03-09",
+    "n": 0,
+    "newest": [
+     "2026-09-12 关于做好迎接2026年辽宁省高校实验室安全现场调研工作的",
+     "2025-09-26 关于做好近期实验室安全工作的通知",
+     "2024-11-29 关于开展2024年度实验室安全工作先进集体和先进个人评选"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://gzc.lntu.edu.cn/xxgk/cgxx.htm",
+    "label": "采购信息",
+    "scanned": 20,
+    "oldest": "2025-03-25",
+    "n": 0,
+    "newest": [
+     "2025-03-25 学校2026年政府采购意向（陆续更新）",
+     "2026-10-15 辽宁工程技术大学基础教学部物理实验设备购置项目结果公告",
+     "2026-10-12 辽宁工程技术大学阜新校区校园零修服务结果公告"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://gzc.lntu.edu.cn/gzdt.htm",
+    "label": "更多",
+    "scanned": 20,
+    "oldest": "2024-09-04",
+    "n": 0,
+    "newest": [
+     "2026-09-22 国有资产与实验室管理处、招生就业处党支部联合开展主题党日",
+     "2026-09-17 辽宁省教育厅调研组来校开展实验室安全现场调研",
+     "2026-09-12 我校入选辽宁省本科高校实验室安全管理典型案例"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://gzc.lntu.edu.cn/tzgg.htm",
+    "label": "更多",
+    "scanned": 20,
+    "oldest": "2023-03-17",
+    "n": 0,
+    "newest": [
+     "2026-09-12 关于做好迎接2026年辽宁省高校实验室安全现场调研工作的",
+     "2025-09-26 关于做好近期实验室安全工作的通知",
+     "2024-11-29 关于开展2024年度实验室安全工作先进集体和先进个人评选"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://gzc.lntu.edu.cn/xxgk/xzzx.htm",
+    "label": "更多",
+    "scanned": 15,
+    "oldest": "2016-12-29",
+    "n": 0,
+    "newest": [
+     "2022-08-30 辽宁工程技术大学设备采购合同（模板）",
+     "2022-06-13 易制爆化学品名录",
+     "2022-06-13 易制毒化学品目录"
+    ],
+    "rows": []
+   }
+  ]
+ },
+ {
+  "key": "JXUST",
+  "title": "招标公告-江西理工大学 - JiangXi University of Science and Technology",
+  "url": "https://www.jxust.edu.cn/jxustn/zbgg.htm",
+  "sfw": false,
+  "navs": [
+   {
+    "t": "招标公告",
+    "h": "https://www.jxust.edu.cn/jxustn/zbgg.htm"
+   }
+  ],
+  "cands": [
+   {
+    "u": "https://www.jxust.edu.cn/jxustn/zbgg.htm",
+    "label": "招标公告",
+    "scanned": 7,
+    "oldest": "2026-05-01",
+    "n": 0,
+    "newest": [
+     "2026-06-01 15 2026.10 （结果公示）江西理工大学校工会20",
+     "2026-10-10 10 2026.10 （招标公告）江西理工科技产业有限公",
+     "2026-05-02 09 2026.10 （结果公示）江西理工大学2026年"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://www.jxust.edu.cn/jxustn/zbgg.htm",
+    "label": "招标公告",
+    "scanned": 7,
+    "oldest": "2026-05-01",
+    "n": 0,
+    "newest": [
+     "2026-06-01 15 2026.10 （结果公示）江西理工大学校工会20",
+     "2026-10-10 10 2026.10 （招标公告）江西理工科技产业有限公",
+     "2026-05-02 09 2026.10 （结果公示）江西理工大学2026年"
+    ],
+    "rows": []
+   }
+  ]
+ },
+ {
+  "key": "JXUST",
+  "title": "江西理工大学国有资产与实验室管理处",
+  "url": "https://gzc.jxust.edu.cn/",
+  "sfw": false,
+  "navs": [
+   {
+    "t": "货物验收",
+    "h": "https://gzc.jxust.edu.cn/fwzn/hwys.htm"
+   },
+   {
+    "t": "货物验收",
+    "h": "https://gzc.jxust.edu.cn/xzzq/hwys.htm"
+   },
+   {
+    "t": "更多",
+    "h": "https://gzc.jxust.edu.cn/tzgg.htm"
+   },
+   {
+    "t": "查看更多",
+    "h": "https://gzc.jxust.edu.cn/gzdt.htm"
+   },
+   {
+    "t": "查看更多",
+    "h": "https://gzc.jxust.edu.cn/gzzd/sjzcfg.htm"
+   },
+   {
+    "t": "查看更多",
+    "h": "https://gzc.jxust.edu.cn/xzzq/jjsbgl.htm"
+   },
+   {
+    "t": "查看更多",
+    "h": "https://gzc.jxust.edu.cn/fwzn/jjsbgl.htm"
+   }
+  ],
+  "cands": [
+   {
+    "u": "https://gzc.jxust.edu.cn/",
+    "label": "home",
+    "scanned": 1,
+    "oldest": "2026-09-24",
+    "n": 0,
+    "newest": [
+     "2026-09-24 我校开展中秋、国庆节前实验室安全专项检查 我校开展中秋、"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://gzc.jxust.edu.cn/tzgg.htm",
+    "label": "更多",
+    "scanned": 1,
+    "oldest": "2026-09-28",
+    "n": 0,
+    "newest": [
+     "2026-09-28 28 2026.09 江西理工大学求是楼地下停车场一批鹏"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://gzc.jxust.edu.cn/gzdt.htm",
+    "label": "查看更多",
+    "scanned": 1,
+    "oldest": "2026-09-24",
+    "n": 0,
+    "newest": [
+     "2026-09-24 26 2026.09 我校开展中秋、国庆节前实验室安全专"
+    ],
+    "rows": []
+   }
+  ]
+ },
+ {
+  "key": "HNUST",
+  "title": "湖南科技大学财务网",
+  "url": "https://cwc.hnust.edu.cn/index_mobile.htm",
+  "sfw": false,
+  "navs": [
+   {
+    "t": "查看更多",
+    "h": "https://cwc.hnust.edu.cn/bszn/index.htm"
+   },
+   {
+    "t": "查看更多",
+    "h": "https://cwc.hnust.edu.cn/xwgg/tzgg/index.htm"
+   },
+   {
+    "t": "MORE",
+    "h": "https://cwc.hnust.edu.cn/cwgk/index.htm"
+   },
+   {
+    "t": "MORE",
+    "h": "https://cwc.hnust.edu.cn/gzzd/index.htm"
+   },
+   {
+    "t": "MORE",
+    "h": "https://cwc.hnust.edu.cn/yqlj/index.htm"
+   }
+  ],
+  "cands": [
+   {
+    "u": "https://cwc.hnust.edu.cn/bszn/index.htm",
+    "label": "查看更多",
+    "scanned": 19,
+    "oldest": "2026-05-18",
+    "n": 0,
+    "newest": [
+     "2026-05-18 添加公务员卡操作流程 2026-05-18",
+     "2026-05-18 2026年科研经费财务政策与流程解读 2026-04-0",
+     "2026-05-18 湖南科技大学财务预算管理系统用户手册 2025-09-2"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://cwc.hnust.edu.cn/xwgg/tzgg/index.htm",
+    "label": "查看更多",
+    "scanned": 20,
+    "oldest": "2026-09-16",
+    "n": 0,
+    "newest": [
+     "2026-09-16 湖南中医药大学财务处一行来我校交流 2026-09-16",
+     "2026-09-16 人人讲安全 个个会应急 ——计财处召开消防安全隐患专项整",
+     "2026-09-16 在学习和实践中提高七种能力 ——刘稳丰同志应邀上党课 2"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://cwc.hnust.edu.cn/cwgk/index.htm",
+    "label": "MORE",
+    "scanned": 12,
+    "oldest": "2025-09-01",
+    "n": 0,
+    "newest": [
+     "2025-09-01 湖南科技大学2025年收费公示 2025-09-01",
+     "2025-09-01 湖南科技大学2023年度收费公示 2023-09-15",
+     "2025-09-01 湖南科技大学潇湘学院2023年度收费公示 2023-09"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://cwc.hnust.edu.cn/gzzd/index.htm",
+    "label": "MORE",
+    "scanned": 20,
+    "oldest": "2025-09-05",
+    "n": 0,
+    "newest": [
+     "2025-09-05 关于印发《湖南科技大学财务管理办法》的通知 2025-0",
+     "2025-09-05 关于印发《湖南科技大学校内集中采购实施细则》的通知 20",
+     "2025-09-05 关于印发《湖南科技大学公务借款管理办法》的通知 2026"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://cwc.hnust.edu.cn/yqlj/index.htm",
+    "label": "MORE",
+    "scanned": 14,
+    "oldest": "2019-08-07",
+    "n": 0,
+    "newest": [
+     "2019-08-07 华南大学财务处 2019-08-07",
+     "2019-08-07 湘潭大学财务处 2019-08-07",
+     "2019-08-07 校国资处 2019-08-07"
+    ],
+    "rows": []
+   }
+  ]
+ },
+ {
+  "key": "HNUST",
+  "title": "湖南科技大学采购与招投标管理中心",
+  "url": "https://cgzx.hnust.edu.cn/",
+  "sfw": false,
+  "navs": [
+   {
+    "t": "采购信息",
+    "h": "https://cgzx.hnust.edu.cn/cgxx/index.htm"
+   },
+   {
+    "t": "采购公告",
+    "h": "https://cgzx.hnust.edu.cn/cgxx/cggg/index.htm"
+   },
+   {
+    "t": "更多 >",
+    "h": "https://cgzx.hnust.edu.cn/xwgg/zhzx/index.htm"
+   },
+   {
+    "t": "更多 >",
+    "h": "https://cgzx.hnust.edu.cn/xwgg/tzgg/index.htm"
+   },
+   {
+    "t": "更多 >",
+    "h": "https://cgzx.hnust.edu.cn/xzzx/index.htm"
+   },
+   {
+    "t": "更多 >",
+    "h": "https://cgzx.hnust.edu.cn/cgxx/cjgg/index.htm"
+   },
+   {
+    "t": "更多 >",
+    "h": "https://cgzx.hnust.edu.cn/cgxx/qtgg/index.htm"
+   },
+   {
+    "t": "更多 >",
+    "h": "https://cgzx.hnust.edu.cn/#"
+   }
+  ],
+  "cands": [
+   {
+    "u": "https://cgzx.hnust.edu.cn/",
+    "label": "home",
+    "scanned": 48,
+    "oldest": "2020-07-06",
+    "n": 0,
+    "newest": [
+     "2021-09-17 【我为群众办实事】消费帮扶+党课下乡 打好助力乡村振兴“",
+     "2024-04-03 我中心组织召开2024年第四次采购工作领导小组会议",
+     "2023-11-16 湖南科技大学承办湘潭市片区高等学校政府采购业务培训暨工作"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://cgzx.hnust.edu.cn/cgxx/index.htm",
+    "label": "采购信息",
+    "scanned": 20,
+    "oldest": "2026-07-13",
+    "n": 0,
+    "newest": [
+     "2026-10-14 湖南科技大学卓越学院提升实训条件项目校内公开招标中标公告",
+     "2026-10-08 湖南科技大学土木工程学院研究生自习桌采购项目校内公开招标",
+     "2026-09-28 湖南科技大学卓越学院提升实训条件项目校内公开招标公告"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://cgzx.hnust.edu.cn/cgxx/cggg/index.htm",
+    "label": "采购公告",
+    "scanned": 20,
+    "oldest": "2026-06-17",
+    "n": 0,
+    "newest": [
+     "2026-10-08 湖南科技大学土木工程学院研究生自习桌采购项目校内公开招标",
+     "2026-09-28 湖南科技大学卓越学院提升实训条件项目校内公开招标公告",
+     "2026-08-13 湖南科技大学海牛楼片区室外环境改造及雨污分流工程项目校内"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://cgzx.hnust.edu.cn/xwgg/zhzx/index.htm",
+    "label": "更多 >",
+    "scanned": 6,
+    "oldest": "2020-07-06",
+    "n": 0,
+    "newest": [
+     "2021-09-17 【我为群众办实事】消费帮扶+党课下乡 打好助力乡村振兴“",
+     "2024-04-03 我中心组织召开2024年第四次采购工作领导小组会议",
+     "2023-11-16 湖南科技大学承办湘潭市片区高等学校政府采购业务培训暨工作"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://cgzx.hnust.edu.cn/xwgg/tzgg/index.htm",
+    "label": "更多 >",
+    "scanned": 9,
+    "oldest": "2020-12-07",
+    "n": 0,
+    "newest": [
+     "2020-12-30 关于确定湖南科技大学办公用品定点直购供应商的通知",
+     "2021-01-11 采购中心2021年1月11日-15日工作安排",
+     "2025-10-20 关于严格执行办公用品定点采购、行政办公定点印刷 工作规定"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://cgzx.hnust.edu.cn/xzzx/index.htm",
+    "label": "更多 >",
+    "scanned": 15,
+    "oldest": "2021-03-24",
+    "n": 0,
+    "newest": [
+     "2025-05-20 湖南科技大学进口产品采购审批流程",
+     "2024-12-11 湖南科技大学市场调研表20241210",
+     "2024-09-12 湖南科技大学（供应商身份）政府采购账号使用申请表.doc"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://cgzx.hnust.edu.cn/cgxx/cjgg/index.htm",
+    "label": "更多 >",
+    "scanned": 20,
+    "oldest": "2026-06-15",
+    "n": 0,
+    "newest": [
+     "2026-10-14 湖南科技大学卓越学院提升实训条件项目校内公开招标中标公告",
+     "2026-08-26 湖南科技大学海牛楼片区室外环境改造及雨污分流工程项目中标",
+     "2026-08-05 湖南科技大学2026-2029年度高等教育自学考试网络学"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://cgzx.hnust.edu.cn/cgxx/qtgg/index.htm",
+    "label": "更多 >",
+    "scanned": 20,
+    "oldest": "2025-05-19",
+    "n": 0,
+    "newest": [
+     "2026-07-08 湖南科技大学校医院药品及试剂耗材采购项目更正公告",
+     "2026-07-01 湖南科技大学校医院药品及试剂耗材采购项目流标公告",
+     "2026-06-29 湖南科技大学校医院药品及试剂耗材采购项目更正公告"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://cgzx.hnust.edu.cn/#",
+    "label": "更多 >",
+    "scanned": 48,
+    "oldest": "2020-07-06",
+    "n": 0,
+    "newest": [
+     "2021-09-17 【我为群众办实事】消费帮扶+党课下乡 打好助力乡村振兴“",
+     "2024-04-03 我中心组织召开2024年第四次采购工作领导小组会议",
+     "2023-11-16 湖南科技大学承办湘潭市片区高等学校政府采购业务培训暨工作"
+    ],
+    "rows": []
+   }
+  ]
+ },
+ {
+  "key": "HNUST",
+  "title": "国有资产与实验室管理处",
+  "url": "https://gzc.hnust.edu.cn/index.html",
+  "sfw": false,
+  "navs": [
+   {
+    "t": "更多 >",
+    "h": "https://gzc.hnust.edu.cn/xwgg/tpxw/index.htm"
+   },
+   {
+    "t": "更多 >",
+    "h": "https://gzc.hnust.edu.cn/xwgg/ggtz/index.htm"
+   },
+   {
+    "t": "更多 >",
+    "h": "https://gzc.hnust.edu.cn/zcfg/index.htm"
+   },
+   {
+    "t": "更多 >",
+    "h": "https://gzc.hnust.edu.cn/xgxz/index.htm"
+   },
+   {
+    "t": "更多 >",
+    "h": "https://gzc.hnust.edu.cn/bszn/index.htm"
+   }
+  ],
+  "cands": [
+   {
+    "u": "https://gzc.hnust.edu.cn/xwgg/tpxw/index.htm",
+    "label": "更多 >",
+    "scanned": 20,
+    "oldest": "2023-09-11",
+    "n": 0,
+    "newest": [
+     "2026-06-15 深耕服务显担当 义务维保惠师生",
+     "2026-03-12 【新闻网】学校开展新学期实验室安全专项检查",
+     "2026-01-08 湖南工业大学来我处调研交流 共探国资管理优化新路径"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://gzc.hnust.edu.cn/xwgg/ggtz/index.htm",
+    "label": "更多 >",
+    "scanned": 20,
+    "oldest": "2025-09-15",
+    "n": 0,
+    "newest": [
+     "2026-07-10 关于申报 2027 年度行政办公设备及实验室设备购置计划",
+     "2026-07-10 关于做好2026年暑期仪器设备维修和实验室安全工作的通知",
+     "2026-06-25 关于开展办公室消防安全自查工作的通知"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://gzc.hnust.edu.cn/zcfg/index.htm",
+    "label": "更多 >",
+    "scanned": 10,
+    "oldest": "2025-07-27",
+    "n": 0,
+    "newest": [
+     "2026-06-23 教育系统重大事故隐患判定指南",
+     "2026-06-23 湖南省普通高等学校实验室危险化学品安全管理规范（DB43",
+     "2026-06-23 高等学校实验室消防安全管理规范"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://gzc.hnust.edu.cn/xgxz/index.htm",
+    "label": "更多 >",
+    "scanned": 22,
+    "oldest": "2014-03-12",
+    "n": 0,
+    "newest": [
+     "2025-12-18 增值资产、低值耐用品采购验收报告",
+     "2023-11-08 附件1：湖南科技大学增值资产、低值耐用品采购项目验收报告",
+     "2023-11-08 附件2：湖南科技大学采购项目学校监督验收申请单"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://gzc.hnust.edu.cn/bszn/index.htm",
+    "label": "更多 >",
+    "scanned": 1,
+    "oldest": "2022-12-19",
+    "n": 0,
+    "newest": [
+     "2022-12-19 湖南科技大学楼长管理工作相关服务信息"
+    ],
+    "rows": []
+   }
+  ]
+ },
+ {
+  "key": "XAUT",
+  "title": "招标公告-欢迎访问西安理工大学",
+  "url": "https://www.xaut.edu.cn/ggzy/zbxx/zbgg.htm",
+  "sfw": false,
+  "navs": [
+   {
+    "t": "招标信息",
+    "h": "https://www.xaut.edu.cn/ggzy/zbxx/zbgg.htm"
+   }
+  ],
+  "cands": [
+   {
+    "u": "https://www.xaut.edu.cn/ggzy/zbxx/zbgg.htm",
+    "label": "招标信息",
+    "scanned": 10,
+    "oldest": "2026-10-10",
+    "n": 0,
+    "newest": [
+     "2026-10-15 【限额上采购】西安理工大学IEL数据库采购竞争性谈判公告",
+     "2026-10-15 【限额下采购】西安理工大学曲江校区西区东门、南门人脸识别",
+     "2026-10-14 【限额上采购】西安理工大学稳态瞬态荧光智能检测系统及光谱"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://www.xaut.edu.cn/ggzy/zbxx/zbgg.htm",
+    "label": "招标信息",
+    "scanned": 10,
+    "oldest": "2026-10-10",
+    "n": 0,
+    "newest": [
+     "2026-10-15 【限额上采购】西安理工大学IEL数据库采购竞争性谈判公告",
+     "2026-10-15 【限额下采购】西安理工大学曲江校区西区东门、南门人脸识别",
+     "2026-10-14 【限额上采购】西安理工大学稳态瞬态荧光智能检测系统及光谱"
+    ],
+    "rows": []
+   }
+  ]
+ },
+ {
+  "key": "XAUT",
+  "title": "西安理工大学资产与招标管理处",
+  "url": "https://zcc.xaut.edu.cn/",
+  "sfw": false,
+  "navs": [
+   {
+    "t": "更多>>",
+    "h": "https://zcc.xaut.edu.cn/ggtz.htm"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://zcc.xaut.edu.cn/xygh.htm"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://zcc.xaut.edu.cn/gzdt.htm"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://zcc.xaut.edu.cn/zcfg.htm"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://zcc.xaut.edu.cn/czxx.htm"
+   }
+  ],
+  "cands": [
+   {
+    "u": "https://zcc.xaut.edu.cn/",
+    "label": "home",
+    "scanned": 23,
+    "oldest": "2019-12-16",
+    "n": 0,
+    "newest": [
+     "2024-12-09 【维修改造】西安理工大学金花校区教四楼（南）二层及周边楼",
+     "2023-12-28 【设备采购】西安理工大学校医院发光仪采购项目终止公告",
+     "2022-05-25 关于2022年危险废物委托处置服务项目采购结果公示"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zcc.xaut.edu.cn/ggtz.htm",
+    "label": "更多>>",
+    "scanned": 25,
+    "oldest": "2021-09-14",
+    "n": 0,
+    "newest": [
+     "2025-06-24 关于2025年家电以旧换新享受范围解读",
+     "2025-04-15 关于开展进口减免税仪器设备清查工作的通知",
+     "2025-02-23 关于做好2025年采购招标计划备案工作的通知"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zcc.xaut.edu.cn/xygh.htm",
+    "label": "更多>>",
+    "scanned": 22,
+    "oldest": "2016-11-16",
+    "n": 0,
+    "newest": [
+     "2020-08-23 转发《陕西省财政厅关于推广政府采购电子卖场有关工作的通知",
+     "2019-06-14 2018-2019年度省级单位车辆租赁定点服务供应商名单",
+     "2019-06-14 2019年度陕西省省级单位保安及物业服务入围供应商联系表"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zcc.xaut.edu.cn/gzdt.htm",
+    "label": "更多>>",
+    "scanned": 25,
+    "oldest": "2021-07-20",
+    "n": 0,
+    "newest": [
+     "2025-04-21 【机关党委】信息化管理处党支部、资产与招标管理处联合开展",
+     "2025-03-29 机关党委多支部联合开展“党风廉政在身边”主题党日活动",
+     "2025-03-19 资产与招标管理处党支部召开2024年度组织生活会暨民主评"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zcc.xaut.edu.cn/zcfg.htm",
+    "label": "更多>>",
+    "scanned": 20,
+    "oldest": "2016-11-22",
+    "n": 0,
+    "newest": [
+     "2022-10-25 省级行政事业单位通用办公设备及家具配置标准（2021年版",
+     "2022-10-09 陕西省财政厅关于印发省级通用项目支出标准的通知（陕财办预",
+     "2021-11-22 转发《关于省级单位2021年度机动车辆定点保险有关事项的"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zcc.xaut.edu.cn/czxx.htm",
+    "label": "更多>>",
+    "scanned": 19,
+    "oldest": "2017-04-14",
+    "n": 0,
+    "newest": [
+     "2022-09-26 资产与招标管理处关于学校2021年度资产报废处置情况的公",
+     "2021-01-13 关于后勤处等部门拟报废资产招标处置的公告",
+     "2020-12-29 资产管理处关于2020年度报废处置资产的公告"
+    ],
+    "rows": []
+   }
+  ]
+ },
+ {
+  "key": "XAUT",
+  "title": "西安理工大学招标处",
+  "url": "https://zbc.xaut.edu.cn/",
+  "sfw": false,
+  "navs": [
+   {
+    "t": "校内招标公告",
+    "h": "https://zbc.xaut.edu.cn/xnzbgg.htm"
+   },
+   {
+    "t": "委托招标公告",
+    "h": "https://zbc.xaut.edu.cn/wtzbgg.htm"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://zbc.xaut.edu.cn/gzdt.htm"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://zbc.xaut.edu.cn/tzgg.htm"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://zbc.xaut.edu.cn/zbgs.htm"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://zbc.xaut.edu.cn/zcfg.htm"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://zbc.xaut.edu.cn/bszn_cyxz.htm"
+   },
+   {
+    "t": "货物类项目采购​指南",
+    "h": "https://zbc.xaut.edu.cn/info/1005/1177.htm"
+   }
+  ],
+  "cands": [
+   {
+    "u": "https://zbc.xaut.edu.cn/xnzbgg.htm",
+    "label": "校内招标公告",
+    "scanned": 20,
+    "oldest": "2024-12-13",
+    "n": 0,
+    "newest": [
+     "2025-04-21 【服务】西安理工大学维修改造工程设计服务单位遴选项目竞争",
+     "2025-04-21 【维修改造】西安理工大学曲江校区大学生活动中心二层维修改",
+     "2025-04-18 【限额下采购】西安理工大学关于校医院采购2025年专家教"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zbc.xaut.edu.cn/wtzbgg.htm",
+    "label": "委托招标公告",
+    "scanned": 20,
+    "oldest": "2024-12-18",
+    "n": 0,
+    "newest": [
+     "2025-04-24 【限额下采购】西安理工大学曲江逸夫科技楼两部电梯招标公告",
+     "2025-04-18 【限额下采购】西安理工大学2025年曲江校区生活垃圾清运",
+     "2025-04-15 【限额上采购】西安理工大学2025年曲江校区生活垃圾清运"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zbc.xaut.edu.cn/gzdt.htm",
+    "label": "更多>>",
+    "scanned": 20,
+    "oldest": "2018-12-24",
+    "n": 0,
+    "newest": [
+     "2024-12-06 资产与招标管理处组织《招标采购管理系统》项目经办人操作培",
+     "2021-09-17 “弘扬抗美援朝精神，牢记初心使命”——招标基建党支部组织",
+     "2021-06-15 招标基建党支部组织开展主题党日活动"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zbc.xaut.edu.cn/tzgg.htm",
+    "label": "更多>>",
+    "scanned": 10,
+    "oldest": "2018-01-15",
+    "n": 0,
+    "newest": [
+     "2024-12-04 《招标采购管理系统》项目经办人操作培训会通知",
+     "2024-07-31 【后勤处采购】西安理工大学学生公寓集中更换家具配件项目采",
+     "2024-03-05 关于做好2024年招标采购工作的通知"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zbc.xaut.edu.cn/zbgs.htm",
+    "label": "更多>>",
+    "scanned": 20,
+    "oldest": "2025-01-10",
+    "n": 0,
+    "newest": [
+     "2025-04-24 【限额下采购】西安理工大学关于《激光选区熔化金属增材打印",
+     "2025-04-17 【限额下采购】西安理工大学关于《校医院2025年试剂采购",
+     "2025-04-11 【限额上采购】西安理工大学继续教育学院采购高等学历继续教"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zbc.xaut.edu.cn/zcfg.htm",
+    "label": "更多>>",
+    "scanned": 20,
+    "oldest": "2016-08-30",
+    "n": 0,
+    "newest": [
+     "2016-08-30 中华人民共和国招标投标法",
+     "2016-08-30 中华人民共和国政府采购法",
+     "2016-08-30 中华人民共和国招标投标法实施条例"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zbc.xaut.edu.cn/bszn_cyxz.htm",
+    "label": "更多>>",
+    "scanned": 4,
+    "oldest": "2016-11-01",
+    "n": 0,
+    "newest": [
+     "2016-11-21 货物类项目采购​指南",
+     "2016-11-21 工程维修类项目采购​指南",
+     "2016-11-21 服务类项目采购指南"
+    ],
+    "rows": []
+   }
+  ]
+ }
+]
