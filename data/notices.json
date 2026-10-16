@@ -162,6 +162,29 @@
     "noteEn": "Procurement intention, published before the tender: a chance to contact the lab early."
   },
   {
+    "_id": "NUC-info102130371.htm",
+    "school": "NUC",
+    "title": "高压压电力显微镜等设备购置变更公告",
+    "url": "https://zbcg.nuc.edu.cn/info/1021/30371.htm",
+    "published": "2026-09-30",
+    "deadline": "",
+    "method": "采购信息·货物",
+    "no": "",
+    "budget": "",
+    "imports": "",
+    "strong": [],
+    "weak": [
+      "压电"
+    ],
+    "tier": "weak",
+    "snippet": "",
+    "status": "new",
+    "note": "",
+    "firstSeen": "2026-10-17",
+    "titleEn": "",
+    "noteEn": ""
+  },
+  {
     "_id": "WESTLAKE-WLU-HW-KS-NM-2026-1225",
     "school": "WESTLAKE",
     "title": "原子力显微镜（WLU-HW-KS-NM-2026-1225）采购公告",

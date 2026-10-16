@@ -189,6 +189,250 @@
     "DHU": {
       "scanned": 28,
       "oldest": "2026-09-09"
+    },
+    "BIT": {
+      "scanned": 100,
+      "oldest": "2026-07-25"
+    },
+    "HITWH": {
+      "scanned": 100,
+      "oldest": "2026-01-04"
+    },
+    "JIANGNAN": {
+      "scanned": 100,
+      "oldest": "2026-09-01"
+    },
+    "CAUC": {
+      "scanned": 16,
+      "oldest": "2026-09-21"
+    },
+    "WZU": {
+      "scanned": 20,
+      "oldest": "2026-09-15"
+    },
+    "WHUT": {
+      "scanned": 30,
+      "oldest": "2026-09-24"
+    },
+    "NCHU": {
+      "scanned": 10,
+      "oldest": "2026-09-21"
+    },
+    "HFUT": {
+      "scanned": 21,
+      "oldest": "2025-03-20"
+    },
+    "QDU": {
+      "scanned": 30,
+      "oldest": "2026-09-30"
+    },
+    "ZJNU": {
+      "scanned": 45,
+      "oldest": "2026-06-17"
+    },
+    "SDUST": {
+      "scanned": 10,
+      "oldest": "2026-10-08"
+    },
+    "JUST": {
+      "scanned": 6,
+      "oldest": "2026-07-18"
+    },
+    "CUMT": {
+      "scanned": 30,
+      "oldest": "2026-07-06"
+    },
+    "ECUST": {
+      "scanned": 45,
+      "oldest": "2025-05-12"
+    },
+    "NTU": {
+      "scanned": 30,
+      "oldest": "2026-09-03"
+    },
+    "CCNU": {
+      "scanned": 108,
+      "oldest": "2017-10-27"
+    },
+    "XTU": {
+      "scanned": 20,
+      "oldest": "2026-10-10"
+    },
+    "CUG": {
+      "scanned": 10,
+      "oldest": "2026-09-29"
+    },
+    "NCEPU": {
+      "scanned": 20,
+      "oldest": "2026-07-06"
+    },
+    "NUC": {
+      "scanned": 15,
+      "oldest": "2026-09-19"
+    },
+    "BJTU": {
+      "scanned": 20,
+      "oldest": "2026-09-14"
+    },
+    "HRBUST": {
+      "scanned": 14,
+      "oldest": "2026-10-14"
+    },
+    "NANKAI": {
+      "scanned": 15,
+      "oldest": "2026-08-18"
+    },
+    "SAU": {
+      "scanned": 10,
+      "oldest": "2026-09-03"
+    },
+    "SHIEP": {
+      "scanned": 20,
+      "oldest": "2026-10-09"
+    },
+    "SWPU": {
+      "scanned": 20,
+      "oldest": "2026-09-21"
+    },
+    "XAUAT": {
+      "scanned": 15,
+      "oldest": "2026-09-29"
+    },
+    "XJU": {
+      "scanned": 10,
+      "oldest": "2026-10-12"
+    },
+    "NCU": {
+      "scanned": 10,
+      "oldest": "2023-07-14"
+    },
+    "AUST": {
+      "scanned": 100,
+      "oldest": "2026-02-04"
+    },
+    "SNNU": {
+      "scanned": 100,
+      "oldest": "2026-06-16"
+    },
+    "CUP": {
+      "scanned": 100,
+      "oldest": "2026-09-22"
+    },
+    "AHUT": {
+      "scanned": 40,
+      "oldest": "2026-07-09"
+    },
+    "CCZU": {
+      "scanned": 28,
+      "oldest": "2026-07-22"
+    },
+    "CUIT": {
+      "scanned": 12,
+      "oldest": "2026-09-14"
+    },
+    "HAUT": {
+      "scanned": 30,
+      "oldest": "2026-09-14"
+    },
+    "HNUST": {
+      "scanned": 20,
+      "oldest": "2026-06-17"
+    },
+    "HPU": {
+      "scanned": 95,
+      "oldest": "2023-03-08"
+    },
+    "HAU": {
+      "scanned": 16,
+      "oldest": "2026-08-21"
+    },
+    "IMUT": {
+      "scanned": 20,
+      "oldest": "2026-08-06"
+    },
+    "JSNU": {
+      "scanned": 14,
+      "oldest": "2026-09-08"
+    },
+    "LNTU": {
+      "scanned": 20,
+      "oldest": "2025-03-25"
+    },
+    "NEPU": {
+      "scanned": 10,
+      "oldest": "2026-10-16"
+    },
+    "SDJU": {
+      "scanned": 69,
+      "oldest": "2024-06-27"
+    },
+    "SIT": {
+      "scanned": 10,
+      "oldest": "2026-10-14"
+    },
+    "STU": {
+      "scanned": 32,
+      "oldest": "2023-09-07"
+    },
+    "SUSE": {
+      "scanned": 30,
+      "oldest": "2026-08-15"
+    },
+    "UJN": {
+      "scanned": 10,
+      "oldest": "2026-09-17"
+    },
+    "WYU": {
+      "scanned": 48,
+      "oldest": "2026-01-12"
+    },
+    "XAUT": {
+      "scanned": 10,
+      "oldest": "2026-10-10"
+    },
+    "XSYU": {
+      "scanned": 32,
+      "oldest": "2026-04-10"
+    },
+    "YANGTZEU": {
+      "scanned": 12,
+      "oldest": "2026-09-17"
+    },
+    "YCIT": {
+      "scanned": 10,
+      "oldest": "2026-07-09"
+    },
+    "YTU": {
+      "scanned": 10,
+      "oldest": "2026-09-29"
+    },
+    "CCUT": {
+      "scanned": 15,
+      "oldest": "2026-05-26"
+    },
+    "GDOU": {
+      "scanned": 15,
+      "oldest": "2026-09-14"
+    },
+    "ECJTU": {
+      "scanned": 15,
+      "oldest": "2026-03-28"
+    },
+    "JXUST": {
+      "scanned": 7,
+      "oldest": "2026-05-01"
+    },
+    "AIRCAS": {
+      "scanned": 12,
+      "oldest": "2026-03-05"
+    },
+    "NAOC": {
+      "scanned": 14,
+      "oldest": "2026-01-30"
+    },
+    "QIBEBT": {
+      "scanned": 24,
+      "oldest": "2026-01-15"
     }
   },
   "extra": [
@@ -217,7 +461,7 @@
       "url": "https://cgzx.hit.edu.cn/sfw_cms/e?page=cms.news2"
     }
   ],
-  "lastRun": "2026-10-17T04:50",
+  "lastRun": "2026-10-17T07:22",
   "lastResults": [
     {
       "school": "THU",
@@ -304,8 +548,9 @@
     },
     {
       "school": "DLMU",
-      "ok": false,
-      "error": "page.goto: Timeout 60000ms exceeded. (after retry)"
+      "ok": true,
+      "scanned": 100,
+      "matches": 0
     },
     {
       "school": "HUST",
@@ -485,6 +730,397 @@
       "school": "TYUT",
       "ok": true,
       "scanned": 15,
+      "matches": 0
+    },
+    {
+      "school": "BIT",
+      "ok": true,
+      "scanned": 100,
+      "matches": 0
+    },
+    {
+      "school": "HITWH",
+      "ok": true,
+      "scanned": 100,
+      "matches": 0
+    },
+    {
+      "school": "JIANGNAN",
+      "ok": true,
+      "scanned": 100,
+      "matches": 0
+    },
+    {
+      "school": "CAUC",
+      "ok": true,
+      "scanned": 16,
+      "matches": 0
+    },
+    {
+      "school": "WZU",
+      "ok": true,
+      "scanned": 20,
+      "matches": 0
+    },
+    {
+      "school": "WHUT",
+      "ok": true,
+      "scanned": 30,
+      "matches": 0
+    },
+    {
+      "school": "NCHU",
+      "ok": true,
+      "scanned": 10,
+      "matches": 0
+    },
+    {
+      "school": "HFUT",
+      "ok": true,
+      "scanned": 21,
+      "matches": 0
+    },
+    {
+      "school": "QDU",
+      "ok": true,
+      "scanned": 30,
+      "matches": 0
+    },
+    {
+      "school": "ZJNU",
+      "ok": true,
+      "scanned": 45,
+      "matches": 0
+    },
+    {
+      "school": "SDUST",
+      "ok": true,
+      "scanned": 10,
+      "matches": 0
+    },
+    {
+      "school": "JUST",
+      "ok": true,
+      "scanned": 6,
+      "matches": 0
+    },
+    {
+      "school": "CUMT",
+      "ok": true,
+      "scanned": 30,
+      "matches": 0
+    },
+    {
+      "school": "ECUST",
+      "ok": true,
+      "scanned": 45,
+      "matches": 0
+    },
+    {
+      "school": "NTU",
+      "ok": true,
+      "scanned": 30,
+      "matches": 0
+    },
+    {
+      "school": "CCNU",
+      "ok": true,
+      "scanned": 108,
+      "matches": 0
+    },
+    {
+      "school": "XTU",
+      "ok": true,
+      "scanned": 20,
+      "matches": 0
+    },
+    {
+      "school": "CUG",
+      "ok": true,
+      "scanned": 10,
+      "matches": 0
+    },
+    {
+      "school": "NCEPU",
+      "ok": true,
+      "scanned": 20,
+      "matches": 0
+    },
+    {
+      "school": "NUC",
+      "ok": true,
+      "scanned": 15,
+      "matches": 1
+    },
+    {
+      "school": "OUC",
+      "ok": false,
+      "error": "page.goto: net::ERR_EMPTY_RESPONSE at http://zb.ouc.edu.cn/sfw_cms/e?page=cms.index (after retry)"
+    },
+    {
+      "school": "BJTU",
+      "ok": true,
+      "scanned": 20,
+      "matches": 0
+    },
+    {
+      "school": "HRBUST",
+      "ok": true,
+      "scanned": 14,
+      "matches": 0
+    },
+    {
+      "school": "NANKAI",
+      "ok": true,
+      "scanned": 15,
+      "matches": 0
+    },
+    {
+      "school": "SAU",
+      "ok": true,
+      "scanned": 10,
+      "matches": 0
+    },
+    {
+      "school": "SHIEP",
+      "ok": true,
+      "scanned": 20,
+      "matches": 0
+    },
+    {
+      "school": "SWPU",
+      "ok": true,
+      "scanned": 20,
+      "matches": 0
+    },
+    {
+      "school": "XAUAT",
+      "ok": true,
+      "scanned": 15,
+      "matches": 0
+    },
+    {
+      "school": "XJU",
+      "ok": true,
+      "scanned": 10,
+      "matches": 0
+    },
+    {
+      "school": "NCU",
+      "ok": true,
+      "scanned": 10,
+      "matches": 0
+    },
+    {
+      "school": "AUST",
+      "ok": true,
+      "scanned": 100,
+      "matches": 0
+    },
+    {
+      "school": "SNNU",
+      "ok": true,
+      "scanned": 100,
+      "matches": 0
+    },
+    {
+      "school": "CUP",
+      "ok": true,
+      "scanned": 100,
+      "matches": 0
+    },
+    {
+      "school": "CUMTB",
+      "ok": false,
+      "error": "page.evaluate: Error: no 思必得 list query returned results (after retry)"
+    },
+    {
+      "school": "AHUT",
+      "ok": true,
+      "scanned": 40,
+      "matches": 0
+    },
+    {
+      "school": "CCZU",
+      "ok": true,
+      "scanned": 28,
+      "matches": 0
+    },
+    {
+      "school": "CUIT",
+      "ok": true,
+      "scanned": 12,
+      "matches": 0
+    },
+    {
+      "school": "HAUT",
+      "ok": true,
+      "scanned": 30,
+      "matches": 0
+    },
+    {
+      "school": "HNUST",
+      "ok": true,
+      "scanned": 20,
+      "matches": 0
+    },
+    {
+      "school": "HPU",
+      "ok": true,
+      "scanned": 95,
+      "matches": 0
+    },
+    {
+      "school": "HAU",
+      "ok": true,
+      "scanned": 16,
+      "matches": 0
+    },
+    {
+      "school": "IMUT",
+      "ok": true,
+      "scanned": 20,
+      "matches": 0
+    },
+    {
+      "school": "JSNU",
+      "ok": true,
+      "scanned": 14,
+      "matches": 0
+    },
+    {
+      "school": "LNTU",
+      "ok": true,
+      "scanned": 20,
+      "matches": 0
+    },
+    {
+      "school": "NEPU",
+      "ok": true,
+      "scanned": 10,
+      "matches": 0
+    },
+    {
+      "school": "SDJU",
+      "ok": true,
+      "scanned": 69,
+      "matches": 0
+    },
+    {
+      "school": "SIT",
+      "ok": true,
+      "scanned": 10,
+      "matches": 0
+    },
+    {
+      "school": "STU",
+      "ok": true,
+      "scanned": 32,
+      "matches": 0
+    },
+    {
+      "school": "SUSE",
+      "ok": true,
+      "scanned": 30,
+      "matches": 0
+    },
+    {
+      "school": "UJN",
+      "ok": true,
+      "scanned": 10,
+      "matches": 0
+    },
+    {
+      "school": "WYU",
+      "ok": true,
+      "scanned": 48,
+      "matches": 0
+    },
+    {
+      "school": "XAUT",
+      "ok": true,
+      "scanned": 10,
+      "matches": 0
+    },
+    {
+      "school": "XSYU",
+      "ok": true,
+      "scanned": 32,
+      "matches": 0
+    },
+    {
+      "school": "YANGTZEU",
+      "ok": true,
+      "scanned": 12,
+      "matches": 0
+    },
+    {
+      "school": "YCIT",
+      "ok": true,
+      "scanned": 10,
+      "matches": 0
+    },
+    {
+      "school": "YTU",
+      "ok": true,
+      "scanned": 10,
+      "matches": 0
+    },
+    {
+      "school": "CCUT",
+      "ok": true,
+      "scanned": 15,
+      "matches": 0
+    },
+    {
+      "school": "GDOU",
+      "ok": true,
+      "scanned": 15,
+      "matches": 0
+    },
+    {
+      "school": "ECJTU",
+      "ok": true,
+      "scanned": 15,
+      "matches": 0
+    },
+    {
+      "school": "JXUST",
+      "ok": true,
+      "scanned": 7,
+      "matches": 0
+    },
+    {
+      "school": "AIRCAS",
+      "ok": true,
+      "scanned": 12,
+      "matches": 0
+    },
+    {
+      "school": "CIOMP",
+      "ok": false,
+      "error": "page.goto: net::ERR_CERT_AUTHORITY_INVALID at https://www.ciomp.cas.cn/tzgg/ (after retry)"
+    },
+    {
+      "school": "SITP",
+      "ok": false,
+      "error": "page.goto: net::ERR_CERT_AUTHORITY_INVALID at https://www.sitp.cas.cn/ggtz/ (after retry)"
+    },
+    {
+      "school": "NAOC",
+      "ok": true,
+      "scanned": 14,
+      "matches": 0
+    },
+    {
+      "school": "IOA",
+      "ok": false,
+      "error": "page.goto: net::ERR_CERT_AUTHORITY_INVALID at https://www.ioa.cas.cn/tzgg/ (after retry)"
+    },
+    {
+      "school": "QIBEBT",
+      "ok": true,
+      "scanned": 24,
       "matches": 0
     }
   ]
