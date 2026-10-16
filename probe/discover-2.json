@@ -1,0 +1,19 @@
+[
+ {
+  "key": "SEU",
+  "title": "东南大学采购档案管理系统",
+  "url": "https://cgzx.seu.edu.cn/",
+  "sfw": false,
+  "navs": [],
+  "cands": []
+ },
+ {
+  "key": "SEU",
+  "title": "东南大学国有资产统筹管理平台",
+  "url": "https://zcgl.seu.edu.cn/sfw/",
+  "sfw": true,
+  "navs": [],
+  "cands": [],
+  "sfwErr": "page.evaluate: Error: no 思必得 list query returned results\n    at readSfw (eval at <anonymous> (eval a"
+ }
+]

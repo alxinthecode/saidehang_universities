@@ -1,0 +1,133 @@
+[
+ {
+  "key": "BJTU",
+  "dom": "bjtu.edu.cn",
+  "home": "https://www.bjtu.edu.cn/",
+  "links": [],
+  "hosts": [
+   "cg.bjtu.edu.cn",
+   "cggl.bjtu.edu.cn",
+   "gzc.bjtu.edu.cn",
+   "czzx.bjtu.edu.cn"
+  ]
+ },
+ {
+  "key": "GDUT",
+  "dom": "gdut.edu.cn",
+  "home": "https://www.gdut.edu.cn/",
+  "links": [
+   "招标公告 https://oas.gdut.edu.cn/seeyon/main.do?method=main&loginPortal=1&portalId=-7779029842361826066"
+  ],
+  "hosts": [
+   "cwc.gdut.edu.cn",
+   "zbzx.gdut.edu.cn",
+   "cg.gdut.edu.cn",
+   "cgzb.gdut.edu.cn",
+   "oas.gdut.edu.cn"
+  ]
+ },
+ {
+  "key": "FZU",
+  "dom": "fzu.edu.cn",
+  "home": "http://www.fzu.edu.cn/",
+  "links": [],
+  "hosts": [
+   "ztbb.fzu.edu.cn",
+   "zbcgzx.fzu.edu.cn",
+   "zbcgc.fzu.edu.cn",
+   "cgzbc.fzu.edu.cn",
+   "zcb.fzu.edu.cn",
+   "zcsbc.fzu.edu.cn",
+   "sbzx.fzu.edu.cn",
+   "gzzx.fzu.edu.cn",
+   "zbcgw.fzu.edu.cn",
+   "zbcgb.fzu.edu.cn",
+   "cwc.fzu.edu.cn",
+   "ggzy.fzu.edu.cn",
+   "tzgg.fzu.edu.cn",
+   "cgb.fzu.edu.cn",
+   "zbgl.fzu.edu.cn",
+   "czc.fzu.edu.cn",
+   "cgbgs.fzu.edu.cn",
+   "zb2.fzu.edu.cn",
+   "zbb.fzu.edu.cn",
+   "zbcg.fzu.edu.cn",
+   "cgzx.fzu.edu.cn",
+   "ztb.fzu.edu.cn",
+   "zbzx.fzu.edu.cn",
+   "cg.fzu.edu.cn",
+   "cgzb.fzu.edu.cn",
+   "zb.fzu.edu.cn",
+   "bidding.fzu.edu.cn",
+   "zcc.fzu.edu.cn",
+   "ztbzx.fzu.edu.cn",
+   "sbc.fzu.edu.cn",
+   "cgglc.fzu.edu.cn",
+   "cggl.fzu.edu.cn",
+   "zcglc.fzu.edu.cn",
+   "cgc.fzu.edu.cn",
+   "caigou.fzu.edu.cn",
+   "cgxx.fzu.edu.cn",
+   "zbtb.fzu.edu.cn",
+   "gzc.fzu.edu.cn",
+   "zcgl.fzu.edu.cn",
+   "zbxx.fzu.edu.cn",
+   "ztbgl.fzu.edu.cn",
+   "cgw.fzu.edu.cn",
+   "zbgs.fzu.edu.cn",
+   "zbc.fzu.edu.cn",
+   "czzx.fzu.edu.cn",
+   "cgglzx.fzu.edu.cn",
+   "cgzbzx.fzu.edu.cn",
+   "zcsb.fzu.edu.cn"
+  ]
+ },
+ {
+  "key": "ZZU",
+  "dom": "zzu.edu.cn",
+  "home": "https://www.zzu.edu.cn/",
+  "links": [],
+  "hosts": []
+ },
+ {
+  "key": "LZU",
+  "dom": "lzu.edu.cn",
+  "home": "https://www.lzu.edu.cn/",
+  "links": [],
+  "hosts": [
+   "cwc.lzu.edu.cn",
+   "zbb.lzu.edu.cn",
+   "zcc.lzu.edu.cn"
+  ]
+ },
+ {
+  "key": "SEU",
+  "dom": "seu.edu.cn",
+  "home": "https://www.seu.edu.cn/",
+  "links": [],
+  "hosts": [
+   "cwc.seu.edu.cn",
+   "zbb.seu.edu.cn",
+   "cgzx.seu.edu.cn",
+   "sbc.seu.edu.cn",
+   "zcc.seu.edu.cn",
+   "zcgl.seu.edu.cn"
+  ]
+ },
+ {
+  "key": "IPHY",
+  "dom": "iop.cas.cn",
+  "home": "https://www.iop.cas.cn/",
+  "links": [],
+  "hosts": []
+ },
+ {
+  "key": "HFIPS",
+  "dom": "hf.cas.cn",
+  "home": "https://www.hf.cas.cn/",
+  "links": [
+   "关于从合肥合光精密仪器有 https://www.hf.cas.cn/zncs/zcc/xmgg/glywgs/202610/t20261010_8290867.html"
+  ],
+  "hosts": []
+ }
+]
