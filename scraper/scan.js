@@ -23,8 +23,9 @@
   // Award/result/contract notices are not opportunities.
   const RESULT = /(中标|成交|结果|废标|流标|终止|合同|验收)(公告|公示)|中标候选人|结果公示|采购意向/;
 
-  // "高压电缆" / "电压电流" / "槽压电化学" contain 压电 — neutralise before matching.
-  const norm = s => (s || '').toLowerCase().replace(/[高低中电槽]压电/g, '#');
+  // 压电 also appears inside unrelated words: 高压电缆, 电压电流, 槽压电化学, 稳压电源,
+  // 偏压电源, 调压/升压/降压电路, 气压/负压/正压/真空压… — neutralise those before matching.
+  const norm = s => (s || '').toLowerCase().replace(/[高低中电槽稳偏调升降气负正空水油液血]压电/g, '#');
   const strip = s => (s || '').replace(/<[^>]+>/g, ' ').replace(/&nbsp;/g, ' ').replace(/\s+/g, ' ').trim();
   const imports = txt => /不(?:接受|允许)进口|进口产品[^。]{0,8}(?:否|不允许|不接受)/.test(txt) ? '不接受'
     : /(?:接受|允许)进口|进口产品[^。]{0,8}是/.test(txt) ? '允许' : '';

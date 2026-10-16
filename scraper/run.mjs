@@ -31,22 +31,27 @@ const ctx = await browser.newContext({ locale: 'zh-CN', timezoneId: 'Asia/Shangh
 await ctx.addInitScript(pages => { window.__CEDRAT_HEADLESS = true; window.__CEDRAT_PAGES = pages; }, PAGES);
 
 const results = [];
-for (const site of SITES) {
-  site.school = site.key;
+async function scanSite(site, attempt) {
   const page = await ctx.newPage();
   try {
     await page.goto(site.url, { waitUntil: 'domcontentloaded', timeout: 60000 });
     await page.waitForLoadState('networkidle', { timeout: 30000 }).catch(() => {});
     const res = await page.evaluate(([src, cfg]) => { window.__CEDRAT_SITE = cfg; return (0, eval)(src); }, [scanSrc, site]);
     if (!res || !Array.isArray(res.rows)) throw new Error('scan returned no result (page layout may have changed)');
-    results.push({ school: site.school, ok: true, ...res });
-    console.log(`${site.school}: scanned ${res.scanned}, back to ${res.oldest}, ${res.rows.length} matches`);
+    return { school: site.key, ok: true, ...res };
   } catch (e) {
-    results.push({ school: site.school, ok: false, error: String(e.message || e).split('\n')[0] });
-    console.log(`${site.school}: FAILED — ${String(e.message || e).split('\n')[0]}`);
+    return { school: site.key, ok: false, error: String(e.message || e).split('\n')[0] + (attempt > 1 ? ' (after retry)' : '') };
   } finally {
     await page.close();
   }
+}
+
+for (const site of SITES) {
+  site.school = site.key;
+  let r = await scanSite(site, 1);
+  if (!r.ok) { await new Promise(res => setTimeout(res, 5000)); r = await scanSite(site, 2); }
+  results.push(r);
+  console.log(r.ok ? `${r.school}: scanned ${r.scanned}, back to ${r.oldest}, ${r.rows.length} matches` : `${r.school}: FAILED — ${r.error}`);
 }
 await browser.close();
 
