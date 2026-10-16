@@ -1,0 +1,19 @@
+[
+ {
+  "key": "USST",
+  "title": "上海理工大学招标办公室",
+  "url": "https://zbb.usst.edu.cn/",
+  "sfw": false,
+  "navs": [
+   {
+    "t": "招标公告",
+    "h": "http://zbb.usst.edu.cn/5064/list.htm"
+   },
+   {
+    "t": "招标公告",
+    "h": "http://zbb.usst.edu.cn/p5064c5064/list.htm"
+   }
+  ],
+  "cands": []
+ }
+]

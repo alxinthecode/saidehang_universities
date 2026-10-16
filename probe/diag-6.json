@@ -1,0 +1,80 @@
+[
+ {
+  "key": "USST",
+  "dom": "usst.edu.cn",
+  "home": null,
+  "links": [],
+  "hosts": [
+   "cwc.usst.edu.cn",
+   "zbb.usst.edu.cn",
+   "zb.usst.edu.cn",
+   "sbc.usst.edu.cn",
+   "zcgl.usst.edu.cn"
+  ]
+ },
+ {
+  "key": "CUST",
+  "dom": "cust.edu.cn",
+  "home": "https://www.cust.edu.cn/",
+  "links": [],
+  "hosts": [
+   "cwc.cust.edu.cn",
+   "zcgl.cust.edu.cn"
+  ]
+ },
+ {
+  "key": "GZU",
+  "dom": "gzu.edu.cn",
+  "home": "https://www.gzu.edu.cn/",
+  "links": [
+   "采购招标信息 https://em.gzu.edu.cn/zbxx/list.htm",
+   "采购信息 https://em.gzu.edu.cn/cgyxgg/list.htm"
+  ],
+  "hosts": [
+   "em.gzu.edu.cn"
+  ]
+ },
+ {
+  "key": "JNU",
+  "dom": "jnu.edu.cn",
+  "home": "https://www.jnu.edu.cn/",
+  "links": [],
+  "hosts": [
+   "cwc.jnu.edu.cn",
+   "cgzx.jnu.edu.cn",
+   "zbcg.jnu.edu.cn",
+   "zbtb.jnu.edu.cn"
+  ]
+ },
+ {
+  "key": "CQUT",
+  "dom": "cqut.edu.cn",
+  "home": "https://www.cqut.edu.cn/",
+  "links": [],
+  "hosts": [
+   "cwc.cqut.edu.cn",
+   "gzc.cqut.edu.cn"
+  ]
+ },
+ {
+  "key": "CAEP",
+  "dom": "caep.cn",
+  "home": "https://www.caep.cn/",
+  "links": [],
+  "hosts": []
+ },
+ {
+  "key": "NIAOT",
+  "dom": "niaot.cas.cn",
+  "home": null,
+  "links": [],
+  "hosts": []
+ },
+ {
+  "key": "SSRF",
+  "dom": "sinap.cas.cn",
+  "home": "https://www.sinap.cas.cn/",
+  "links": [],
+  "hosts": []
+ }
+]
