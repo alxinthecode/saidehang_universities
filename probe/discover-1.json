@@ -1,0 +1,626 @@
+[
+ {
+  "key": "NJUPT",
+  "title": "南京邮电大学采购招标管理办公室 - 首页",
+  "url": "https://zbb.njupt.edu.cn/",
+  "sfw": false,
+  "navs": [
+   {
+    "t": "采购信息",
+    "h": "https://zbb.njupt.edu.cn/zbgghwl/index.chtml"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://zbb.njupt.edu.cn/tzgg/index.chtml"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://zbb.njupt.edu.cn/cjgshwl/index.chtml"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://zbb.njupt.edu.cn/fscgxx/index.chtml"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://zbb.njupt.edu.cn/fscgcjgg/index.chtml"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://zbb.njupt.edu.cn/zfcgyxgk/index.chtml"
+   }
+  ],
+  "cands": [
+   {
+    "u": "https://zbb.njupt.edu.cn/",
+    "label": "home",
+    "scanned": 82,
+    "oldest": "2025-07-28",
+    "n": 1,
+    "newest": [
+     "2026-10-16 通信与信息工程学院+综合处理单机数字孪生子系统公开比选公",
+     "2026-10-13 南京邮电大学第四食堂项目空调机组采购更正公告（四）",
+     "2026-10-10 南京邮电大学第四食堂项目空调机组采购更正公告（三）"
+    ],
+    "rows": [
+     "NJUPT-zbgghwl9769.chtml | strong | 南京邮电大学工程实验教学部直流稳压电源采购公开比选公告"
+    ]
+   },
+   {
+    "u": "https://zbb.njupt.edu.cn/zbgghwl/index.chtml",
+    "label": "采购信息",
+    "scanned": 15,
+    "oldest": "2026-09-04",
+    "n": 1,
+    "newest": [
+     "2026-10-16 通信与信息工程学院+综合处理单机数字孪生子系统公开比选公",
+     "2026-10-13 南京邮电大学第四食堂项目空调机组采购更正公告（四）",
+     "2026-10-10 南京邮电大学第四食堂项目空调机组采购更正公告（三）"
+    ],
+    "rows": [
+     "NJUPT-zbgghwl9769.chtml | strong | 南京邮电大学工程实验教学部直流稳压电源采购公开比选公告"
+    ]
+   },
+   {
+    "u": "https://zbb.njupt.edu.cn/tzgg/index.chtml",
+    "label": "更多>>",
+    "scanned": 15,
+    "oldest": "2022-01-15",
+    "n": 0,
+    "newest": [
+     "2026-05-11 关于在采购项目经费中列支政府采购专家评审费的通知",
+     "2026-04-16 关于统筹安排采购项目、加快预算执行进度的通知",
+     "2025-04-17 关于统筹安排采购项目、加快预算执行进度的通知"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zbb.njupt.edu.cn/cjgshwl/index.chtml",
+    "label": "更多>>",
+    "scanned": 15,
+    "oldest": "2026-09-01",
+    "n": 0,
+    "newest": [
+     "2026-10-15 南京邮电大学集成电路科学与工程学院（产教融合学院）阻抗分",
+     "2026-10-12 南京邮电大学电子与光学工程学院、柔性电子未来技术学院定制",
+     "2026-10-09 南京邮电大学集成电路科学与工程学院（产教融合学院）超声波"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zbb.njupt.edu.cn/fscgxx/index.chtml",
+    "label": "更多>>",
+    "scanned": 7,
+    "oldest": "2026-09-09",
+    "n": 0,
+    "newest": [
+     "2026-10-13 南京邮电大学电光柔学院专用芯片设计（软件、硬件、数据存储",
+     "2026-10-12 南京邮电大学2026年--2029年地下停车场蓄水池水泵",
+     "2026-10-08 材料院教五六楼定制铝合金门窗采购（二次）公开比选公告"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zbb.njupt.edu.cn/fscgcjgg/index.chtml",
+    "label": "更多>>",
+    "scanned": 5,
+    "oldest": "2026-09-17",
+    "n": 0,
+    "newest": [
+     "2026-10-14 材料院教五六楼定制铝合金门窗采购（二次）成交公告",
+     "2026-09-30 南京邮电大学三校区3台电梯维修配件采购项目成交公告",
+     "2026-09-24 材料院教五六楼定制铝合金门窗采购流标公告"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zbb.njupt.edu.cn/zfcgyxgk/index.chtml",
+    "label": "更多>>",
+    "scanned": 15,
+    "oldest": "2025-12-23",
+    "n": 0,
+    "newest": [
+     "2026-10-15 南京邮电大学2026年10月(第1批)政府采购意向公告",
+     "2026-09-04 南京邮电大学2026年9月(第1批)政府采购意向公告",
+     "2026-08-19 南京邮电大学2026年8月(第1批)政府采购意向公告"
+    ],
+    "rows": []
+   }
+  ]
+ },
+ {
+  "key": "DHU",
+  "title": "采购与招投标管理中心",
+  "url": "https://ztb.dhu.edu.cn/",
+  "sfw": false,
+  "navs": [
+   {
+    "t": "更多>>",
+    "h": "https://ztb.dhu.edu.cn/27258/list.htm"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://ztb.dhu.edu.cn/27267/list.htm"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://ztb.dhu.edu.cn/27265/list.htm"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://ztb.dhu.edu.cn/27266/list.htm"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://ztb.dhu.edu.cn/jjgg/list.htm"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://ztb.dhu.edu.cn/27259/list.htm"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://ztb.dhu.edu.cn/27270/list.htm"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://ztb.dhu.edu.cn/27268/list.htm"
+   }
+  ],
+  "cands": [
+   {
+    "u": "https://ztb.dhu.edu.cn/",
+    "label": "home",
+    "scanned": 62,
+    "oldest": "2026-05-02",
+    "n": 0,
+    "newest": [
+     "2026-10-14 【货物】东华大学冷场高分辨场发射透射电子显微镜项目 - ",
+     "2026-10-14 【货物】东华大学X射线光电子能谱仪项目 - 国际招标公告",
+     "2026-10-12 【货物】东华大学等离子烧蚀试验平台采购项目校内公开招标公"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://ztb.dhu.edu.cn/27258/list.htm",
+    "label": "更多>>",
+    "scanned": 14,
+    "oldest": "2026-09-17",
+    "n": 0,
+    "newest": [
+     "2026-10-14 【货物】东华大学冷场高分辨场发射透射电子显微镜项目 - ",
+     "2026-10-14 【货物】东华大学X射线光电子能谱仪项目 - 国际招标公告",
+     "2026-10-12 【货物】东华大学等离子烧蚀试验平台采购项目校内公开招标公"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://ztb.dhu.edu.cn/27267/list.htm",
+    "label": "更多>>",
+    "scanned": 14,
+    "oldest": "2026-05-22",
+    "n": 0,
+    "newest": [
+     "2026-10-09 【工程】东华大学延安路校区南区老旧校舍加固改造及电力增容",
+     "2026-10-09 【工程】东华大学延安路校区南区老旧校舍加固改造及电力增容",
+     "2026-10-08 【工程】东华大学延安路校区第16宿舍（原招待所）修缮项目"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://ztb.dhu.edu.cn/27265/list.htm",
+    "label": "更多>>",
+    "scanned": 14,
+    "oldest": "2026-09-09",
+    "n": 0,
+    "newest": [
+     "2026-10-14 【货物】东华大学冷场高分辨场发射透射电子显微镜项目 - ",
+     "2026-10-14 【货物】东华大学X射线光电子能谱仪项目 - 国际招标公告",
+     "2026-10-12 【货物】东华大学等离子烧蚀试验平台采购项目校内公开招标公"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://ztb.dhu.edu.cn/27266/list.htm",
+    "label": "更多>>",
+    "scanned": 14,
+    "oldest": "2025-12-30",
+    "n": 0,
+    "newest": [
+     "2026-07-03 【服务】东华大学食堂原材料零星采购配送项目（第二次） 校",
+     "2026-06-15 【服务】东华大学两校区物业管理服务公开招标公告",
+     "2026-06-04 【服务】东华大学资产租金评估服务项目校内公开招标公告"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://ztb.dhu.edu.cn/27259/list.htm",
+    "label": "更多>>",
+    "scanned": 14,
+    "oldest": "2026-09-20",
+    "n": 0,
+    "newest": [
+     "2026-10-16 【货物】东华大学原位环境扫描电子显微镜采购项目中标公告",
+     "2026-10-15 【货物】东华大学高选择比自由基刻蚀系统采购项目中标公告",
+     "2026-10-15 【货物】东华大学X射线散射仪采购项目中标公告"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://ztb.dhu.edu.cn/27270/list.htm",
+    "label": "更多>>",
+    "scanned": 14,
+    "oldest": "2026-03-12",
+    "n": 0,
+    "newest": [
+     "2026-10-09 【工程】东华大学松江校区新建学生公寓东楼前期报批及后期报",
+     "2026-08-18 【工程】东华大学延安路校区南区老旧校舍加固改造及电力增容",
+     "2026-08-04 【工程】动力安全设备改造二期--松江路灯电缆线路改造及节"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://ztb.dhu.edu.cn/27268/list.htm",
+    "label": "更多>>",
+    "scanned": 14,
+    "oldest": "2026-09-18",
+    "n": 0,
+    "newest": [
+     "2026-10-16 【货物】东华大学原位环境扫描电子显微镜采购项目中标公告",
+     "2026-10-15 【货物】东华大学高选择比自由基刻蚀系统采购项目中标公告",
+     "2026-10-15 【货物】东华大学X射线散射仪采购项目中标公告"
+    ],
+    "rows": []
+   }
+  ]
+ },
+ {
+  "key": "SZTU",
+  "title": "深圳技术大学 采购与招投标管理中心",
+  "url": "https://ztb.sztu.edu.cn/sfw_cms/e?page=cms.index",
+  "sfw": true,
+  "navs": [
+   {
+    "t": "采购公告",
+    "h": "http://ztb.sztu.edu.cn/sfw_cms/e?page=cms.psms.gglist&typeDetail=XQ"
+   },
+   {
+    "t": "更多",
+    "h": "https://ztb.sztu.edu.cn/sfw_cms/e?page=cms.news&cid=104789"
+   },
+   {
+    "t": "更多",
+    "h": "https://ztb.sztu.edu.cn/sfw_cms/e?page=cms.psms.gglist&typeDetail=XQ&cate=104791"
+   }
+  ],
+  "cands": [
+   {
+    "u": "https://ztb.sztu.edu.cn/sfw_cms/e?page=cms.index",
+    "label": "home",
+    "scanned": 3,
+    "oldest": "2025-12-19",
+    "n": 0,
+    "newest": [
+     "2026-06-01 2026年深圳广播电影电视集团网络视频直播合作采用单一来",
+     "2026-04-29 2026年《南方都市报》宣传合作单一来源采购征求意见公示",
+     "2025-12-19 慕尼黑工业大学-深圳技术大学2026年寒假“新一代智能制"
+    ],
+    "rows": []
+   }
+  ],
+  "sfwScan": {
+   "scanned": 100,
+   "oldest": "2026-09-15",
+   "n": 11,
+   "newest": [
+    "2026-10-16 音乐学院琴房改造项目（SZDL2026001694）采购",
+    "2026-10-16 低空无人起降场运行实践教学实践平台（SZDL202600",
+    "2026-10-16 中长波光束质量分析仪（SZTUWSJJ2600360）采"
+   ],
+   "rows": [
+    "SZTU-SZTUWSJJ2600361 | weak | 亚微米级成像高速飞拍平台（SZTUWSJJ2600361）采购公告",
+    "SZTU-SZTUWSJJ2600352 | strong | 信号系统检测实验箱（SZTUWSJJ2600352）采购公告",
+    "SZTU-SZTUWSJJ2600359 | weak | 飞秒激光智能加工控制器（SZTUWSJJ2600359）采购公告",
+    "SZTU-SZTUWSJJ2600357 | weak | 精密位移台（SZTUWSJJ2600357）采购公告"
+   ]
+  }
+ },
+ {
+  "key": "SZTU",
+  "title": "深圳技术大学 采购与招投标管理中心",
+  "url": "https://bidding.sztu.edu.cn/",
+  "sfw": false,
+  "navs": [
+   {
+    "t": "采购公告",
+    "h": "https://bidding.sztu.edu.cn/cggg.htm"
+   },
+   {
+    "t": "学校集中采购公告",
+    "h": "https://bidding.sztu.edu.cn/cggg/xxjzcgg.htm"
+   },
+   {
+    "t": "政府集中采购公告",
+    "h": "https://bidding.sztu.edu.cn/cggg/zfjzcgg.htm"
+   },
+   {
+    "t": "更多 >>",
+    "h": "https://bidding.sztu.edu.cn/dtgg1/gzdt.htm"
+   },
+   {
+    "t": "更多 >>",
+    "h": "https://bidding.sztu.edu.cn/zytz.htm"
+   },
+   {
+    "t": "更多 >>",
+    "h": "https://bidding.sztu.edu.cn/dtgg1/wggg.htm"
+   },
+   {
+    "t": "更多 >>",
+    "h": "https://bidding.sztu.edu.cn/dtgg1/zxcgjggg.htm"
+   },
+   {
+    "t": "更多 >>",
+    "h": "https://bidding.sztu.edu.cn/xxgk.htm"
+   }
+  ],
+  "cands": [
+   {
+    "u": "https://bidding.sztu.edu.cn/",
+    "label": "home",
+    "scanned": 3,
+    "oldest": "2025-07-02",
+    "n": 0,
+    "newest": [
+     "2025-07-21 离轴抛物面镜-SZTUDLEQ2025006（2025.",
+     "2025-07-02 光学元器件-SZTUEQ2025021（2025.07.",
+     "2025-10-27 https://ztb.sztu.edu.cn"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://bidding.sztu.edu.cn/cggg.htm",
+    "label": "采购公告",
+    "scanned": 18,
+    "oldest": "2025-06-06",
+    "n": 0,
+    "newest": [
+     "2025-09-08 动物饲养设备-SZDL2025001456-招标公告",
+     "2025-08-29 过程控制仪表校验及交叉比较系统-SZTUDLHW2025",
+     "2025-07-30 激光共聚焦显微镜-SZDL2025001193-招标公告"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://bidding.sztu.edu.cn/cggg/xxjzcgg.htm",
+    "label": "学校集中采购公告",
+    "scanned": 18,
+    "oldest": "2025-06-13",
+    "n": 0,
+    "newest": [
+     "2025-08-29 过程控制仪表校验及交叉比较系统-SZTUDLHW2025",
+     "2025-07-21 气体激光供气及测量系统-SZTUDLEQ2025007（",
+     "2025-07-28 毫米波信号发生器-SZTUDLEQ2025005（202"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://bidding.sztu.edu.cn/cggg/zfjzcgg.htm",
+    "label": "政府集中采购公告",
+    "scanned": 18,
+    "oldest": "2025-02-10",
+    "n": 0,
+    "newest": [
+     "2025-09-08 动物饲养设备-SZDL2025001456-招标公告",
+     "2025-07-30 激光共聚焦显微镜-SZDL2025001193-招标公告",
+     "2025-06-13 IDC中心微模块建设更正公告"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://bidding.sztu.edu.cn/dtgg1/gzdt.htm",
+    "label": "更多 >>",
+    "scanned": 18,
+    "oldest": "2019-09-02",
+    "n": 0,
+    "newest": [
+     "2023-03-28 采招中心开展规章制度系列学习活动",
+     "2021-08-30 政府采购智慧平台线上培训",
+     "2021-07-13 中国教育会计学会高校政府采购分会线上培训"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://bidding.sztu.edu.cn/zytz.htm",
+    "label": "更多 >>",
+    "scanned": 18,
+    "oldest": "2020-04-28",
+    "n": 0,
+    "newest": [
+     "2025-04-30 关于深圳技术大学采购与招投标管理中心网站及采购管理系统改",
+     "2025-03-10 关于投标样品集中清理的通知",
+     "2022-09-07 关于2022年上半年商城直采平台和福利品商城商品价格监测"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://bidding.sztu.edu.cn/dtgg1/wggg.htm",
+    "label": "更多 >>",
+    "scanned": 18,
+    "oldest": "2021-12-22",
+    "n": 0,
+    "newest": [
+     "2022-10-27 深圳技术大学采购与招投标管理中心供应商违规处理意见书(〔",
+     "2022-10-27 ​深圳技术大学采购与招投标管理中心供应商违规处理意见书（",
+     "2022-10-27 深圳技术大学采购与招投标管理中心供应商违规处理意见书(〔"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://bidding.sztu.edu.cn/dtgg1/zxcgjggg.htm",
+    "label": "更多 >>",
+    "scanned": 18,
+    "oldest": "2025-04-10",
+    "n": 0,
+    "newest": [
+     "2025-04-17 [自行]高速数据采集卡(货物类)",
+     "2025-04-16 [自行]多通道数据采集仪(货物类)",
+     "2025-04-16 [自行]真空无油步进电机和控制器(货物类)"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://bidding.sztu.edu.cn/xxgk.htm",
+    "label": "更多 >>",
+    "scanned": 18,
+    "oldest": "2025-07-24",
+    "n": 0,
+    "newest": [
+     "2025-12-23 智能影像设备项目合同变更征求意见公示",
+     "2025-12-15 金属有机物化学气相沉积仪项目合同变更征求意见公示",
+     "2025-12-09 2025年专业会计服务项目合同变更征求意见公示"
+    ],
+    "rows": []
+   }
+  ]
+ },
+ {
+  "key": "QDU",
+  "title": "青岛大学政府采购中心 - 首页",
+  "url": "https://cg.qdu.edu.cn/",
+  "sfw": false,
+  "navs": [
+   {
+    "t": "采购公告",
+    "h": "https://cg.qdu.edu.cn/cgxxhw/index.chtml"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://cg.qdu.edu.cn/tzgg/index.chtml"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://cg.qdu.edu.cn/zbgghw/index.chtml"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://cg.qdu.edu.cn/jjgg/index.chtml"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://cg.qdu.edu.cn/jjjg/index.chtml"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://cg.qdu.edu.cn/guojflfg/index.chtml"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://cg.qdu.edu.cn/dtype1/index.chtml"
+   }
+  ],
+  "cands": [
+   {
+    "u": "https://cg.qdu.edu.cn/",
+    "label": "home",
+    "scanned": 61,
+    "oldest": "2025-01-17",
+    "n": 0,
+    "newest": [
+     "2026-06-05 学校召开采购工作培训会",
+     "2026-05-18 学校召开招标采购工作调研会",
+     "2026-03-20 学校召开采购与招标工作小组工作会暨招标代理机构2025年"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://cg.qdu.edu.cn/cgxxhw/index.chtml",
+    "label": "采购公告",
+    "scanned": 15,
+    "oldest": "2026-09-30",
+    "n": 0,
+    "newest": [
+     "2026-10-16 青岛大学浮山校区工程制图实验室教学设施采购项目竞争性磋商",
+     "2026-10-08 青岛大学青岛医学院动物中心设备采购项目公开招标公告",
+     "2026-10-05 青岛大学2026年省拨高等学校学科建设项目公开招标招标公"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://cg.qdu.edu.cn/tzgg/index.chtml",
+    "label": "更多>>",
+    "scanned": 1,
+    "oldest": "2021-01-25",
+    "n": 0,
+    "newest": [
+     "2021-01-25 关于青岛大学政府采购招标、外贸、国产设备退税代理机构遴选"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://cg.qdu.edu.cn/zbgghw/index.chtml",
+    "label": "更多>>",
+    "scanned": 15,
+    "oldest": "2026-08-12",
+    "n": 0,
+    "newest": [
+     "2026-10-10 青岛大学智慧考试阅卷系统项目项目中标(成交公告)",
+     "2026-09-23 智慧考试阅卷系统项目中标(成交公告)",
+     "2026-09-21 青岛大学智能机器人与双向充放电系统采购项目废标公示"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://cg.qdu.edu.cn/jjgg/index.chtml",
+    "label": "更多>>",
+    "scanned": 15,
+    "oldest": "2026-10-10",
+    "n": 0,
+    "newest": [
+     "2026-10-16 高压精密泵采购延期公告",
+     "2026-10-16 磁力搅拌器等设备采购竞价公告",
+     "2026-10-16 微秒闪光灯采购竞价公告"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://cg.qdu.edu.cn/jjjg/index.chtml",
+    "label": "更多>>",
+    "scanned": 15,
+    "oldest": "2026-09-23",
+    "n": 0,
+    "newest": [
+     "2026-10-16 445nm激光器采购结果公告",
+     "2026-10-16 红外激光观察仪采购结果公告",
+     "2026-10-14 熔体流动速率仪采购结果公告"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://cg.qdu.edu.cn/guojflfg/index.chtml",
+    "label": "更多>>",
+    "scanned": 2,
+    "oldest": "2019-03-15",
+    "n": 0,
+    "newest": [
+     "2021-11-10 关于“十四五”期间进口科学研究、科技开发和教学用品 免税",
+     "2019-03-15 关于转发财政部 发展改革委 生态环境部 市场监管总局关于"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://cg.qdu.edu.cn/dtype1/index.chtml",
+    "label": "更多>>",
+    "scanned": 15,
+    "oldest": "2019-03-12",
+    "n": 0,
+    "newest": [
+     "2026-05-18 青岛大学招标与采购工作手册",
+     "2020-11-05 关于印发山东省政府集中采购目录及标准的通知",
+     "2019-03-12 青岛大学货物类采购项目论证报告"
+    ],
+    "rows": []
+   }
+  ]
+ }
+]
