@@ -1,0 +1,203 @@
+[
+ {
+  "key": "UCAS",
+  "title": "中国科学院大学网上采购平台 - 首页",
+  "url": "http://caigou.ucas.ac.cn/static/index.html",
+  "sfw": false,
+  "navs": [
+   {
+    "t": "更多>",
+    "h": "http://caigou.ucas.ac.cn/center/index.chtml"
+   },
+   {
+    "t": "更多 >>",
+    "h": "http://caigou.ucas.ac.cn/zfcghw/index.chtml"
+   },
+   {
+    "t": "更多 >>",
+    "h": "http://caigou.ucas.ac.cn/zfcggc/index.chtml"
+   },
+   {
+    "t": "更多 >>",
+    "h": "http://caigou.ucas.ac.cn/zfcgfw/index.chtml"
+   },
+   {
+    "t": "更多 >>",
+    "h": "http://caigou.ucas.ac.cn/zfjghw/index.chtml"
+   },
+   {
+    "t": "更多 >>",
+    "h": "http://caigou.ucas.ac.cn/zfjggc/index.chtml"
+   },
+   {
+    "t": "更多 >>",
+    "h": "http://caigou.ucas.ac.cn/zfjgfw/index.chtml"
+   },
+   {
+    "t": "更多 >>",
+    "h": "http://caigou.ucas.ac.cn/zbcghw/index.chtml"
+   }
+  ],
+  "cands": [
+   {
+    "u": "http://caigou.ucas.ac.cn/static/index.html",
+    "label": "home",
+    "scanned": 191,
+    "oldest": "2022-10-13",
+    "n": 0,
+    "newest": [
+     "2026-10-09 数学科学学院服务器和服务器配件（询价）采购需求公告(第二",
+     "2026-09-29 中国科学院大学国际会议中心多功能厅多媒体设备采购项目征求",
+     "2026-09-22 中国科学院大学智慧教学与虚拟现实硬件及信息发布设备采购项"
+    ],
+    "rows": []
+   },
+   {
+    "u": "http://caigou.ucas.ac.cn/center/index.chtml",
+    "label": "更多>",
+    "scanned": 10,
+    "oldest": "2022-05-17",
+    "n": 0,
+    "newest": [
+     "2026-03-26 资产管理处举办采购管理办法专题答疑，推动采购工作规范化",
+     "2025-12-01 关于编报2026年“二上”政府采购预算的通知",
+     "2025-02-17 2025年进口产品集中论证"
+    ],
+    "rows": []
+   },
+   {
+    "u": "http://caigou.ucas.ac.cn/zfcghw/index.chtml",
+    "label": "更多 >>",
+    "scanned": 10,
+    "oldest": "2026-08-11",
+    "n": 0,
+    "newest": [
+     "2026-10-09 数学科学学院服务器和服务器配件（询价）采购需求公告(第二",
+     "2026-09-29 中国科学院大学国际会议中心多功能厅多媒体设备采购项目征求",
+     "2026-09-22 中国科学院大学智慧教学与虚拟现实硬件及信息发布设备采购项"
+    ],
+    "rows": []
+   },
+   {
+    "u": "http://caigou.ucas.ac.cn/zfcggc/index.chtml",
+    "label": "更多 >>",
+    "scanned": 10,
+    "oldest": "2022-10-13",
+    "n": 0,
+    "newest": [
+     "2026-08-29 中国科学院大学雁栖湖校区留学生公寓(14号楼)室内修缮施",
+     "2026-08-29 中国科学院大学雁栖湖校区图书情报中心(10号楼)人防工程",
+     "2026-07-30 中国科学院大学雁栖湖校区4#楼东区学生食堂（17号楼）人"
+    ],
+    "rows": []
+   },
+   {
+    "u": "http://caigou.ucas.ac.cn/zfcgfw/index.chtml",
+    "label": "更多 >>",
+    "scanned": 10,
+    "oldest": "2024-08-20",
+    "n": 0,
+    "newest": [
+     "2026-05-28 中国科学院大学中关村校区11#楼学生公寓修缮及室外配套设",
+     "2025-12-16 中国科学院大学雁栖湖校区教职工集体宿舍物业服务项目招标公",
+     "2025-11-06 中国科学院大学四食堂保洁服务采购项目招标公告"
+    ],
+    "rows": []
+   },
+   {
+    "u": "http://caigou.ucas.ac.cn/zfjghw/index.chtml",
+    "label": "更多 >>",
+    "scanned": 10,
+    "oldest": "2026-09-07",
+    "n": 0,
+    "newest": [
+     "2026-10-13 材料学院办公电脑采购项目中标（成交）结果公告",
+     "2026-10-13 国际合作与交流处台式电脑采购项目中标（成交）结果公告",
+     "2026-10-13 科研处+台式电脑采购项目中标（成交）结果公告"
+    ],
+    "rows": []
+   },
+   {
+    "u": "http://caigou.ucas.ac.cn/zfjgfw/index.chtml",
+    "label": "更多 >>",
+    "scanned": 10,
+    "oldest": "2025-11-28",
+    "n": 0,
+    "newest": [
+     "2026-09-15 资产管理处手提袋采购项目中标（成交）结果公告",
+     "2026-09-08 中国科学院大学中关村校区11#楼学生公寓修缮及室外配套设",
+     "2026-08-21 总务部车队车辆维修保养项目中标（成交）结果公告"
+    ],
+    "rows": []
+   }
+  ]
+ },
+ {
+  "key": "BUCT",
+  "title": "北京化工大学采购服务平台",
+  "url": "https://cg.buct.edu.cn/sfw_cms/e?page=cms.index",
+  "sfw": true,
+  "navs": [],
+  "cands": [
+   {
+    "u": "https://cg.buct.edu.cn/sfw_cms/e?page=cms.index",
+    "label": "home",
+    "scanned": 5,
+    "oldest": "2025-09-30",
+    "n": 0,
+    "newest": [
+     "2026-04-20 党建引领促融合 校际共建谱新篇",
+     "2026-03-18 精准服务暖人心 协同联动促发展",
+     "2026-03-06 我校采购管理信息化案例入选全国高校财务管理优秀案例"
+    ],
+    "rows": []
+   }
+  ],
+  "sfwScan": {
+   "scanned": 100,
+   "oldest": "2026-05-14",
+   "n": 0,
+   "newest": [
+    "2026-10-16 北京化工大学【锥形单螺杆挤出工艺安全模拟试验装置加工】小",
+    "2026-10-16 北京化工大学智慧图书馆管理平台采购项目（BUCTHZHB",
+    "2026-10-14 北京化工大学【密封试验台及振动激振器】小组询价结果公示"
+   ],
+   "rows": []
+  }
+ },
+ {
+  "key": "SCNU",
+  "title": "华南师范大学采购与招投标中心",
+  "url": "http://cgzx.scnu.edu.cn/gateway.do",
+  "sfw": false,
+  "navs": [
+   {
+    "t": "采购信息",
+    "h": "http://cgzx.scnu.edu.cn/portalwebController.do?goAtriclelist&articltype=cggg&page=1&rows=16"
+   },
+   {
+    "t": "货物",
+    "h": "http://cgzx.scnu.edu.cn/portalwebController.do?goAtriclelist&articltype=cggg-hw&page=1&rows=16"
+   },
+   {
+    "t": "货物",
+    "h": "http://cgzx.scnu.edu.cn/portalwebController.do?goAtriclelist&articltype=jggs-hw&page=1&rows=16"
+   }
+  ],
+  "cands": [
+   {
+    "u": "http://cgzx.scnu.edu.cn/gateway.do",
+    "label": "home",
+    "scanned": 60,
+    "oldest": "2026-10-14",
+    "n": 0,
+    "newest": [
+     "2026-10-15 DGM-T-200-光电科学与工程学院-光电特性综合测试",
+     "2026-10-15 DGM-T-223-光电科学与工程学院-智能光信息处理实",
+     "2026-10-15 学科发展水平及大学360度数据监测服务2026-10-1"
+    ],
+    "rows": []
+   }
+  ]
+ }
+]
