@@ -292,5 +292,244 @@
     "label": "采购公告"
    }
   ]
+ },
+ {
+  "key": "JLU",
+  "zh": "吉林大学",
+  "en": "Jilin U",
+  "kind": "sfw",
+  "url": "https://cgglzx.jlu.edu.cn/"
+ },
+ {
+  "key": "SDU",
+  "zh": "山东大学",
+  "en": "Shandong U",
+  "kind": "sfw",
+  "url": "https://zcgl.sdu.edu.cn/"
+ },
+ {
+  "key": "BUCT",
+  "zh": "北京化工",
+  "en": "BUCT",
+  "kind": "sfw",
+  "url": "https://cg.buct.edu.cn/sfw_cms/e?page=cms.index"
+ },
+ {
+  "key": "SZTU",
+  "zh": "深圳技术大学",
+  "en": "Shenzhen Tech U",
+  "kind": "sfw",
+  "url": "https://ztb.sztu.edu.cn/sfw_cms/e?page=cms.index"
+ },
+ {
+  "key": "AHU",
+  "zh": "安徽大学",
+  "en": "Anhui U",
+  "kind": "sfw",
+  "url": "https://cgzx.ahu.edu.cn/sfw_cms/e?page=cms.index"
+ },
+ {
+  "key": "XIDIAN",
+  "zh": "西电",
+  "en": "Xidian",
+  "kind": "list",
+  "url": "https://cg.xidian.edu.cn/hwcggg/index.chtml",
+  "lists": [
+   {
+    "url": "/hwcggg/index.chtml"
+   },
+   {
+    "url": "/fwcggg/index.chtml"
+   }
+  ]
+ },
+ {
+  "key": "UCAS",
+  "zh": "国科大",
+  "en": "UCAS",
+  "kind": "list",
+  "url": "http://caigou.ucas.ac.cn/static/index.html",
+  "lists": [
+   {
+    "url": "/static/index.html"
+   },
+   {
+    "url": "/zfcghw/index.chtml"
+   }
+  ]
+ },
+ {
+  "key": "SUDA",
+  "zh": "苏州大学",
+  "en": "Soochow U",
+  "kind": "list",
+  "url": "https://zbzx.suda.edu.cn/9291/list.htm",
+  "lists": [
+   {
+    "url": "/9291/list.htm"
+   },
+   {
+    "url": "/hwxjgg/list.htm"
+   }
+  ]
+ },
+ {
+  "key": "ECNU",
+  "zh": "华东师大",
+  "en": "ECNU",
+  "kind": "list",
+  "url": "https://cgxx.ecnu.edu.cn/cggghw/index.chtml",
+  "lists": [
+   {
+    "url": "/cggghw/index.chtml"
+   }
+  ]
+ },
+ {
+  "key": "SHANGHAITECH",
+  "zh": "上海科技",
+  "en": "ShanghaiTech",
+  "kind": "list",
+  "url": "https://www.shanghaitech.edu.cn/1525/list.htm",
+  "lists": [
+   {
+    "url": "/1525/list.htm"
+   },
+   {
+    "url": "/1528/list.htm"
+   }
+  ]
+ },
+ {
+  "key": "SCNU",
+  "zh": "华南师大",
+  "en": "South China Normal U",
+  "kind": "list",
+  "url": "http://cgzx.scnu.edu.cn/gateway.do",
+  "lists": [
+   {
+    "url": "/gateway.do"
+   }
+  ]
+ },
+ {
+  "key": "NJUPT",
+  "zh": "南京邮电",
+  "en": "NJUPT",
+  "kind": "list",
+  "url": "https://zbb.njupt.edu.cn/zbgghwl/index.chtml",
+  "lists": [
+   {
+    "url": "/zbgghwl/index.chtml"
+   },
+   {
+    "url": "/fscgxx/index.chtml"
+   }
+  ]
+ },
+ {
+  "key": "HDU",
+  "zh": "杭州电子科大",
+  "en": "Hangzhou Dianzi U",
+  "kind": "list",
+  "url": "https://cgzx.hdu.edu.cn/13049/list.htm",
+  "lists": [
+   {
+    "url": "/13049/list.htm"
+   }
+  ]
+ },
+ {
+  "key": "SWJTU",
+  "zh": "西南交大",
+  "en": "Southwest Jiaotong",
+  "kind": "list",
+  "url": "https://bidding.swjtu.edu.cn/cggg.htm",
+  "lists": [
+   {
+    "url": "/cggg.htm"
+   }
+  ]
+ },
+ {
+  "key": "CSU",
+  "zh": "中南大学",
+  "en": "Central South U",
+  "kind": "list",
+  "url": "http://czzx.csu.edu.cn/csustatic/index.html",
+  "lists": [
+   {
+    "url": "/csustatic/index.html"
+   }
+  ]
+ },
+ {
+  "key": "SZU",
+  "zh": "深圳大学",
+  "en": "Shenzhen U",
+  "kind": "list",
+  "url": "https://bidding.szu.edu.cn/",
+  "lists": [
+   {
+    "url": "/"
+   }
+  ]
+ },
+ {
+  "key": "DHU",
+  "zh": "东华大学",
+  "en": "Donghua U",
+  "kind": "list",
+  "url": "https://ztb.dhu.edu.cn/27258/list.htm",
+  "lists": [
+   {
+    "url": "/27258/list.htm"
+   },
+   {
+    "url": "/27265/list.htm"
+   }
+  ]
+ },
+ {
+  "key": "HEBUT",
+  "zh": "河北工大",
+  "en": "Hebei UT",
+  "kind": "list",
+  "url": "https://zbcg.hebut.edu.cn/cggg/index.htm",
+  "lists": [
+   {
+    "url": "/cggg/index.htm"
+   }
+  ]
+ },
+ {
+  "key": "UJS",
+  "zh": "江苏大学",
+  "en": "Jiangsu U",
+  "kind": "list",
+  "url": "https://cgb.ujs.edu.cn/xxzbgg.htm",
+  "lists": [
+   {
+    "url": "/xxzbgg.htm"
+   },
+   {
+    "url": "/ejdwzbgg.htm"
+   },
+   {
+    "url": "/xqgs.htm"
+   }
+  ]
+ },
+ {
+  "key": "TYUT",
+  "zh": "太原理工",
+  "en": "Taiyuan UT",
+  "kind": "list",
+  "url": "https://cgzb.tyut.edu.cn/xxgk/zfcg.htm",
+  "lists": [
+   {
+    "url": "/xxgk/zfcg.htm"
+   }
+  ]
  }
 ]
