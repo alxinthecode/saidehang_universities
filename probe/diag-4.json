@@ -1,0 +1,64 @@
+[
+ {
+  "key": "TUST",
+  "dom": "tust.edu.cn",
+  "home": "https://www.tust.edu.cn/",
+  "links": [],
+  "hosts": [
+   "cwc.tust.edu.cn"
+  ]
+ },
+ {
+  "key": "NJFU",
+  "dom": "njfu.edu.cn",
+  "home": "https://www.njfu.edu.cn/",
+  "links": [
+   "采购招标 https://gzc.njfu.edu.cn/"
+  ],
+  "hosts": [
+   "zbcgw.njfu.edu.cn",
+   "zbcg.njfu.edu.cn",
+   "gzc.njfu.edu.cn",
+   "zcgl.njfu.edu.cn",
+   "zbc.njfu.edu.cn"
+  ]
+ },
+ {
+  "key": "XMUT",
+  "dom": "xmut.edu.cn",
+  "home": "https://www.xmut.edu.cn/",
+  "links": [],
+  "hosts": []
+ },
+ {
+  "key": "WTU",
+  "dom": "wtu.edu.cn",
+  "home": "https://www.wtu.edu.cn/",
+  "links": [],
+  "hosts": []
+ },
+ {
+  "key": "XHU",
+  "dom": "xhu.edu.cn",
+  "home": "https://www.xhu.edu.cn/",
+  "links": [],
+  "hosts": [
+   "cgzx.xhu.edu.cn",
+   "zb.xhu.edu.cn",
+   "sbc.xhu.edu.cn"
+  ]
+ },
+ {
+  "key": "TJNU",
+  "dom": "tjnu.edu.cn",
+  "home": "https://www.tjnu.edu.cn/",
+  "links": [
+   "招标采购 https://gyzc.tjnu.edu.cn/xxgk/zbcgxx2.htm"
+  ],
+  "hosts": [
+   "cwc.tjnu.edu.cn",
+   "caigou.tjnu.edu.cn",
+   "gyzc.tjnu.edu.cn"
+  ]
+ }
+]

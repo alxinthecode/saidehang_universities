@@ -1,0 +1,131 @@
+[
+ {
+  "key": "NJFU",
+  "title": "国有资产管理处、投招标中心",
+  "url": "https://gzc.njfu.edu.cn/",
+  "sfw": false,
+  "navs": [
+   {
+    "t": "采购公告",
+    "h": "http://gzc.njfu.edu.cn/zbcg/zbgg/index.html"
+   }
+  ],
+  "cands": []
+ },
+ {
+  "key": "TJNU",
+  "title": "国有资产管理处",
+  "url": "https://gyzc.tjnu.edu.cn/",
+  "sfw": false,
+  "navs": [
+   {
+    "t": "招标采购信息",
+    "h": "https://gyzc.tjnu.edu.cn/xxgk/zbcgxx2.htm"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://gyzc.tjnu.edu.cn/djzl.htm"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://gyzc.tjnu.edu.cn/ggl.htm"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://gyzc.tjnu.edu.cn/gzdt.htm"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://gyzc.tjnu.edu.cn/sbwxxcs.htm"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://gyzc.tjnu.edu.cn/sysaq.htm"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://gyzc.tjnu.edu.cn/czgg.htm"
+   }
+  ],
+  "cands": [
+   {
+    "u": "https://gyzc.tjnu.edu.cn/djzl.htm",
+    "label": "更多>>",
+    "scanned": 10,
+    "oldest": "2026-06-16",
+    "n": 0,
+    "newest": [
+     "2026-10-16 【学习进行时】习近平出席全国卫生与健康大会并发表重要讲话",
+     "2026-09-10 【学习进行时】习近平向全国广大教师和教育工作者致以节日祝",
+     "2026-09-08 【学习进行时】习近平在上海合作组织成员国元首理事会第二十"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://gyzc.tjnu.edu.cn/ggl.htm",
+    "label": "更多>>",
+    "scanned": 10,
+    "oldest": "2019-04-26",
+    "n": 0,
+    "newest": [
+     "2026-10-09 天津师范大学2026年大型仪器维修经费补贴情况公示（第三",
+     "2026-09-14 天津师范大学2026年大型仪器维修经费补贴情况公示（第二",
+     "2026-05-11 天津师范大学2026年大型仪器维修经费补贴情况公示（第一"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://gyzc.tjnu.edu.cn/gzdt.htm",
+    "label": "更多>>",
+    "scanned": 10,
+    "oldest": "2026-01-23",
+    "n": 0,
+    "newest": [
+     "2026-10-09 我校组织参加实验室安全培训",
+     "2026-07-01 天津师范大学召开采购业务暨廉政警示教育培训会",
+     "2026-06-25 天津师范大学举办实验室安全风险管控专题培训会"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://gyzc.tjnu.edu.cn/sbwxxcs.htm",
+    "label": "更多>>",
+    "scanned": 7,
+    "oldest": "2008-08-25",
+    "n": 0,
+    "newest": [
+     "2013-10-18 笔记本日常使用维护",
+     "2013-10-18 低值易耗品使用维护注意事项",
+     "2013-10-18 木制办公家具去污保洁小常识"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://gyzc.tjnu.edu.cn/sysaq.htm",
+    "label": "更多>>",
+    "scanned": 10,
+    "oldest": "2025-12-12",
+    "n": 0,
+    "newest": [
+     "2026-10-09 我校组织参加实验室安全培训",
+     "2026-08-12 巩金龙率队检查校园防汛防台风和暑期安全稳定工作",
+     "2026-06-25 天津师范大学举办实验室安全风险管控专题培训会"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://gyzc.tjnu.edu.cn/czgg.htm",
+    "label": "更多>>",
+    "scanned": 10,
+    "oldest": "2018-05-29",
+    "n": 0,
+    "newest": [
+     "2019-01-03 低值耐用品处置公告(DZ 20190102)",
+     "2019-01-03 资产拟处置公告(ZC 20190102)",
+     "2018-11-20 低值耐用品处置公告(DZ 20181119)"
+    ],
+    "rows": []
+   }
+  ]
+ }
+]
