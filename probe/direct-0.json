@@ -1,0 +1,288 @@
+[
+ {
+  "key": "BJTU",
+  "try": "cg.bjtu.edu.cn",
+  "ok": false,
+  "err": "page.goto: Timeout 25000ms exceeded."
+ },
+ {
+  "key": "BJTU",
+  "try": "cggl.bjtu.edu.cn",
+  "ok": true,
+  "title": "HTTP状态 404 - 未找到",
+  "url": "https://cggl.bjtu.edu.cn/",
+  "cands": []
+ },
+ {
+  "key": "BJTU",
+  "try": "czzx.bjtu.edu.cn",
+  "ok": false,
+  "err": "page.goto: Timeout 25000ms exceeded."
+ },
+ {
+  "key": "BJTU",
+  "try": "gzc.bjtu.edu.cn",
+  "ok": true,
+  "title": "北京交通大学国有资产管理处",
+  "url": "https://gzc.bjtu.edu.cn/",
+  "cands": [
+   {
+    "u": "https://gzc.bjtu.edu.cn/xxkd/index.htm",
+    "label": "MORE+",
+    "scanned": 7,
+    "oldest": "2018-06-01",
+    "n": 0,
+    "newest": [
+     "2025-04-03 2025年教育部政府采购工作会议在广东珠海举办",
+     "2024-08-23 教育部政府采购中心来我校调研指导政府采购信息化工作",
+     "2024-03-06 北京交通大学荣获“政府采购先进高校”"
+    ]
+   },
+   {
+    "u": "https://gzc.bjtu.edu.cn/tzgg/index.html",
+    "label": "MORE+",
+    "scanned": 10,
+    "oldest": "2024-07-12",
+    "n": 0,
+    "newest": [
+     "2026-07-03 关于北京交通大学自动化与智能学院实验室测试收费标准的公示",
+     "2026-07-03 关于北京交通大学先进轨道交通自主运行全国重点实验室测试收",
+     "2026-07-03 关于北京交通大学前沿科学中心测试收费标准的公示"
+    ]
+   },
+   {
+    "u": "https://gzc.bjtu.edu.cn/zb/zbcggs/index.htm",
+    "label": "MORE+",
+    "scanned": 20,
+    "oldest": "2026-09-14",
+    "n": 0,
+    "newest": [
+     "2026-10-15 北京交通大学微机保护装置板卡检测装备研制与测试应用公开招",
+     "2026-10-15 北京交通大学智能算力云服务采购项目废标公告",
+     "2026-10-14 北京交通大学校园基础设施及校舍安全改造（综合管线改造）质"
+    ]
+   }
+  ]
+ },
+ {
+  "key": "SAU",
+  "try": "zbcgb.sau.edu.cn",
+  "ok": true,
+  "title": "沈阳航空航天大学-招标采购办公室",
+  "url": "https://zbcgb.sau.edu.cn/",
+  "cands": [
+   {
+    "u": "https://zbcgb.sau.edu.cn/",
+    "label": "home",
+    "scanned": 13,
+    "oldest": "2025-06-11",
+    "n": 0,
+    "newest": [
+     "2025-06-11 2025年度采购管理员专题培训会议 2025-06-11",
+     "2026-10-09 2026-10-09 沈航公务用车定点维修保养服务项目E",
+     "2026-09-22 2026-09-22 沈航航空制造类应用型人才培养实训基"
+    ]
+   },
+   {
+    "u": "https://zbcgb.sau.edu.cn/cgxx/cggg.htm",
+    "label": "采购信息",
+    "scanned": 10,
+    "oldest": "2026-09-03",
+    "n": 0,
+    "newest": [
+     "2026-10-09 沈航公务用车定点维修保养服务项目E2026208（二次）",
+     "2026-09-22 沈航航空制造类应用型人才培养实训基地项目办公卷帘采购项目",
+     "2026-09-22 沈航理学院、外语学院办公室维修项目竞争性磋商公告（JH2"
+    ]
+   },
+   {
+    "u": "https://zbcgb.sau.edu.cn/gzdt1.htm",
+    "label": "更多",
+    "scanned": 1,
+    "oldest": "2025-06-11",
+    "n": 0,
+    "newest": [
+     "2025-06-11 2025年度采购管理员专题培训会议2025-06-11"
+    ]
+   },
+   {
+    "u": "https://zbcgb.sau.edu.cn/xzzq.htm",
+    "label": "更多",
+    "scanned": 4,
+    "oldest": "2023-09-26",
+    "n": 0,
+    "newest": [
+     "2025-03-27 辽宁省政府采购负面清单2025-03-27",
+     "2024-06-24 询价记录（新）2024-06-24",
+     "2023-11-02 （新修订）沈阳航空航天大学采购计划审批表2023-11-"
+    ]
+   },
+   {
+    "u": "https://zbcgb.sau.edu.cn/tzgg.htm",
+    "label": "更多",
+    "scanned": 10,
+    "oldest": "2026-09-17",
+    "n": 0,
+    "newest": [
+     "2026-10-09 沈航公务用车定点维修保养服务项目E2026208（二次）",
+     "2026-09-29 沈航教学楼南及南1栋北停车场建设工程项目E2026235",
+     "2026-09-24 沈航绿色通航项目-拉曼光谱电池原位测试仪结果公告（JH2"
+    ]
+   },
+   {
+    "u": "https://zbcgb.sau.edu.cn/zdgf/zbcg.htm",
+    "label": "更多",
+    "scanned": 10,
+    "oldest": "2023-10-09",
+    "n": 0,
+    "newest": [
+     "2023-10-17 辽宁省政府采购网上商城管理办法（试行）（辽财采规【201",
+     "2023-10-16 关于印发省级行政单位通用资产配置标准的通知2023-10",
+     "2023-10-09 采购流程及各环节时间要求2023-10-09"
+    ]
+   },
+   {
+    "u": "https://zbcgb.sau.edu.cn/cgxx/jggg.htm",
+    "label": "更多",
+    "scanned": 10,
+    "oldest": "2026-09-02",
+    "n": 0,
+    "newest": [
+     "2026-09-29 沈航教学楼南及南1栋北停车场建设工程项目E2026235",
+     "2026-09-24 沈航绿色通航项目-拉曼光谱电池原位测试仪结果公告（JH2",
+     "2026-09-24 沈航绿色通航项目-锥形量热仪W2026224（第二次）结"
+    ]
+   }
+  ]
+ },
+ {
+  "key": "SAU",
+  "try": "cg.sau.edu.cn",
+  "ok": true,
+  "title": "CourseGrading",
+  "url": "https://cg.sau.edu.cn/indexcs/simple.jsp?loginErr=0",
+  "cands": []
+ },
+ {
+  "key": "BISTU",
+  "try": "zcc.bistu.edu.cn",
+  "ok": true,
+  "title": "北京信息科技大学资产管理处|实验室管理处",
+  "url": "https://zcc.bistu.edu.cn/",
+  "cands": [
+   {
+    "u": "https://zcc.bistu.edu.cn/",
+    "label": "home",
+    "scanned": 27,
+    "oldest": "2023-11-14",
+    "n": 0,
+    "newest": [
+     "2026-07-30 2026-07-30 战高温、清存量、腾空间：资产处开展",
+     "2026-06-13 2026-06-13 严守安全底线 夯实管理根基",
+     "2026-06-01 2026-06-01 资产管理处、实验室管理处党支部赴中"
+    ]
+   },
+   {
+    "u": "https://zcc.bistu.edu.cn/tzjx/index.html",
+    "label": "更多",
+    "scanned": 20,
+    "oldest": "2024-12-17",
+    "n": 0,
+    "newest": [
+     "2026-07-30 战高温、清存量、腾空间：资产处开展暑期报废资产集中清运工",
+     "2026-06-13 严守安全底线 夯实管理根基 2026-06-13",
+     "2026-06-01 资产管理处、实验室管理处党支部赴中国政法大学证据科学教育"
+    ]
+   },
+   {
+    "u": "https://zcc.bistu.edu.cn/xwdh/xwxc/index.html",
+    "label": "更多",
+    "scanned": 6,
+    "oldest": "2025-03-20",
+    "n": 0,
+    "newest": [
+     "2026-06-01 资产管理处、实验室管理处党支部赴中国政法大学证据科学教育",
+     "2026-04-16 北京信息科技大学资产管理处赴北京久其软件股份有限公司开展",
+     "2025-11-28 谢新伟为我校2025年新员工做入职培训 2025-11-"
+    ]
+   },
+   {
+    "u": "https://zcc.bistu.edu.cn/cjwt/index.html",
+    "label": "更多",
+    "scanned": 10,
+    "oldest": "2021-09-28",
+    "n": 0,
+    "newest": [
+     "2026-06-15 入库业务手册 2026-06-15",
+     "2023-12-22 搬迁用车流程图 2023-12-22",
+     "2023-12-22 机器人问答-房产科填 2023-12-22"
+    ]
+   },
+   {
+    "u": "https://zcc.bistu.edu.cn/xzzx/index.html",
+    "label": "更多",
+    "scanned": 6,
+    "oldest": "2023-11-14",
+    "n": 0,
+    "newest": [
+     "2025-06-18 北京信息科技大学土地、房屋出租（出借）项目申请表模板 2",
+     "2025-05-19 北京市机关、事业单位职工住房补贴申请审核表-双面 202",
+     "2025-05-19 北京市城镇职工住房情况调查表--单面 2025-05-1"
+    ]
+   }
+  ]
+ },
+ {
+  "key": "NWU",
+  "try": "cgzbxt.nwu.edu.cn/index",
+  "ok": true,
+  "title": "统一身份认证",
+  "url": "https://authserver.nwu.edu.cn/authserver/login?service=https%3A%2F%2Fcgzbxt.nwu.edu.cn%2Fcas%2FcasLogin",
+  "cands": []
+ },
+ {
+  "key": "NWU",
+  "try": "cgzx.nwu.edu.cn",
+  "ok": true,
+  "title": "502 Bad Gateway",
+  "url": "https://cgzx.nwu.edu.cn/",
+  "cands": []
+ },
+ {
+  "key": "CSU_CAS",
+  "try": "csu.cas.cn/gb/qt/zfcg/",
+  "ok": true,
+  "title": "政府采购专栏--中国科学院空间应用工程与技术中心",
+  "url": "https://csu.cas.cn/gb/qt/zfcg/",
+  "cands": [
+   {
+    "u": "https://csu.cas.cn/gb/qt/zfcg/",
+    "label": "home",
+    "scanned": 13,
+    "oldest": "2014-12-19",
+    "n": 0,
+    "newest": [
+     "2014-12-19 国务院办公厅关于印发中央预算单位2015-2016年政府",
+     "2016-08-30 关于中央国家机关2016-2017年电子卖场定点采购有关",
+     "2015-09-06 关于2015-2016年中央国家机关定点印刷工作有关事宜"
+    ]
+   }
+  ]
+ },
+ {
+  "key": "IOE",
+  "try": "www.ioe.cas.cn/tzgg/",
+  "ok": true,
+  "title": "页面没有找到",
+  "url": "https://www.ioe.cas.cn/tzgg/",
+  "cands": []
+ },
+ {
+  "key": "IOE",
+  "try": "www.ioe.cas.cn/zbcg/",
+  "ok": true,
+  "title": "页面没有找到",
+  "url": "https://www.ioe.cas.cn/zbcg/",
+  "cands": []
+ }
+]
