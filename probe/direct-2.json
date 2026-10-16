@@ -1,0 +1,173 @@
+[
+ {
+  "key": "NEU",
+  "try": "cgzx.neu.edu.cn",
+  "ok": false,
+  "err": "page.goto: Timeout 25000ms exceeded."
+ },
+ {
+  "key": "SWU",
+  "try": "caigou.swu.edu.cn",
+  "ok": false,
+  "err": "page.goto: net::ERR_CONNECTION_REFUSED at http://caigou.swu.edu.cn/"
+ },
+ {
+  "key": "GXU",
+  "try": "cg.gxu.edu.cn",
+  "ok": true,
+  "title": "网站限制访问……",
+  "url": "https://cg.gxu.edu.cn/",
+  "cands": []
+ },
+ {
+  "key": "SWPU",
+  "try": "cwcggl.swpu.edu.cn/index.chtml",
+  "ok": true,
+  "err": "page.goto: net::ERR_CONNECTION_REFUSED at https://cwcggl.swpu.edu.cn/index.chtml",
+  "title": "西南石油大学计划财务处（采购中心） - 首页",
+  "url": "http://cwcggl.swpu.edu.cn/index.chtml",
+  "cands": [
+   {
+    "u": "http://cwcggl.swpu.edu.cn/index.chtml",
+    "label": "home",
+    "scanned": 41,
+    "oldest": "2025-11-15",
+    "n": 0,
+    "newest": [
+     "2026-10-15 西南石油大学2026年非政府采购意向公开（第36批）",
+     "2026-10-15 西南石油大学2026年政府采购意向公开（第31批）",
+     "2026-10-15 西南石油大学2026年政府采购意向公开（第32批）"
+    ]
+   },
+   {
+    "u": "http://cwcggl.swpu.edu.cn/cgtycg/index.chtml",
+    "label": "采购公告",
+    "scanned": 10,
+    "oldest": "2026-10-12",
+    "n": 0,
+    "newest": [
+     "2026-10-15 西南石油大学科技成果转化平台建设施工过程造价咨询、竣工结",
+     "2026-10-14 西南石油大学北校区2号学生宿舍建设项目人行道闸系统公开招",
+     "2026-10-14 西南石油大学2026年数据中心存储采购项目招标公告"
+    ]
+   },
+   {
+    "u": "http://cwcggl.swpu.edu.cn/tzgg/index.chtml",
+    "label": "更多>>",
+    "scanned": 8,
+    "oldest": "2025-07-15",
+    "n": 0,
+    "newest": [
+     "2025-07-15 关于印发《西南石油大学采购管理办法》的通知",
+     "2025-07-15 关于印发《西南石油大学统一采购实施细则》的通知",
+     "2025-07-15 关于印发《西南石油大学部门自主采购实施细则》的通知"
+    ]
+   },
+   {
+    "u": "http://cwcggl.swpu.edu.cn/zfcgyx/index.chtml",
+    "label": "更多>>",
+    "scanned": 12,
+    "oldest": "2026-07-31",
+    "n": 0,
+    "newest": [
+     "2026-10-15 西南石油大学2026年政府采购意向公开（第33批）",
+     "2026-10-15 西南石油大学2026年政府采购意向公开（第31批）",
+     "2026-10-15 西南石油大学2026年政府采购意向公开（第32批）"
+    ]
+   },
+   {
+    "u": "http://cwcggl.swpu.edu.cn/dyly/index.chtml",
+    "label": "更多>>",
+    "scanned": 10,
+    "oldest": "2025-04-16",
+    "n": 0,
+    "newest": [
+     "2026-09-29 网上阅卷系统运行维护费单一来源公示",
+     "2026-09-29 本科实验教学管理系统与本科教学服务平台对接服务单一来源公",
+     "2026-07-15 西南石油大学2026年校园卡自助补卡机单一来源公示"
+    ]
+   },
+   {
+    "u": "http://cwcggl.swpu.edu.cn/cgzzcg/index.chtml",
+    "label": "更多>>",
+    "scanned": 10,
+    "oldest": "2026-09-21",
+    "n": 0,
+    "newest": [
+     "2026-10-16 西南石油大学财务信息化系统建设项目采购公告",
+     "2026-10-09 西南石油大学2026年成都校区空调外墙下水管安装服务采购",
+     "2026-10-08 西南石油大学2026年成都校区空调外墙下水管安装服务采购"
+    ]
+   },
+   {
+    "u": "http://cwcggl.swpu.edu.cn/jgtycg/index.chtml",
+    "label": "更多>>",
+    "scanned": 10,
+    "oldest": "2026-10-09",
+    "n": 0,
+    "newest": [
+     "2026-10-13 西南石油大学2026年“一带一路”实验室会议系统采购项目",
+     "2026-10-13 西南石油大学波长色散型荧光谱仪中标（成交）结果公告",
+     "2026-10-13 西南石油大学2025年石油与天然气工程仿真实训中心图形工"
+    ]
+   },
+   {
+    "u": "http://cwcggl.swpu.edu.cn/jgzzcg/index.chtml",
+    "label": "更多>>",
+    "scanned": 10,
+    "oldest": "2026-09-14",
+    "n": 0,
+    "newest": [
+     "2026-10-15 四川高校赴长三角地区联合访企拓岗暨校企对接系列活动用车服",
+     "2026-10-15 西南石油大学北校区2号学生公寓消防值守服务外包项目比选结",
+     "2026-10-15 西南石油大学2026年成都校区空调外墙下水管安装服务采购"
+    ]
+   },
+   {
+    "u": "http://cwcggl.swpu.edu.cn/download/index.chtml",
+    "label": "更多>>",
+    "scanned": 7,
+    "oldest": "2025-11-15",
+    "n": 0,
+    "newest": [
+     "2025-11-15 西南石油大学采购管理系统操作手册--采购申请人",
+     "2025-11-15 西南石油大学学校统一采购项目采购需求及实施计划（修订稿）",
+     "2025-11-15 进口产品专家组论证意见（需附技术专家职称证书和法律专家职"
+    ]
+   }
+  ]
+ },
+ {
+  "key": "IOM",
+  "try": "www.imech.cas.cn/notice/",
+  "ok": true,
+  "title": "通知公告--中国科学院力学研究所",
+  "url": "https://www.imech.cas.cn/notice/",
+  "cands": [
+   {
+    "u": "https://www.imech.cas.cn/notice/",
+    "label": "home",
+    "scanned": 1,
+    "oldest": "2025-07-10",
+    "n": 0,
+    "newest": [
+     "2025-07-10 302025-07 中国科学院中关村四号园区餐厅经营服务"
+    ]
+   }
+  ]
+ },
+ {
+  "key": "XIOPM",
+  "try": "www.opt.cas.cn/tzgg/",
+  "ok": true,
+  "title": "页面没有找到",
+  "url": "https://www.opt.cas.cn/tzgg/",
+  "cands": []
+ },
+ {
+  "key": "XIOPM",
+  "try": "opt.cas.cn",
+  "ok": false,
+  "err": "page.goto: Timeout 25000ms exceeded."
+ }
+]
