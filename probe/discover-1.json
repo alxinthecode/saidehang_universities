@@ -1,0 +1,273 @@
+[
+ {
+  "key": "JIANGNAN",
+  "title": "江南大学采购服务平台",
+  "url": "https://bidding.jiangnan.edu.cn/sfw_cms/e?page=cms.index",
+  "sfw": true,
+  "navs": [
+   {
+    "t": "更多>",
+    "h": "https://bidding.jiangnan.edu.cn/sfw_cms/e?page=cms.psms.gglist&typeDetail=YXGK&categoryId=4802"
+   },
+   {
+    "t": "更多>",
+    "h": "https://bidding.jiangnan.edu.cn/sfw_cms/e?page=cms.psms.gglist&typeDetail=XQ&orgType=11&categoryId=4663"
+   },
+   {
+    "t": "更多>",
+    "h": "https://bidding.jiangnan.edu.cn/sfw_cms/e?page=cms.psms.gglist&typeDetail=GG&orgType=11&categoryId=4666"
+   },
+   {
+    "t": "更多>",
+    "h": "https://bidding.jiangnan.edu.cn/sfw_cms/e?page=cms.psms.gglist&typeDetail=GG&categoryId=104826"
+   },
+   {
+    "t": "更多\n\t\t\t\t\t\t>",
+    "h": "https://bidding.jiangnan.edu.cn/sfw_cms/e?page=cms.news&cid=8832"
+   },
+   {
+    "t": "更多\n\t\t\t\t\t\t>",
+    "h": "https://bidding.jiangnan.edu.cn/sfw_cms/e?page=cms.news&cid=8831"
+   }
+  ],
+  "cands": [],
+  "sfwScan": {
+   "scanned": 100,
+   "oldest": "2026-09-01",
+   "n": 0,
+   "newest": [
+    "2026-10-16 食品营养与人体健康交叉学科开放共享公共平台一体化服务系统",
+    "2026-10-16 环境与生态大数据处理及分析平台（校集2026287）采购",
+    "2026-10-16 智慧银校财务系统网络安全防护体系建设项目（校集20262"
+   ],
+   "rows": []
+  }
+ },
+ {
+  "key": "JIANGNAN",
+  "title": "江南大学采购与招标信息网",
+  "url": "https://zhaobiao.jiangnan.edu.cn/",
+  "sfw": false,
+  "navs": [],
+  "cands": []
+ },
+ {
+  "key": "WZU",
+  "title": "招标信息-温州大学",
+  "url": "https://www.wzu.edu.cn/index/zbxx.htm",
+  "sfw": false,
+  "navs": [
+   {
+    "t": "招标信息",
+    "h": "https://www.wzu.edu.cn/index/zbxx.htm"
+   }
+  ],
+  "cands": [
+   {
+    "u": "https://www.wzu.edu.cn/index/zbxx.htm",
+    "label": "招标信息",
+    "scanned": 15,
+    "oldest": "2026-09-22",
+    "n": 0,
+    "newest": [
+     "2026-10-16 温州大学机电学院实训楼地基加固项目招标公告",
+     "2026-10-15 浙江乐诚工程咨询有限公司关于温大科技园运营（温州）有限公",
+     "2026-10-15 温州大学茶山校区生活区D区D2-3(饮品店)三年租赁权（"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://www.wzu.edu.cn/index/zbxx.htm",
+    "label": "招标信息",
+    "scanned": 15,
+    "oldest": "2026-09-22",
+    "n": 0,
+    "newest": [
+     "2026-10-16 温州大学机电学院实训楼地基加固项目招标公告",
+     "2026-10-15 浙江乐诚工程咨询有限公司关于温大科技园运营（温州）有限公",
+     "2026-10-15 温州大学茶山校区生活区D区D2-3(饮品店)三年租赁权（"
+    ],
+    "rows": []
+   }
+  ]
+ },
+ {
+  "key": "WZU",
+  "title": "招标与采购中心",
+  "url": "https://zczx.wzu.edu.cn/",
+  "sfw": false,
+  "navs": [
+   {
+    "t": "更多>",
+    "h": "https://zczx.wzu.edu.cn/list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1021"
+   },
+   {
+    "t": "网上竞价系统",
+    "h": "https://pu.easyjcx.com/edu/11292#/login"
+   },
+   {
+    "t": "更多>",
+    "h": "https://zczx.wzu.edu.cn/list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1071"
+   },
+   {
+    "t": "更多>",
+    "h": "https://zczx.wzu.edu.cn/list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1081"
+   },
+   {
+    "t": "更多>",
+    "h": "https://zczx.wzu.edu.cn/list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1091"
+   },
+   {
+    "t": "更多>",
+    "h": "https://zczx.wzu.edu.cn/list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1031"
+   },
+   {
+    "t": "更多>",
+    "h": "https://zczx.wzu.edu.cn/list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1181"
+   },
+   {
+    "t": "更多>",
+    "h": "https://zczx.wzu.edu.cn/list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1111"
+   }
+  ],
+  "cands": [
+   {
+    "u": "https://zczx.wzu.edu.cn/list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1021",
+    "label": "更多>",
+    "scanned": 10,
+    "oldest": "2025-09-30",
+    "n": 0,
+    "newest": [
+     "2026-07-04 招标与采购中心举办第二期“招采·讲堂”专题培训",
+     "2026-05-18 浙江省政府采购联合会高校采购专委会温州高校组赴杭州开展调",
+     "2026-04-16 2026年全国保密宣传教育月 | 共筑保密防线 公民人人"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zczx.wzu.edu.cn/list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1071",
+    "label": "更多>",
+    "scanned": 10,
+    "oldest": "2026-09-16",
+    "n": 0,
+    "newest": [
+     "2026-10-15 2027年食堂食材配送项目（非政府采购）2026年10月",
+     "2026-10-10 温州大学激光特种薄膜气相沉积镀膜系列设备2026年10月",
+     "2026-09-30 温州大学学院路校区2027年安保服务项目2026年9月政"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zczx.wzu.edu.cn/list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1081",
+    "label": "更多>",
+    "scanned": 10,
+    "oldest": "2026-09-15",
+    "n": 0,
+    "newest": [
+     "2026-10-16 温州大学机电学院实训楼地基加固项目招标公告",
+     "2026-10-13 关于温州大学西门子智能制造产线搬迁、安装、调试服务项目校",
+     "2026-10-09 温州大学教育发展基金会关于2026年温州大学艺术思政大课"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zczx.wzu.edu.cn/list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1091",
+    "label": "更多>",
+    "scanned": 10,
+    "oldest": "2026-09-20",
+    "n": 0,
+    "newest": [
+     "2026-10-15 温州大学茶山校区生活区D区D2-3(饮品店)三年租赁权（",
+     "2026-10-14 温州大学教育发展基金会关于2026年温州大学艺术思政大课",
+     "2026-09-30 关于温州大学CCD和表面缺陷检测系统项目采购结果更正公告"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zczx.wzu.edu.cn/list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1031",
+    "label": "更多>",
+    "scanned": 10,
+    "oldest": "2025-11-21",
+    "n": 0,
+    "newest": [
+     "2026-10-08 关于2026年底采购截止时间的温馨提示",
+     "2026-09-29 关于我校公务用车加油服务开始执行政府集中采购的通知",
+     "2026-09-20 温州大学招标与采购中心关于重申印刷服务政府采购执行范围的"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zczx.wzu.edu.cn/list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1181",
+    "label": "更多>",
+    "scanned": 10,
+    "oldest": "2025-09-24",
+    "n": 0,
+    "newest": [
+     "2026-09-10 财政局发布10起政府采购违法违规典型案例",
+     "2026-07-07 案例 | 中标结果公告与合同公告同日发布，违规吗？",
+     "2026-06-26 23条政府采购违法违规情形整理出来了！摘自审计署2026"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zczx.wzu.edu.cn/list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1111",
+    "label": "更多>",
+    "scanned": 10,
+    "oldest": "2022-12-11",
+    "n": 0,
+    "newest": [
+     "2022-12-11 浙江省财政厅关于公布浙江省政府集中采购目录及标准（202",
+     "2026-09-20 关于印发《政府采购电子卖场产品分类 指导标准（2026年",
+     "2026-09-20 关于印发《紧急采购管理暂行办法》的通知"
+    ],
+    "rows": []
+   }
+  ]
+ },
+ {
+  "key": "HITWH",
+  "title": "哈尔滨工业大学威海校区招标与采购办公室",
+  "url": "https://zcgl.hitwh.edu.cn/sfw_cms/e?page=cms.index",
+  "sfw": true,
+  "navs": [
+   {
+    "t": "MORE",
+    "h": "https://zcgl.hitwh.edu.cn/sfw_cms/e?page=cms.psms.gglist&typeDetail=XQ&catalog=A&cate=102691"
+   },
+   {
+    "t": "MORE",
+    "h": "https://zcgl.hitwh.edu.cn/sfw_cms/e?page=cms.psms.gglist&typeDetail=GG&catalog=A&cate=102694"
+   },
+   {
+    "t": "更多 >",
+    "h": "https://zcgl.hitwh.edu.cn/sfw_cms/e?page=cms.psms.gglist&typeDetail=YX&cate=50111"
+   }
+  ],
+  "cands": [
+   {
+    "u": "https://zcgl.hitwh.edu.cn/sfw_cms/e?page=cms.index",
+    "label": "home",
+    "scanned": 6,
+    "oldest": "2026-08-23",
+    "n": 0,
+    "newest": [
+     "2026-09-30 2026年11月采购意向项目-5",
+     "2026-09-24 2026年11月采购意向项目-4",
+     "2026-09-03 2026年11月采购意向项目-2"
+    ],
+    "rows": []
+   }
+  ],
+  "sfwScan": {
+   "scanned": 100,
+   "oldest": "2026-01-04",
+   "n": 0,
+   "newest": [
+    "2026-10-15 山东省2026年度职业院校教师素质提高计划-人工智能赋能",
+    "2026-10-15 哈尔滨工业大学（威海）复杂环境下移动装备测试平台-数据手",
+    "2026-10-14 山东省2026年职业院校教师素质提高计划-中职教学关键要"
+   ],
+   "rows": []
+  }
+ }
+]
