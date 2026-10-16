@@ -1,0 +1,141 @@
+[
+ {
+  "key": "BISTU",
+  "dom": "bistu.edu.cn",
+  "home": null,
+  "links": [],
+  "hosts": [
+   "zcc.bistu.edu.cn"
+  ]
+ },
+ {
+  "key": "SYLU",
+  "dom": "sylu.edu.cn",
+  "home": null,
+  "links": [],
+  "hosts": [
+   "zbcgzx.sylu.edu.cn",
+   "ztbb.sylu.edu.cn",
+   "cgzbc.sylu.edu.cn",
+   "zbcgc.sylu.edu.cn",
+   "zbcgw.sylu.edu.cn",
+   "zcb.sylu.edu.cn",
+   "zcsbc.sylu.edu.cn",
+   "sbzx.sylu.edu.cn",
+   "gzzx.sylu.edu.cn",
+   "cgb.sylu.edu.cn",
+   "zbcgb.sylu.edu.cn",
+   "cwc.sylu.edu.cn",
+   "ggzy.sylu.edu.cn",
+   "zbgl.sylu.edu.cn",
+   "zb2.sylu.edu.cn",
+   "tzgg.sylu.edu.cn",
+   "czc.sylu.edu.cn",
+   "cgbgs.sylu.edu.cn",
+   "zbb.sylu.edu.cn",
+   "zbcg.sylu.edu.cn",
+   "cgzx.sylu.edu.cn",
+   "ztb.sylu.edu.cn",
+   "zbzx.sylu.edu.cn",
+   "cg.sylu.edu.cn",
+   "cgzb.sylu.edu.cn",
+   "bidding.sylu.edu.cn",
+   "zb.sylu.edu.cn",
+   "ztbzx.sylu.edu.cn",
+   "zcc.sylu.edu.cn",
+   "zcglc.sylu.edu.cn",
+   "sbc.sylu.edu.cn",
+   "cgglc.sylu.edu.cn",
+   "cggl.sylu.edu.cn",
+   "cgc.sylu.edu.cn",
+   "caigou.sylu.edu.cn",
+   "zbxx.sylu.edu.cn",
+   "zbtb.sylu.edu.cn",
+   "cgxx.sylu.edu.cn",
+   "gzc.sylu.edu.cn",
+   "zcgl.sylu.edu.cn",
+   "ztbgl.sylu.edu.cn",
+   "cgw.sylu.edu.cn",
+   "zbgs.sylu.edu.cn",
+   "cgglzx.sylu.edu.cn",
+   "zbc.sylu.edu.cn",
+   "czzx.sylu.edu.cn",
+   "cgzbzx.sylu.edu.cn",
+   "zcsb.sylu.edu.cn"
+  ]
+ },
+ {
+  "key": "GXU",
+  "dom": "gxu.edu.cn",
+  "home": "https://www.gxu.edu.cn/",
+  "links": [],
+  "hosts": [
+   "cwc.gxu.edu.cn",
+   "cg.gxu.edu.cn",
+   "sbc.gxu.edu.cn",
+   "zcgl.gxu.edu.cn"
+  ]
+ },
+ {
+  "key": "UPC",
+  "dom": "upc.edu.cn",
+  "home": "https://www.upc.edu.cn/",
+  "links": [
+   "采购与招标办公室 https://zbb.upc.edu.cn/"
+  ],
+  "hosts": [
+   "zbb.upc.edu.cn",
+   "gzc.upc.edu.cn",
+   "zcgl.upc.edu.cn"
+  ]
+ },
+ {
+  "key": "CHD",
+  "dom": "chd.edu.cn",
+  "home": "https://www.chd.edu.cn/",
+  "links": [
+   "招标投标 http://zbb.chd.edu.cn/site/"
+  ],
+  "hosts": [
+   "zbb.chd.edu.cn",
+   "ztb.chd.edu.cn",
+   "cg.chd.edu.cn",
+   "cggl.chd.edu.cn",
+   "gzc.chd.edu.cn",
+   "zcgl.chd.edu.cn"
+  ]
+ },
+ {
+  "key": "IOP_CAS_GBA",
+  "dom": "sslab.org.cn",
+  "home": "https://www.sslab.org.cn/",
+  "links": [
+   "松山湖材料实验室医用Co https://www.sslab.org.cn/news/noticedetail?id=26101215074074155777342A5",
+   "松山湖材料实验室人事部关 https://www.sslab.org.cn/news/noticedetail?id=26092414554157447F687E970",
+   "松山湖材料实验室科研部关 https://www.sslab.org.cn/news/noticedetail?id=26092014360454796EFBE93E9",
+   "松山湖材料实验室先进陶瓷 https://www.sslab.org.cn/news/noticedetail?id=26091515412698553783B348D"
+  ],
+  "hosts": []
+ },
+ {
+  "key": "SITP",
+  "dom": "sitp.cas.cn",
+  "home": "https://www.sitp.cas.cn/",
+  "links": [
+   "中国科学院上海技术物理研 https://www.sitp.cas.cn/ggtz/202610/t20261014_8292448.html",
+   "中国科学院上海技术物理研 https://www.sitp.cas.cn/ggtz/202609/t20260909_8280270.html",
+   "上海市虹口区赤峰路509 https://www.sitp.cas.cn/ggtz/202604/t20260430_8195363.html",
+   "上海市虹口区赤峰路455 https://www.sitp.cas.cn/ggtz/202603/t20260306_8151162.html",
+   "上海技术物理研究所废旧物 https://www.sitp.cas.cn/ggtz/202601/t20260120_8111081.html",
+   "采购公告发布平台 https://oa.sitp.ac.cn/spa/custom/static/index.html#/main/cs/app/6a5f32e53508414e98167de900834815_SingleEditE9NewLogin?_key=ljfkkq"
+  ],
+  "hosts": []
+ },
+ {
+  "key": "SARI",
+  "dom": "sari.cas.cn",
+  "home": null,
+  "links": [],
+  "hosts": []
+ }
+]

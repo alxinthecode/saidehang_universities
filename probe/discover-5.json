@@ -1,0 +1,15 @@
+[
+ {
+  "key": "CHD",
+  "title": "竞采星、竞价网、竞价采购",
+  "url": "http://ztb.chd.edu.cn/#/login",
+  "sfw": false,
+  "navs": [
+   {
+    "t": "竞价网",
+    "h": "http://ztb.chd.edu.cn/www.soeasyjc.com"
+   }
+  ],
+  "cands": []
+ }
+]
