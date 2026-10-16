@@ -23,8 +23,8 @@
   // Award/result/contract notices are not opportunities.
   const RESULT = /(中标|成交|结果|废标|流标|终止|合同|验收)(公告|公示)|中标候选人|结果公示|采购意向/;
 
-  // "高压电缆" / "电压电流" contain 压电 — neutralise before matching.
-  const norm = s => (s || '').toLowerCase().replace(/[高低中电]压电/g, '#');
+  // "高压电缆" / "电压电流" / "槽压电化学" contain 压电 — neutralise before matching.
+  const norm = s => (s || '').toLowerCase().replace(/[高低中电槽]压电/g, '#');
   const strip = s => (s || '').replace(/<[^>]+>/g, ' ').replace(/&nbsp;/g, ' ').replace(/\s+/g, ' ').trim();
   const imports = txt => /不(?:接受|允许)进口|进口产品[^。]{0,8}(?:否|不允许|不接受)/.test(txt) ? '不接受'
     : /(?:接受|允许)进口|进口产品[^。]{0,8}是/.test(txt) ? '允许' : '';
@@ -126,7 +126,9 @@
       let row = a.closest('li,tr,dd');
       if (!row || row.textContent.length > 400) row = a.parentElement;
       const near = (row ? row.textContent : '') + ' ' + (a.nextElementSibling ? a.nextElementSibling.textContent : '');
-      const published = toYmd(near);
+      // Some lists (Tongji) print the date as separate day / year / month blocks.
+      const dym = near.match(/(?:^|\D)(\d{1,2})\s+(20\d{2})\s+(\d{1,2})(?:\D|$)/);
+      const published = toYmd(near) || (dym ? toYmd(`${dym[2]}-${dym[3]}-${dym[1]}`) : '');
       if (!published && !(pat && pat.test(href))) return;
       let url; try { url = new URL(href, baseUrl).href; } catch { return; }
       if (seen.has(url)) return;
@@ -161,7 +163,7 @@
         const items = lists.length ? lists : JSON.stringify(j).match(/\{[^{}]*"NRID"[^{}]*\}/g)?.map(x => JSON.parse(x)) || [];
         for (const it of items) {
           if (!it.BT || !it.NRID) continue;
-          out.push({ title: it.BT, text: it.JJ && it.JJ !== it.BT ? it.JJ : '', published: toYmd(`${it.FBSJ || ''}-${it.FBRQ || '01'}`),
+          out.push({ id: it.NRID.slice(-12), title: it.BT, text: it.JJ && it.JJ !== it.BT ? it.JJ : '', published: toYmd(`${it.FBSJ || ''}-${it.FBRQ || '01'}`),
             deadline: '', method: col.label || '', no: '', url: `${location.origin}/site/caseInfo?nrid=${it.NRID}&jdid=${it.LMID || col.lmid}` });
         }
       }
@@ -185,6 +187,7 @@
     let id;
     const code = SITE.idFrom ? (r.title.match(new RegExp(SITE.idFrom)) || [])[1] : '';
     if (code) id = `${school}-${code}`;
+    else if (r.id) id = `${school}-${idPart(r.id)}`;
     else if (r.no) id = `${school}-${idPart(r.no) || idPart(r.published + '-' + r.title.slice(0, 12))}`;
     else if (kind === 'sfw') id = `${school}-${idPart(r.published + '-' + r.title.slice(0, 12))}`;
     else id = `${school}-${idPart(new URL(r.url).pathname + new URL(r.url).search).slice(-40)}`;

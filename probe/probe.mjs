@@ -7,10 +7,7 @@ const ROOT = new URL('..', import.meta.url);
 const sites = JSON.parse(await readFile(new URL('scraper/sites.json', ROOT), 'utf8'));
 const scanSrc = await readFile(new URL('scraper/scan.js', ROOT), 'utf8');
 
-const DIAG = [
-  ['TONGJI', 'https://czb.tongji.edu.cn/sggl/cgw/zbggList.jsp?type=A'],
-  ['SYSU', 'https://bidding.sysu.edu.cn/gg/cg'],
-];
+const DIAG = [['CQUPT', 'https://zcgl.cqupt.edu.cn/sfw_cms/e?page=cms.psms.gglist&typeDetail=XQ']];
 
 const browser = await chromium.launch();
 const ctx = await browser.newContext({ locale: 'zh-CN', timezoneId: 'Asia/Shanghai', ignoreHTTPSErrors: true });
@@ -55,6 +52,28 @@ for (const [key, url] of DIAG) {
   out.diag.push(d);
   console.log('DIAG', key, d.error || d.page?.title);
   await page.close();
+}
+
+const HOSTS = {"NJUST": ["zbb.njust.edu.cn", "cgzx.njust.edu.cn", "zbcg.njust.edu.cn", "ztb.njust.edu.cn"], "SCUT": ["cgzx.scut.edu.cn", "ztb.scut.edu.cn", "zbb.scut.edu.cn", "zbcg.scut.edu.cn"], "SDU": ["cgzb.sdu.edu.cn", "zbb.sdu.edu.cn", "cg.sdu.edu.cn", "zbcg.sdu.edu.cn"], "JLU": ["zbcg.jlu.edu.cn", "cgzx.jlu.edu.cn", "zbb.jlu.edu.cn"], "BJUT": ["zbcg.bjut.edu.cn", "cgzx.bjut.edu.cn", "zbb.bjut.edu.cn"], "SHU": ["cgzb.shu.edu.cn", "zbcg.shu.edu.cn", "cgzx.shu.edu.cn"], "ECNU": ["cgzx.ecnu.edu.cn", "zbcg.ecnu.edu.cn", "cgb.ecnu.edu.cn"], "NEU": ["zbcg.neu.edu.cn", "cgzx.neu.edu.cn", "zbb.neu.edu.cn"], "HFUT": ["zbcg.hfut.edu.cn", "cgzx.hfut.edu.cn", "zbb.hfut.edu.cn"], "USTB": ["zbcg.ustb.edu.cn", "cgzx.ustb.edu.cn", "zbb.ustb.edu.cn"], "XIDIAN": ["zbcg.xidian.edu.cn", "cgzx.xidian.edu.cn", "zbb.xidian.edu.cn", "cgb.xidian.edu.cn"], "HRBEU": ["zbcg.hrbeu.edu.cn", "cgzx.hrbeu.edu.cn", "zbb.hrbeu.edu.cn"], "NJTECH": ["ztb.njtech.edu.cn"], "UCAS": ["cgzx.ucas.ac.cn", "zbcg.ucas.ac.cn"]};
+out.hosts = [];
+for (const [key, list] of Object.entries(HOSTS)) {
+  for (const h of list) {
+    for (const proto of ['https', 'http']) {
+      const page = await ctx.newPage();
+      try {
+        await page.goto(`${proto}://${h}/`, { waitUntil: 'domcontentloaded', timeout: 12000 });
+        await page.waitForTimeout(2500);
+        const info = await page.evaluate(() => ({ title: document.title, url: location.href,
+          sfw: /sfw/.test(location.href + document.documentElement.outerHTML.slice(0, 30000)),
+          tech: ((document.body && document.body.innerText || '').match(/技术支持[^\n]{0,24}/) || [''])[0],
+          dated: Array.from(document.querySelectorAll('a')).filter(a => /20\d\d[-年./]\d{1,2}/.test((a.closest('li,tr') || a.parentElement || {}).textContent || '')).length }));
+        out.hosts.push({ key, h, proto, ...info });
+        console.log('HOST', key, h, proto, info.title, info.sfw, info.dated);
+        await page.close();
+        break;
+      } catch (e) { await page.close(); }
+    }
+  }
 }
 
 await browser.close();

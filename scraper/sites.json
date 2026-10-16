@@ -105,13 +105,6 @@
   "url": "https://xdzc.xmu.edu.cn/sfw_cms/e?page=cms.index"
  },
  {
-  "key": "CQUPT",
-  "zh": "重庆邮电",
-  "en": "CQUPT",
-  "kind": "sfw",
-  "url": "https://zcgl.cqupt.edu.cn/sfw_cms/e?page=cms.index"
- },
- {
   "key": "DUT",
   "zh": "大连理工",
   "en": "Dalian UT",
@@ -259,20 +252,6 @@
     "label": "采购公告"
    }
   ]
- },
- {
-  "key": "SYSU",
-  "zh": "中山大学",
-  "en": "Sun Yat-sen U",
-  "kind": "list",
-  "url": "https://bidding.sysu.edu.cn/gg/cg",
-  "lists": [
-   {
-    "url": "/gg/cg",
-    "label": "采购公告"
-   }
-  ],
-  "linkPattern": "^/node/\\d+$"
  },
  {
   "key": "XJTU",
