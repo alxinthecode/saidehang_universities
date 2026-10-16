@@ -1,0 +1,366 @@
+[
+ {
+  "key": "NEEPU",
+  "title": "东北电力大学资产处",
+  "url": "https://zcc.neepu.edu.cn/",
+  "sfw": false,
+  "navs": [
+   {
+    "t": "更多>>",
+    "h": "https://zcc.neepu.edu.cn/xwdt/gzdt.htm"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://zcc.neepu.edu.cn/xwdt/tzgg.htm"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://zcc.neepu.edu.cn/zcgl/gyzcgl.htm"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://zcc.neepu.edu.cn/zcgl/fcgl.htm"
+   }
+  ],
+  "cands": [
+   {
+    "u": "https://zcc.neepu.edu.cn/",
+    "label": "home",
+    "scanned": 6,
+    "oldest": "2015-10-14",
+    "n": 0,
+    "newest": [
+     "2021-10-18 资产处置残值评估报价项目公告",
+     "2021-10-18 东北电力大学北山开水房及其附属设施资产拟报废处置公告",
+     "2018-05-14 车辆报废情况说明"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zcc.neepu.edu.cn/xwdt/gzdt.htm",
+    "label": "更多>>",
+    "scanned": 16,
+    "oldest": "2018-03-19",
+    "n": 0,
+    "newest": [
+     "2023-06-15 吉林省高等学校实验室安全检查",
+     "2021-12-22 2021年资产处工作总结",
+     "2021-12-15 吉林师范大学来我校调研"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zcc.neepu.edu.cn/xwdt/tzgg.htm",
+    "label": "更多>>",
+    "scanned": 20,
+    "oldest": "2021-11-16",
+    "n": 0,
+    "newest": [
+     "2025-12-08 关于征集部门采购集中采购目录内品目计划的通知",
+     "2025-11-18 东北电力大学拟报废车辆处置公告",
+     "2025-02-24 关于征集部门采购集中采购目录内品目计划的通知"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zcc.neepu.edu.cn/zcgl/gyzcgl.htm",
+    "label": "更多>>",
+    "scanned": 6,
+    "oldest": "2015-10-14",
+    "n": 0,
+    "newest": [
+     "2021-10-18 资产处置残值评估报价项目公告",
+     "2021-10-18 东北电力大学北山开水房及其附属设施资产拟报废处置公告",
+     "2018-05-14 车辆报废情况说明"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zcc.neepu.edu.cn/zcgl/fcgl.htm",
+    "label": "更多>>",
+    "scanned": 3,
+    "oldest": "2015-10-14",
+    "n": 0,
+    "newest": [
+     "2021-11-16 关于配置和开放使用学校公共研讨室的通知",
+     "2015-10-14 职工住房面积登记表",
+     "2015-10-14 职工住房情况调查函"
+    ],
+    "rows": []
+   }
+  ]
+ },
+ {
+  "key": "ECUT",
+  "title": "东华理工大学招标采购中心",
+  "url": "https://zbcgzx.ecut.edu.cn/main.htm",
+  "sfw": false,
+  "navs": [],
+  "cands": [
+   {
+    "u": "https://zbcgzx.ecut.edu.cn/main.htm",
+    "label": "home",
+    "scanned": 38,
+    "oldest": "2024-11-14",
+    "n": 0,
+    "newest": [
+     "2026-07-17 东华理工大学召开2026年抚州新校区配套设施项目采购工作",
+     "2026-05-29 招标采购中心赴方志敏英烈园开展“学习二十届四中全会精神”",
+     "2026-05-28 致敬芳华 感谢有您——招标采购中心举行刘莎同志荣休仪式"
+    ],
+    "rows": []
+   }
+  ]
+ },
+ {
+  "key": "ECUT",
+  "title": "资产管理处",
+  "url": "https://zcc.ecut.edu.cn/main.htm",
+  "sfw": false,
+  "navs": [
+   {
+    "t": "MORE",
+    "h": "https://zcc.ecut.edu.cn/_t2143/tzgg/list.htm"
+   },
+   {
+    "t": "MORE",
+    "h": "https://zcc.ecut.edu.cn/_t2143/xwdt/list.htm"
+   },
+   {
+    "t": "MORE",
+    "h": "https://zcc.ecut.edu.cn/_t2143/4310/list.htm"
+   },
+   {
+    "t": "MORE",
+    "h": "https://zcc.ecut.edu.cn/_t2143/797/list.htm"
+   }
+  ],
+  "cands": [
+   {
+    "u": "https://zcc.ecut.edu.cn/main.htm",
+    "label": "home",
+    "scanned": 18,
+    "oldest": "2018-04-04",
+    "n": 0,
+    "newest": [
+     "2025-04-15 【警示】几则高校实验室安全事故警示",
+     "2025-09-22 关于开展2025年度学校资产全面清查盘点工作的通知",
+     "2025-04-14 固定资产标签粘贴规范和要求"
+    ],
+    "rows": []
+   }
+  ]
+ },
+ {
+  "key": "SNNU",
+  "title": "采购招标-陕西师范大学",
+  "url": "https://www.snnu.edu.cn/cgzb.htm",
+  "sfw": false,
+  "navs": [],
+  "cands": [
+   {
+    "u": "https://www.snnu.edu.cn/cgzb.htm",
+    "label": "home",
+    "scanned": 6,
+    "oldest": "2026-10-15",
+    "n": 0,
+    "newest": [
+     "2026-10-16 162026-10 2026-10-16 食品工程与营养",
+     "2026-10-16 162026-10 2026-10-16 食品工程与营养",
+     "2026-10-15 152026-10 2026-10-15 材料科学与工程"
+    ],
+    "rows": []
+   }
+  ]
+ },
+ {
+  "key": "SNNU",
+  "title": "陕西师范大学采购网站",
+  "url": "https://zbb.snnu.edu.cn/sfw_cms/e?page=cms.index",
+  "sfw": true,
+  "navs": [
+   {
+    "t": "更多",
+    "h": "https://zbb.snnu.edu.cn/sfw_cms/e?page=cms.news&cid=44567"
+   },
+   {
+    "t": "更多",
+    "h": "https://zbb.snnu.edu.cn/sfw_cms/e?page=cms.news&cid=44566"
+   },
+   {
+    "t": "更多",
+    "h": "https://zbb.snnu.edu.cn/sfw_cms/e?page=cms.psms.gglist&typeDetail=XQ"
+   },
+   {
+    "t": "更多",
+    "h": "https://zbb.snnu.edu.cn/sfw_cms/e?page=cms.psms.gglist&typeDetail=GG"
+   }
+  ],
+  "cands": [
+   {
+    "u": "https://zbb.snnu.edu.cn/sfw_cms/e?page=cms.index",
+    "label": "home",
+    "scanned": 15,
+    "oldest": "2025-09-22",
+    "n": 0,
+    "newest": [
+     "2026-10-15 转发---关于高校采购合规信息共建共享的思考与实践",
+     "2026-10-14 转发---汇聚全国判例 共享合规智慧——陕西师范大学建设",
+     "2026-09-28 转发---国有资产与合同管理处联合采购与招标管理办公室赴"
+    ],
+    "rows": []
+   }
+  ],
+  "sfwScan": {
+   "scanned": 100,
+   "oldest": "2026-06-16",
+   "n": 0,
+   "newest": [
+    "2026-10-16 食品工程与营养科学学院扫描电子显微镜(WSJJ20260",
+    "2026-10-16 食品工程与营养科学学院尾气吸收装置(WSJJ202601",
+    "2026-10-12 材料科学与工程学院手套箱蒸发镀膜系统(WSJJ20260"
+   ],
+   "rows": []
+  }
+ },
+ {
+  "key": "SNNU",
+  "title": "陕西师范大学采购与招标管理系统",
+  "url": "https://cg.snnu.edu.cn/publics.initWoYaoCaiGou.action",
+  "sfw": false,
+  "navs": [],
+  "cands": []
+ },
+ {
+  "key": "GZU",
+  "title": "贵州大学 资产管理处",
+  "url": "https://em.gzu.edu.cn/",
+  "sfw": false,
+  "navs": [
+   {
+    "t": "采购信息",
+    "h": "http://em.gzu.edu.cn/zbxx/list.htm"
+   },
+   {
+    "t": "采购公告",
+    "h": "https://em.gzu.edu.cn/cggg/list.htm"
+   },
+   {
+    "t": "政府采购公告",
+    "h": "https://em.gzu.edu.cn/22506/list.htm"
+   },
+   {
+    "t": "校内集中采购公告",
+    "h": "https://em.gzu.edu.cn/xnjzcggg2/list.htm"
+   },
+   {
+    "t": "自行采购公告",
+    "h": "https://em.gzu.edu.cn/22504/list.htm"
+   },
+   {
+    "t": "查看更多",
+    "h": "https://em.gzu.edu.cn/1110/list.htm"
+   },
+   {
+    "t": "查看更多 >",
+    "h": "https://em.gzu.edu.cn/1113/list.htm"
+   },
+   {
+    "t": "查看更多 >",
+    "h": "https://em.gzu.edu.cn/1115/list.htm"
+   }
+  ],
+  "cands": [
+   {
+    "u": "https://em.gzu.edu.cn/",
+    "label": "home",
+    "scanned": 13,
+    "oldest": "2023-06-01",
+    "n": 0,
+    "newest": [
+     "2025-12-03 资产管理处党支部召开“资产先锋·融智赋能”品牌党员先锋岗",
+     "2026-06-17 《贵州大学采购（招标）代理机构考核实施细则》",
+     "2026-06-17 《贵州大学采购（招标）代理机构管理办法》"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://em.gzu.edu.cn/cggg/list.htm",
+    "label": "采购公告",
+    "scanned": 12,
+    "oldest": "2026-06-23",
+    "n": 0,
+    "newest": [
+     "2026-06-29 贵州大学农学院2026植保学科设备维修 采购公告",
+     "2026-06-29 贵州大学精化中心分析测试服务项目更正公告",
+     "2026-06-26 贵州大学附属中学咨询室维修（二次）"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://em.gzu.edu.cn/22506/list.htm",
+    "label": "政府采购公告",
+    "scanned": 13,
+    "oldest": "2026-01-15",
+    "n": 0,
+    "newest": [
+     "2026-02-05 贵州大学2026—2029年度招标代理服务机构采购项目 ",
+     "2026-02-05 贵州大学附属中学停车场旁落水洞处置工程更正公告",
+     "2026-02-05 贵州大学后勤管理处2025-2026年常用物资采购（三次"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://em.gzu.edu.cn/xnjzcggg2/list.htm",
+    "label": "校内集中采购公告",
+    "scanned": 13,
+    "oldest": "2025-11-17",
+    "n": 0,
+    "newest": [
+     "2026-02-14 贵州大学教学科研仪器设备购置概算询价公告",
+     "2025-11-27 贵州大学单细胞测序服务竞争性磋商公告",
+     "2025-11-26 贵州大学实验室设备采购竞争性谈判公告"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://em.gzu.edu.cn/1110/list.htm",
+    "label": "查看更多",
+    "scanned": 2,
+    "oldest": "2024-07-11",
+    "n": 0,
+    "newest": [
+     "2024-07-15 贵州大学资产管理处",
+     "2024-07-11 资产管理处人员名单"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://em.gzu.edu.cn/1113/list.htm",
+    "label": "查看更多 >",
+    "scanned": 14,
+    "oldest": "2025-04-21",
+    "n": 0,
+    "newest": [
+     "2026-06-15 北京大学来我校交流研讨",
+     "2026-06-05 严守执业底线 聚力阳光采购",
+     "2026-04-30 防治白蚁虫害 守护文物安全"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://em.gzu.edu.cn/1115/list.htm",
+    "label": "查看更多 >",
+    "scanned": 14,
+    "oldest": "2022-06-24",
+    "n": 0,
+    "newest": [
+     "2026-06-25 党建领航聚合力 三方共建育新人",
+     "2026-05-22 资产管理处、基建管理处党支部联合开展“传承红色基因 树牢",
+     "2025-12-03 资产管理处党支部召开“资产先锋·融智赋能”品牌党员先锋岗"
+    ],
+    "rows": []
+   }
+  ]
+ }
+]

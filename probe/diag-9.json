@@ -1,0 +1,70 @@
+[
+ {
+  "key": "NEEPU",
+  "dom": "neepu.edu.cn",
+  "home": "https://www.neepu.edu.cn/",
+  "links": [],
+  "hosts": [
+   "cwc.neepu.edu.cn",
+   "zcc.neepu.edu.cn"
+  ]
+ },
+ {
+  "key": "CJLU",
+  "dom": "cjlu.edu.cn",
+  "home": "https://www.cjlu.edu.cn/",
+  "links": [],
+  "hosts": []
+ },
+ {
+  "key": "ECUT",
+  "dom": "ecut.edu.cn",
+  "home": "https://www.ecut.edu.cn/",
+  "links": [
+   "招标采购中心 https://zbcgzx.ecut.edu.cn/"
+  ],
+  "hosts": [
+   "zbcgzx.ecut.edu.cn",
+   "zcc.ecut.edu.cn"
+  ]
+ },
+ {
+  "key": "HUT",
+  "dom": "hut.edu.cn",
+  "home": null,
+  "links": [],
+  "hosts": [
+   "cwc.hut.edu.cn",
+   "cgzx.hut.edu.cn",
+   "zcglc.hut.edu.cn"
+  ]
+ },
+ {
+  "key": "SNNU",
+  "dom": "snnu.edu.cn",
+  "home": "https://www.snnu.edu.cn/",
+  "links": [
+   "招标采购 https://www.snnu.edu.cn/cgzb.htm"
+  ],
+  "hosts": [
+   "cwc.snnu.edu.cn",
+   "zbgl.snnu.edu.cn",
+   "zbb.snnu.edu.cn",
+   "cg.snnu.edu.cn",
+   "gzc.snnu.edu.cn",
+   "zcgl.snnu.edu.cn"
+  ]
+ },
+ {
+  "key": "GZU",
+  "dom": "gzu.edu.cn",
+  "home": "https://www.gzu.edu.cn/",
+  "links": [
+   "采购招标信息 https://em.gzu.edu.cn/zbxx/list.htm",
+   "采购信息 https://em.gzu.edu.cn/cgyxgg/list.htm"
+  ],
+  "hosts": [
+   "em.gzu.edu.cn"
+  ]
+ }
+]
