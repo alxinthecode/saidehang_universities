@@ -1,0 +1,89 @@
+[
+ {
+  "key": "CUMTB",
+  "dom": "cumtb.edu.cn",
+  "home": "https://www.cumtb.edu.cn/",
+  "links": [],
+  "hosts": [
+   "cwc.cumtb.edu.cn",
+   "zb.cumtb.edu.cn",
+   "zcc.cumtb.edu.cn"
+  ]
+ },
+ {
+  "key": "SDJZU",
+  "dom": "sdjzu.edu.cn",
+  "home": "https://www.sdjzu.edu.cn/",
+  "links": [],
+  "hosts": [
+   "cwc.sdjzu.edu.cn",
+   "cggl.sdjzu.edu.cn",
+   "zcgl.sdjzu.edu.cn"
+  ]
+ },
+ {
+  "key": "AHUT",
+  "dom": "ahut.edu.cn",
+  "home": "https://www.ahut.edu.cn/",
+  "links": [
+   "招标采购信息网 https://cgzb.ahut.edu.cn/#/home/",
+   "13\n          https://zbcg.mas.gov.cn/masggzynew/jyxx/002002/002002001/002002001007/20261012/2c9dbff2-a6d7-425c-9442-bea874e726f8.html",
+   "招标采购 https://cgzb.ahut.edu.cn/#/home/"
+  ],
+  "hosts": [
+   "cwc.ahut.edu.cn",
+   "cgzb.ahut.edu.cn",
+   "zcc.ahut.edu.cn"
+  ]
+ },
+ {
+  "key": "NCWU",
+  "dom": "ncwu.edu.cn",
+  "home": "https://www.ncwu.edu.cn/",
+  "links": [],
+  "hosts": [
+   "zcgl.ncwu.edu.cn"
+  ]
+ },
+ {
+  "key": "GLUT",
+  "dom": "glut.edu.cn",
+  "home": "https://www.glut.edu.cn/",
+  "links": [],
+  "hosts": [
+   "zcglc.glut.edu.cn",
+   "zcgl.glut.edu.cn"
+  ]
+ },
+ {
+  "key": "NXU",
+  "dom": "nxu.edu.cn",
+  "home": "https://www.nxu.edu.cn/",
+  "links": [
+   "P\n           javascript:;",
+   "09\n          https://www.nxu.edu.cn/info/1422/36152.htm"
+  ],
+  "hosts": [
+   "zcc.nxu.edu.cn",
+   "zcgl.nxu.edu.cn"
+  ]
+ },
+ {
+  "key": "CQU2",
+  "dom": "cqupt.edu.cn",
+  "home": "https://www.cqupt.edu.cn/",
+  "links": [
+   "招标信息 javascript:;",
+   "2026.09.24\n  https://cgpt.cqupt.edu.cn/notices/referNotice/1679189324366610432?activeType=result",
+   "2026.09.23\n  https://cgpt.cqupt.edu.cn/notices/referNotice/1678727637993877504?activeType=procurement",
+   "2026.09.22\n  https://cgpt.cqupt.edu.cn/notices/referNotice/1678466326030544896?activeType=result",
+   "2026.09.21\n  https://cgpt.cqupt.edu.cn/notices/referNotice/1678118066090766336?activeType=result"
+  ],
+  "hosts": [
+   "cwc.cqupt.edu.cn",
+   "zcc.cqupt.edu.cn",
+   "zcglc.cqupt.edu.cn",
+   "zcgl.cqupt.edu.cn"
+  ]
+ }
+]

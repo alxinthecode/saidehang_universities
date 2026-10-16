@@ -1,0 +1,361 @@
+[
+ {
+  "key": "CUMTB",
+  "title": "中国矿业大学（北京）资产与实验室管理处",
+  "url": "https://zcc.cumtb.edu.cn/sfw_cms/e?page=cms.index",
+  "sfw": true,
+  "navs": [
+   {
+    "t": "更多",
+    "h": "https://zcc.cumtb.edu.cn/sfw_cms/e?page=cms.psms.gglist&type=xq"
+   },
+   {
+    "t": "更多",
+    "h": "https://zcc.cumtb.edu.cn/sfw_cms/e?page=cms.news&cid=102724"
+   },
+   {
+    "t": "更多",
+    "h": "https://zcc.cumtb.edu.cn/sfw_cms/e?page=cms.news&cid=102725"
+   },
+   {
+    "t": "更多",
+    "h": "https://zcc.cumtb.edu.cn/sfw_cms/e?page=cms.news&cid=102722"
+   }
+  ],
+  "cands": [
+   {
+    "u": "https://zcc.cumtb.edu.cn/sfw_cms/e?page=cms.index",
+    "label": "home",
+    "scanned": 23,
+    "oldest": "2025-07-14",
+    "n": 0,
+    "newest": [
+     "2026-10-15 关于试行开展实验室安全“四张清单” 工作的通知",
+     "2026-07-13 资产与实验室管理处暑假安排",
+     "2026-06-30 关于做好2026年暑假实验室安全工作的通知"
+    ],
+    "rows": []
+   }
+  ],
+  "sfwErr": "page.evaluate: Error: no 思必得 list query returned results\n    at readSfw (eval at <anonymous> (eval a"
+ },
+ {
+  "key": "SDJZU",
+  "title": "采购管理平台",
+  "url": "https://cggl.sdjzu.edu.cn/admin/index/login",
+  "sfw": false,
+  "navs": [],
+  "cands": []
+ },
+ {
+  "key": "AHUT",
+  "title": "安徽工业大学财务处",
+  "url": "https://cwc.ahut.edu.cn/",
+  "sfw": false,
+  "navs": [],
+  "cands": [
+   {
+    "u": "https://cwc.ahut.edu.cn/",
+    "label": "home",
+    "scanned": 21,
+    "oldest": "2020-06-24",
+    "n": 0,
+    "newest": [
+     "2026-10-10 财务处7月和9月考勤",
+     "2026-09-02 截止到0901承兑汇票",
+     "2026-09-02 2026年收费公示"
+    ],
+    "rows": []
+   }
+  ]
+ },
+ {
+  "key": "AHUT",
+  "title": "安徽工业大学采购公告门户",
+  "url": "https://cgzb.ahut.edu.cn/#/home",
+  "sfw": false,
+  "navs": [],
+  "cands": []
+ },
+ {
+  "key": "AHUT",
+  "title": "资产与实验室管理处",
+  "url": "https://zcc.ahut.edu.cn/",
+  "sfw": false,
+  "navs": [
+   {
+    "t": "更多>>",
+    "h": "https://zcc.ahut.edu.cn/index/gzdt.htm"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://zcc.ahut.edu.cn/index/tzgg.htm"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://zcc.ahut.edu.cn/index/cgxx.htm"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://zcc.ahut.edu.cn/index/cjxx.htm"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://zcc.ahut.edu.cn/index/zccz.htm"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://zcc.ahut.edu.cn/index/zcfg.htm"
+   }
+  ],
+  "cands": [
+   {
+    "u": "https://zcc.ahut.edu.cn/index/gzdt.htm",
+    "label": "更多>>",
+    "scanned": 20,
+    "oldest": "2025-06-28",
+    "n": 0,
+    "newest": [
+     "2026-08-20 我校召开暑期实验室安全专项检查工作",
+     "2026-07-01 学校公房管理工作小组召开扩大会议",
+     "2026-06-22 学校开展实验室安全专项检查"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zcc.ahut.edu.cn/index/tzgg.htm",
+    "label": "更多>>",
+    "scanned": 20,
+    "oldest": "2025-09-12",
+    "n": 0,
+    "newest": [
+     "2026-10-10 关于开展实验室危险废物处置情况摸排工作的通知",
+     "2026-09-14 关于报送2027年度学校政府采购计划的通知",
+     "2026-09-03 关于报送2027年度通用办公设备家具采购计划的通知"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zcc.ahut.edu.cn/index/cgxx.htm",
+    "label": "更多>>",
+    "scanned": 20,
+    "oldest": "2026-07-09",
+    "n": 0,
+    "newest": [
+     "2026-09-24 安徽工业大学信息化处多媒体教室运维服务项目竞争性磋商公告",
+     "2026-09-16 安徽工业大学秀山校区新建学生公寓家具采购项目（第二次）招",
+     "2026-09-09 安徽工业大学材料科学与工程学院实验中心本科教学设备采购项"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zcc.ahut.edu.cn/index/cjxx.htm",
+    "label": "更多>>",
+    "scanned": 20,
+    "oldest": "2026-08-02",
+    "n": 0,
+    "newest": [
+     "2026-10-13 安徽工业大学秀山校区新建学生公寓家具采购项目（第二次）中",
+     "2026-10-13 安徽工业大学信息化处多媒体教室运维服务项目成交结果公告",
+     "2026-09-28 安徽工业大学计算机科学与技术学院(先研楼)公共空间升级改"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zcc.ahut.edu.cn/index/zccz.htm",
+    "label": "更多>>",
+    "scanned": 20,
+    "oldest": "2024-10-10",
+    "n": 0,
+    "newest": [
+     "2026-10-10 安徽工业大学国有资产处置项目信息公开(No.202610",
+     "2026-10-10 安徽工业大学国有资产处置项目信息公开(No.202610",
+     "2026-09-07 安徽工业大学报废资产拍卖公告"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zcc.ahut.edu.cn/index/zcfg.htm",
+    "label": "更多>>",
+    "scanned": 20,
+    "oldest": "2022-04-01",
+    "n": 0,
+    "newest": [
+     "2025-04-30 高等学校实验室安全检查项目表（2025年）",
+     "2025-03-04 关于印发《安徽工业大学实验室安全检查及隐患整改实施细则》",
+     "2025-03-03 关于印发《安徽工业大学特种设备管理办法》的通知"
+    ],
+    "rows": []
+   }
+  ]
+ },
+ {
+  "key": "GLUT",
+  "title": "桂林理工大学-国有资产与实验室管理处",
+  "url": "https://zcglc.glut.edu.cn/",
+  "sfw": false,
+  "navs": [
+   {
+    "t": "+更多",
+    "h": "https://zcglc.glut.edu.cn/gzdt.htm"
+   },
+   {
+    "t": "+更多",
+    "h": "https://zcglc.glut.edu.cn/tzgg/tzgg.htm"
+   },
+   {
+    "t": "+更多",
+    "h": "https://zcglc.glut.edu.cn/czxx/zbjs.htm"
+   },
+   {
+    "t": "+更多",
+    "h": "https://zcglc.glut.edu.cn/gzlc.htm"
+   }
+  ],
+  "cands": [
+   {
+    "u": "https://zcglc.glut.edu.cn/",
+    "label": "home",
+    "scanned": 30,
+    "oldest": "2022-07-07",
+    "n": 0,
+    "newest": [
+     "2026-10-10 学校开展实验室安全隐患排查工作 为进一步加强学校实验室安",
+     "2026-09-20 国有资产与实验室管理处主动服务到一线——招标采购交流活动",
+     "2026-09-18 国有资产与实验室管理处举办2026级新生实验室安全教育专"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zcglc.glut.edu.cn/gzdt.htm",
+    "label": "+更多",
+    "scanned": 10,
+    "oldest": "2026-05-09",
+    "n": 0,
+    "newest": [
+     "2026-10-10 学校开展实验室安全隐患排查工作",
+     "2026-09-20 国有资产与实验室管理处主动服务到一线——招标采购交流活动",
+     "2026-09-18 国有资产与实验室管理处举办2026级新生实验室安全教育专"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zcglc.glut.edu.cn/tzgg/tzgg.htm",
+    "label": "+更多",
+    "scanned": 10,
+    "oldest": "2026-07-20",
+    "n": 0,
+    "newest": [
+     "2026-10-08 云之龙咨询集团有限公司关于桂林理工大学屏风校区体育馆一楼",
+     "2026-09-15 云之龙咨询集团有限公司关于桂林理工大学屏风校区体育馆一楼",
+     "2026-09-14 桂林理工大学南宁空港校区学生宿舍-10组团室外配电工程成"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zcglc.glut.edu.cn/czxx/zbjs.htm",
+    "label": "+更多",
+    "scanned": 10,
+    "oldest": "2025-05-13",
+    "n": 0,
+    "newest": [
+     "2025-12-26 学精神强担当 促落实谋发展 ——国有资产与实验室管理处党",
+     "2025-10-29 资产管理处党支部开展学习贯彻党的二十届四中全会精神主题党",
+     "2025-10-28 党建联建聚合力 信息化建设促发展 —— 资产管理处党支部"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zcglc.glut.edu.cn/gzlc.htm",
+    "label": "+更多",
+    "scanned": 10,
+    "oldest": "2022-07-07",
+    "n": 0,
+    "newest": [
+     "2026-03-30 学校采购常见问题问答",
+     "2026-03-30 桂林理工大学采购流程图",
+     "2026-03-27 【3】采购管理系统提交采购申请、立项材料"
+    ],
+    "rows": []
+   }
+  ]
+ },
+ {
+  "key": "NXU",
+  "title": "宁夏大学资产与实验室管理处",
+  "url": "https://zcc.nxu.edu.cn/",
+  "sfw": false,
+  "navs": [
+   {
+    "t": "更多>>",
+    "h": "https://zcc.nxu.edu.cn/index/gzdt.htm"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://zcc.nxu.edu.cn/index/tzgg.htm"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://zcc.nxu.edu.cn/index/xzzx.htm"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://zcc.nxu.edu.cn/index/bszn.htm"
+   }
+  ],
+  "cands": [
+   {
+    "u": "https://zcc.nxu.edu.cn/index/gzdt.htm",
+    "label": "更多>>",
+    "scanned": 15,
+    "oldest": "2024-03-29",
+    "n": 0,
+    "newest": [
+     "2026-09-18 我校成功举办开学季实验室安全嘉年华系列活动",
+     "2026-09-17 资产与实验室管理处党支部联合前沿科学与技术学部直属党部开",
+     "2026-07-07 规范采购实务流程 提升履职业务能力——我校开展政府采购需"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zcc.nxu.edu.cn/index/tzgg.htm",
+    "label": "更多>>",
+    "scanned": 8,
+    "oldest": "2025-09-18",
+    "n": 0,
+    "newest": [
+     "2026-07-13 宁夏大学资产与实验室管理处“宁夏大学部分建筑房屋安全鉴定",
+     "2026-07-06 宁夏大学部分建筑房屋安全鉴定项目竞争性磋商公告",
+     "2026-06-04 宁夏大学危化品柜采购项目成交公示"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zcc.nxu.edu.cn/index/xzzx.htm",
+    "label": "更多>>",
+    "scanned": 14,
+    "oldest": "2021-07-13",
+    "n": 0,
+    "newest": [
+     "2026-09-11 仪器设备进口委托协议书（模板）",
+     "2025-12-10 宁夏大学采购项目履约验收资料清单",
+     "2025-05-06 宁夏大学政府采购合同（货物）"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zcc.nxu.edu.cn/index/bszn.htm",
+    "label": "更多>>",
+    "scanned": 5,
+    "oldest": "2017-04-21",
+    "n": 0,
+    "newest": [
+     "2019-12-24 科研仪器设备、试剂耗材采购指南",
+     "2019-12-24 宁夏大学采购总流程图",
+     "2017-09-08 资产验收业务流程图"
+    ],
+    "rows": []
+   }
+  ]
+ }
+]
