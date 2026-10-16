@@ -1,0 +1,126 @@
+[
+ {
+  "key": "SSPU",
+  "dom": "sspu.edu.cn",
+  "home": "https://www.sspu.edu.cn/",
+  "links": [],
+  "hosts": [
+   "cwc.sspu.edu.cn",
+   "zcgl.sspu.edu.cn"
+  ]
+ },
+ {
+  "key": "NUC",
+  "dom": "nuc.edu.cn",
+  "home": "https://www.nuc.edu.cn/",
+  "links": [
+   "招标采购 https://zbcg.nuc.edu.cn/"
+  ],
+  "hosts": [
+   "cwc.nuc.edu.cn",
+   "zbcg.nuc.edu.cn",
+   "zcgl.nuc.edu.cn"
+  ]
+ },
+ {
+  "key": "YNU",
+  "dom": "ynu.edu.cn",
+  "home": "https://www.ynu.edu.cn/",
+  "links": [],
+  "hosts": []
+ },
+ {
+  "key": "HRBEU",
+  "dom": "hrbeu.edu.cn",
+  "home": "https://www.hrbeu.edu.cn/",
+  "links": [],
+  "hosts": [
+   "cgb.hrbeu.edu.cn",
+   "cggl.hrbeu.edu.cn",
+   "zcgl.hrbeu.edu.cn"
+  ]
+ },
+ {
+  "key": "CQJTU",
+  "dom": "cqjtu.edu.cn",
+  "home": null,
+  "links": [],
+  "hosts": [
+   "zbcgzx.cqjtu.edu.cn",
+   "cwc.cqjtu.edu.cn",
+   "zcgl.cqjtu.edu.cn"
+  ]
+ },
+ {
+  "key": "ZJLAB",
+  "dom": "zhejianglab.com",
+  "home": "https://www.zhejianglab.com/",
+  "links": [],
+  "hosts": [
+   "ztbb.zhejianglab.com",
+   "zbcgc.zhejianglab.com",
+   "zbcgzx.zhejianglab.com",
+   "zbcgw.zhejianglab.com",
+   "zcb.zhejianglab.com",
+   "zcsbc.zhejianglab.com",
+   "cgzbc.zhejianglab.com",
+   "sbzx.zhejianglab.com",
+   "gzzx.zhejianglab.com",
+   "zbcgb.zhejianglab.com",
+   "cwc.zhejianglab.com",
+   "ggzy.zhejianglab.com",
+   "tzgg.zhejianglab.com",
+   "cgb.zhejianglab.com",
+   "zbgl.zhejianglab.com",
+   "zb2.zhejianglab.com",
+   "cgbgs.zhejianglab.com",
+   "czc.zhejianglab.com",
+   "zbcg.zhejianglab.com",
+   "zbb.zhejianglab.com",
+   "cgzx.zhejianglab.com",
+   "ztb.zhejianglab.com",
+   "zbzx.zhejianglab.com",
+   "cg.zhejianglab.com",
+   "zb.zhejianglab.com",
+   "bidding.zhejianglab.com",
+   "ztbzx.zhejianglab.com",
+   "cgzb.zhejianglab.com",
+   "zcc.zhejianglab.com",
+   "zcglc.zhejianglab.com",
+   "cgglc.zhejianglab.com",
+   "sbc.zhejianglab.com",
+   "cggl.zhejianglab.com",
+   "caigou.zhejianglab.com",
+   "zbxx.zhejianglab.com",
+   "cgxx.zhejianglab.com",
+   "zbtb.zhejianglab.com",
+   "gzc.zhejianglab.com",
+   "cgc.zhejianglab.com",
+   "ztbgl.zhejianglab.com",
+   "cgw.zhejianglab.com",
+   "zbgs.zhejianglab.com",
+   "cgglzx.zhejianglab.com",
+   "zbc.zhejianglab.com",
+   "czzx.zhejianglab.com",
+   "cgzbzx.zhejianglab.com",
+   "zcgl.zhejianglab.com",
+   "zcsb.zhejianglab.com"
+  ]
+ },
+ {
+  "key": "SIMIT",
+  "dom": "sim.cas.cn",
+  "home": "https://www.sim.cas.cn/",
+  "links": [],
+  "hosts": []
+ },
+ {
+  "key": "NAOC",
+  "dom": "nao.cas.cn",
+  "home": "https://www.nao.cas.cn/",
+  "links": [
+   "中国科学院国家天文台单一 https://nao.cas.cn/news/tz/202610/t20261015_8292743.html"
+  ],
+  "hosts": []
+ }
+]
