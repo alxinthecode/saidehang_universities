@@ -1,0 +1,147 @@
+[
+ {
+  "key": "QUST",
+  "try": "czzx.qust.edu.cn",
+  "ok": true,
+  "title": "HTTP状态 404 - 未找到",
+  "url": "https://czzx.qust.edu.cn/",
+  "cands": []
+ },
+ {
+  "key": "XJU",
+  "try": "zcglc.xju.edu.cn",
+  "ok": true,
+  "title": "新疆大学国有资产管理处",
+  "url": "https://zcglc.xju.edu.cn/",
+  "cands": [
+   {
+    "u": "https://zcglc.xju.edu.cn/",
+    "label": "home",
+    "scanned": 14,
+    "oldest": "2024-12-16",
+    "n": 0,
+    "newest": [
+     "2025-04-15 【资产工作】国有资产管理处工作双周周报 （2025年3月",
+     "2025-03-31 【资产工作】国有资产管理处工作双周周报 （2025年3月",
+     "2025-03-14 【资产工作】国有资产管理处工作双周周报 （2025年3月"
+    ]
+   },
+   {
+    "u": "https://zcglc.xju.edu.cn/gzzd/zcgl.htm",
+    "label": "更多>>",
+    "scanned": 2,
+    "oldest": "2024-12-05",
+    "n": 0,
+    "newest": [
+     "2024-12-05 中华人民共和国财政部令第100号--财政部关于修改《事业",
+     "2024-12-05 中华人民共和国财政部令第108号--事业单位财务规则"
+    ]
+   },
+   {
+    "u": "https://zcglc.xju.edu.cn/gzdt.htm",
+    "label": "更多>>",
+    "scanned": 10,
+    "oldest": "2024-11-25",
+    "n": 0,
+    "newest": [
+     "2025-03-31 【资产工作】国有资产管理处工作双周周报 （2025年3月",
+     "2025-03-17 【资产工作】国有资产管理处工作双周周报 （2025年3月",
+     "2025-03-03 【资产工作】国有资产管理处工作双周周报 （2025年3月"
+    ]
+   },
+   {
+    "u": "https://zcglc.xju.edu.cn/zbcg.htm",
+    "label": "更多>>",
+    "scanned": 10,
+    "oldest": "2026-10-12",
+    "n": 0,
+    "newest": [
+     "2026-10-13 智慧教学空间及无线听力系统升级扩容（XJUCG20260",
+     "2026-10-13 2025年新疆大学“双一流”建设材料学院教学平台建设项目",
+     "2026-10-13 新疆大学喀什校区学生宿舍楼和学生服务 中心等建设项目-室"
+    ]
+   }
+  ]
+ },
+ {
+  "key": "NBU",
+  "try": "notice-nbu.pms.ucaigou.net",
+  "ok": true,
+  "err": "page.goto: net::ERR_SSL_VERSION_OR_CIPHER_MISMATCH at https://notice-nbu.pms.uca",
+  "title": "首页",
+  "url": "http://notice-nbu.pms.ucaigou.net/#/",
+  "cands": []
+ },
+ {
+  "key": "HFIPS",
+  "try": "www.hf.cas.cn/zncs/zcc/xmgg/",
+  "ok": true,
+  "title": "中国科学院合肥物质科学研究院-资产与条件保障处",
+  "url": "https://www.hf.cas.cn/zncs/zcc/xmgg/xmgg/",
+  "cands": [
+   {
+    "u": "https://www.hf.cas.cn/zncs/zcc/xmgg/xmgg/",
+    "label": "home",
+    "scanned": 1,
+    "oldest": "2025-01-15",
+    "n": 0,
+    "newest": [
+     "2025-01-15 [公示已结束]2024年零星基建项目公示"
+    ]
+   },
+   {
+    "u": "https://www.hf.cas.cn/zncs/zcc/zbgg/zbgg/",
+    "label": "招标公告",
+    "scanned": 15,
+    "oldest": "2020-09-08",
+    "n": 0,
+    "newest": [
+     "2023-09-08 合肥市科学岛学术交流中心租赁项目",
+     "2023-05-22 中国科学院合肥物质科学研究院安光所、等离子体所10kV及",
+     "2023-05-22 智能所科研楼室内维修及空调更新修缮项目（装修部分）"
+    ]
+   },
+   {
+    "u": "https://www.hf.cas.cn/zncs/zcc/zbgg/jsgc/",
+    "label": "建设工程招标公告",
+    "scanned": 8,
+    "oldest": "2021-06-30",
+    "n": 0,
+    "newest": [
+     "2024-06-18 关于2024-2026年零星基建工程监理入库单位招募补遗",
+     "2024-06-14 合肥物质院2024-2026年零星基建工程监理入库单位招",
+     "2023-05-17 科学岛实验动物平台修缮项目"
+    ]
+   }
+  ]
+ },
+ {
+  "key": "CIOMP",
+  "try": "www.ciomp.cas.cn/tzgg/",
+  "ok": true,
+  "title": "通知公告----中国科学院长春光学精密机械与物理研究所",
+  "url": "https://www.ciomp.cas.cn/tzgg/",
+  "cands": [
+   {
+    "u": "https://www.ciomp.cas.cn/tzgg/",
+    "label": "home",
+    "scanned": 12,
+    "oldest": "2026-09-21",
+    "n": 0,
+    "newest": [
+     "2026-10-10 关于征集中国科学院长春光学精密机械与物理研究所建所75周",
+     "2026-10-09 关于2026年度中国科学院杰出科技成就奖的推荐公示",
+     "2026-10-09 中国科学院长春光学精密机械与物理研究所报废固定资产回收处"
+    ]
+   }
+  ]
+ },
+ {
+  "key": "CIOMP",
+  "try": "www.ciomp.cas.cn/zbxx/",
+  "ok": true,
+  "title": "页面没有找到",
+  "url": "https://www.ciomp.cas.cn/zbxx/",
+  "cands": []
+ }
+]
