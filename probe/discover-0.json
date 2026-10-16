@@ -1,0 +1,19 @@
+[
+ {
+  "key": "ZJU",
+  "title": "登陆 - 采购中心客户服务系统",
+  "url": "http://cgzx.zju.edu.cn/login;jsessionid=0A6FBC3657B27D962A5FA3AE7850F58B",
+  "sfw": false,
+  "navs": [],
+  "cands": []
+ },
+ {
+  "key": "ZJU",
+  "title": "浙江大学全流程电子化采购平台",
+  "url": "https://cgywxt.zju.edu.cn/sfw/",
+  "sfw": true,
+  "navs": [],
+  "cands": [],
+  "sfwErr": "page.evaluate: Error: no 思必得 list query returned results\n    at readSfw (eval at <anonymous> (eval a"
+ }
+]

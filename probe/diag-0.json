@@ -1,0 +1,96 @@
+[
+ {
+  "key": "PKU",
+  "dom": "pku.edu.cn",
+  "home": "https://www.pku.edu.cn/",
+  "links": [],
+  "hosts": [
+   "cg.pku.edu.cn",
+   "zb.pku.edu.cn"
+  ]
+ },
+ {
+  "key": "XUPT",
+  "dom": "xupt.edu.cn",
+  "home": null,
+  "links": [],
+  "hosts": [
+   "cwc.xupt.edu.cn"
+  ]
+ },
+ {
+  "key": "YZU",
+  "dom": "yzu.edu.cn",
+  "home": "https://www.yzu.edu.cn/",
+  "links": [],
+  "hosts": [
+   "cwc.yzu.edu.cn",
+   "cgb.yzu.edu.cn",
+   "cggl.yzu.edu.cn",
+   "cgc.yzu.edu.cn"
+  ]
+ },
+ {
+  "key": "XJU",
+  "dom": "xju.edu.cn",
+  "home": "https://www.xju.edu.cn/",
+  "links": [],
+  "hosts": [
+   "zcglc.xju.edu.cn"
+  ]
+ },
+ {
+  "key": "SAU",
+  "dom": "sau.edu.cn",
+  "home": "https://www.sau.edu.cn/",
+  "links": [],
+  "hosts": [
+   "zbcgb.sau.edu.cn",
+   "cwc.sau.edu.cn",
+   "cg.sau.edu.cn",
+   "gzc.sau.edu.cn"
+  ]
+ },
+ {
+  "key": "ZJU",
+  "dom": "zju.edu.cn",
+  "home": "https://www.zju.edu.cn/",
+  "links": [],
+  "hosts": [
+   "cgzx.zju.edu.cn",
+   "cg.zju.edu.cn",
+   "sbc.zju.edu.cn"
+  ]
+ },
+ {
+  "key": "AIOFM",
+  "dom": "aiofm.cas.cn",
+  "home": "https://www.aiofm.cas.cn/",
+  "links": [
+   "采购平台 http://cgpt.hfcas.ac.cn:8091/login.jsp"
+  ],
+  "hosts": []
+ },
+ {
+  "key": "SINANO",
+  "dom": "sinano.cas.cn",
+  "home": "http://www.sinano.cas.cn/",
+  "links": [
+   "中国科学院苏州纳米技术与 https://sinano.cas.cn/news/tzgg/202608/t20260828_8266402.html",
+   "中国科学院苏州纳米技术与 https://sinano.cas.cn/news/tzgg/202608/t20260828_8266398.html",
+   "中国科学院苏州纳米技术与 https://sinano.cas.cn/news/tzgg/202608/t20260821_8263123.html"
+  ],
+  "hosts": []
+ },
+ {
+  "key": "QIBEBT",
+  "dom": "qibebt.cas.cn",
+  "home": "https://www.qibebt.cas.cn/",
+  "links": [
+   "固态锂电池平台装修项目采 https://qibebt.cas.cn/news/notice/202609/t20260909_8279766.html"
+  ],
+  "hosts": [
+   "qibebt.cas.cn"
+  ]
+ }
+]
