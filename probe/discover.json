@@ -1,0 +1,1311 @@
+{
+ "hosts": [
+  {
+   "key": "XIDIAN",
+   "h": "cg.xidian.edu.cn",
+   "title": "西安电子科技大学采购与招标管理办公室 - 首页",
+   "url": "https://cg.xidian.edu.cn/xdstatic/index.html",
+   "sfw": false,
+   "dated": 380,
+   "nav": [
+    "采购项目公告->https://cg.xidian.edu.cn/hwcggg/index.chtml",
+    "采购结果公告->https://cg.xidian.edu.cn/hwcgjggs/index.chtml",
+    "采购公告->",
+    "采购公告->",
+    "采购公告->",
+    "通知公告->javascript:void(0);"
+   ],
+   "relevant": true
+  },
+  {
+   "key": "XIDIAN",
+   "h": "zcgl.xidian.edu.cn",
+   "title": "西安电子科技大学国有资产管理系统",
+   "url": "https://zcgl.xidian.edu.cn/sfw2/login.jsp?entryId=2",
+   "sfw": true,
+   "dated": 0,
+   "nav": [],
+   "relevant": true
+  },
+  {
+   "key": "XIDIAN",
+   "h": "gzc.xidian.edu.cn",
+   "title": "西安电子科技大学国有资产管理处",
+   "url": "https://gzc.xidian.edu.cn/",
+   "sfw": false,
+   "dated": 3,
+   "nav": [],
+   "relevant": true
+  },
+  {
+   "key": "HRBEU",
+   "h": "cggl.hrbeu.edu.cn",
+   "title": "温馨提示",
+   "url": "https://cggl.hrbeu.edu.cn/",
+   "sfw": false,
+   "dated": 0,
+   "nav": [],
+   "relevant": false
+  },
+  {
+   "key": "HRBEU",
+   "h": "zcgl.hrbeu.edu.cn",
+   "title": "温馨提示",
+   "url": "https://zcgl.hrbeu.edu.cn/",
+   "sfw": false,
+   "dated": 0,
+   "nav": [],
+   "relevant": false
+  },
+  {
+   "key": "NJUST",
+   "h": "cgzx.njust.edu.cn",
+   "title": "",
+   "url": "https://cgzx.njust.edu.cn/",
+   "sfw": false,
+   "dated": 0,
+   "nav": [],
+   "relevant": false
+  },
+  {
+   "key": "NJUST",
+   "h": "gzc.njust.edu.cn",
+   "title": "",
+   "url": "https://gzc.njust.edu.cn/",
+   "sfw": false,
+   "dated": 0,
+   "nav": [],
+   "relevant": false
+  },
+  {
+   "key": "NJUST",
+   "h": "zcgl.njust.edu.cn",
+   "title": "出错啦",
+   "url": "https://error.njust.edu.cn/errorpage/errorTips404.html",
+   "sfw": false,
+   "dated": 0,
+   "nav": [],
+   "relevant": false
+  },
+  {
+   "key": "USTB",
+   "h": "zb.ustb.edu.cn",
+   "title": "视频会议直播系统",
+   "url": "http://meeting.ustb.edu.cn/app.SPManage/",
+   "sfw": false,
+   "dated": 0,
+   "nav": [],
+   "relevant": false
+  },
+  {
+   "key": "USTB",
+   "h": "zcgl.ustb.edu.cn",
+   "title": "北京科技大学资产全生命周期管理平台",
+   "url": "https://zcgl.ustb.edu.cn/sfw/",
+   "sfw": true,
+   "dated": 0,
+   "nav": [],
+   "relevant": true
+  },
+  {
+   "key": "CUST",
+   "h": "zcgl.cust.edu.cn",
+   "title": "统一身份认证系统",
+   "url": "https://mysso.cust.edu.cn/cas/login?service=http://wwwn.cust.edu.cn/wengine-auth/login?cas_login=true",
+   "sfw": false,
+   "dated": 0,
+   "nav": [],
+   "relevant": false
+  },
+  {
+   "key": "JLU",
+   "h": "zcgl.jlu.edu.cn",
+   "title": "吉林大学资产管理处",
+   "url": "https://zcgl.jlu.edu.cn/",
+   "sfw": false,
+   "dated": 33,
+   "nav": [],
+   "relevant": true
+  },
+  {
+   "key": "JLU",
+   "h": "cgglzx.jlu.edu.cn",
+   "title": "吉林大学招标与采购管理中心",
+   "url": "https://cgglzx.jlu.edu.cn/sfw_cms/e?page=cms.index",
+   "sfw": true,
+   "dated": 16,
+   "nav": [
+    "采购公告->javascript:void(0)",
+    "成交公告->javascript:void(0)",
+    "快采公告->javascript:void(0)",
+    "快采公告->javascript:void(0)",
+    "快采结果公告->javascript:void(0)",
+    "高校联盟采购信息查询->https://www.yuncaitong.cn/publish/result.shtml"
+   ],
+   "relevant": true
+  },
+  {
+   "key": "SDU",
+   "h": "zcgl.sdu.edu.cn",
+   "title": "山东大学资产与实验室管理部",
+   "url": "https://zcgl.sdu.edu.cn/sfw_cms/e?page=cms.index",
+   "sfw": true,
+   "dated": 46,
+   "nav": [
+    "设备家具采购公告->http://zcgl.sdu.edu.cn/sfw_cms/e?page=cms.psms.gglist&shopType=%E7%BD%91%E4%B8%8A%E7%AB%9E%E4%BB%B7&type=XQ",
+    "设备家具信息公告->https://zcgl.sdu.edu.cn/sfw_cms/e?page=cms.news&cid=52272",
+    "房屋出租公告->https://zcgl.sdu.edu.cn/sfw_cms/e?page=cms.news&cid=52273",
+    "房屋出租公告->javascript:void(0"
+   ],
+   "relevant": true
+  },
+  {
+   "key": "NEU",
+   "h": "zcc.neu.edu.cn",
+   "title": "资产与实验室管理处",
+   "url": "https://zcc.neu.edu.cn/",
+   "sfw": false,
+   "dated": 66,
+   "nav": [
+    "采购项目公告->javascript:void(0)"
+   ],
+   "relevant": true
+  },
+  {
+   "key": "HNU",
+   "h": "zcgl.hnu.edu.cn",
+   "title": "aTrust",
+   "url": "https://zcgl.hnu.edu.cn/",
+   "sfw": false,
+   "dated": 0,
+   "nav": [],
+   "relevant": false
+  },
+  {
+   "key": "CSU",
+   "h": "cggl.csu.edu.cn",
+   "title": "湘雅医学院",
+   "url": "https://cggl.csu.edu.cn/",
+   "sfw": false,
+   "dated": 0,
+   "nav": [],
+   "relevant": false
+  },
+  {
+   "key": "CSU",
+   "h": "zcc2.csu.edu.cn",
+   "title": "403 Forbidden",
+   "url": "https://zcc2.csu.edu.cn/",
+   "sfw": false,
+   "dated": 0,
+   "nav": [],
+   "relevant": false
+  },
+  {
+   "key": "BJTU",
+   "h": "cggl.bjtu.edu.cn",
+   "title": "HTTP状态 404 - 未找到",
+   "url": "https://cggl.bjtu.edu.cn/",
+   "sfw": false,
+   "dated": 0,
+   "nav": [],
+   "relevant": false
+  },
+  {
+   "key": "BJTU",
+   "h": "gzc.bjtu.edu.cn",
+   "title": "北京交通大学国有资产管理处",
+   "url": "https://gzc.bjtu.edu.cn/",
+   "sfw": false,
+   "dated": 0,
+   "nav": [],
+   "relevant": true
+  },
+  {
+   "key": "HFUT",
+   "h": "zb.hfut.edu.cn",
+   "title": "合肥工业大学招标采购管理中心",
+   "url": "https://zb.hfut.edu.cn/cms/",
+   "sfw": false,
+   "dated": 6,
+   "nav": [
+    "秉公履职做好招标采购工作->https://zb.hfut.edu.cn/cms/news/detail?id=10014633",
+    "政府采购信息网->http://www.caigou2003.com/"
+   ],
+   "relevant": true
+  },
+  {
+   "key": "HFUT",
+   "h": "zcgl.hfut.edu.cn",
+   "title": "合肥工业大学资产管理系统",
+   "url": "https://zcgl.hfut.edu.cn/sfw2/",
+   "sfw": true,
+   "dated": 0,
+   "nav": [],
+   "relevant": true
+  },
+  {
+   "key": "SWJTU",
+   "h": "bidding.swjtu.edu.cn",
+   "title": "采购与招标管理办公室",
+   "url": "https://bidding.swjtu.edu.cn/",
+   "sfw": false,
+   "dated": 42,
+   "nav": [
+    "采购公告->https://bidding.swjtu.edu.cn/cggg.htm",
+    "结果公告->https://bidding.swjtu.edu.cn/jggg.htm",
+    "其他公告->https://bidding.swjtu.edu.cn/qtgg.htm"
+   ],
+   "relevant": true
+  },
+  {
+   "key": "SZU",
+   "h": "bidding.szu.edu.cn",
+   "title": "深圳大学招投标管理中心",
+   "url": "https://bidding.szu.edu.cn/",
+   "sfw": false,
+   "dated": 98,
+   "nav": [
+    "采购公告->https://bidding.szu.edu.cn/cggg/cgyxgk.htm",
+    "招标公告->https://bidding.szu.edu.cn/cggg/zbcg/xnjzcg.htm",
+    "单位自行采购信息公开->https://bidding.szu.edu.cn/cjjg/dwzxcgxxgk1.htm",
+    "采购公告->https://bidding.szu.edu.cn/cggg/cgyxgk.htm",
+    "招标公告->https://bidding.szu.edu.cn/cggg/zbcg/xnjzcg.htm",
+    "单位自行采购信息公开->https://bidding.szu.edu.cn/cjjg/dwzxcgxxgk1.htm",
+    "招标公告->https://bidding.szu.edu.cn/cggg/zbcg/xnjzcg.htm",
+    "单位自行采购信息公开->https://bidding.szu.edu.cn/cjjg/dwzxcgxxgk1.htm"
+   ],
+   "relevant": true
+  },
+  {
+   "key": "SZU",
+   "h": "sbc.szu.edu.cn",
+   "title": "",
+   "url": "https://sbc.szu.edu.cn/",
+   "sfw": false,
+   "dated": 0,
+   "nav": [],
+   "relevant": false
+  },
+  {
+   "key": "WHUT",
+   "h": "gzc.whut.edu.cn",
+   "title": "武汉理工大学实验室与设备管理处",
+   "url": "http://gzc.whut.edu.cn/",
+   "sfw": false,
+   "dated": 18,
+   "nav": [
+    "通知公告->http://gzc.whut.edu.cn/tzgg/",
+    "通知公告->http://gzc.whut.edu.cn/tzgg/"
+   ],
+   "relevant": true
+  },
+  {
+   "key": "SUDA",
+   "h": "zbzx.suda.edu.cn",
+   "title": "采购与招投标管理中心",
+   "url": "https://zbzx.suda.edu.cn/",
+   "sfw": false,
+   "dated": 7,
+   "nav": [
+    "色谱仪　　招标公告->https://zbzx.suda.edu.cn/ee/0b/c9291a716299/page.htm",
+    "天平组合　　竞争性磋商公告->https://zbzx.suda.edu.cn/ed/f3/c9291a716275/page.htm",
+    "溶出仪　　竞争性磋商公告->https://zbzx.suda.edu.cn/ed/a7/c9291a716199/page.htm",
+    "OEO转换器　　成交公告->https://zbzx.suda.edu.cn/ef/65/c9292a716645/page.htm",
+    "动作捕捉系统　　成交公告->https://zbzx.suda.edu.cn/ed/bc/c9292a716220/page.htm",
+    "具身数据平台　　成交公告->https://zbzx.suda.edu.cn/ed/bb/c9292a716219/page.htm",
+    "快速视角分析仪　　成交公告->https://zbzx.suda.edu.cn/ec/71/c9292a715889/page.htm"
+   ],
+   "relevant": true
+  },
+  {
+   "key": "SUDA",
+   "h": "gzc.suda.edu.cn",
+   "title": "国有资产管理处",
+   "url": "https://gzc.suda.edu.cn/",
+   "sfw": false,
+   "dated": 8,
+   "nav": [],
+   "relevant": true
+  },
+  {
+   "key": "GUET",
+   "h": "zbcg.guet.edu.cn",
+   "title": "访问出错 - 488",
+   "url": "https://zbcg.guet.edu.cn/",
+   "sfw": false,
+   "dated": 0,
+   "nav": [],
+   "relevant": false
+  },
+  {
+   "key": "HDU",
+   "h": "cgzx.hdu.edu.cn",
+   "title": "杭州电子科技大学采购中心",
+   "url": "https://cgzx.hdu.edu.cn/",
+   "sfw": false,
+   "dated": 7,
+   "nav": [
+    "采购公告->https://cgzx.hdu.edu.cn/13049/list.htm",
+    "其他公告->https://cgzx.hdu.edu.cn/qtgg/list.htm"
+   ],
+   "relevant": true
+  },
+  {
+   "key": "HDU",
+   "h": "cg.hdu.edu.cn",
+   "title": "",
+   "url": "https://cg.hdu.edu.cn/",
+   "sfw": false,
+   "dated": 0,
+   "nav": [],
+   "relevant": false
+  },
+  {
+   "key": "OUC",
+   "h": "gzc.ouc.edu.cn",
+   "title": "国有资产与实验室管理处",
+   "url": "https://gzc.ouc.edu.cn/",
+   "sfw": false,
+   "dated": 3,
+   "nav": [
+    "处置公告->https://gzc.ouc.edu.cn/29117/list.htm",
+    "处置公告->https://gzc.ouc.edu.cn/29117/list.htm"
+   ],
+   "relevant": true
+  },
+  {
+   "key": "OUC",
+   "h": "zcgl.ouc.edu.cn",
+   "title": "中国海洋大学资产管理与服务平台",
+   "url": "http://zcgl.ouc.edu.cn/sfw_cms/e?page=cms.index",
+   "sfw": true,
+   "dated": 0,
+   "nav": [],
+   "relevant": true
+  },
+  {
+   "key": "GDUT",
+   "h": "zbzx.gdut.edu.cn",
+   "title": "403 Forbidden",
+   "url": "https://zbzx.gdut.edu.cn/",
+   "sfw": false,
+   "dated": 0,
+   "nav": [],
+   "relevant": false
+  },
+  {
+   "key": "GDUT",
+   "h": "cg.gdut.edu.cn",
+   "title": "502 Bad Gateway",
+   "url": "https://cg.gdut.edu.cn/",
+   "sfw": false,
+   "dated": 0,
+   "nav": [],
+   "relevant": false
+  },
+  {
+   "key": "GDUT",
+   "h": "cgzb.gdut.edu.cn",
+   "title": "502 Bad Gateway",
+   "url": "http://cgzb.gdut.edu.cn/",
+   "sfw": false,
+   "dated": 0,
+   "nav": [],
+   "relevant": false
+  },
+  {
+   "key": "XATU",
+   "h": "cgzb.xatu.edu.cn",
+   "title": "错误代码：502",
+   "url": "https://cgzb.xatu.edu.cn/",
+   "sfw": false,
+   "dated": 1,
+   "nav": [],
+   "relevant": false
+  },
+  {
+   "key": "ECUST",
+   "h": "zb.ecust.edu.cn",
+   "title": "2026年党员基本培训集中大课",
+   "url": "https://ce1e02d.livec.shangzhibo.tv/watch/11540104",
+   "sfw": false,
+   "dated": 0,
+   "nav": [],
+   "relevant": false
+  },
+  {
+   "key": "ECUST",
+   "h": "sbc.ecust.edu.cn",
+   "title": "实装处",
+   "url": "https://sbc.ecust.edu.cn/",
+   "sfw": false,
+   "dated": 22,
+   "nav": [],
+   "relevant": false
+  },
+  {
+   "key": "BISTU",
+   "h": "zcc.bistu.edu.cn",
+   "title": "北京信息科技大学资产管理处|实验室管理处",
+   "url": "https://zcc.bistu.edu.cn/",
+   "sfw": false,
+   "dated": 27,
+   "nav": [],
+   "relevant": true
+  },
+  {
+   "key": "XAUT",
+   "h": "zcc.xaut.edu.cn",
+   "title": "西安理工大学资产与招标管理处",
+   "url": "https://zcc.xaut.edu.cn/",
+   "sfw": false,
+   "dated": 32,
+   "nav": [
+    "公告通知->https://zcc.xaut.edu.cn/ggtz.htm"
+   ],
+   "relevant": true
+  },
+  {
+   "key": "XAUT",
+   "h": "zbgl.xaut.edu.cn",
+   "title": "Welcome to OpenResty!",
+   "url": "https://zbgl.xaut.edu.cn/",
+   "sfw": false,
+   "dated": 0,
+   "nav": [],
+   "relevant": false
+  },
+  {
+   "key": "TYUT",
+   "h": "zbcg.tyut.edu.cn",
+   "title": "HTTP状态 404 - 未找到",
+   "url": "https://zbcg.tyut.edu.cn/",
+   "sfw": false,
+   "dated": 0,
+   "nav": [],
+   "relevant": false
+  },
+  {
+   "key": "TYUT",
+   "h": "cgzx.tyut.edu.cn",
+   "title": "403 Forbidden",
+   "url": "https://cgzx.tyut.edu.cn/",
+   "sfw": false,
+   "dated": 0,
+   "nav": [],
+   "relevant": false
+  },
+  {
+   "key": "TYUT",
+   "h": "cgzb.tyut.edu.cn",
+   "title": "太原理工大学采购信息网",
+   "url": "https://cgzb.tyut.edu.cn/",
+   "sfw": false,
+   "dated": 38,
+   "nav": [
+    "多束缠绕设备的更正公告->https://cgzb.tyut.edu.cn/info/1116/33050.htm",
+    "多束缠绕设备的更正公告->https://cgzb.tyut.edu.cn/info/1116/33040.htm",
+    "轨道电机测试台结果公告->https://cgzb.tyut.edu.cn/info/1076/33130.htm",
+    "多功能酶标仪变更公告->https://cgzb.tyut.edu.cn/info/1077/18050.htm"
+   ],
+   "relevant": true
+  },
+  {
+   "key": "TYUT",
+   "h": "gzc.tyut.edu.cn",
+   "title": "太原理工大学国有资产管理部",
+   "url": "https://gzc.tyut.edu.cn/",
+   "sfw": true,
+   "dated": 5,
+   "nav": [],
+   "relevant": true
+  },
+  {
+   "key": "UJS",
+   "h": "cgb.ujs.edu.cn",
+   "title": "采购与招标",
+   "url": "https://cgb.ujs.edu.cn/",
+   "sfw": false,
+   "dated": 83,
+   "nav": [
+    "通知公告->https://cgb.ujs.edu.cn/newslist.jsp?urltype=tree.TreeTempUrl&wbtreeid=1002",
+    "塔式工作站 - 需求公告->https://www.easyjcx.com/#/purchase/detail/c8c6a9618cc8467ea6eae5367cce0d43",
+    "重阳节纪念品 - 需求公告->https://www.easyjcx.com/#/purchase/detail/6f589641adec48fbbde31924b95c1d2e",
+    "电化学工作站 - 结果公告->https://www.easyjcx.com/#/auction/detail/2b25ea1e010d4b44bc1212361ca92ac4",
+    "合同公告->https://cgb.ujs.edu.cn/htgg.htm"
+   ],
+   "relevant": true
+  },
+  {
+   "key": "UJS",
+   "h": "zb.ujs.edu.cn",
+   "title": "江苏大学本科招生网",
+   "url": "https://zb.ujs.edu.cn/",
+   "sfw": false,
+   "dated": 32,
+   "nav": [],
+   "relevant": false
+  },
+  {
+   "key": "UJS",
+   "h": "gzc.ujs.edu.cn",
+   "title": "江苏大学国有资产管理处",
+   "url": "https://gzc.ujs.edu.cn/",
+   "sfw": false,
+   "dated": 4,
+   "nav": [
+    "信息公告->https://gzc.ujs.edu.cn/xxgg/gggs.htm",
+    "公告公示->https://gzc.ujs.edu.cn/xxgg/gggs.htm"
+   ],
+   "relevant": true
+  },
+  {
+   "key": "UJS",
+   "h": "zcgl.ujs.edu.cn",
+   "title": "访问临时限制",
+   "url": "https://zcgl.ujs.edu.cn/",
+   "sfw": false,
+   "dated": 0,
+   "nav": [],
+   "relevant": false
+  },
+  {
+   "key": "ECNU",
+   "h": "gzc.ecnu.edu.cn",
+   "title": "华东师范大学-国有资产管理处",
+   "url": "https://gzc.ecnu.edu.cn/",
+   "sfw": false,
+   "dated": 26,
+   "nav": [],
+   "relevant": true
+  },
+  {
+   "key": "ECNU",
+   "h": "cgxx.ecnu.edu.cn",
+   "title": "华东师范大学采购信息网-首页",
+   "url": "https://cgxx.ecnu.edu.cn/",
+   "sfw": true,
+   "dated": 14,
+   "nav": [
+    "新闻公告->https://cgxx.ecnu.edu.cn/center/index.chtml",
+    "采购信息->https://cgxx.ecnu.edu.cn/cggghw/index.chtml"
+   ],
+   "relevant": true
+  },
+  {
+   "key": "ECNU",
+   "h": "zcgl.ecnu.edu.cn",
+   "title": "统一身份认证平台",
+   "url": "https://sso.ecnu.edu.cn/login?service=https%3A%2F%2Fsso.ecnu.edu.cn%2Foauth2.0%2FcallbackAuthorize%3Fclient_id%3D8f6b18a95ba3b14c%26redirect_uri%3Dhttps%253A%252F%252Fsfwg.ecnu.edu.cn%252Flogin%252Foauth2Callback%252F8lxv8c4d%26response_type%3Dcode%26client_name%3DCasOAuthClient&state=NOSESSION&client_id=8f6b18a95ba3b14c",
+   "sfw": false,
+   "dated": 0,
+   "nav": [],
+   "relevant": false
+  }
+ ],
+ "homes": [
+  {
+   "key": "XIDIAN",
+   "u": "https://www.xidian.edu.cn/",
+   "links": []
+  },
+  {
+   "key": "HRBEU",
+   "u": "https://www.hrbeu.edu.cn/",
+   "links": []
+  },
+  {
+   "key": "NJUST",
+   "u": "https://www.njust.edu.cn/",
+   "links": []
+  },
+  {
+   "key": "SCUT",
+   "u": "https://www.scut.edu.cn/",
+   "links": []
+  },
+  {
+   "key": "USTB",
+   "u": "https://www.ustb.edu.cn/",
+   "links": [
+    "- 招标公告->http://xxgk.ustb.edu.cn/xinxigongkaimulu/caiwuzichan/yiqitushuyaoping/"
+   ]
+  },
+  {
+   "key": "CUST",
+   "u": "https://www.cust.edu.cn/",
+   "links": []
+  },
+  {
+   "key": "JLU",
+   "u": "https://www.jlu.edu.cn/",
+   "links": [
+    "采购信息->http://cgglzx.jlu.edu.cn/"
+   ]
+  },
+  {
+   "key": "SDU",
+   "u": "https://www.sdu.edu.cn/",
+   "links": []
+  },
+  {
+   "key": "NEU",
+   "u": "https://www.neu.edu.cn/",
+   "links": []
+  },
+  {
+   "key": "HNU",
+   "u": "https://www.hnu.edu.cn/",
+   "links": []
+  },
+  {
+   "key": "CSU",
+   "u": "https://www.csu.edu.cn/",
+   "links": [
+    "采购与招标管理中心->http://czzx.csu.edu.cn/csustatic/index.html"
+   ]
+  },
+  {
+   "key": "BJTU",
+   "u": "https://www.bjtu.edu.cn/",
+   "links": []
+  },
+  {
+   "key": "HFUT",
+   "u": "https://www.hfut.edu.cn/",
+   "links": [
+    "招标采购->http://zb.hfut.edu.cn/cms/",
+    "招标采购->https://zb.hfut.edu.cn/cms/"
+   ]
+  },
+  {
+   "key": "SHANGHAITECH",
+   "u": "https://www.shanghaitech.edu.cn/",
+   "links": [
+    "招标->https://www.shanghaitech.edu.cn/1428/list1.htm",
+    "招标->https://www.shanghaitech.edu.cn/1428/list1.htm"
+   ]
+  },
+  {
+   "key": "WHUT",
+   "u": "https://www.whut.edu.cn/",
+   "links": [
+    "招投标网->http://cgyztb.whut.edu.cn/"
+   ]
+  },
+  {
+   "key": "SUDA",
+   "u": "https://www.suda.edu.cn/",
+   "links": [
+    "招标信息->http://zbzx.suda.edu.cn/"
+   ]
+  },
+  {
+   "key": "CJLU",
+   "u": "https://www.cjlu.edu.cn/",
+   "links": []
+  },
+  {
+   "key": "GUET",
+   "u": "https://www.guet.edu.cn/",
+   "links": [
+    "桂林电子科技大学采集模块等设备询价采购公->https://www.guet.edu.cn/2026/1008/c6361a160634/page.htm",
+    "桂林电子科技大学旅游景点客流量数据采集服->https://www.guet.edu.cn/2026/1008/c6361a160627/page.htm",
+    "桂林电子科技大学热水器询价采购公告->https://www.guet.edu.cn/2026/1008/c6361a160623/page.htm"
+   ]
+  },
+  {
+   "key": "HDU",
+   "u": "https://www.hdu.edu.cn/",
+   "links": [
+    "招标采购->http://www.hdu.edu.cn/13468/list.htm"
+   ]
+  },
+  {
+   "key": "OUC",
+   "u": "https://www.ouc.edu.cn/",
+   "links": [
+    "招标公告->http://zb.ouc.edu.cn/"
+   ]
+  },
+  {
+   "key": "GDUT",
+   "u": "https://www.gdut.edu.cn/",
+   "links": [
+    "招标公告->https://oas.gdut.edu.cn/seeyon/main.do?method=main&loginPortal=1&portalId=-7779029842361826066"
+   ]
+  },
+  {
+   "key": "XATU",
+   "u": "https://www.xatu.edu.cn/",
+   "links": [
+    "招标采购->https://www.xatu.edu.cn/index/cgzb.htm"
+   ]
+  },
+  {
+   "key": "XAUT",
+   "u": "https://www.xaut.edu.cn/",
+   "links": [
+    "招标信息->https://www.xaut.edu.cn/ggzy/zbxx/zbgg.htm",
+    "招标信息->https://www.xaut.edu.cn/ggzy/zbxx/zbgg.htm",
+    "招标信息->https://www.xaut.edu.cn/ggzy/zbxx/zbgg.htm"
+   ]
+  },
+  {
+   "key": "TYUT",
+   "u": "https://www.tyut.edu.cn/",
+   "links": []
+  },
+  {
+   "key": "UJS",
+   "u": "https://www.ujs.edu.cn/",
+   "links": [
+    "采购招标->https://cgb.ujs.edu.cn/",
+    "采购招标->https://cgb.ujs.edu.cn/",
+    "采购招标->https://cgb.ujs.edu.cn/"
+   ]
+  },
+  {
+   "key": "ECNU",
+   "u": "https://www.ecnu.edu.cn/",
+   "links": []
+  }
+ ],
+ "scans": [
+  {
+   "key": "XIDIAN",
+   "h": "cg.xidian.edu.cn",
+   "url": "https://cg.xidian.edu.cn/xdstatic/index.html",
+   "scanned": 110,
+   "oldest": "2019-09-24",
+   "n": 0,
+   "rows": [],
+   "sample": [
+    {
+     "t": "采购办专题学习政府采购指导性典型案例",
+     "p": "2026-10-09",
+     "u": "https://cg.xidian.edu.cn/zxdt/3634339671.chtml"
+    },
+    {
+     "t": "采购办集体学习《紧急采购管理暂行办法》",
+     "p": "2026-09-29",
+     "u": "https://cg.xidian.edu.cn/zxdt/3634339647.chtml"
+    },
+    {
+     "t": "长安大学采购与招标管理办公室来校调研交流",
+     "p": "2026-09-29",
+     "u": "https://cg.xidian.edu.cn/zxdt/3634339646.chtml"
+    }
+   ]
+  },
+  {
+   "key": "XIDIAN",
+   "h": "zcgl.xidian.edu.cn",
+   "url": "https://zcgl.xidian.edu.cn/sfw2/login.jsp?entryId=2",
+   "error": "page.evaluate: Error: no 思必得 list query returned results\n    at readSfw (eval at <anonymous> (eval at evaluate (:234:30)), <anonymous>:99:23)\n    at async eval "
+  },
+  {
+   "key": "XIDIAN",
+   "h": "gzc.xidian.edu.cn",
+   "url": "https://gzc.xidian.edu.cn/",
+   "scanned": 1,
+   "oldest": "2025-05-08",
+   "n": 0,
+   "rows": [],
+   "sample": [
+    {
+     "t": "学校召开南校区周转公寓分配管理座谈会",
+     "p": "2025-05-08",
+     "u": "https://gzc.xidian.edu.cn/info/1009/2013.htm"
+    }
+   ]
+  },
+  {
+   "key": "USTB",
+   "h": "zcgl.ustb.edu.cn",
+   "url": "https://zcgl.ustb.edu.cn/sfw/",
+   "error": "page.evaluate: Error: no 思必得 list query returned results\n    at readSfw (eval at <anonymous> (eval at evaluate (:234:30)), <anonymous>:99:23)\n    at async eval "
+  },
+  {
+   "key": "JLU",
+   "h": "zcgl.jlu.edu.cn",
+   "url": "https://zcgl.jlu.edu.cn/",
+   "scanned": 28,
+   "oldest": "2019-01-02",
+   "n": 0,
+   "rows": [],
+   "sample": [
+    {
+     "t": "资产管理处召开学习宣传贯彻习近平总书记致吉林大学建校80周年重要贺信精神专题会议",
+     "p": "2026-09-18",
+     "u": "https://zcgl.jlu.edu.cn/info/1066/5960.htm"
+    },
+    {
+     "t": "资产管理处召开树立和践行正确政绩观学习教育总结会议",
+     "p": "2026-09-11",
+     "u": "https://zcgl.jlu.edu.cn/info/1066/5958.htm"
+    },
+    {
+     "t": "资产管理处举办树立和践行正确政绩观学习教育专题党课",
+     "p": "2026-07-01",
+     "u": "https://zcgl.jlu.edu.cn/info/1066/5932.htm"
+    }
+   ]
+  },
+  {
+   "key": "JLU",
+   "h": "cgglzx.jlu.edu.cn",
+   "url": "https://cgglzx.jlu.edu.cn/sfw_cms/e?page=cms.index",
+   "scanned": 100,
+   "oldest": "2026-07-30",
+   "n": 0,
+   "rows": [],
+   "sample": [
+    {
+     "t": "吉林大学自走式玉米收获机(JLU-WT26269)招标公告",
+     "p": "2026-10-16",
+     "u": "https://cgglzx.jlu.edu.cn/provider/#/publish/20MVALEKXFYZVQFQ"
+    },
+    {
+     "t": "吉林大学大模型计算服务器（第二次）公开招标公告",
+     "p": "2026-10-16",
+     "u": "https://cgglzx.jlu.edu.cn/provider/#/publish/20MVAK9E2WF318AL"
+    },
+    {
+     "t": "测试：迭代版本测试202601（JLU-WT26292）采购公告",
+     "p": "2026-10-15",
+     "u": "https://cgglzx.jlu.edu.cn/provider/#/publish/20MV9HSRCXXPNS5E"
+    }
+   ]
+  },
+  {
+   "key": "SDU",
+   "h": "zcgl.sdu.edu.cn",
+   "url": "https://zcgl.sdu.edu.cn/sfw_cms/e?page=cms.index",
+   "scanned": 100,
+   "oldest": "2026-09-02",
+   "n": 0,
+   "rows": [],
+   "sample": [
+    {
+     "t": "2026年山东省人工智能学院科研多媒体购置（GY202603906）采购公告",
+     "p": "2026-10-16",
+     "u": "https://zcgl.sdu.edu.cn/provider/#/publish/20MVACP2N36ZAWYR"
+    },
+    {
+     "t": "2026山东省人工智能学院教学科研场地视频采集存储与出入口控制设备采购（GY202603907）采购",
+     "p": "2026-10-16",
+     "u": "https://zcgl.sdu.edu.cn/provider/#/publish/20MVAC2IJKNWKWM8"
+    },
+    {
+     "t": "多功能打印机采购（GY202603915）采购公告",
+     "p": "2026-10-16",
+     "u": "https://zcgl.sdu.edu.cn/provider/#/publish/20MVAB879ZS69MYS"
+    }
+   ]
+  },
+  {
+   "key": "NEU",
+   "h": "zcc.neu.edu.cn",
+   "url": "https://zcc.neu.edu.cn/",
+   "scanned": 62,
+   "oldest": "2020-01-22",
+   "n": 0,
+   "rows": [],
+   "sample": [
+    {
+     "t": "东北大学房产公开招租公告（浑南校区中国铁塔通信基站项目）（第1次）（20261015）",
+     "p": "2026-10-15",
+     "u": "https://zcc.neu.edu.cn/2026/1015/c8023a480674/page.htm"
+    },
+    {
+     "t": "东北大学房产公开招租公告（浑南校区中国联通通信基站项目）（第1次）（20261015）",
+     "p": "2026-10-15",
+     "u": "https://zcc.neu.edu.cn/2026/1015/c8023a480673/page.htm"
+    },
+    {
+     "t": "东北大学房产公开招租公告（浑南校区废旧物品回收服务站项目） （第1次）（20261015）",
+     "p": "2026-10-15",
+     "u": "https://zcc.neu.edu.cn/2026/1015/c8023a480672/page.htm"
+    }
+   ]
+  },
+  {
+   "key": "BJTU",
+   "h": "gzc.bjtu.edu.cn",
+   "url": "https://gzc.bjtu.edu.cn/",
+   "scanned": 0,
+   "oldest": "",
+   "n": 0,
+   "rows": [],
+   "sample": []
+  },
+  {
+   "key": "HFUT",
+   "h": "zb.hfut.edu.cn",
+   "url": "https://zb.hfut.edu.cn/cms/",
+   "scanned": 21,
+   "oldest": "2025-03-20",
+   "n": 0,
+   "rows": [],
+   "sample": [
+    {
+     "t": "关于招标与采购管理中心2026年暑期工作安排的通知",
+     "p": "2026-07-16",
+     "u": "https://zb.hfut.edu.cn/cms/news/detail?id=10014660"
+    },
+    {
+     "t": "关于组织申报安徽省教育系统招标采购专家的通知",
+     "p": "2026-06-15",
+     "u": "https://zb.hfut.edu.cn/cms/news/detail?id=10014644"
+    },
+    {
+     "t": "关于招标与采购管理中心2026年寒假工作安排的通知",
+     "p": "2026-01-22",
+     "u": "https://zb.hfut.edu.cn/cms/news/detail?id=10014503"
+    }
+   ]
+  },
+  {
+   "key": "HFUT",
+   "h": "zcgl.hfut.edu.cn",
+   "url": "https://zcgl.hfut.edu.cn/sfw2/",
+   "error": "page.evaluate: Error: no 思必得 list query returned results\n    at readSfw (eval at <anonymous> (eval at evaluate (:234:30)), <anonymous>:99:23)\n    at async eval "
+  },
+  {
+   "key": "SWJTU",
+   "h": "bidding.swjtu.edu.cn",
+   "url": "https://bidding.swjtu.edu.cn/",
+   "scanned": 42,
+   "oldest": "2021-12-17",
+   "n": 0,
+   "rows": [],
+   "sample": [
+    {
+     "t": "关于新版西南交通大学采购信息管理系统上线试运行的通知",
+     "p": "2026-04-09",
+     "u": "https://bidding.swjtu.edu.cn/info/1003/59057.htm"
+    },
+    {
+     "t": "采购与招标管理办公室开展专题业务学习 传达教育部政府采购工作会议精神",
+     "p": "2026-03-31",
+     "u": "https://bidding.swjtu.edu.cn/info/1003/58187.htm"
+    },
+    {
+     "t": "精准匹配服务需求 共谋遴选优化方案 我校招标代理机构遴选工作征求意见座谈会圆满召开",
+     "p": "2025-12-04",
+     "u": "https://bidding.swjtu.edu.cn/info/1003/52377.htm"
+    }
+   ]
+  },
+  {
+   "key": "SZU",
+   "h": "bidding.szu.edu.cn",
+   "url": "https://bidding.szu.edu.cn/",
+   "scanned": 84,
+   "oldest": "2023-10-19",
+   "n": 1,
+   "rows": [
+    "bidding.szu.edu.cn-info1013371949.htm | strong | 深圳大学作动器式激振加速加载试验机意向公开"
+   ],
+   "sample": [
+    {
+     "t": "【置顶】中国深圳政府采购意向公开",
+     "p": "2023-12-28",
+     "u": "http://zfcg.szggzy.com:8081/gsgg/002001/002001001/002001001002/purchase_intention.html"
+    },
+    {
+     "t": "【置顶】深圳公共资源交易中心-建设工程招标项目计划",
+     "p": "2023-12-28",
+     "u": "https://szggzy.com/jygg/list.html?id=jsgc"
+    },
+    {
+     "t": "深圳大学多维多线束移动数据采集平台意向公开",
+     "p": "2026-09-30",
+     "u": "https://bidding.szu.edu.cn/info/1013/371989.htm"
+    }
+   ]
+  },
+  {
+   "key": "WHUT",
+   "h": "gzc.whut.edu.cn",
+   "url": "http://gzc.whut.edu.cn/",
+   "scanned": 14,
+   "oldest": "2023-10-26",
+   "n": 0,
+   "rows": [],
+   "sample": [
+    {
+     "t": "党支部开展“安全你我同行”支部共建主题党日活动",
+     "p": "2025-06-17",
+     "u": "http://gzc.whut.edu.cn/zbjs/202506/t20250617_1333577.shtml"
+    },
+    {
+     "t": "党支部开展“安全你我同行”主题党日活动",
+     "p": "2024-06-14",
+     "u": "http://gzc.whut.edu.cn/zbjs/202406/t20240614_1003831.shtml"
+    },
+    {
+     "t": "党支部开展“学习国防发展历史 增强国家安全意识”支部共建活动",
+     "p": "2024-05-11",
+     "u": "http://gzc.whut.edu.cn/zbjs/202405/t20240511_992282.shtml"
+    }
+   ]
+  },
+  {
+   "key": "SUDA",
+   "h": "zbzx.suda.edu.cn",
+   "url": "https://zbzx.suda.edu.cn/",
+   "scanned": 0,
+   "oldest": "",
+   "n": 0,
+   "rows": [],
+   "sample": []
+  },
+  {
+   "key": "SUDA",
+   "h": "gzc.suda.edu.cn",
+   "url": "https://gzc.suda.edu.cn/",
+   "scanned": 8,
+   "oldest": "2025-08-28",
+   "n": 0,
+   "rows": [],
+   "sample": [
+    {
+     "t": "实验设备管理专项巡察组向国有资产管理处、采购与招投标管理中心党支部和实验室与设备管理处党支部反馈巡察",
+     "p": "2026-07-13",
+     "u": "https://gzc.suda.edu.cn/c2/f1/c7302a705265/page.htm"
+    },
+    {
+     "t": "防范非法金融活动",
+     "p": "2026-06-29",
+     "u": "https://gzc.suda.edu.cn/bd/aa/c7302a703914/page.htm"
+    },
+    {
+     "t": "苏州大学党委第七轮巡察实验设备管理专项巡察工作动员会召开",
+     "p": "2026-04-24",
+     "u": "https://gzc.suda.edu.cn/9c/74/c7302a695412/page.htm"
+    }
+   ]
+  },
+  {
+   "key": "HDU",
+   "h": "cgzx.hdu.edu.cn",
+   "url": "https://cgzx.hdu.edu.cn/",
+   "scanned": 7,
+   "oldest": "2026-10-16",
+   "n": 0,
+   "rows": [],
+   "sample": [
+    {
+     "t": "2026-10-16 浙江求是招标代理有限公司关于杭州电子科技大学电子元器件及IO设备的公开招标公告",
+     "p": "2026-10-16",
+     "u": "https://cgzx.hdu.edu.cn/2026/1016/c13049a301622/page.htm"
+    },
+    {
+     "t": "浙江求是招标代理有限公司关于杭州电子科技大学2026年下沙校区中文纸质图书采购项目二的公开招标公告 ",
+     "p": "2026-10-16",
+     "u": "https://cgzx.hdu.edu.cn/2026/1012/c13049a301385/page.htm"
+    },
+    {
+     "t": "浙江求是招标代理有限公司关于杭州电子科技大学智能控制系统的公开招标公告 2026-10-10",
+     "p": "2026-10-16",
+     "u": "https://cgzx.hdu.edu.cn/2026/1010/c13049a301338/page.htm"
+    }
+   ]
+  },
+  {
+   "key": "OUC",
+   "h": "gzc.ouc.edu.cn",
+   "url": "https://gzc.ouc.edu.cn/",
+   "scanned": 0,
+   "oldest": "",
+   "n": 0,
+   "rows": [],
+   "sample": []
+  },
+  {
+   "key": "OUC",
+   "h": "zcgl.ouc.edu.cn",
+   "url": "http://zcgl.ouc.edu.cn/sfw_cms/e?page=cms.index",
+   "error": "page.evaluate: Error: no 思必得 list query returned results\n    at readSfw (eval at <anonymous> (eval at evaluate (:234:30)), <anonymous>:99:23)\n    at async eval "
+  },
+  {
+   "key": "BISTU",
+   "h": "zcc.bistu.edu.cn",
+   "url": "https://zcc.bistu.edu.cn/",
+   "scanned": 27,
+   "oldest": "2023-11-14",
+   "n": 0,
+   "rows": [],
+   "sample": [
+    {
+     "t": "2026-07-30 战高温、清存量、腾空间：资产处开展暑期报废资产集中清运工作",
+     "p": "2026-07-30",
+     "u": "https://zcc.bistu.edu.cn/tzjx/61ccaede04bd47a0b5f84f7ac483c0a6.html"
+    },
+    {
+     "t": "2026-06-13 严守安全底线 夯实管理根基",
+     "p": "2026-06-13",
+     "u": "https://zcc.bistu.edu.cn/tzjx/6ae50463c5f74977a94926d6d49dd8d6.html"
+    },
+    {
+     "t": "2026-06-01 资产管理处、实验室管理处党支部赴中国政法大学证据科学教育部重点实验室开展主题党",
+     "p": "2026-06-01",
+     "u": "https://zcc.bistu.edu.cn/tzjx/68196c635678450eb5f64619d3a72135.html"
+    }
+   ]
+  },
+  {
+   "key": "XAUT",
+   "h": "zcc.xaut.edu.cn",
+   "url": "https://zcc.xaut.edu.cn/",
+   "scanned": 23,
+   "oldest": "2019-12-16",
+   "n": 0,
+   "rows": [],
+   "sample": [
+    {
+     "t": "【维修改造】西安理工大学金花校区教四楼（南）二层及周边楼梯区域维修改造竞争性磋商公告",
+     "p": "2024-12-09",
+     "u": "https://zcc.xaut.edu.cn/info/1011/2992.htm"
+    },
+    {
+     "t": "【设备采购】西安理工大学校医院发光仪采购项目终止公告",
+     "p": "2023-12-28",
+     "u": "https://zcc.xaut.edu.cn/info/1011/2918.htm"
+    },
+    {
+     "t": "关于2022年危险废物委托处置服务项目采购结果公示",
+     "p": "2022-05-25",
+     "u": "https://zcc.xaut.edu.cn/info/1011/2807.htm"
+    }
+   ]
+  },
+  {
+   "key": "TYUT",
+   "h": "cgzb.tyut.edu.cn",
+   "url": "https://cgzb.tyut.edu.cn/",
+   "scanned": 14,
+   "oldest": "2023-10-21",
+   "n": 0,
+   "rows": [],
+   "sample": [
+    {
+     "t": "校党委常委、副校长李灯熬深入招标与采购中心调研指导工作",
+     "p": "2023-10-21",
+     "u": "https://cgzb.tyut.edu.cn/info/1083/9584.htm"
+    },
+    {
+     "t": "太原理工大学明向校区新增2026年-2027年度保安服务废标公告",
+     "p": "2027-10-14",
+     "u": "https://cgzb.tyut.edu.cn/info/1115/33670.htm"
+    },
+    {
+     "t": "关于印发《太原理工大学采购需求管理实施细则》的通知 校资【2026】8号",
+     "p": "2026-09-21",
+     "u": "https://cgzb.tyut.edu.cn/info/1074/33120.htm"
+    }
+   ]
+  },
+  {
+   "key": "TYUT",
+   "h": "gzc.tyut.edu.cn",
+   "url": "https://gzc.tyut.edu.cn/",
+   "scanned": 0,
+   "oldest": "",
+   "n": 0,
+   "rows": [],
+   "sample": []
+  },
+  {
+   "key": "UJS",
+   "h": "cgb.ujs.edu.cn",
+   "url": "https://cgb.ujs.edu.cn/",
+   "scanned": 60,
+   "oldest": "2023-08-28",
+   "n": 0,
+   "rows": [],
+   "sample": [
+    {
+     "t": "关于调整学校网上商城定点电商的通知",
+     "p": "2023-10-19",
+     "u": "https://cgb.ujs.edu.cn/newsview.jsp?urltype=news.NewsContentUrl&wbtreeid=1003&wbnewsid=126490"
+    },
+    {
+     "t": "江苏大学采购招标工作一周安排 （2026年10月12日-- 10月16日）",
+     "p": "2026-10-12",
+     "u": "https://cgb.ujs.edu.cn/newsview.jsp?urltype=news.NewsContentUrl&wbtreeid=1003&wbnewsid=163670"
+    },
+    {
+     "t": "江苏大学采购招标工作一周安排 （2026年10月8日-- 10月10日）",
+     "p": "2026-10-08",
+     "u": "https://cgb.ujs.edu.cn/newsview.jsp?urltype=news.NewsContentUrl&wbtreeid=1003&wbnewsid=163640"
+    }
+   ]
+  },
+  {
+   "key": "UJS",
+   "h": "gzc.ujs.edu.cn",
+   "url": "https://gzc.ujs.edu.cn/",
+   "scanned": 0,
+   "oldest": "",
+   "n": 0,
+   "rows": [],
+   "sample": []
+  },
+  {
+   "key": "ECNU",
+   "h": "gzc.ecnu.edu.cn",
+   "url": "https://gzc.ecnu.edu.cn/",
+   "scanned": 26,
+   "oldest": "2019-06-23",
+   "n": 0,
+   "rows": [],
+   "sample": [
+    {
+     "t": "国有资产管理处党支部与物理学院行政党支部、崇明区圆沙小学党支部联合开展“弘扬科学家精神，践行正确政绩",
+     "p": "2026-07-06",
+     "u": "https://jgdw.ecnu.edu.cn/bc/c6/c17306a769222/page.htm"
+    },
+    {
+     "t": "国有资产管理处开展2026年“安全生产月”活动",
+     "p": "2026-06-26",
+     "u": "https://gzc.ecnu.edu.cn/b6/f9/c10672a767737/page.htm"
+    },
+    {
+     "t": "华中师范大学赴华东师范大学调研交流座谈会顺利举行",
+     "p": "2026-06-15",
+     "u": "https://gzc.ecnu.edu.cn/b4/23/c10672a767011/page.htm"
+    }
+   ]
+  },
+  {
+   "key": "ECNU",
+   "h": "cgxx.ecnu.edu.cn",
+   "url": "https://cgxx.ecnu.edu.cn/",
+   "scanned": 14,
+   "oldest": "2026-10-08",
+   "n": 0,
+   "rows": [],
+   "sample": [
+    {
+     "t": "华东师范大学GPU服务器采购项目更正公告",
+     "p": "2026-10-16",
+     "u": "https://cgxx.ecnu.edu.cn/cggghw/2161.chtml"
+    },
+    {
+     "t": "华东师范大学2026 年“乐品上海”采购项目更正公告",
+     "p": "2026-10-15",
+     "u": "https://cgxx.ecnu.edu.cn/cggghw/2156.chtml"
+    },
+    {
+     "t": "华东师范大学2027年教职工生日蛋糕采购项目谈判采购公告",
+     "p": "2026-10-13",
+     "u": "https://cgxx.ecnu.edu.cn/cggghw/2149.chtml"
+    }
+   ]
+  }
+ ]
+}
