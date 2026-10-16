@@ -1,0 +1,357 @@
+[
+ {
+  "key": "NEPU",
+  "title": "东北石油大学采购信息网",
+  "url": "https://cgxxw.nepu.edu.cn/",
+  "sfw": false,
+  "navs": [
+   {
+    "t": "更多 >",
+    "h": "https://cgxxw.nepu.edu.cn/index/zbgg.htm"
+   },
+   {
+    "t": "更多 >",
+    "h": "https://cgxxw.nepu.edu.cn/index/tzgg.htm"
+   },
+   {
+    "t": "更多 >",
+    "h": "https://cgxxw.nepu.edu.cn/index/zbcjgg.htm"
+   },
+   {
+    "t": "东北石油大学采购信息平台",
+    "h": "http://192.168.136.196:8080/purchase/guanli.jsp"
+   }
+  ],
+  "cands": [
+   {
+    "u": "https://cgxxw.nepu.edu.cn/",
+    "label": "home",
+    "scanned": 20,
+    "oldest": "2026-07-30",
+    "n": 0,
+    "newest": [
+     "2026-10-16 NEPUFZ26054东北石油大学 2026 年继续教育",
+     "2026-10-14 NEPUFZ26054东北石油大学 2026 年继续教育",
+     "2026-10-09 NEPUFZ26052东北石油大学 2026 年体育场扩"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://cgxxw.nepu.edu.cn/index/zbgg.htm",
+    "label": "更多 >",
+    "scanned": 10,
+    "oldest": "2026-10-16",
+    "n": 0,
+    "newest": [
+     "2026-10-16 NEPUFZ26054东北石油大学 2026 年继续教育",
+     "2026-10-16 NEPUFZ26054东北石油大学 2026 年继续教育",
+     "2026-10-16 NEPUFZ26052东北石油大学 2026 年体育场扩"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://cgxxw.nepu.edu.cn/index/tzgg.htm",
+    "label": "更多 >",
+    "scanned": 10,
+    "oldest": "2026-04-21",
+    "n": 0,
+    "newest": [
+     "2026-04-21 关于推动解决政府采购异常低价问题的通知2026-04-2",
+     "2026-04-21 关于进一步加强采购项目需求及参数审查的通知2024-10",
+     "2026-04-21 关于“东北石油大学采购信息平台”上线的通知2023-07"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://cgxxw.nepu.edu.cn/index/zbcjgg.htm",
+    "label": "更多 >",
+    "scanned": 10,
+    "oldest": "2026-10-09",
+    "n": 0,
+    "newest": [
+     "2026-10-09 NEPUFZ26051东北石油大学 2026 年新能源与",
+     "2026-10-09 NEPUFZ26050东北石油大学 2026年本科教师教",
+     "2026-10-09 NEPUFZ26031东北石油大学 2026 年后勤处大"
+    ],
+    "rows": []
+   }
+  ]
+ },
+ {
+  "key": "ZUST",
+  "title": "招标采购-浙江科技大学",
+  "url": "https://www.zust.edu.cn/index/ksdh/zbcg.htm",
+  "sfw": false,
+  "navs": [
+   {
+    "t": "查看更多>",
+    "h": "https://www.zust.edu.cn/index/ksdh/zbcg.htm"
+   }
+  ],
+  "cands": [
+   {
+    "u": "https://www.zust.edu.cn/index/ksdh/zbcg.htm",
+    "label": "查看更多>",
+    "scanned": 6,
+    "oldest": "2026-07-21",
+    "n": 0,
+    "newest": [
+     "2027-07-31 浙江求是招标代理有限公司关于浙江科技大学安吉校区粮油采购",
+     "2026-08-19 浙江求是招标代理有限公司关于浙江科技大学安吉校区食堂蔬菜",
+     "2026-10-01 浙江求是招标代理有限公司关于浙江科技大学安吉校区食堂蔬菜"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://www.zust.edu.cn/index/ksdh/zbcg.htm",
+    "label": "查看更多>",
+    "scanned": 6,
+    "oldest": "2026-07-21",
+    "n": 0,
+    "newest": [
+     "2027-07-31 浙江求是招标代理有限公司关于浙江科技大学安吉校区粮油采购",
+     "2026-08-19 浙江求是招标代理有限公司关于浙江科技大学安吉校区食堂蔬菜",
+     "2026-10-01 浙江求是招标代理有限公司关于浙江科技大学安吉校区食堂蔬菜"
+    ],
+    "rows": []
+   }
+  ]
+ },
+ {
+  "key": "HAUT",
+  "title": "财务处_财务信息综合查询系统_河南工业大学",
+  "url": "https://cwc.haut.edu.cn/",
+  "sfw": false,
+  "navs": [
+   {
+    "t": "更多+",
+    "h": "https://cwc.haut.edu.cn/tzgg.htm"
+   },
+   {
+    "t": "更多+",
+    "h": "https://cwc.haut.edu.cn/dqgz/djlz.htm"
+   },
+   {
+    "t": "更多+",
+    "h": "https://cwc.haut.edu.cn/info/1233/2518.htm"
+   },
+   {
+    "t": "更多+",
+    "h": "https://cwc.haut.edu.cn/ywzn/bzzn.htm"
+   },
+   {
+    "t": "更多+",
+    "h": "https://cwc.haut.edu.cn/ywzn/rddy.htm"
+   }
+  ],
+  "cands": [
+   {
+    "u": "https://cwc.haut.edu.cn/",
+    "label": "home",
+    "scanned": 23,
+    "oldest": "2013-04-19",
+    "n": 0,
+    "newest": [
+     "2026-08-20 2026-08-20关于开展2027年度专项经费项目预算",
+     "2026-07-16 2026-07-16财务处党支部开展2026年度 党员“",
+     "2026-06-25 2026-06-25财务处党支部开展主题党日活动暨支部书"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://cwc.haut.edu.cn/tzgg.htm",
+    "label": "更多+",
+    "scanned": 10,
+    "oldest": "2026-04-01",
+    "n": 0,
+    "newest": [
+     "2026-08-20 2026-08-20关于开展2027年度专项经费项目预算",
+     "2026-06-03 2026-06-03关于加快财政资金预算执行进度的通知",
+     "2026-05-20 2026-05-20关于2026届毕业生离校前财务工作的"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://cwc.haut.edu.cn/dqgz/djlz.htm",
+    "label": "更多+",
+    "scanned": 10,
+    "oldest": "2025-09-11",
+    "n": 0,
+    "newest": [
+     "2026-07-16 2026-07-16财务处党支部开展2026年度 党员“",
+     "2026-06-25 2026-06-25财务处党支部开展主题党日活动暨支部书",
+     "2026-04-28 2026-04-28财务处党支部与发展规划处党支部联合赴"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://cwc.haut.edu.cn/ywzn/bzzn.htm",
+    "label": "更多+",
+    "scanned": 10,
+    "oldest": "2023-11-10",
+    "n": 0,
+    "newest": [
+     "2026-04-01 2026-04-01关于差旅费补助的解释说明",
+     "2026-03-02 2026-03-02河南工业大学智慧财务网上综合服务平台",
+     "2025-09-11 2025-09-11关于公务卡强制结算及报销的说明"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://cwc.haut.edu.cn/ywzn/rddy.htm",
+    "label": "更多+",
+    "scanned": 4,
+    "oldest": "2013-04-19",
+    "n": 0,
+    "newest": [
+     "2023-10-12 2023-10-12公务卡消费记录正确填写及电子发票开具",
+     "2023-10-07 2023-10-07关于录入电子发票的问题",
+     "2023-10-07 2023-10-07租车报账事宜说明"
+    ],
+    "rows": []
+   }
+  ]
+ },
+ {
+  "key": "HAUT",
+  "title": "河南工业大学招投标工作办公室 - 首页",
+  "url": "http://ztb.haut.edu.cn/hautstatic/index.html",
+  "sfw": false,
+  "navs": [
+   {
+    "t": "采购公告",
+    "h": "http://ztb.haut.edu.cn/zbxx/index.chtml"
+   },
+   {
+    "t": "MORE>>",
+    "h": "http://ztb.haut.edu.cn/tzgg/index.chtml"
+   },
+   {
+    "t": "MORE>>",
+    "h": "http://ztb.haut.edu.cn/gjfg/index.chtml"
+   },
+   {
+    "t": "MORE>>",
+    "h": "http://ztb.haut.edu.cn/zbxx1/index.chtml"
+   },
+   {
+    "t": "MORE>>",
+    "h": "http://ztb.haut.edu.cn/cgyxgg/index.chtml"
+   },
+   {
+    "t": "MORE>>",
+    "h": "http://ztb.haut.edu.cn/dyly/index.chtml"
+   },
+   {
+    "t": "MORE>>",
+    "h": "http://ztb.haut.edu.cn/qtgg/index.chtml"
+   },
+   {
+    "t": "MORE>>",
+    "h": "http://ztb.haut.edu.cn/llsw/index.chtml"
+   }
+  ],
+  "cands": [
+   {
+    "u": "http://ztb.haut.edu.cn/hautstatic/index.html",
+    "label": "home",
+    "scanned": 60,
+    "oldest": "2021-12-29",
+    "n": 0,
+    "newest": [
+     "2026-06-29 国有资产管理办公室（招投标工作办公室） 举办2026年度",
+     "2026-04-15 河南工业大学关于调整网上商城采购工作的通知",
+     "2025-09-17 《求是》杂志发表习近平总书记重要文章《纵深推进全国统一大"
+    ],
+    "rows": []
+   },
+   {
+    "u": "http://ztb.haut.edu.cn/zbxx/index.chtml",
+    "label": "采购公告",
+    "scanned": 15,
+    "oldest": "2026-09-16",
+    "n": 0,
+    "newest": [
+     "2026-10-13 河南工业大学师生周转房临街门面公开招租公告",
+     "2026-10-10 河南工业大学人因工效创新研发平台建设项目磋商公告",
+     "2026-10-10 河南工业大学莲花街校区校医院安全用电改造项目磋商公告"
+    ],
+    "rows": []
+   },
+   {
+    "u": "http://ztb.haut.edu.cn/tzgg/index.chtml",
+    "label": "MORE>>",
+    "scanned": 15,
+    "oldest": "2023-04-28",
+    "n": 0,
+    "newest": [
+     "2026-06-29 国有资产管理办公室（招投标工作办公室） 举办2026年度",
+     "2026-04-15 河南工业大学关于调整网上商城采购工作的通知",
+     "2025-09-17 《求是》杂志发表习近平总书记重要文章《纵深推进全国统一大"
+    ],
+    "rows": []
+   },
+   {
+    "u": "http://ztb.haut.edu.cn/zbxx1/index.chtml",
+    "label": "MORE>>",
+    "scanned": 15,
+    "oldest": "2026-09-14",
+    "n": 0,
+    "newest": [
+     "2026-10-14 河南工业大学2026年校园网运维技术服务项目成交公告",
+     "2026-10-14 河南工业大学小麦和玉米深加工国家工程研究中心创新楼工程质",
+     "2026-09-30 河南工业大学2026年实验室危险废物无害化处置项目单一来"
+    ],
+    "rows": []
+   },
+   {
+    "u": "http://ztb.haut.edu.cn/dyly/index.chtml",
+    "label": "MORE>>",
+    "scanned": 15,
+    "oldest": "2024-09-19",
+    "n": 0,
+    "newest": [
+     "2026-09-16 河南工业大学基于知识创新的智慧教学平台服务项目单一来源公",
+     "2026-09-16 河南工业大学2026年实验室危险废物无害化处置项目单一来",
+     "2026-09-07 河南工业大学2026年中国移动出口带宽服务采购项目-单一"
+    ],
+    "rows": []
+   },
+   {
+    "u": "http://ztb.haut.edu.cn/qtgg/index.chtml",
+    "label": "MORE>>",
+    "scanned": 15,
+    "oldest": "2020-01-10",
+    "n": 0,
+    "newest": [
+     "2022-04-14 河南工业大学粮食科创实验中心天井机空调采购与安装工程中标",
+     "2022-03-08 河南工业大学粮食科创实验中心配电设备采购与安装工程中标候",
+     "2022-03-07 河南工业大学食堂配电设备采购与安装工程项目中标候选人公示"
+    ],
+    "rows": []
+   }
+  ]
+ },
+ {
+  "key": "GZHU",
+  "title": "广州大学财务处",
+  "url": "https://cwc.gzhu.edu.cn/",
+  "sfw": false,
+  "navs": [],
+  "cands": [
+   {
+    "u": "https://cwc.gzhu.edu.cn/",
+    "label": "home",
+    "scanned": 5,
+    "oldest": "2025-01-22",
+    "n": 0,
+    "newest": [
+     "2026-07-21 广大[2026]5号（广州大学关于印发《广州大学公务接待",
+     "2026-07-21 广大[2026]3号（广州大学关于修订《广州大学国有资产",
+     "2025-09-30 广大[2025]74号（广州大学关于印发《广州大学饮食服"
+    ],
+    "rows": []
+   }
+  ]
+ }
+]

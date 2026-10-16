@@ -1,0 +1,69 @@
+[
+ {
+  "key": "NEPU",
+  "dom": "nepu.edu.cn",
+  "home": "https://www.nepu.edu.cn/",
+  "links": [
+   "东北石油大学采购招标公告 https://www.nepu.edu.cn/info/1251/4887.htm",
+   "采购信息 https://cgxxw.nepu.edu.cn/"
+  ],
+  "hosts": [
+   "cwc.nepu.edu.cn",
+   "cgxxw.nepu.edu.cn"
+  ]
+ },
+ {
+  "key": "ZUST",
+  "dom": "zust.edu.cn",
+  "home": "https://www.zust.edu.cn/",
+  "links": [
+   "招标采购 https://www.zust.edu.cn/index/ksdh/zbcg.htm"
+  ],
+  "hosts": []
+ },
+ {
+  "key": "HAUT",
+  "dom": "haut.edu.cn",
+  "home": "https://www.haut.edu.cn/",
+  "links": [],
+  "hosts": [
+   "cwc.haut.edu.cn",
+   "ztb.haut.edu.cn"
+  ]
+ },
+ {
+  "key": "GZHU",
+  "dom": "gzhu.edu.cn",
+  "home": "https://gzhu.edu.cn/",
+  "links": [],
+  "hosts": [
+   "cwc.gzhu.edu.cn",
+   "zbb.gzhu.edu.cn",
+   "zb.gzhu.edu.cn",
+   "gzc.gzhu.edu.cn"
+  ]
+ },
+ {
+  "key": "LZJTU",
+  "dom": "lzjtu.edu.cn",
+  "home": "https://www.lzjtu.edu.cn/",
+  "links": [],
+  "hosts": [
+   "cwc.lzjtu.edu.cn",
+   "zbgl.lzjtu.edu.cn",
+   "cgzx.lzjtu.edu.cn",
+   "zbzx.lzjtu.edu.cn",
+   "gzc.lzjtu.edu.cn"
+  ]
+ },
+ {
+  "key": "SZPU",
+  "dom": "szpu.edu.cn",
+  "home": null,
+  "links": [],
+  "hosts": [
+   "sbc.szpu.edu.cn",
+   "zcgl.szpu.edu.cn"
+  ]
+ }
+]
