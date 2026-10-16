@@ -1,0 +1,64 @@
+[
+ {
+  "key": "HRBEU",
+  "try": "cgb.hrbeu.edu.cn",
+  "ok": true,
+  "title": "温馨提示",
+  "url": "https://cgb.hrbeu.edu.cn/",
+  "cands": []
+ },
+ {
+  "key": "HRBEU",
+  "try": "cggl.hrbeu.edu.cn",
+  "ok": true,
+  "title": "温馨提示",
+  "url": "https://cggl.hrbeu.edu.cn/",
+  "cands": []
+ },
+ {
+  "key": "CQJTU",
+  "try": "zbcgzx.cqjtu.edu.cn",
+  "ok": true,
+  "title": "",
+  "url": "https://zbcgzx.cqjtu.edu.cn/",
+  "cands": []
+ },
+ {
+  "key": "UPC",
+  "try": "zbb.upc.edu.cn",
+  "ok": false,
+  "err": "page.goto: Timeout 25000ms exceeded."
+ },
+ {
+  "key": "GUET",
+  "try": "zbcg.guet.edu.cn",
+  "ok": true,
+  "title": "访问出错 - 488",
+  "url": "https://zbcg.guet.edu.cn/",
+  "cands": []
+ },
+ {
+  "key": "GUET",
+  "try": "www.guet.edu.cn/6361/list.htm",
+  "ok": true,
+  "title": "统一身份认证平台",
+  "url": "https://cas.guet.edu.cn/authserver/login?service=https%3A%2F%2Fcas.guet.edu.cn%2Fauthserver%2Foauth2.0%2FcallbackAuthorize%3Fclient_id%3D1077159956066099200%26redirect_uri%3Dhttps%253A%252F%252Fmwb.guet.edu.cn%252F_callback%26response_type%3Dcode%26state%3Dhttp%253A%252F%252Fwww.guet.edu.cn%252Ferrorx.jsp%26client_name%3DCasOAuthClient",
+  "cands": []
+ },
+ {
+  "key": "SEMI",
+  "try": "semi.cas.cn/xxgk/xxgkcggs/",
+  "ok": true,
+  "title": "中国科学院半导体研究所",
+  "url": "https://semi.cas.cn/xxgk/xxgkcggs/",
+  "cands": []
+ },
+ {
+  "key": "IOE_CAS",
+  "try": "www.ioe.ac.cn",
+  "ok": true,
+  "title": "中国科学院光电技术研究所",
+  "url": "https://www.ioe.ac.cn/",
+  "cands": []
+ }
+]
