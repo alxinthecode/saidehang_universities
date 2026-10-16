@@ -1,0 +1,87 @@
+[
+ {
+  "key": "CUP",
+  "dom": "cup.edu.cn",
+  "home": "https://www.cup.edu.cn/",
+  "links": [
+   "招标询价公告 https://zcb.cup.edu.cn/sfw_cms/e?page=cms.psms.gglist&typeDetail=XQ"
+  ],
+  "hosts": [
+   "zcb.cup.edu.cn",
+   "zbgl.cup.edu.cn",
+   "zcgl.cup.edu.cn"
+  ]
+ },
+ {
+  "key": "YTU",
+  "dom": "ytu.edu.cn",
+  "home": "https://www.ytu.edu.cn/",
+  "links": [
+   "招标信息 https://zcc.ytu.edu.cn/zfcgzx/zbgg.htm"
+  ],
+  "hosts": [
+   "cwc.ytu.edu.cn",
+   "zcc.ytu.edu.cn",
+   "cggl.ytu.edu.cn"
+  ]
+ },
+ {
+  "key": "SDJU",
+  "dom": "sdju.edu.cn",
+  "home": "https://www.sdju.edu.cn/",
+  "links": [
+   "招标公告 https://www.sdju.edu.cn/zbgg/list.htm"
+  ],
+  "hosts": [
+   "cwc.sdju.edu.cn",
+   "zbb.sdju.edu.cn",
+   "cg.sdju.edu.cn",
+   "zcgl.sdju.edu.cn"
+  ]
+ },
+ {
+  "key": "HAUST",
+  "dom": "haust.edu.cn",
+  "home": "https://www.haust.edu.cn/",
+  "links": [
+   "招标采购 https://zbcg.haust.edu.cn/sso/index.htm",
+   "招标采购 https://zbcg.haust.edu.cn/sso/index.htm"
+  ],
+  "hosts": [
+   "zbcg.haust.edu.cn"
+  ]
+ },
+ {
+  "key": "WYU",
+  "dom": "wyu.edu.cn",
+  "home": "https://www.wyu.edu.cn/",
+  "links": [
+   "招标公告 https://www.wyu.edu.cn/ztb/"
+  ],
+  "hosts": [
+   "cggl.wyu.edu.cn",
+   "zcgl.wyu.edu.cn"
+  ]
+ },
+ {
+  "key": "HAINANU",
+  "dom": "hainanu.edu.cn",
+  "home": "https://www.hainanu.edu.cn/",
+  "links": [],
+  "hosts": []
+ },
+ {
+  "key": "HHU",
+  "dom": "hhu.edu.cn",
+  "home": "https://www.hhu.edu.cn/",
+  "links": [
+   "招标采购 https://zbb.hhu.edu.cn/"
+  ],
+  "hosts": [
+   "cwc.hhu.edu.cn",
+   "zbb.hhu.edu.cn",
+   "zcc.hhu.edu.cn",
+   "cggl.hhu.edu.cn"
+  ]
+ }
+]

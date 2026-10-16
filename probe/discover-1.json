@@ -1,0 +1,671 @@
+[
+ {
+  "key": "YTU",
+  "title": "烟台大学财务处",
+  "url": "https://cwc.ytu.edu.cn/",
+  "sfw": false,
+  "navs": [],
+  "cands": []
+ },
+ {
+  "key": "YTU",
+  "title": "国有资产管理处",
+  "url": "https://zcc.ytu.edu.cn/",
+  "sfw": false,
+  "navs": [
+   {
+    "t": "网上竞价",
+    "h": "http://202.194.121.43/wsjj/pt"
+   },
+   {
+    "t": "招标公告",
+    "h": "https://zcc.ytu.edu.cn/zfcgzx/zbgg.htm"
+   },
+   {
+    "t": "+更多",
+    "h": "https://zcc.ytu.edu.cn/xwgg/gzdt.htm"
+   },
+   {
+    "t": "+更多",
+    "h": "https://zcc.ytu.edu.cn/xwgg/xwtp.htm"
+   },
+   {
+    "t": "+更多",
+    "h": "https://zcc.ytu.edu.cn/xwgg/tzgg.htm"
+   }
+  ],
+  "cands": [
+   {
+    "u": "https://zcc.ytu.edu.cn/",
+    "label": "home",
+    "scanned": 6,
+    "oldest": "2026-05-28",
+    "n": 0,
+    "newest": [
+     "2026-10-10 烟台大学2026年10月10日验收项目公示",
+     "2026-09-04 烟台大学2026年9月4日验收项目公示",
+     "2026-07-16 烟台大学2026年7月16日验收项目公示"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zcc.ytu.edu.cn/zfcgzx/zbgg.htm",
+    "label": "招标公告",
+    "scanned": 10,
+    "oldest": "2026-09-29",
+    "n": 0,
+    "newest": [
+     "2026-10-15 烟台大学校方责任保险竞争性磋商公告",
+     "2026-10-15 烟台大学校方责任保险产品保险经纪服务单位选定竞争性磋商公",
+     "2026-10-15 烟台大学“十强+未来”离子减薄仪等设备采购公开招标公告"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zcc.ytu.edu.cn/xwgg/gzdt.htm",
+    "label": "+更多",
+    "scanned": 10,
+    "oldest": "2024-07-16",
+    "n": 0,
+    "newest": [
+     "2026-09-01 国有资产管理处传达学习学校五届六次全委（扩大）会暨新学期",
+     "2026-03-10 国有资产管理处传达学习学校2026年工作研讨会精神",
+     "2025-12-11 学校召开政府采购预算编制和招标采购专题培训会"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zcc.ytu.edu.cn/xwgg/tzgg.htm",
+    "label": "+更多",
+    "scanned": 10,
+    "oldest": "2025-09-12",
+    "n": 0,
+    "newest": [
+     "2026-10-10 烟台大学2026年10月10日验收项目公示",
+     "2026-09-04 烟台大学2026年9月4日验收项目公示",
+     "2026-07-16 烟台大学2026年7月16日验收项目公示"
+    ],
+    "rows": []
+   }
+  ]
+ },
+ {
+  "key": "YTU",
+  "title": "采购管理平台",
+  "url": "https://cggl.ytu.edu.cn/admin/index/login",
+  "sfw": false,
+  "navs": [],
+  "cands": []
+ },
+ {
+  "key": "SDJU",
+  "title": "招标公告",
+  "url": "https://www.sdju.edu.cn/zbgg/list.htm",
+  "sfw": false,
+  "navs": [
+   {
+    "t": "招标公告",
+    "h": "https://www.sdju.edu.cn/zbgg/list.htm"
+   }
+  ],
+  "cands": [
+   {
+    "u": "https://www.sdju.edu.cn/zbgg/list.htm",
+    "label": "招标公告",
+    "scanned": 15,
+    "oldest": "2026-10-07",
+    "n": 0,
+    "newest": [
+     "2026-10-16 上海电机学院2026-2027学年第1学期第6周主要活动",
+     "2026-10-15 上海电机学院直饮水及生活用水水质检测服务项目快速采购公告",
+     "2026-10-15 上海电机学院2026年度微软校园正版化软件订阅授权及运维"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://www.sdju.edu.cn/zbgg/list.htm",
+    "label": "招标公告",
+    "scanned": 15,
+    "oldest": "2026-10-07",
+    "n": 0,
+    "newest": [
+     "2026-10-16 上海电机学院2026-2027学年第1学期第6周主要活动",
+     "2026-10-15 上海电机学院直饮水及生活用水水质检测服务项目快速采购公告",
+     "2026-10-15 上海电机学院2026年度微软校园正版化软件订阅授权及运维"
+    ],
+    "rows": []
+   }
+  ]
+ },
+ {
+  "key": "SDJU",
+  "title": "财务处",
+  "url": "https://cwc.sdju.edu.cn/",
+  "sfw": false,
+  "navs": [
+   {
+    "t": "更多...",
+    "h": "https://cwc.sdju.edu.cn/1743/list.htm"
+   },
+   {
+    "t": "更多...",
+    "h": "https://cwc.sdju.edu.cn/1744/list.htm"
+   }
+  ],
+  "cands": [
+   {
+    "u": "https://cwc.sdju.edu.cn/",
+    "label": "home",
+    "scanned": 14,
+    "oldest": "2026-03-31",
+    "n": 0,
+    "newest": [
+     "2026-10-10 盯紧年末“支付关”，打好预算“收官战” ——学校召开重大",
+     "2026-07-02 学校召开重大专项预算执行及规范采购管理专题会",
+     "2026-05-19 党建联建聚合力 银校携手促发展—机关党委第十、第九支部与"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://cwc.sdju.edu.cn/1743/list.htm",
+    "label": "更多...",
+    "scanned": 14,
+    "oldest": "2026-01-12",
+    "n": 0,
+    "newest": [
+     "2026-10-10 盯紧年末“支付关”，打好预算“收官战” ——学校召开重大",
+     "2026-07-02 学校召开重大专项预算执行及规范采购管理专题会",
+     "2026-05-19 党建联建聚合力 银校携手促发展—机关党委第十、第九支部与"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://cwc.sdju.edu.cn/1744/list.htm",
+    "label": "更多...",
+    "scanned": 13,
+    "oldest": "2025-09-12",
+    "n": 0,
+    "newest": [
+     "2026-09-23 上海电机学院新增及调整部分硕士研究生教育收费标准的 公示",
+     "2026-07-15 上海电机学院外国留学生教育收费标准公示",
+     "2026-07-15 上海电机学院高等教育自学考试收费公示"
+    ],
+    "rows": []
+   }
+  ]
+ },
+ {
+  "key": "SDJU",
+  "title": "招投标办公室",
+  "url": "https://zbb.sdju.edu.cn/",
+  "sfw": false,
+  "navs": [
+   {
+    "t": "更多>>",
+    "h": "https://zbb.sdju.edu.cn/xwdt/list.htm"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://zbb.sdju.edu.cn/gzdt/list.htm"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://zbb.sdju.edu.cn/sbl/list.htm"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://zbb.sdju.edu.cn/twl/list.htm"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://zbb.sdju.edu.cn/xxh/list.htm"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://zbb.sdju.edu.cn/fwl/list.htm"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://zbb.sdju.edu.cn/gcl/list.htm"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://zbb.sdju.edu.cn/sbl_4617/list.htm"
+   }
+  ],
+  "cands": [
+   {
+    "u": "https://zbb.sdju.edu.cn/",
+    "label": "home",
+    "scanned": 55,
+    "oldest": "2024-06-27",
+    "n": 0,
+    "newest": [
+     "2026-10-13 上海电机学院PCB成型机快速采购延长公告",
+     "2026-10-08 上海电机学院微阵列芯片检测仪快速采购延长公告",
+     "2026-09-28 上海电机学院PCB成型机快速采购公告"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zbb.sdju.edu.cn/xwdt/list.htm",
+    "label": "更多>>",
+    "scanned": 14,
+    "oldest": "2023-07-03",
+    "n": 0,
+    "newest": [
+     "2026-10-12 上海电机学院采购与招投标领导小组召开2026年第4次会议",
+     "2026-05-26 招投标办公室组织召开招标代理机构约谈会",
+     "2026-05-07 招标办一行深入二级学院开展采购需求调研"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zbb.sdju.edu.cn/gzdt/list.htm",
+    "label": "更多>>",
+    "scanned": 14,
+    "oldest": "2024-05-08",
+    "n": 0,
+    "newest": [
+     "2026-06-10 关于提交2025年招标采购项目合同和验收报告的通知",
+     "2026-05-28 关于招标采购前核价工作的通知",
+     "2026-05-26 招投标办公室组织召开招标代理机构约谈会"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zbb.sdju.edu.cn/sbl/list.htm",
+    "label": "更多>>",
+    "scanned": 14,
+    "oldest": "2026-03-01",
+    "n": 0,
+    "newest": [
+     "2026-10-13 上海电机学院PCB成型机快速采购延长公告",
+     "2026-10-08 上海电机学院微阵列芯片检测仪快速采购延长公告",
+     "2026-09-28 上海电机学院PCB成型机快速采购公告"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zbb.sdju.edu.cn/twl/list.htm",
+    "label": "更多>>",
+    "scanned": 14,
+    "oldest": "2023-10-31",
+    "n": 0,
+    "newest": [
+     "2026-09-30 上海电机学院笔杆网论文写作辅导数据库单一来源采购公示",
+     "2026-09-30 上海电机学院Emerald电子期刊数据库单一来源采购公示",
+     "2026-09-30 上海电机学院PQDT学位论文全文数据库单一来源采购公示"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zbb.sdju.edu.cn/xxh/list.htm",
+    "label": "更多>>",
+    "scanned": 14,
+    "oldest": "2024-08-04",
+    "n": 0,
+    "newest": [
+     "2026-10-14 上海电机学院核心机房服务器及算力平台驻场运维服务项目快速",
+     "2026-09-16 上海电机学院信息系统等级保护测评服务项目快速采购公告",
+     "2026-06-15 上海电机学院2026年WPS授权服务快速采购公告"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zbb.sdju.edu.cn/fwl/list.htm",
+    "label": "更多>>",
+    "scanned": 14,
+    "oldest": "2025-10-30",
+    "n": 0,
+    "newest": [
+     "2026-10-15 上海电机学院直饮水及生活用水水质检测服务项目快速采购公告",
+     "2026-10-15 上海电机学院2026年度微软校园正版化软件订阅授权及运维",
+     "2026-08-13 上海电机学院《气液电控制技术》课程资源建设快速采购公告"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zbb.sdju.edu.cn/sbl_4617/list.htm",
+    "label": "更多>>",
+    "scanned": 14,
+    "oldest": "2025-11-14",
+    "n": 0,
+    "newest": [
+     "2026-10-15 上海电机学院微阵列芯片检测仪快速采购成交公告",
+     "2026-10-13 上海电机学院SLA光固化工业级3D打印设备快速采购成交公",
+     "2026-09-28 上海电机学院微通道反应系统快速采购成交公告"
+    ],
+    "rows": []
+   }
+  ]
+ },
+ {
+  "key": "WYU",
+  "title": "五邑大学采购招标中心",
+  "url": "https://www.wyu.edu.cn/ztb/",
+  "sfw": false,
+  "navs": [
+   {
+    "t": "采购信息",
+    "h": "https://www.wyu.edu.cn/ztb/wscg/yxgk.htm"
+   },
+   {
+    "t": "采购公告",
+    "h": "https://www.wyu.edu.cn/ztb/wscg/cggg.htm"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://www.wyu.edu.cn/ztb/wscg/jggg.htm"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://www.wyu.edu.cn/ztb/index/gzdt.htm"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://www.wyu.edu.cn/ztb/fwzn.htm"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://www.wyu.edu.cn/ztb/zdd.htm"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://www.wyu.edu.cn/ztb/flgz/gjfg.htm"
+   },
+   {
+    "t": "采购公告",
+    "h": "https://www.wyu.edu.cn/ztb/wscg/cggg/cggg.htm"
+   }
+  ],
+  "cands": [
+   {
+    "u": "https://www.wyu.edu.cn/ztb/",
+    "label": "home",
+    "scanned": 38,
+    "oldest": "2026-01-12",
+    "n": 0,
+    "newest": [
+     "2026-10-15 校内各消防主机组网与南主楼应急照明采购安装项目竞价公告",
+     "2026-10-10 五邑大学人工智能+课程建设项目招标公告",
+     "2026-09-22 关于为【五邑大学智算中心机房建设项目设计服务】公开选取【"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://www.wyu.edu.cn/ztb/wscg/yxgk.htm",
+    "label": "采购信息",
+    "scanned": 10,
+    "oldest": "2026-03-19",
+    "n": 0,
+    "newest": [
+     "2026-08-31 五邑大学2026年08月至2026年10月政府采购意向（",
+     "2026-07-08 五邑大学2026年07月至2026年08月政府采购意向（",
+     "2026-06-24 五邑大学2026年06月至2026年07月政府采购意向（"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://www.wyu.edu.cn/ztb/wscg/cggg.htm",
+    "label": "采购公告",
+    "scanned": 10,
+    "oldest": "2026-07-31",
+    "n": 0,
+    "newest": [
+     "2026-10-15 校内各消防主机组网与南主楼应急照明采购安装项目竞价公告",
+     "2026-10-10 五邑大学人工智能+课程建设项目招标公告",
+     "2026-09-22 关于为【五邑大学智算中心机房建设项目设计服务】公开选取【"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://www.wyu.edu.cn/ztb/wscg/jggg.htm",
+    "label": "更多>>",
+    "scanned": 10,
+    "oldest": "2026-07-24",
+    "n": 0,
+    "newest": [
+     "2026-10-11 五邑大学智算中心机房建设项目设计服务中选结果的公告",
+     "2026-09-30 ​五邑大学修缮工程定点采购定点竞价成交公告（五邑大学黄浩",
+     "2026-09-15 五邑大学电化学晶体管测试系统建设项目竞价结果公告"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://www.wyu.edu.cn/ztb/index/gzdt.htm",
+    "label": "更多>>",
+    "scanned": 10,
+    "oldest": "2024-10-21",
+    "n": 0,
+    "newest": [
+     "2026-10-15 采购招标中心参加《〈紧急采购管理暂行办法〉理解与使用》线",
+     "2026-07-05 学校参加全省教育系统政府采购政策宣讲会",
+     "2026-06-04 采购招标中心派员参加广东省政府采购协会教育分会2026年"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://www.wyu.edu.cn/ztb/fwzn.htm",
+    "label": "更多>>",
+    "scanned": 10,
+    "oldest": "2024-05-11",
+    "n": 0,
+    "newest": [
+     "2026-05-28 关于调整广东政府采购智慧云平台电子卖场扫描仪等品目交易方",
+     "2026-03-25 关于广东政府采购智慧云平台电子卖场触控一体机品目切换到框",
+     "2026-03-16 关于广东政府采购智慧云平台电子卖场液晶显示器品目切换到框"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://www.wyu.edu.cn/ztb/zdd.htm",
+    "label": "更多>>",
+    "scanned": 10,
+    "oldest": "2025-12-29",
+    "n": 0,
+    "newest": [
+     "2026-10-16 关于组织学习广东省政府采购协会第三十五期简报的通知",
+     "2026-05-12 五邑大学科技大楼（中信大厦）第22层写字楼3项物业公开招",
+     "2026-02-06 五邑大学校内商铺、北区聚贤楼首二层及伟伦中心首二三层18"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://www.wyu.edu.cn/ztb/flgz/gjfg.htm",
+    "label": "更多>>",
+    "scanned": 10,
+    "oldest": "2025-11-16",
+    "n": 0,
+    "newest": [
+     "2026-06-09 一图读懂 | 检验检测机构资质认定“一单一库”常见问题解",
+     "2026-06-03 一图读懂 | 检验检测机构资质认定统一实施“一单一库”管",
+     "2026-05-25 财政部印发《政府采购电子卖场产品分类指导标准（2026年"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://www.wyu.edu.cn/ztb/wscg/cggg/cggg.htm",
+    "label": "采购公告",
+    "scanned": 10,
+    "oldest": "2026-07-31",
+    "n": 0,
+    "newest": [
+     "2026-10-15 校内各消防主机组网与南主楼应急照明采购安装项目竞价公告",
+     "2026-10-10 五邑大学人工智能+课程建设项目招标公告",
+     "2026-09-22 关于为【五邑大学智算中心机房建设项目设计服务】公开选取【"
+    ],
+    "rows": []
+   }
+  ]
+ },
+ {
+  "key": "WYU",
+  "title": "采购管理系统",
+  "url": "https://cggl.wyu.edu.cn/home",
+  "sfw": false,
+  "navs": [],
+  "cands": []
+ },
+ {
+  "key": "HHU",
+  "title": "计划财务处",
+  "url": "https://cwc.hhu.edu.cn/",
+  "sfw": false,
+  "navs": [
+   {
+    "t": "更多>>",
+    "h": "https://cwc.hhu.edu.cn/11654/list.htm"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://cwc.hhu.edu.cn/16130/list.htm"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://cwc.hhu.edu.cn/16134/list.htm"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://cwc.hhu.edu.cn/16132/list.htm"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://cwc.hhu.edu.cn/16144/list.htm"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://cwc.hhu.edu.cn/16131/list.htm"
+   }
+  ],
+  "cands": [
+   {
+    "u": "https://cwc.hhu.edu.cn/",
+    "label": "home",
+    "scanned": 1,
+    "oldest": "2026-05-31",
+    "n": 0,
+    "newest": [
+     "2026-05-31 关于集中清理因公借款的通知"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://cwc.hhu.edu.cn/11654/list.htm",
+    "label": "更多>>",
+    "scanned": 14,
+    "oldest": "2024-04-23",
+    "n": 0,
+    "newest": [
+     "2026-10-11 校领导赴计财处开展科研经费监管工作专项调研",
+     "2026-07-06 关于开展学校教育收费自查自纠工作的通知",
+     "2026-06-30 关于集中清理因公借款的通知"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://cwc.hhu.edu.cn/16130/list.htm",
+    "label": "更多>>",
+    "scanned": 14,
+    "oldest": "2022-11-03",
+    "n": 0,
+    "newest": [
+     "2026-08-31 河海大学后勤财务管理办法（修订）",
+     "2026-08-27 河海大学校园一卡通资金结算管理办法",
+     "2026-08-27 河海大学预借票据管理办法"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://cwc.hhu.edu.cn/16134/list.htm",
+    "label": "更多>>",
+    "scanned": 7,
+    "oldest": "2016-01-11",
+    "n": 0,
+    "newest": [
+     "2024-09-01 公务卡调整信用额度申请表",
+     "2023-11-24 会议经费预算审批表",
+     "2022-03-01 查阅会计凭证申请表"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://cwc.hhu.edu.cn/16132/list.htm",
+    "label": "更多>>",
+    "scanned": 9,
+    "oldest": "2022-03-01",
+    "n": 0,
+    "newest": [
+     "2026-01-21 关于公务卡线上办理的通知",
+     "2026-01-21 个人收入申报系统线上审批操作指南",
+     "2026-01-21 财务门户+智能报销+智慧查询操作指南"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://cwc.hhu.edu.cn/16131/list.htm",
+    "label": "更多>>",
+    "scanned": 1,
+    "oldest": "2022-02-27",
+    "n": 0,
+    "newest": [
+     "2022-02-27 学生收费项目信息汇总表"
+    ],
+    "rows": []
+   }
+  ]
+ },
+ {
+  "key": "HHU",
+  "title": "资产处",
+  "url": "https://zcc.hhu.edu.cn/",
+  "sfw": false,
+  "navs": [
+   {
+    "t": "更多信息",
+    "h": "https://zcc.hhu.edu.cn/gzdt/"
+   },
+   {
+    "t": "更多信息",
+    "h": "https://zcc.hhu.edu.cn/tzgg/"
+   }
+  ],
+  "cands": [
+   {
+    "u": "https://zcc.hhu.edu.cn/",
+    "label": "home",
+    "scanned": 3,
+    "oldest": "2025-12-12",
+    "n": 0,
+    "newest": [
+     "2026-06-11 党建引领，资产赋能，通信筑梦——河海大学资产处党支部与信",
+     "2025-12-22 教育部财务司来校开展无形资产、数据资产暨科技成果转化管理",
+     "2025-12-12 资产处开展校舍及电梯安全专项检查"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zcc.hhu.edu.cn/gzdt/",
+    "label": "更多信息",
+    "scanned": 1,
+    "oldest": "2025-12-12",
+    "n": 0,
+    "newest": [
+     "2025-12-12 12 2025-12 资产处开展校舍及电梯安全专项检查 "
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zcc.hhu.edu.cn/tzgg/",
+    "label": "更多信息",
+    "scanned": 1,
+    "oldest": "2026-05-25",
+    "n": 0,
+    "newest": [
+     "2026-05-25 10 2026-06 关于召开河海大学场馆收费标准师生座"
+    ],
+    "rows": []
+   }
+  ]
+ }
+]
