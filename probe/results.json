@@ -3,7 +3,7 @@
   {
    "key": "THU",
    "ok": true,
-   "secs": 5.71,
+   "secs": 4.57,
    "scanned": 100,
    "oldest": "2026-10-12",
    "n": 0,
@@ -29,7 +29,7 @@
   {
    "key": "BUAA",
    "ok": true,
-   "secs": 5.117,
+   "secs": 18.739,
    "scanned": 36,
    "oldest": "2026-05-22",
    "n": 2,
@@ -58,7 +58,7 @@
   {
    "key": "HIT",
    "ok": true,
-   "secs": 6.666,
+   "secs": 5.187,
    "scanned": 100,
    "oldest": "2026-09-01",
    "n": 0,
@@ -84,7 +84,7 @@
   {
    "key": "SJTU",
    "ok": true,
-   "secs": 10.521,
+   "secs": 9.445,
    "scanned": 100,
    "oldest": "2026-09-11",
    "n": 0,
@@ -110,7 +110,7 @@
   {
    "key": "TJU",
    "ok": true,
-   "secs": 8.246,
+   "secs": 7.15,
    "scanned": 100,
    "oldest": "2026-09-09",
    "n": 3,
@@ -140,7 +140,7 @@
   {
    "key": "USTC",
    "ok": true,
-   "secs": 5.162,
+   "secs": 3.636,
    "scanned": 100,
    "oldest": "2026-04-14",
    "n": 0,
@@ -166,7 +166,7 @@
   {
    "key": "CQU",
    "ok": true,
-   "secs": 7.299,
+   "secs": 7.376,
    "scanned": 100,
    "oldest": "2026-10-09",
    "n": 0,
@@ -192,7 +192,7 @@
   {
    "key": "SCU",
    "ok": true,
-   "secs": 12.985,
+   "secs": 10.094,
    "scanned": 100,
    "oldest": "2026-09-09",
    "n": 2,
@@ -221,7 +221,7 @@
   {
    "key": "HITSZ",
    "ok": true,
-   "secs": 10.469,
+   "secs": 9.232,
    "scanned": 100,
    "oldest": "2026-01-27",
    "n": 0,
@@ -247,13 +247,12 @@
   {
    "key": "WESTLAKE",
    "ok": true,
-   "secs": 10.533,
+   "secs": 8.407,
    "scanned": 100,
    "oldest": "2026-09-20",
-   "n": 4,
+   "n": 3,
    "rows": [
     "WESTLAKE-WLU-FW-KS-WM-2026-0224 | strong | 2026-10-21 10:00 | 生物型原子力显微镜升级拼图模块（WLU-FW-KS-WM-2026-0224）采",
-    "WESTLAKE-WLU-HW-CS-WM-2026-0205 | strong | 2026-10-21 17:00 | 关于西湖大学高槽压电化学工作站等两套设备（WLU-HW-CS-WM-2026-0",
     "WESTLAKE-WLU-HW-KS-NM-2026-1225 | strong | 2026-10-08 18:00 | 原子力显微镜（WLU-HW-KS-NM-2026-1225）采购公告",
     "WESTLAKE-WLU-HW-KS-WM-2026-0203 | strong | 2026-09-30 15:00 | 单点式激光测振仪（WLU-HW-KS-WM-2026-0203）采购公告"
    ],
@@ -278,7 +277,7 @@
   {
    "key": "BUPT",
    "ok": true,
-   "secs": 5.875,
+   "secs": 5.183,
    "scanned": 100,
    "oldest": "2026-08-04",
    "n": 0,
@@ -304,7 +303,7 @@
   {
    "key": "XMU",
    "ok": true,
-   "secs": 6.559,
+   "secs": 5.6,
    "scanned": 100,
    "oldest": "2026-07-06",
    "n": 0,
@@ -328,14 +327,9 @@
    ]
   },
   {
-   "key": "CQUPT",
-   "ok": false,
-   "error": "page.evaluate: Error: no 思必得 list query returned results"
-  },
-  {
    "key": "DUT",
    "ok": true,
-   "secs": 34.951,
+   "secs": 20.991,
    "scanned": 100,
    "oldest": "2026-08-24",
    "n": 0,
@@ -361,7 +355,7 @@
   {
    "key": "KUST",
    "ok": true,
-   "secs": 20.062,
+   "secs": 16.164,
    "scanned": 100,
    "oldest": "2026-08-13",
    "n": 0,
@@ -387,7 +381,7 @@
   {
    "key": "DLMU",
    "ok": true,
-   "secs": 7.935,
+   "secs": 6.621,
    "scanned": 100,
    "oldest": "2026-06-12",
    "n": 0,
@@ -413,7 +407,7 @@
   {
    "key": "HUST",
    "ok": true,
-   "secs": 5.65,
+   "secs": 4.025,
    "scanned": 30,
    "oldest": "2024-09-13",
    "n": 0,
@@ -439,7 +433,7 @@
   {
    "key": "FUDAN",
    "ok": true,
-   "secs": 7.838,
+   "secs": 5.477,
    "scanned": 30,
    "oldest": "2025-11-25",
    "n": 0,
@@ -465,7 +459,7 @@
   {
    "key": "NWPU",
    "ok": true,
-   "secs": 5.362,
+   "secs": 5.386,
    "scanned": 20,
    "oldest": "2026-06-26",
    "n": 0,
@@ -491,7 +485,7 @@
   {
    "key": "TONGJI",
    "ok": true,
-   "secs": 6.83,
+   "secs": 4.732,
    "scanned": 36,
    "oldest": "",
    "n": 0,
@@ -517,7 +511,7 @@
   {
    "key": "SUSTECH",
    "ok": true,
-   "secs": 5.516,
+   "secs": 3.657,
    "scanned": 40,
    "oldest": "2020-12-09",
    "n": 0,
@@ -543,7 +537,7 @@
   {
    "key": "UESTC",
    "ok": true,
-   "secs": 6.536,
+   "secs": 6.32,
    "scanned": 5,
    "oldest": "2026-10-14",
    "n": 0,
@@ -569,7 +563,7 @@
   {
    "key": "WHU",
    "ok": true,
-   "secs": 7.702,
+   "secs": 9.794,
    "scanned": 327,
    "oldest": "2024-06-28",
    "n": 0,
@@ -593,43 +587,15 @@
    ]
   },
   {
-   "key": "SYSU",
-   "ok": true,
-   "secs": 8.48,
-   "scanned": 20,
-   "oldest": "",
-   "n": 1,
-   "rows": [
-    "SYSU-node17081 | strong |  | 中大招（货）[2024]445号 ｜ 货物 ｜ 中山大学电子与信息工程学院混合主"
-   ],
-   "sample": [
-    {
-     "t": "中大招（货）[2025]001号 ｜ 货物 ｜ 中山大学化学学院零场穆斯堡尔谱仪采购项目",
-     "p": "",
-     "u": "https://bidding.sysu.edu.cn/node/17152"
-    },
-    {
-     "t": "中大招（服）[2025]003号 ｜ 服务 ｜ 中山大学航空航天学院复杂空间环境下位姿演化的载荷力学",
-     "p": "",
-     "u": "https://bidding.sysu.edu.cn/node/17154"
-    },
-    {
-     "t": "中大招（货）[2025]002号 ｜ 货物 ｜ 中山大学继续教育学院教学会议多媒体系统采购项目",
-     "p": "",
-     "u": "https://bidding.sysu.edu.cn/node/17155"
-    }
-   ]
-  },
-  {
    "key": "XJTU",
    "ok": true,
-   "secs": 9.162,
+   "secs": 7.391,
    "scanned": 999,
    "oldest": "2025-04-23",
    "n": 2,
    "rows": [
-    "XJTU-008ajdid4af592f37641715c0176419ae14f000d | strong |  | 西安交通大学超声成像与治疗用压电材料关键性能测试系统公开招标采购公告（电子招投标",
-    "XJTU-0062jdid4af592f37641715c0176419ae14f000d | weak |  | 西安交通大学六自由度平台校级磋商采购公告（电子招投标）"
+    "XJTU-cc81459f008a | strong |  | 西安交通大学超声成像与治疗用压电材料关键性能测试系统公开招标采购公告（电子招投标",
+    "XJTU-f8a92ea10062 | weak |  | 西安交通大学六自由度平台校级磋商采购公告（电子招投标）"
    ],
    "sample": [
     {
@@ -652,164 +618,38 @@
  ],
  "diag": [
   {
-   "key": "TONGJI",
-   "url": "https://czb.tongji.edu.cn/sggl/cgw/zbggList.jsp?type=A",
+   "key": "CQUPT",
+   "url": "https://zcgl.cqupt.edu.cn/sfw_cms/e?page=cms.psms.gglist&typeDetail=XQ",
    "page": {
-    "title": "同济大学采购与招标管理办公室",
-    "url": "https://czb.tongji.edu.cn/sggl/cgw/zbggList.jsp?type=A",
-    "text": "首页\n机构设置\n工作指南\n采购意向公开\n招标公告\n结果公告\n政策法规\n资料下载\n联系我们\n招标公告\n货物类\n服务类\n工程类\n竞价采购公告\n招标公告-货物\n16\n\n2026\n\n10\n\n智能测试单元采购项目\n15\n\n2026\n\n10\n\n高通量真核细胞电转染系统采购项目\n14\n\n2026\n\n10\n\n移动金融方舱采购项目\n14\n\n2026\n\n10\n\n同济大学数物融合控制模块-传输融合防护管理装置采购项目更正公告\n13\n\n2026\n\n10\n\n凝胶渗透色谱(GPC)采购项目\n12\n\n2026\n\n10\n\n可见近红外荧光光谱仪采购项目\n10\n\n2026\n\n10\n\n智能眼镜样机定制开发采购项目\n09\n\n2026\n\n10\n\n定制型图形工作站采购项目\n09\n\n2026\n\n10\n\n多机协同自主智能空地移动机器人集群采购项目\n30\n\n2026\n\n09\n\n动力电池环境模拟测试系统采购项目\n30\n\n2026\n\n09\n\n同济大学嘉定校区友园本科生宿舍7号楼整体修缮项目家具采购项目\n30\n\n2026\n\n09\n\n同步控制数据采集系统定制开发采购项目\n首页 上页 1 2 3 4 5 6 7 下一页 尾页 第 / 297页 跳转\n电话：021-65983323\n地址：上海市四平路1239号行政南楼3楼\n电子邮箱：caizhaoban@tongji.edu.cn\n扫一扫关注我们\n版权所有 同济大学采购与招标管理办公室",
-    "links": [
-     " -> # ",
-     "首页 -> index.jsp ",
-     "机构设置 -> /sggl/cgw/list.jsp?lmbh=JGSZ ",
-     "工作指南 -> /sggl/cgw/list.jsp?lmbh=GZZN ",
-     "采购意向公开 -> /sggl/cgw/list.jsp?lmbh=YYGK ",
-     "招标公告 -> /sggl/cgw/zbggList.jsp?type=A ",
-     "结果公告 -> /sggl/cgw/jggsList.jsp?type=A ",
-     "政策法规 -> /sggl/cgw/list.jsp?lmbh=ZCFG ",
-     "资料下载 -> /sggl/cgw/list.jsp?lmbh=ZLXZ ",
-     "联系我们 -> /sggl/cgw/list.jsp?lmbh=LXWM ",
-     "货物类 -> zbggList.jsp?type=A ",
-     "服务类 -> zbggList.jsp?type=C ",
-     "工程类 -> zbggList.jsp?type=B ",
-     "竞价采购公告 -> zbggList.jsp?lmbh_n=JJCGGG ",
-     "货物类 -> zbggList.jsp?type=A ",
-     "服务类 -> zbggList.jsp?type=C ",
-     "工程类 -> zbggList.jsp?type=B ",
-     "竞价采购公告 -> zbggList.jsp?lmbh_n=JJCGGG ",
-     "智能测试单元采购项目 -> zbggNews.jsp?type=A&gglx=1&wid=202610150138951828 ",
-     "高通量真核细胞电转染系统采购项目 -> zbggNews.jsp?type=A&gglx=1&wid=202609240138823981 ",
-     "移动金融方舱采购项目 -> zbggNews.jsp?type=A&gglx=1&wid=202610090138892261 ",
-     "同济大学数物融合控制模块-传输融合防护管理装置采购项目更正公 -> zbggNews.jsp?type=A&gglx=2&wid=202608270138625212 ",
-     "凝胶渗透色谱(GPC)采购项目 -> zbggNews.jsp?type=A&gglx=1&wid=202610080138879358 ",
-     "可见近红外荧光光谱仪采购项目 -> zbggNews.jsp?type=A&gglx=1&wid=202608310138640606 ",
-     "智能眼镜样机定制开发采购项目 -> zbggNews.jsp?type=A&gglx=1&wid=202609280138842212 ",
-     "定制型图形工作站采购项目 -> zbggNews.jsp?type=A&gglx=1&wid=202608310138640595 ",
-     "多机协同自主智能空地移动机器人集群采购项目 -> zbggNews.jsp?type=A&gglx=1&wid=202609170138756754 ",
-     "动力电池环境模拟测试系统采购项目 -> zbggNews.jsp?type=A&gglx=1&wid=202609300138863748 ",
-     "同济大学嘉定校区友园本科生宿舍7号楼整体修缮项目家具采购项目 -> zbggNews.jsp?type=A&gglx=1&wid=202609170138755857 ",
-     "同步控制数据采集系统定制开发采购项目 -> zbggNews.jsp?type=A&gglx=1&wid=202609170138754421 ",
-     "首页 -> javascript:; ",
-     "上页 -> javascript:; ",
-     "1 -> zbggList.jsp?type=A&lmbh_n=&nowPage=1 ",
-     "2 -> zbggList.jsp?type=A&lmbh_n=&nowPage=2 ",
-     "3 -> zbggList.jsp?type=A&lmbh_n=&nowPage=3 ",
-     "4 -> zbggList.jsp?type=A&lmbh_n=&nowPage=4 ",
-     "5 -> zbggList.jsp?type=A&lmbh_n=&nowPage=5 ",
-     "6 -> zbggList.jsp?type=A&lmbh_n=&nowPage=6 ",
-     "7 -> zbggList.jsp?type=A&lmbh_n=&nowPage=7 ",
-     "下一页 -> zbggList.jsp?type=A&lmbh_n=&nowPage=2 ",
-     "尾页 -> zbggList.jsp?type=A&lmbh_n=&nowPage=297 ",
-     "跳转 -> javascript:; "
-    ]
+    "title": "提示",
+    "url": "https://zcgl.cqupt.edu.cn/rump_frontend/access_forbidden/",
+    "text": "系统提示\n抱歉，您是在校外访问本网站。\n请您先登录学校的VPN后再访问：\nhttps://vpn.cqupt.edu.cn",
+    "links": []
    },
    "reqs": [],
    "json": []
+  }
+ ],
+ "hosts": [
+  {
+   "key": "NJUST",
+   "h": "cgzx.njust.edu.cn",
+   "proto": "https",
+   "title": "",
+   "url": "https://cgzx.njust.edu.cn/",
+   "sfw": false,
+   "tech": "",
+   "dated": 0
   },
   {
-   "key": "SYSU",
-   "url": "https://bidding.sysu.edu.cn/gg/cg",
-   "page": {
-    "title": "采购公告 | 中山大学政府采购与招投标管理中心",
-    "url": "https://bidding.sysu.edu.cn/gg/cg",
-    "text": "\t\n首页\n中心概况\n采购信息\n政策法规\n服务指引\n资料下载\n阳光 规范 高效\n导航痕迹\n首页  采购信息  采购公告\n采购公告\n结果公告\n其他公告\n采购公告\n\n中大招（货）[2025]001号　｜　 货物 　｜　中山大学化学学院零场穆斯堡尔谱仪采购项目\n\n中大招（服）[2025]003号　｜　 服务 　｜　中山大学航空航天学院复杂空间环境下位姿演化的载荷力学特性分析服务采购项目\n\n中大招（货）[2025]002号　｜　 货物 　｜　中山大学继续教育学院教学会议多媒体系统采购项目\n\n中大招（货）[2024]469号　｜　 货物 　｜　中山大学电子与信息工程学院6英寸管式炉采购项目\n\n中大招（服）[2025]001号　｜　 服务 　｜　中山大学图书馆2025年期刊报纸等装订加工服务项目\n\n中大招（货）[2024]470号　｜　 货物 　｜　中山大学电子与信息工程学院高真空Cluster热蒸发系统超高温加热装置采购项目\n\n中大招（服）[2025]004号　｜　 服务 　｜　中山大学2025年1~2月南校园维修工程施工服务采购项目\n\n中大招（货）[2024]459号　｜　 货物 　｜　中山大学电子与信息工程学院射频功率计采购项目\n\n中大招（货）[2024]454号　｜　 货物 　｜　中山大学电子与信息工程学院金属有机化合物化学沉积系统气源喷头升级改造项目\n\n中大招（货）[2024]463号　｜　 货物 　｜　中山大学电子与信息工程学院激光器巴条贴片机采购项目\n\n中大招（货）[2024]450号（第二次）　｜　 货物 　｜　中山大学理学院MDI真空腔室采购项目（第二次）\n\n中大招（货）[2024]445号　｜　 货物 　｜　中山大学电子与信息工程学院混合主动减振台和主动消磁器采购项目\n\n中大招（货）[2024]448号　｜　 货物 　｜　中山大学电子与通信工程学院宽带雷达多通道波形验证系统采购项目\n\n中大招（货）[2024]462号　｜　 货物 　｜　中山大学电子与信息工程学院中红外光学相机采购项目\n\n中大招（货）[2024]464号　｜　 货物 　｜　中山大学 电子与信息工程学院有源-无源混合集成芯片耦合测试系统采购项目\n\n中大招（服）[2024]376号　｜　 服务 　｜　中山大学航空航天学院面向小型飞行器再入飞行的性能评估平台开发服务采购项目\n\n中大招（货）[2024]456号　｜　 货物 　｜　中山大学电子与信息工程学院激光器芯片模拟信号调制测试(射频信号发生器)采购项目\n\n中大招（货）[2024]451号　｜　 货物 　｜　中山大学电子与信息工程学院波导耦合III-V族薄膜激光器测试系统采购项目\n\n中大招（货）[2024]465号　｜　 货物 　｜　中山大学电子与信息工程学院中红外量子级联激光器采购项目\n\n中大招（货）[2024]466号　｜　 货物 　｜　中山大学电子与信息工程学院飞秒皮秒激光器泵浦源采购项目\n\n分页\n当前页\n1\n页面\n2\n页面\n3\n页面\n4\n页面\n5\n页面\n6\n页面\n7\n页面\n8\n页面\n9\n…\n末页\n末页 »\n\n地址: 广州市新港西路135号中山大学西南区园南路415栋三楼东侧\n\n网页：http://bidding.sysu.edu.cn/\n\n电话：020-84115084 & 84115080 & 84115091 & 84115085 & 84115087\n\n版权所有：中山大学政府采购与招投标管理中心\n\nCopyright © 2017-2023",
-    "links": [
-     "主菜单 ->  ",
-     "首页 -> / ",
-     "Open submenu (中心概况 ) -> #mm-2 ",
-     "中心概况 ->  ",
-     "Open submenu (采购信息 ) -> #mm-3 ",
-     "采购信息 ->  ",
-     "Open submenu (政策法规 ) -> #mm-4 ",
-     "政策法规 -> /rules ",
-     "Open submenu (服务指引 ) -> #mm-5 ",
-     "服务指引 -> /guide ",
-     "资料下载 -> /download ",
-     "Close submenu -> #mm-1 ",
-     "中心概况 -> #mm-1 ",
-     "中心简介 -> /about ",
-     "组织机构 -> /structure ",
-     "部门职责 -> /duty ",
-     "工作目标 -> /objectives ",
-     "信息系统 -> /system ",
-     "Close submenu -> #mm-1 ",
-     "采购信息 -> #mm-1 ",
-     "采购公告 -> /gg/cg ",
-     "结果公告 -> /gg/jg ",
-     "其他公告 -> /cat/117 ",
-     "Close submenu -> #mm-1 ",
-     "政策法规 -> #mm-1 ",
-     "国家政策法规 -> /rules/gj ",
-     "学校规章制度 -> /rules/xx ",
-     "Close submenu -> #mm-1 ",
-     "服务指引 -> #mm-1 ",
-     "学习培训 -> /guide/xx ",
-     "相关链接 -> /guide/links ",
-     "采购指引 -> /guide/cg ",
-     " -> / ",
-     "首页 -> / ",
-     "中心概况 ->  ",
-     "中心简介 -> /about ",
-     "组织机构 -> /structure ",
-     "部门职责 -> /duty ",
-     "工作目标 -> /objectives ",
-     "信息系统 -> /system ",
-     "采购信息 ->  ",
-     "采购公告 -> /gg/cg ",
-     "结果公告 -> /gg/jg ",
-     "其他公告 -> /cat/117 ",
-     "政策法规 -> /rules ",
-     "国家政策法规 -> /rules/gj ",
-     "学校规章制度 -> /rules/xx ",
-     "服务指引 -> /guide ",
-     "学习培训 -> /guide/xx ",
-     "相关链接 -> /guide/links ",
-     "采购指引 -> /guide/cg ",
-     "资料下载 -> /download ",
-     "首页 -> / ",
-     "采购公告 -> /gg/cg ",
-     "结果公告 -> /gg/jg ",
-     "其他公告 -> /cat/117 ",
-     "中大招（货）[2025]001号　｜　 货物 　｜　中山大学 -> /node/17152 ",
-     "中大招（服）[2025]003号　｜　 服务 　｜　中山大学 -> /node/17154 ",
-     "中大招（货）[2025]002号　｜　 货物 　｜　中山大学 -> /node/17155 ",
-     "中大招（货）[2024]469号　｜　 货物 　｜　中山大学 -> /node/17149 ",
-     "中大招（服）[2025]001号　｜　 服务 　｜　中山大学 -> /node/17151 ",
-     "中大招（货）[2024]470号　｜　 货物 　｜　中山大学 -> /node/17148 ",
-     "中大招（服）[2025]004号　｜　 服务 　｜　中山大学 -> /node/17153 ",
-     "中大招（货）[2024]459号　｜　 货物 　｜　中山大学 -> /node/17147 ",
-     "中大招（货）[2024]454号　｜　 货物 　｜　中山大学 -> /node/17083 ",
-     "中大招（货）[2024]463号　｜　 货物 　｜　中山大学 -> /node/17145 ",
-     "中大招（货）[2024]450号（第二次）　｜　 货物 　｜ -> /node/17150 ",
-     "中大招（货）[2024]445号　｜　 货物 　｜　中山大学 -> /node/17081 ",
-     "中大招（货）[2024]448号　｜　 货物 　｜　中山大学 -> /node/17088 ",
-     "中大招（货）[2024]462号　｜　 货物 　｜　中山大学 -> /node/17144 ",
-     "中大招（货）[2024]464号　｜　 货物 　｜　中山大学 -> /node/17146 ",
-     "中大招（服）[2024]376号　｜　 服务 　｜　中山大学 -> /node/17095 ",
-     "中大招（货）[2024]456号　｜　 货物 　｜　中山大学 -> /node/17138 ",
-     "中大招（货）[2024]451号　｜　 货物 　｜　中山大学 -> /node/17079 ",
-     "中大招（货）[2024]465号　｜　 货物 　｜　中山大学 -> /node/17142 ",
-     "中大招（货）[2024]466号　｜　 货物 　｜　中山大学 -> /node/17140 ",
-     "当前页\n1 -> ?page=0 ",
-     "页面\n2 -> ?page=1 ",
-     "页面\n3 -> ?page=2 ",
-     "页面\n4 -> ?page=3 ",
-     "页面\n5 -> ?page=4 ",
-     "页面\n6 -> ?page=5 ",
-     "页面\n7 -> ?page=6 ",
-     "页面\n8 -> ?page=7 ",
-     "页面\n9 -> ?page=8 ",
-     "末页\n末页 » -> ?page=275 "
-    ]
-   },
-   "reqs": [
-    {
-     "m": "POST",
-     "u": "https://bidding.sysu.edu.cn/core/modules/statistics/statistics.php",
-     "b": "nid=1080"
-    }
-   ],
-   "json": []
+   "key": "NJTECH",
+   "h": "ztb.njtech.edu.cn",
+   "proto": "https",
+   "title": "南京工业大学招投标中心",
+   "url": "https://ztb.njtech.edu.cn/",
+   "sfw": false,
+   "tech": "",
+   "dated": 27
   }
  ]
 }
