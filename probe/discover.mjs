@@ -1,4 +1,4 @@
-// Round 3: full discovery pipeline for another batch of universities.
+// Round 4: 50 more universities + research institutes.
 import { chromium } from 'playwright';
 import dns from 'node:dns/promises';
 import { readFile, writeFile } from 'node:fs/promises';
@@ -6,12 +6,25 @@ import { readFile, writeFile } from 'node:fs/promises';
 const ROOT = new URL('..', import.meta.url);
 const scanSrc = await readFile(new URL('scraper/scan.js', ROOT), 'utf8');
 const UNIS = {
-  UCAS: 'ucas.ac.cn', NJUPT: 'njupt.edu.cn', NUIST: 'nuist.edu.cn', HEBUT: 'hebut.edu.cn', NCEPU: 'ncepu.edu.cn',
-  BUCT: 'buct.edu.cn', DHU: 'dhu.edu.cn', USST: 'usst.edu.cn', NBU: 'nbu.edu.cn', NCHU: 'nchu.edu.cn', SAU: 'sau.edu.cn',
-  CAUC: 'cauc.edu.cn', JIANGNAN: 'jiangnan.edu.cn', FZU: 'fzu.edu.cn', NCU: 'ncu.edu.cn', ZZU: 'zzu.edu.cn', NWU: 'nwu.edu.cn',
-  LZU: 'lzu.edu.cn', AHU: 'ahu.edu.cn', JNU: 'jnu.edu.cn', SCNU: 'scnu.edu.cn', SZTU: 'sztu.edu.cn', HRBUST: 'hrbust.edu.cn',
-  SWUST: 'swust.edu.cn', XUST: 'xust.edu.cn', CHD: 'chd.edu.cn', QDU: 'qdu.edu.cn', SDUST: 'sdust.edu.cn', CCNU: 'ccnu.edu.cn',
-  CUG: 'cug.edu.cn', NJUST: 'njust.edu.cn', SCUT: 'scut.edu.cn', HRBEU: 'hrbeu.edu.cn', HNU: 'hnu.edu.cn', CUST: 'cust.edu.cn',
+  PKU:'pku.edu.cn', NEU:'neu.edu.cn', BJTU:'bjtu.edu.cn', USTB:'ustb.edu.cn', BJUT:'bjut.edu.cn', BISTU:'bistu.edu.cn', CUMT:'cumt.edu.cn',
+  ECUST:'ecust.edu.cn', USST:'usst.edu.cn', SSPU:'sspu.edu.cn', WHUT:'whut.edu.cn', WUST:'wust.edu.cn', ZJUT:'zjut.edu.cn', ZSTU:'zstu.edu.cn',
+  HFUT:'hfut.edu.cn', XAUAT:'xauat.edu.cn', XUPT:'xupt.edu.cn', XATU:'xatu.edu.cn', GDUT:'gdut.edu.cn', SCUT:'scut.edu.cn', XTU:'xtu.edu.cn',
+  YSU:'ysu.edu.cn', SYLU:'sylu.edu.cn', CUST:'cust.edu.cn', NUC:'nuc.edu.cn', TJUT:'tjut.edu.cn', TGU:'tiangong.edu.cn', NJUST:'njust.edu.cn',
+  HHU:'hhu.edu.cn', JUST:'just.edu.cn', YZU:'yzu.edu.cn', NTU:'ntu.edu.cn', HQU:'hqu.edu.cn', FZU:'fzu.edu.cn', NCU:'ncu.edu.cn',
+  NCHU:'nchu.edu.cn', GUET:'guet.edu.cn', GXU:'gxu.edu.cn', GZU:'gzu.edu.cn', YNU:'ynu.edu.cn', SWU:'swu.edu.cn', SWPU:'swpu.edu.cn',
+  CDUT:'cdut.edu.cn', LUT:'lut.edu.cn', XJU:'xju.edu.cn', SXU:'sxu.edu.cn', ZZU:'zzu.edu.cn', OUC:'ouc.edu.cn', QUST:'qust.edu.cn',
+  UPC:'upc.edu.cn', QDU:'qdu.edu.cn', SDUST:'sdust.edu.cn', JNU:'jnu.edu.cn', HRBEU:'hrbeu.edu.cn', HRBUST:'hrbust.edu.cn', HNU:'hnu.edu.cn',
+  NUIST:'nuist.edu.cn', NCEPU:'ncepu.edu.cn', NBU:'nbu.edu.cn', SAU:'sau.edu.cn', CAUC:'cauc.edu.cn', JIANGNAN:'jiangnan.edu.cn',
+  NWU:'nwu.edu.cn', LZU:'lzu.edu.cn', SWUST:'swust.edu.cn', XUST:'xust.edu.cn', CHD:'chd.edu.cn', CCNU:'ccnu.edu.cn', CUG:'cug.edu.cn',
+  CQUT:'cqut.edu.cn', CQJTU:'cqjtu.edu.cn', CSUST:'csust.edu.cn', HUBU:'hubu.edu.cn', WZU:'wzu.edu.cn', ZJNU:'zjnu.edu.cn', SHIEP:'shiep.edu.cn',
+  SHMTU:'shmtu.edu.cn', ZJU:'zju.edu.cn', NJU:'nju.edu.cn', SEU:'seu.edu.cn', BIT:'bit.edu.cn', NUAA:'nuaa.edu.cn', NANKAI:'nankai.edu.cn',
+  SYSU:'sysu.edu.cn', CQUPT:'cqupt.edu.cn', HITWH:'hitwh.edu.cn', SDUWH:'wh.sdu.edu.cn', NWPUSZ:'nwpu.edu.cn',
+  // CAS and other research institutes
+  CIOMP:'ciomp.ac.cn', SIOM:'siom.ac.cn', IOE:'ioe.ac.cn', XIOPM:'opt.ac.cn', AIOFM:'aiofm.ac.cn', SEMI:'semi.ac.cn', IPHY:'iphy.ac.cn',
+  IPC:'ipc.ac.cn', SIA:'sia.cn', SITP:'sitp.ac.cn', NIAOT:'niaot.ac.cn', NAOC:'nao.cas.cn', IEECAS:'aircas.ac.cn', CSSAR:'nssc.ac.cn',
+  SIMIT:'sim.ac.cn', IOA:'ioa.ac.cn', IME:'ime.ac.cn', IOM:'imech.ac.cn', NIMTE:'nimte.ac.cn', SINANO:'sinano.ac.cn', SIAT:'siat.ac.cn',
+  HFIPS:'hfcas.ac.cn', DICP:'dicp.ac.cn', IMR:'imr.ac.cn', SARI:'sari.ac.cn', CSU_CAS:'csu.ac.cn', IHEP:'ihep.ac.cn', SSRF:'sinap.ac.cn',
+  IOP_CAS_GBA:'sslab.org.cn', CAEP:'caep.cn', NIM:'nim.ac.cn', ZJLAB:'zhejianglab.com', PCL:'pcl.ac.cn', BAQIS:'baqis.ac.cn',
 };
 const PREFIX = ['zbb','zbcg','cgzx','ztb','zbzx','cg','cgb','cgzb','zb','bidding','ztbzx','zcc','zcglc','sbc','cgglc','cggl','cgc','zbcgzx','caigou','zbgl','zbxx','cgxx','zbtb','gzc','zcgl','ztbgl','cgw','zbgs','cgglzx','zbc','czzx','zbcgb','cgzbzx','zcsb'];
 const REL = /采购|招标|招投标/;
@@ -55,9 +68,16 @@ for (const [key, dom] of Object.entries(UNIS).filter((_, i) => i % SHARDS === SH
   // links from the university home page
   for (const u of [`https://www.${dom}/`, `http://www.${dom}/`]) {
     const p = await open(u); if (!p) continue;
-    const links = await p.evaluate(() => Array.from(document.querySelectorAll('a')).filter(a => /招标|采购|招投标/.test(a.textContent)).map(a => a.href).slice(0, 8));
+    const links = await p.evaluate(() => [...new Set(Array.from(document.querySelectorAll('a')).filter(a => /招标|采购|招投标/.test(a.textContent) && a.textContent.trim().length < 16).map(a => a.href))].slice(0, 6));
     await p.close();
-    for (const l of links) { try { const h = new URL(l).host; if (h.endsWith(dom) && !h.startsWith('www.')) hosts.add(h); } catch {} }
+    for (const l of links) {
+      try {
+        const h = new URL(l).host;
+        if (!h.endsWith(dom)) continue;
+        if (!h.startsWith('www.')) hosts.add(h);
+        else { const pg = await open(l); if (pg) { await examine(key, pg, out).catch(() => {}); await pg.close(); } }
+      } catch {}
+    }
     break;
   }
   for (const h of hosts) {
