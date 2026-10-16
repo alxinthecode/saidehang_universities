@@ -65,7 +65,7 @@
     "status": "new",
     "note": "",
     "firstSeen": "2026-10-17",
-    "titleEn": "",
+    "titleEn": "Sub-micron imaging high-speed fly-scan platform (SZTUWSJJ2600361)",
     "noteEn": ""
   },
   {
@@ -89,7 +89,7 @@
     "status": "new",
     "note": "",
     "firstSeen": "2026-10-17",
-    "titleEn": "",
+    "titleEn": "Femtosecond laser smart machining controller (SZTUWSJJ2600359)",
     "noteEn": ""
   },
   {
@@ -114,8 +114,8 @@
     "status": "new",
     "note": "",
     "firstSeen": "2026-10-17",
-    "titleEn": "",
-    "noteEn": ""
+    "titleEn": "Precision positioning stage (SZTUWSJJ2600357)",
+    "noteEn": "Direct stage purchase; check whether the spec allows piezo stages."
   },
   {
     "_id": "SZTU-SZTUWSJJ2600350",
@@ -137,8 +137,8 @@
     "status": "new",
     "note": "",
     "firstSeen": "2026-10-17",
-    "titleEn": "",
-    "noteEn": ""
+    "titleEn": "NearLink audio anechoic test platform (SZTUWSJJ2600350)",
+    "noteEn": "Weak match on vibration isolation; probably not relevant."
   },
   {
     "budget": "66万元（22套，单套≤3万）",
@@ -185,7 +185,7 @@
     "status": "new",
     "note": "",
     "firstSeen": "2026-10-17",
-    "titleEn": "",
+    "titleEn": "In-situ electrochemistry visualization extended-depth-of-field system (SZTUWSJJ2600325)",
     "noteEn": ""
   },
   {
@@ -208,7 +208,7 @@
     "status": "new",
     "note": "",
     "firstSeen": "2026-10-17",
-    "titleEn": "",
+    "titleEn": "Air-floating vibration-isolated optical table (AHU-XNJJ20260284)",
     "noteEn": ""
   },
   {
@@ -254,7 +254,7 @@
     "status": "new",
     "note": "",
     "firstSeen": "2026-10-17",
-    "titleEn": "",
+    "titleEn": "Inverted microscope for patch clamp (SZTUWSJJ2600341)",
     "noteEn": ""
   },
   {
@@ -278,8 +278,8 @@
     "status": "new",
     "note": "",
     "firstSeen": "2026-10-17",
-    "titleEn": "",
-    "noteEn": ""
+    "titleEn": "Adaptive optics wavefront sensing measurement setup (SZTUWSJJ2600314)",
+    "noteEn": "Adaptive optics with deformable mirror: close to Cedrat's fast steering and deformable mirror range."
   },
   {
     "_id": "SZU-info1013371949.htm",
@@ -301,8 +301,8 @@
     "status": "new",
     "note": "",
     "firstSeen": "2026-10-17",
-    "titleEn": "",
-    "noteEn": ""
+    "titleEn": "Actuator-based vibration acceleration loading test machine (procurement intention)",
+    "noteEn": "Procurement intention, published before the tender: a chance to contact the lab early."
   },
   {
     "budget": "",
@@ -441,7 +441,7 @@
     "status": "new",
     "note": "",
     "firstSeen": "2026-10-17",
-    "titleEn": "",
+    "titleEn": "Cockpit design verification and experience platform (SZTUWSJJ2600298)",
     "noteEn": ""
   },
   {
@@ -510,8 +510,8 @@
     "status": "new",
     "note": "",
     "firstSeen": "2026-10-17",
-    "titleEn": "",
-    "noteEn": ""
+    "titleEn": "Diode DC sputtering multi-function coater (SZTUWSJJ2600275)",
+    "noteEn": "Matched on 压电 in the text; may be a false hit."
   },
   {
     "budget": "",
@@ -626,7 +626,7 @@
     "status": "new",
     "note": "",
     "firstSeen": "2026-10-17",
-    "titleEn": "",
+    "titleEn": "Dual-frequency damped vibration-isolated optical table, 2nd call (AHU-XNJJ20260209)",
     "noteEn": ""
   },
   {

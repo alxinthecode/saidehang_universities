@@ -1,8 +1,8 @@
 # Cedrat University Tender Watch · 赛得航高校标讯
 
-Tracks procurement announcements from 25 Chinese university platforms and flags the ones that match Cedrat Technologies' product lines (piezo actuators and motors, fast steering mirrors, magnetic actuators, controllers).
+Tracks procurement announcements from 45 Chinese university platforms and flags the ones that match Cedrat Technologies' product lines (piezo actuators and motors, fast steering mirrors, magnetic actuators, controllers).
 
-汇总 25 所高校采购平台的公告，筛出与 Cedrat（赛得航科技）压电促动器、压电马达、快反镜、磁驱作动器等产品相关的标讯。
+汇总 45 所高校采购平台的公告，筛出与 Cedrat（赛得航科技）压电促动器、压电马达、快反镜、磁驱作动器等产品相关的标讯。
 
 ## What's here
 
@@ -23,7 +23,7 @@ The live version on claude.ai keeps the data in a shared database and lets you s
 
 ## Platforms covered
 
-25 universities, picked for strength in optics, precision instruments, aerospace and microelectronics. The full configuration is in `scraper/sites.json`.
+45 universities, picked for strength in optics, precision instruments, aerospace, mechatronics and microelectronics. The full configuration is in `scraper/sites.json`.
 
 | University | Platform | How it's read |
 |---|---|---|
@@ -52,6 +52,26 @@ The live version on claude.ai keeps the data in a shared database and lets you s
 | Xi'an Jiaotong 西安交大 | cgb.xjtu.edu.cn | Own data feed (titles) |
 | Shanghai U 上海大学 | bidding.shu.edu.cn | List pages (titles only) |
 | Nanjing Tech 南京工业 | ztb.njtech.edu.cn | List pages (titles only) |
+| Jilin U 吉林大学 | cgglzx.jlu.edu.cn | 思必得 platform (full text on most) |
+| Shandong U 山东大学 | zcgl.sdu.edu.cn | 思必得 platform (full text on most) |
+| BUCT 北京化工 | cg.buct.edu.cn | 思必得 platform (full text on most) |
+| Shenzhen Tech U 深圳技术大学 | ztb.sztu.edu.cn | 思必得 platform (full text on most) |
+| Anhui U 安徽大学 | cgzx.ahu.edu.cn | 思必得 platform (full text on most) |
+| Xidian 西电 | cg.xidian.edu.cn | List pages (titles only) |
+| UCAS 国科大 | caigou.ucas.ac.cn | List pages (titles only) |
+| Soochow U 苏州大学 | zbzx.suda.edu.cn | List pages (titles only) |
+| ECNU 华东师大 | cgxx.ecnu.edu.cn | List pages (titles only) |
+| ShanghaiTech 上海科技 | www.shanghaitech.edu.cn | List pages (titles only) |
+| South China Normal U 华南师大 | cgzx.scnu.edu.cn | List pages (titles only) |
+| NJUPT 南京邮电 | zbb.njupt.edu.cn | List pages (titles only) |
+| Hangzhou Dianzi U 杭州电子科大 | cgzx.hdu.edu.cn | List pages (titles only) |
+| Southwest Jiaotong 西南交大 | bidding.swjtu.edu.cn | List pages (titles only) |
+| Central South U 中南大学 | czzx.csu.edu.cn | List pages (titles only) |
+| Shenzhen U 深圳大学 | bidding.szu.edu.cn | List pages (titles only) |
+| Donghua U 东华大学 | ztb.dhu.edu.cn | List pages (titles only) |
+| Hebei UT 河北工大 | zbcg.hebut.edu.cn | List pages (titles only) |
+| Jiangsu U 江苏大学 | cgb.ujs.edu.cn | List pages (titles only) |
+| Taiyuan UT 太原理工 | cgzb.tyut.edu.cn | List pages (titles only) |
 
 Two generic readers in `scraper/scan.js` handle almost everything:
 
@@ -60,7 +80,7 @@ Two generic readers in `scraper/scan.js` handle almost everything:
 
 Award, result and contract notices are skipped; only open opportunities are matched.
 
-Tried but not usable from outside China or without a login: Zhejiang U (staff login), Nanjing U of Aeronautics & Astronautics (blocks foreign visitors), BIT, Nanjing U, Southeast U, Nankai (unreachable from abroad), Sun Yat-sen (list no longer updated), CQUPT (no response).
+Tried but not usable from outside China or without a login: Zhejiang U and Guilin UET (login), Nanjing U of Aeronautics & Astronautics (blocks foreign visitors), BIT, Nanjing U, Southeast U, Nankai, Wuhan UT (unreachable from abroad), Sun Yat-sen (list no longer updated), CQUPT, HFUT, USTB, Ocean U of China (no public list found), Xi'an UT, BISTU, Xi'an Tech U (asset-office news only). Spare candidates that work but were not added: Nanchang Hangkong, Jiangnan, Qingdao, Central China Normal, North China Electric Power, Northeastern U.
 
 ## Matching rules
 
