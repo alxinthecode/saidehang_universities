@@ -433,6 +433,18 @@
     "QIBEBT": {
       "scanned": 24,
       "oldest": "2026-01-15"
+    },
+    "CIOMP": {
+      "scanned": 12,
+      "oldest": "2026-09-21"
+    },
+    "SITP": {
+      "scanned": 15,
+      "oldest": "2025-09-23"
+    },
+    "IOA": {
+      "scanned": 34,
+      "oldest": "2024-07-15"
     }
   },
   "extra": [
@@ -461,7 +473,7 @@
       "url": "https://cgzx.hit.edu.cn/sfw_cms/e?page=cms.news2"
     }
   ],
-  "lastRun": "2026-10-17T07:22",
+  "lastRun": "2026-10-17T07:29",
   "lastResults": [
     {
       "school": "THU",
@@ -632,9 +644,8 @@
     },
     {
       "school": "SZTU",
-      "ok": true,
-      "scanned": 100,
-      "matches": 4
+      "ok": false,
+      "error": "page.goto: Timeout 60000ms exceeded. (after retry)"
     },
     {
       "school": "AHU",
@@ -1093,13 +1104,15 @@
     },
     {
       "school": "CIOMP",
-      "ok": false,
-      "error": "page.goto: net::ERR_CERT_AUTHORITY_INVALID at https://www.ciomp.cas.cn/tzgg/ (after retry)"
+      "ok": true,
+      "scanned": 12,
+      "matches": 0
     },
     {
       "school": "SITP",
-      "ok": false,
-      "error": "page.goto: net::ERR_CERT_AUTHORITY_INVALID at https://www.sitp.cas.cn/ggtz/ (after retry)"
+      "ok": true,
+      "scanned": 15,
+      "matches": 0
     },
     {
       "school": "NAOC",
@@ -1109,14 +1122,14 @@
     },
     {
       "school": "IOA",
-      "ok": false,
-      "error": "page.goto: net::ERR_CERT_AUTHORITY_INVALID at https://www.ioa.cas.cn/tzgg/ (after retry)"
+      "ok": true,
+      "scanned": 34,
+      "matches": 0
     },
     {
       "school": "QIBEBT",
-      "ok": true,
-      "scanned": 24,
-      "matches": 0
+      "ok": false,
+      "error": "page.goto: Timeout 60000ms exceeded. (after retry)"
     }
   ]
 }
