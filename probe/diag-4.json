@@ -1,0 +1,92 @@
+[
+ {
+  "key": "BJUT",
+  "dom": "bjut.edu.cn",
+  "home": null,
+  "links": [],
+  "hosts": []
+ },
+ {
+  "key": "YSU",
+  "dom": "ysu.edu.cn",
+  "home": null,
+  "links": [],
+  "hosts": [
+   "cwc.ysu.edu.cn",
+   "zcglc.ysu.edu.cn",
+   "sbc.ysu.edu.cn"
+  ]
+ },
+ {
+  "key": "GUET",
+  "dom": "guet.edu.cn",
+  "home": "https://www.guet.edu.cn/",
+  "links": [
+   "桂林电子科技大学采集模块 https://www.guet.edu.cn/2026/1008/c6361a160634/page.htm",
+   "桂林电子科技大学旅游景点 https://www.guet.edu.cn/2026/1008/c6361a160627/page.htm",
+   "桂林电子科技大学热水器询 https://www.guet.edu.cn/2026/1008/c6361a160623/page.htm"
+  ],
+  "hosts": [
+   "zbcg.guet.edu.cn"
+  ]
+ },
+ {
+  "key": "QUST",
+  "dom": "qust.edu.cn",
+  "home": "https://www.qust.edu.cn/",
+  "links": [],
+  "hosts": [
+   "sbc.qust.edu.cn",
+   "zcgl.qust.edu.cn",
+   "czzx.qust.edu.cn"
+  ]
+ },
+ {
+  "key": "XUST",
+  "dom": "xust.edu.cn",
+  "home": "https://www.xust.edu.cn/",
+  "links": [
+   "西安科技大学LPE3C- https://www.xust.edu.cn/info/1256/31958.htm",
+   "西安科技大学食堂米面油采 https://www.xust.edu.cn/info/1256/31957.htm",
+   "西安科技大学气相沉积-固 https://www.xust.edu.cn/info/1256/31956.htm",
+   "招标采购 https://gzc.xust.edu.cn/zbcg/yxgk.htm"
+  ],
+  "hosts": [
+   "cwc.xust.edu.cn",
+   "gzc.xust.edu.cn",
+   "zcgl.xust.edu.cn"
+  ]
+ },
+ {
+  "key": "CQUPT",
+  "dom": "cqupt.edu.cn",
+  "home": "https://www.cqupt.edu.cn/",
+  "links": [
+   "招标信息 javascript:;",
+   "2026.09.24\n  https://cgpt.cqupt.edu.cn/notices/referNotice/1679189324366610432?activeType=result",
+   "2026.09.23\n  https://cgpt.cqupt.edu.cn/notices/referNotice/1678727637993877504?activeType=procurement",
+   "2026.09.22\n  https://cgpt.cqupt.edu.cn/notices/referNotice/1678466326030544896?activeType=result",
+   "2026.09.21\n  https://cgpt.cqupt.edu.cn/notices/referNotice/1678118066090766336?activeType=result"
+  ],
+  "hosts": [
+   "cwc.cqupt.edu.cn",
+   "zcglc.cqupt.edu.cn",
+   "zcc.cqupt.edu.cn",
+   "zcgl.cqupt.edu.cn"
+  ]
+ },
+ {
+  "key": "SIA",
+  "dom": "sia.cas.cn",
+  "home": "https://www.sia.cas.cn/",
+  "links": [],
+  "hosts": []
+ },
+ {
+  "key": "IMR",
+  "dom": "imr.cas.cn",
+  "home": null,
+  "links": [],
+  "hosts": []
+ }
+]
