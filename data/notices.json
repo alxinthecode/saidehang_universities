@@ -491,6 +491,29 @@
     "_id": "TJU-TDZC2026N0135"
   },
   {
+    "_id": "SZTU-SZTUWSJJ2600275",
+    "school": "SZTU",
+    "title": "二极直流溅射多功能镀膜仪（SZTUWSJJ2600275）采购公告",
+    "url": "http://ztb.sztu.edu.cn/provider/#/publish/20MU2EG2AMXVINBH",
+    "published": "2026-09-15",
+    "deadline": "2026-09-18 17:00",
+    "method": "网上竞价",
+    "no": "SZTUWSJJ2600275",
+    "budget": "",
+    "imports": "",
+    "strong": [
+      "压电"
+    ],
+    "weak": [],
+    "tier": "strong",
+    "snippet": "冷却系统：真空泵采用分子泵风冷系统，溅射靶头、膜厚探头采用水冷 膜厚仪： QCM压电陶瓷膜厚仪1套:包含水冷探头，探测精度0.1埃 探头位置探头位置：探头位置、高度可调节 晶振片：晶振片6MHz镀金石英片，含晶振寿命监测 通道数：默认单通道",
+    "status": "new",
+    "note": "",
+    "firstSeen": "2026-10-17",
+    "titleEn": "",
+    "noteEn": ""
+  },
+  {
     "budget": "",
     "deadline": "2026-09-10 09:00",
     "firstSeen": "2026-10-15",
