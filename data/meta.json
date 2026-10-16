@@ -3,7 +3,7 @@
     "BUAA": {
       "note": "仅标题；公开招标/科研快采/网上竞价三栏",
       "noteEn": "Titles only; open tender, research fast-track and online bidding lists",
-      "oldest": "2026-09-24",
+      "oldest": "2026-05-22",
       "scanned": 36
     },
     "HIT": {
@@ -21,7 +21,7 @@
     "THU": {
       "note": "按正文全文匹配；网上比选只有标题",
       "noteEn": "Full announcement text matched; online-comparison items are title-only",
-      "oldest": "2026-10-11",
+      "oldest": "2026-10-12",
       "scanned": 100
     },
     "TJU": {
@@ -29,6 +29,86 @@
       "noteEn": "Mostly titles only",
       "oldest": "2026-09-09",
       "scanned": 100
+    },
+    "USTC": {
+      "scanned": 100,
+      "oldest": "2026-04-14"
+    },
+    "CQU": {
+      "scanned": 100,
+      "oldest": "2026-10-09"
+    },
+    "SCU": {
+      "scanned": 100,
+      "oldest": "2026-09-09"
+    },
+    "HITSZ": {
+      "scanned": 100,
+      "oldest": "2026-01-27"
+    },
+    "WESTLAKE": {
+      "scanned": 100,
+      "oldest": "2026-09-20"
+    },
+    "BUPT": {
+      "scanned": 100,
+      "oldest": "2026-08-04"
+    },
+    "XMU": {
+      "scanned": 100,
+      "oldest": "2026-07-06"
+    },
+    "DUT": {
+      "scanned": 100,
+      "oldest": "2026-08-24"
+    },
+    "KUST": {
+      "scanned": 100,
+      "oldest": "2026-08-13"
+    },
+    "DLMU": {
+      "scanned": 100,
+      "oldest": "2026-06-12"
+    },
+    "HUST": {
+      "scanned": 30,
+      "oldest": "2024-09-13"
+    },
+    "FUDAN": {
+      "scanned": 30,
+      "oldest": "2025-11-25"
+    },
+    "NWPU": {
+      "scanned": 20,
+      "oldest": "2026-06-26"
+    },
+    "TONGJI": {
+      "scanned": 36,
+      "oldest": ""
+    },
+    "SUSTECH": {
+      "scanned": 40,
+      "oldest": "2020-12-09"
+    },
+    "UESTC": {
+      "scanned": 5,
+      "oldest": "2026-10-14"
+    },
+    "WHU": {
+      "scanned": 327,
+      "oldest": "2024-06-28"
+    },
+    "XJTU": {
+      "scanned": 999,
+      "oldest": "2025-04-23"
+    },
+    "SHU": {
+      "scanned": 10,
+      "oldest": "2026-10-12"
+    },
+    "NJTECH": {
+      "scanned": 12,
+      "oldest": "2026-08-07"
     }
   },
   "extra": [
@@ -57,7 +137,7 @@
       "url": "https://cgzx.hit.edu.cn/sfw_cms/e?page=cms.news2"
     }
   ],
-  "lastRun": "2026-10-16T14:17",
+  "lastRun": "2026-10-16T19:51",
   "lastResults": [
     {
       "school": "THU",
@@ -66,9 +146,9 @@
       "matches": 0
     },
     {
-      "school": "TJU",
+      "school": "BUAA",
       "ok": true,
-      "scanned": 100,
+      "scanned": 36,
       "matches": 2
     },
     {
@@ -84,10 +164,130 @@
       "matches": 0
     },
     {
-      "school": "BUAA",
+      "school": "TJU",
+      "ok": true,
+      "scanned": 100,
+      "matches": 3
+    },
+    {
+      "school": "USTC",
+      "ok": true,
+      "scanned": 100,
+      "matches": 0
+    },
+    {
+      "school": "CQU",
+      "ok": true,
+      "scanned": 100,
+      "matches": 0
+    },
+    {
+      "school": "SCU",
+      "ok": true,
+      "scanned": 100,
+      "matches": 2
+    },
+    {
+      "school": "HITSZ",
+      "ok": true,
+      "scanned": 100,
+      "matches": 0
+    },
+    {
+      "school": "WESTLAKE",
+      "ok": true,
+      "scanned": 100,
+      "matches": 3
+    },
+    {
+      "school": "BUPT",
+      "ok": true,
+      "scanned": 100,
+      "matches": 0
+    },
+    {
+      "school": "XMU",
+      "ok": true,
+      "scanned": 100,
+      "matches": 0
+    },
+    {
+      "school": "DUT",
+      "ok": true,
+      "scanned": 100,
+      "matches": 0
+    },
+    {
+      "school": "KUST",
+      "ok": true,
+      "scanned": 100,
+      "matches": 0
+    },
+    {
+      "school": "DLMU",
+      "ok": true,
+      "scanned": 100,
+      "matches": 0
+    },
+    {
+      "school": "HUST",
+      "ok": true,
+      "scanned": 30,
+      "matches": 0
+    },
+    {
+      "school": "FUDAN",
+      "ok": true,
+      "scanned": 30,
+      "matches": 0
+    },
+    {
+      "school": "NWPU",
+      "ok": true,
+      "scanned": 20,
+      "matches": 0
+    },
+    {
+      "school": "TONGJI",
       "ok": true,
       "scanned": 36,
+      "matches": 0
+    },
+    {
+      "school": "SUSTECH",
+      "ok": true,
+      "scanned": 40,
+      "matches": 0
+    },
+    {
+      "school": "UESTC",
+      "ok": true,
+      "scanned": 5,
+      "matches": 0
+    },
+    {
+      "school": "WHU",
+      "ok": true,
+      "scanned": 327,
+      "matches": 0
+    },
+    {
+      "school": "XJTU",
+      "ok": true,
+      "scanned": 999,
       "matches": 2
+    },
+    {
+      "school": "SHU",
+      "ok": true,
+      "scanned": 10,
+      "matches": 0
+    },
+    {
+      "school": "NJTECH",
+      "ok": true,
+      "scanned": 12,
+      "matches": 0
     }
   ]
 }

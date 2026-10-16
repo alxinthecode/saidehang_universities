@@ -1,5 +1,51 @@
 [
   {
+    "_id": "TJU-TDZC2026N0119",
+    "school": "TJU",
+    "title": "天津大学天津纳米颗粒与纳米系统国际研究中心高精度三维电动平台系统采购项目竞争性磋商公告",
+    "url": "https://zbb.tju.edu.cn/provider/#/publish/20MVAO7QBLHQ9RR7",
+    "published": "2026-10-16",
+    "deadline": "2026-10-23 17:00",
+    "method": "竞争性磋商",
+    "no": "TDZC2026N0119",
+    "budget": "",
+    "imports": "",
+    "strong": [],
+    "weak": [
+      "电动平台"
+    ],
+    "tier": "weak",
+    "snippet": "",
+    "status": "new",
+    "note": "",
+    "firstSeen": "2026-10-16",
+    "titleEn": "",
+    "noteEn": ""
+  },
+  {
+    "_id": "WESTLAKE-WLU-FW-KS-WM-2026-0224",
+    "school": "WESTLAKE",
+    "title": "生物型原子力显微镜升级拼图模块（WLU-FW-KS-WM-2026-0224）采购公告",
+    "url": "https://procurement.westlake.edu.cn/provider/#/publish/20MVAB4M7R1ZLMX1",
+    "published": "2026-10-16",
+    "deadline": "2026-10-21 10:00",
+    "method": "快速竞价",
+    "no": "WLU-FW-KS-WM-2026-0224",
+    "budget": "",
+    "imports": "",
+    "strong": [
+      "压电"
+    ],
+    "weak": [],
+    "tier": "strong",
+    "snippet": "不规则扫描区域，排除非目标区域对实验结果的干扰；自动调节Z轴电机位置，最大化可用压电行程。 售后服务 质保期:14月;商品承诺:质保期后，只收取零配件费，不收取人工费;其他:因产品质量问题引起的设备故障，卖方负责免费维修和更换零件。 西湖大",
+    "status": "new",
+    "note": "",
+    "firstSeen": "2026-10-16",
+    "titleEn": "",
+    "noteEn": ""
+  },
+  {
     "budget": "66万元（22套，单套≤3万）",
     "budgetEn": "CNY 660k (22 units, max CNY 30k each)",
     "deadline": "2026-10-23 09:30",
@@ -25,6 +71,29 @@
     "_id": "TJU-TDZC2026N0110"
   },
   {
+    "_id": "SCU-ZBZXFB2026009",
+    "school": "SCU",
+    "title": "扫描探针显微镜维修（ZBZXFB2026009）采购公告",
+    "url": "https://cg.scu.edu.cn/provider/#/publish/20MV0N2GBLTUZPKG",
+    "published": "2026-10-09",
+    "deadline": "2026-10-13 18:00",
+    "method": "网上比选",
+    "no": "ZBZXFB2026009",
+    "budget": "",
+    "imports": "",
+    "strong": [
+      "压电"
+    ],
+    "weak": [],
+    "tier": "strong",
+    "snippet": "修和保养服务 品牌 规格型号 预算 ￥ 180,000 技术参数 1. 修复后，压电陶瓷XY轴闭环噪声＜100 pm，Z轴闭环噪声＜60pm； 2. 修复后，高频AC信号检测带宽不低于6MHz;检测带宽600Hz以上时，光电探测系统噪声＜1",
+    "status": "new",
+    "note": "",
+    "firstSeen": "2026-10-16",
+    "titleEn": "",
+    "noteEn": ""
+  },
+  {
     "budget": "",
     "deadline": "2026-10-05 21:00",
     "firstSeen": "2026-10-15",
@@ -46,6 +115,29 @@
       "位移传感器"
     ],
     "_id": "THU-20261303"
+  },
+  {
+    "_id": "WESTLAKE-WLU-HW-KS-NM-2026-1225",
+    "school": "WESTLAKE",
+    "title": "原子力显微镜（WLU-HW-KS-NM-2026-1225）采购公告",
+    "url": "https://procurement.westlake.edu.cn/provider/#/publish/20MUL0TIFI3I5DPB",
+    "published": "2026-09-28",
+    "deadline": "2026-10-08 18:00",
+    "method": "快速竞价",
+    "no": "WLU-HW-KS-NM-2026-1225",
+    "budget": "",
+    "imports": "",
+    "strong": [
+      "压电"
+    ],
+    "weak": [],
+    "tier": "strong",
+    "snippet": "式：轻敲模式；接触模式；磁力显微镜模式；静电力显微镜模式；扫描开尔文显微镜模式；压电力显微镜模式 3. 自动化进针系统：具有软件自动进针功能。通过软件控制Z方向马达实现探针自动进针。可通过电脑全程观察下针过程。 4. X,Y,Z三轴分离式闭",
+    "status": "new",
+    "note": "",
+    "firstSeen": "2026-10-16",
+    "titleEn": "",
+    "noteEn": ""
   },
   {
     "budget": "",
@@ -71,6 +163,52 @@
       "位移台"
     ],
     "_id": "BUAA-JJ20260135"
+  },
+  {
+    "_id": "SCU-ZBZXJJ20260276",
+    "school": "SCU",
+    "title": "小型蛋白质纯化仪（ZBZXJJ20260276）采购公告",
+    "url": "https://cg.scu.edu.cn/provider/#/publish/20MUF63LIZTUROXL",
+    "published": "2026-09-24",
+    "deadline": "2026-09-30 15:00",
+    "method": "网上竞价",
+    "no": "ZBZXJJ20260276",
+    "budget": "",
+    "imports": "",
+    "strong": [],
+    "weak": [
+      "电容传感器"
+    ],
+    "tier": "weak",
+    "snippet": " 层析柱架最大夹4.5cm 5. 溶液抽干检测自动停止，报警提示 6. 气泡检测电容传感器，自动排气泡 7. 蛋白检测光源深紫外：LED 8. 蛋白检测波长：280nm 9. 检测体积：32ul 10. 检测光程：≥10mm 11. 电导：",
+    "status": "new",
+    "note": "",
+    "firstSeen": "2026-10-16",
+    "titleEn": "",
+    "noteEn": ""
+  },
+  {
+    "_id": "WESTLAKE-WLU-HW-KS-WM-2026-0203",
+    "school": "WESTLAKE",
+    "title": "单点式激光测振仪（WLU-HW-KS-WM-2026-0203）采购公告",
+    "url": "https://procurement.westlake.edu.cn/provider/#/publish/20MUF5MKX8QG4MA9",
+    "published": "2026-09-24",
+    "deadline": "2026-09-30 15:00",
+    "method": "快速竞价",
+    "no": "WLU-HW-KS-WM-2026-0203",
+    "budget": "",
+    "imports": "",
+    "strong": [
+      "压电"
+    ],
+    "weak": [],
+    "tier": "strong",
+    "snippet": "次数值固定 *投标激光测振仪在信号源输出20V Burst信号，放大器20dB，压电片激励条件下，激光测振仪设置60KHz硬件高通滤波器，与软件设置±10%中心频率偏移的带通滤波器，进行1MHz连续三次测试用户现场提供的样品，数据波形整体符",
+    "status": "new",
+    "note": "",
+    "firstSeen": "2026-10-16",
+    "titleEn": "",
+    "noteEn": ""
   },
   {
     "budget": "",
@@ -278,5 +416,51 @@
       "位移台"
     ],
     "_id": "TJU-TDZC2025N0379"
+  },
+  {
+    "_id": "XJTU-cc81459f008a",
+    "school": "XJTU",
+    "title": "西安交通大学超声成像与治疗用压电材料关键性能测试系统公开招标采购公告（电子招投标）",
+    "url": "https://cgb.xjtu.edu.cn/site/caseInfo?nrid=4af592f3983c93ed0198cc81459f008a&jdid=4af592f37641715c0176419ae14f000d",
+    "published": "2025-08-21",
+    "deadline": "",
+    "method": "校级采购公告",
+    "no": "",
+    "budget": "",
+    "imports": "",
+    "strong": [
+      "压电"
+    ],
+    "weak": [],
+    "tier": "strong",
+    "snippet": "",
+    "status": "new",
+    "note": "",
+    "firstSeen": "2026-10-16",
+    "titleEn": "",
+    "noteEn": ""
+  },
+  {
+    "_id": "XJTU-f8a92ea10062",
+    "school": "XJTU",
+    "title": "西安交通大学六自由度平台校级磋商采购公告（电子招投标）",
+    "url": "https://cgb.xjtu.edu.cn/site/caseInfo?nrid=4af592f397d02e680197f8a92ea10062&jdid=4af592f37641715c0176419ae14f000d",
+    "published": "2025-07-11",
+    "deadline": "",
+    "method": "校级采购公告",
+    "no": "",
+    "budget": "",
+    "imports": "",
+    "strong": [],
+    "weak": [
+      "六自由度"
+    ],
+    "tier": "weak",
+    "snippet": "",
+    "status": "new",
+    "note": "",
+    "firstSeen": "2026-10-16",
+    "titleEn": "",
+    "noteEn": ""
   }
 ]
