@@ -1,0 +1,289 @@
+[
+ {
+  "key": "WHUT",
+  "title": "武汉理工大学采购与招标管理办公室 - 首页",
+  "url": "http://cgyztb.whut.edu.cn/",
+  "sfw": false,
+  "navs": [
+   {
+    "t": "更多>>",
+    "h": "http://cgyztb.whut.edu.cn/yxgk/index.chtml"
+   },
+   {
+    "t": "更多>>",
+    "h": "http://cgyztb.whut.edu.cn/cgxx/index.chtml"
+   },
+   {
+    "t": "更多>>",
+    "h": "http://cgyztb.whut.edu.cn/cgjzcg/index.chtml"
+   },
+   {
+    "t": "更多>>",
+    "h": "http://cgyztb.whut.edu.cn/cgfscg/index.chtml"
+   },
+   {
+    "t": "更多>>",
+    "h": "http://cgyztb.whut.edu.cn/cgjjgg/index.chtml"
+   },
+   {
+    "t": "更多>>",
+    "h": "http://cgyztb.whut.edu.cn/cgqt/index.chtml"
+   },
+   {
+    "t": "更多>>",
+    "h": "http://cgyztb.whut.edu.cn/cjgs/index.chtml"
+   },
+   {
+    "t": "更多>>",
+    "h": "http://cgyztb.whut.edu.cn/jgjzcg/index.chtml"
+   }
+  ],
+  "cands": [
+   {
+    "u": "http://cgyztb.whut.edu.cn/",
+    "label": "home",
+    "scanned": 70,
+    "oldest": "2025-10-10",
+    "n": 0,
+    "newest": [
+     "2026-10-16 武汉理工大学2026年11月集中采购意向公开",
+     "2026-09-30 武汉理工大学2026年11月集中采购意向公开",
+     "2026-09-28 武汉理工大学2026年10月集中采购意向公开"
+    ],
+    "rows": []
+   },
+   {
+    "u": "http://cgyztb.whut.edu.cn/yxgk/index.chtml",
+    "label": "更多>>",
+    "scanned": 15,
+    "oldest": "2026-07-28",
+    "n": 0,
+    "newest": [
+     "2026-10-16 武汉理工大学2026年11月集中采购意向公开",
+     "2026-09-30 武汉理工大学2026年11月集中采购意向公开",
+     "2026-09-28 武汉理工大学2026年10月集中采购意向公开"
+    ],
+    "rows": []
+   },
+   {
+    "u": "http://cgyztb.whut.edu.cn/cgxx/index.chtml",
+    "label": "更多>>",
+    "scanned": 15,
+    "oldest": "2026-10-12",
+    "n": 0,
+    "newest": [
+     "2026-10-16 武汉理工大学水电基础设施改造项目（EPC）第1次资审答疑",
+     "2026-10-16 120TEU纯电动集装箱船智能化系统装备与平台项目变更公",
+     "2026-10-16 武汉理工大学马房山校区西院学生宿舍楼群综合改造项目(EP"
+    ],
+    "rows": []
+   },
+   {
+    "u": "http://cgyztb.whut.edu.cn/cgjzcg/index.chtml",
+    "label": "更多>>",
+    "scanned": 15,
+    "oldest": "2026-09-29",
+    "n": 0,
+    "newest": [
+     "2026-10-16 武汉理工大学水电基础设施改造项目（EPC）第1次资审答疑",
+     "2026-10-16 120TEU纯电动集装箱船智能化系统装备与平台项目变更公",
+     "2026-10-16 武汉理工大学马房山校区西院学生宿舍楼群综合改造项目(EP"
+    ],
+    "rows": []
+   },
+   {
+    "u": "http://cgyztb.whut.edu.cn/cgfscg/index.chtml",
+    "label": "更多>>",
+    "scanned": 15,
+    "oldest": "2026-09-24",
+    "n": 0,
+    "newest": [
+     "2026-10-15 高纯金丝99.999%采购分散采购公告",
+     "2026-10-14 2026化学与材料学科交叉前沿高端国际论坛会务服务采购分",
+     "2026-10-14 第十二届中国LHC物理会议（CLHCP2026）会务服务"
+    ],
+    "rows": []
+   },
+   {
+    "u": "http://cgyztb.whut.edu.cn/cgqt/index.chtml",
+    "label": "更多>>",
+    "scanned": 3,
+    "oldest": "2025-10-10",
+    "n": 0,
+    "newest": [
+     "2025-11-10 武汉理工大学马房山校区西院田径场南侧（洪达巷沿街）新建门",
+     "2025-11-10 武汉理工大学洪山区雄楚大道266号门面招租（现岚图4s店",
+     "2025-10-10 薄膜材料制备与光电性能表征综合系统采购需求征求意见公告"
+    ],
+    "rows": []
+   },
+   {
+    "u": "http://cgyztb.whut.edu.cn/jgjzcg/index.chtml",
+    "label": "更多>>",
+    "scanned": 15,
+    "oldest": "2026-08-19",
+    "n": 0,
+    "newest": [
+     "2026-10-12 脆性材料力学测试表征平台中标结果公告",
+     "2026-10-11 武汉理工大学马房山校区东院水泥混凝土楼维修改造工程项目施",
+     "2026-10-10 武汉理工大学实验室危险废弃物处置项目（二次）成交结果公告"
+    ],
+    "rows": []
+   }
+  ]
+ },
+ {
+  "key": "NCU",
+  "title": "登录 - 南昌大学",
+  "url": "https://cas.ncu.edu.cn:8443/cas/login?service=http%3A%2F%2Fzcxt.ncu.edu.cn%2Fsso%2F",
+  "sfw": false,
+  "navs": [],
+  "cands": []
+ },
+ {
+  "key": "NANKAI",
+  "title": "南开大学招投标管理办公室 - 首页",
+  "url": "https://nkzbb.nankai.edu.cn/",
+  "sfw": false,
+  "navs": [
+   {
+    "t": "采购公告",
+    "h": "https://nkzbb.nankai.edu.cn/cghw/index.chtml"
+   },
+   {
+    "t": "货物类",
+    "h": "https://nkzbb.nankai.edu.cn/jghw/index.chtml"
+   },
+   {
+    "t": "MORE >",
+    "h": "https://nkzbb.nankai.edu.cn/ggtz/index.chtml"
+   },
+   {
+    "t": "MORE >",
+    "h": "https://nkzbb.nankai.edu.cn/cggc/index.chtml"
+   },
+   {
+    "t": "MORE >",
+    "h": "https://nkzbb.nankai.edu.cn/cgfw/index.chtml"
+   },
+   {
+    "t": "MORE >",
+    "h": "https://nkzbb.nankai.edu.cn/cgqt/index.chtml"
+   },
+   {
+    "t": "MORE >",
+    "h": "https://nkzbb.nankai.edu.cn/jggc/index.chtml"
+   },
+   {
+    "t": "MORE >",
+    "h": "https://nkzbb.nankai.edu.cn/jgfw/index.chtml"
+   }
+  ],
+  "cands": [
+   {
+    "u": "https://nkzbb.nankai.edu.cn/",
+    "label": "home",
+    "scanned": 71,
+    "oldest": "2025-11-21",
+    "n": 0,
+    "newest": [
+     "2026-07-06 招投标管理办公室2026年暑假值班表",
+     "2026-05-14 招标办组织开展采购招标业务专题培训会",
+     "2026-04-30 招标办协同相关部门与学院开展业务交流活动"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://nkzbb.nankai.edu.cn/cghw/index.chtml",
+    "label": "采购公告",
+    "scanned": 15,
+    "oldest": "2026-08-20",
+    "n": 0,
+    "newest": [
+     "2026-09-21 南开大学医学院数字玻片扫描仪采购项目（NK2026H07",
+     "2026-09-20 南开大学津南校区大通学生中心大音乐厅LED大屏幕采购项目",
+     "2026-09-16 南开大学津南校区大通学生中心大音乐厅LED大屏幕采购项目"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://nkzbb.nankai.edu.cn/jghw/index.chtml",
+    "label": "货物类",
+    "scanned": 15,
+    "oldest": "2026-08-18",
+    "n": 0,
+    "newest": [
+     "2026-10-15 南开大学实验室设备处智慧安全实验室建设采购项目（NK20",
+     "2026-10-08 南开大学实验室设备处智慧安全实验室建设采购项目(NK20",
+     "2026-10-08 南开大学医学院数字玻片扫描仪采购项目（NK2026H07"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://nkzbb.nankai.edu.cn/ggtz/index.chtml",
+    "label": "MORE >",
+    "scanned": 15,
+    "oldest": "2025-05-19",
+    "n": 0,
+    "newest": [
+     "2026-07-06 招投标管理办公室2026年暑假值班表",
+     "2026-05-14 招标办组织开展采购招标业务专题培训会",
+     "2026-04-30 招标办协同相关部门与学院开展业务交流活动"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://nkzbb.nankai.edu.cn/cggc/index.chtml",
+    "label": "MORE >",
+    "scanned": 15,
+    "oldest": "2026-08-07",
+    "n": 0,
+    "newest": [
+     "2026-10-13 南开大学八里台校区学一食堂南侧小树林管线迁移工程（NK2",
+     "2026-10-12 南开大学2026-2028年度小型维修工程采购项目（NK",
+     "2026-10-12 南开大学国有资产管理办公室杨柳青A地块试验田改造项目（第"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://nkzbb.nankai.edu.cn/cgfw/index.chtml",
+    "label": "MORE >",
+    "scanned": 15,
+    "oldest": "2026-08-28",
+    "n": 0,
+    "newest": [
+     "2026-10-13 南开大学继续教育学院培训拍摄服务采购项目（NK2026F",
+     "2026-10-10 南开大学图书馆Wiley电子期刊采购项目（NK2026F",
+     "2026-10-08 南开大学海外社交媒体平台运营、推广服务（NK2026F0"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://nkzbb.nankai.edu.cn/cgqt/index.chtml",
+    "label": "MORE >",
+    "scanned": 15,
+    "oldest": "2026-05-13",
+    "n": 0,
+    "newest": [
+     "2026-10-08 南开大学2026年校园自助售货机项目（NK2026Z00",
+     "2026-09-11 南开大学泰达学院食堂经营项目（NK2026F015L）公",
+     "2026-08-03 南开大学津南校区、八里台校区学生宿舍2026年、2027"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://nkzbb.nankai.edu.cn/jggc/index.chtml",
+    "label": "MORE >",
+    "scanned": 15,
+    "oldest": "2026-07-24",
+    "n": 0,
+    "newest": [
+     "2026-09-29 南开大学八里台校区第五教学楼加固及修缮改造工程（NK20",
+     "2026-09-24 南开大学津南校区化学大楼施工（NK2026G030）中标",
+     "2026-09-23 南开大学国有资产管理办公室杨柳青A地块试验田改造项目（N"
+    ],
+    "rows": []
+   }
+  ]
+ }
+]
