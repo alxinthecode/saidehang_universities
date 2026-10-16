@@ -68,6 +68,8 @@ for (const r of results.filter(r => r.ok)) {
       added.push(fresh);
     } else {
       for (const k of ['deadline', 'budget', 'imports', 'snippet']) if (!cur[k] && row[k]) cur[k] = row[k];
+      // Re-found rows take the current keyword rules.
+      for (const k of ['strong', 'weak', 'tier']) cur[k] = row[k];
     }
   }
 }
