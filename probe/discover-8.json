@@ -1,0 +1,328 @@
+[
+ {
+  "key": "USST",
+  "title": "上海理工大学招标办公室",
+  "url": "https://zbb.usst.edu.cn/",
+  "sfw": false,
+  "navs": [
+   {
+    "t": "招标公告",
+    "h": "http://zbb.usst.edu.cn/5064/list.htm"
+   },
+   {
+    "t": "招标公告",
+    "h": "http://zbb.usst.edu.cn/p5064c5064/list.htm"
+   }
+  ],
+  "cands": []
+ },
+ {
+  "key": "XTU",
+  "title": "湘潭大学招标采购网-首页",
+  "url": "https://cggl.xtu.edu.cn/",
+  "sfw": false,
+  "navs": [
+   {
+    "t": "采购公告",
+    "h": "https://cggl.xtu.edu.cn/zbfzbgg/index.chtml"
+   },
+   {
+    "t": "竞价公告",
+    "h": "https://cggl.xtu.edu.cn/jjgg/index.chtml"
+   },
+   {
+    "t": "竞价成交公告",
+    "h": "https://cggl.xtu.edu.cn/jjcjgg/index.chtml"
+   },
+   {
+    "t": "更多 >",
+    "h": "https://cggl.xtu.edu.cn/notice/index.chtml"
+   },
+   {
+    "t": "更多 >",
+    "h": "https://cggl.xtu.edu.cn/dylygs/index.chtml"
+   },
+   {
+    "t": "实验教学耗材竞价公告",
+    "h": "https://cggl.xtu.edu.cn/jjgg/6182.chtml"
+   },
+   {
+    "t": "更多 >",
+    "h": "https://cggl.xtu.edu.cn/zbcjgg/index.chtml"
+   },
+   {
+    "t": "更多>",
+    "h": "https://cggl.xtu.edu.cn/propaganda/index.chtml"
+   }
+  ],
+  "cands": [
+   {
+    "u": "https://cggl.xtu.edu.cn/",
+    "label": "home",
+    "scanned": 45,
+    "oldest": "2021-05-25",
+    "n": 0,
+    "newest": [
+     "2024-11-21 关于暂停台式计算机等相关商品采购工作的通知",
+     "2024-03-19 关于开展2024年度采购意向申报和公开工作的通知",
+     "2023-11-16 关于将“中原”家具品牌移出我校家具采购电子卖场“品牌池”"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://cggl.xtu.edu.cn/zbfzbgg/index.chtml",
+    "label": "采购公告",
+    "scanned": 10,
+    "oldest": "2026-10-10",
+    "n": 0,
+    "newest": [
+     "2026-10-16 湘潭大学化工学院2026年超长期国债设备（第二批）采购项",
+     "2026-10-16 湘潭大学外国语学院2026年本科教学设备采购项目公开招标",
+     "2026-10-15 湘潭大学化工学院2026年中央财政资金设备采购项目公开招"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://cggl.xtu.edu.cn/jjgg/index.chtml",
+    "label": "竞价公告",
+    "scanned": 10,
+    "oldest": "2026-10-13",
+    "n": 0,
+    "newest": [
+     "2026-10-16 南苑餐厅负一楼食堂智能称重采购项目竞价公告",
+     "2026-10-15 实验教学耗材竞价公告",
+     "2026-10-15 物理院本科实验教学耗材竞价公告"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://cggl.xtu.edu.cn/jjcjgg/index.chtml",
+    "label": "竞价成交公告",
+    "scanned": 10,
+    "oldest": "2026-10-13",
+    "n": 0,
+    "newest": [
+     "2026-10-16 打印一体机采购结果公告",
+     "2026-10-16 中非研究院办公设备采购结果公告",
+     "2026-10-16 自动化与电子信息学院+电工电子中心2026下半年教学实验"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://cggl.xtu.edu.cn/notice/index.chtml",
+    "label": "更多 >",
+    "scanned": 10,
+    "oldest": "2020-10-21",
+    "n": 0,
+    "newest": [
+     "2024-11-21 关于暂停台式计算机等相关商品采购工作的通知",
+     "2024-03-19 关于开展2024年度采购意向申报和公开工作的通知",
+     "2023-11-16 关于将“中原”家具品牌移出我校家具采购电子卖场“品牌池”"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://cggl.xtu.edu.cn/dylygs/index.chtml",
+    "label": "更多 >",
+    "scanned": 10,
+    "oldest": "2026-10-09",
+    "n": 0,
+    "newest": [
+     "2026-10-09 湘潭大学图书馆2026年第二批全球商学院视频资源库单一来",
+     "2026-10-09 湘潭大学图书馆2026年第二批畅想之星电子图书单一来源采",
+     "2026-10-09 湘潭大学图书馆2026年第二批e线图情单一来源采购公示"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://cggl.xtu.edu.cn/zbcjgg/index.chtml",
+    "label": "更多 >",
+    "scanned": 10,
+    "oldest": "2026-10-09",
+    "n": 0,
+    "newest": [
+     "2026-10-16 湘潭大学物理院2026年超长期国债设备（第一批）中标公告",
+     "2026-10-16 湘潭大学物理院2026年超长期国债设备（第二批）中标公告",
+     "2026-10-16 湘潭大学教育阳光服务平台升级建设采购项目中标公告"
+    ],
+    "rows": []
+   }
+  ]
+ },
+ {
+  "key": "CUG",
+  "title": "中国地质大学（武汉）采购与招标管理中心-首页",
+  "url": "https://cggl.cug.edu.cn/",
+  "sfw": false,
+  "navs": [
+   {
+    "t": "更多 >>",
+    "h": "https://cggl.cug.edu.cn/yxgk/index.chtml"
+   },
+   {
+    "t": "更多 >>",
+    "h": "https://cggl.cug.edu.cn/xqtc/index.chtml"
+   },
+   {
+    "t": "更多 >>",
+    "h": "https://cggl.cug.edu.cn/cgxqzqyj/index.chtml"
+   },
+   {
+    "t": "更多 >>",
+    "h": "https://cggl.cug.edu.cn/dylygs/index.chtml"
+   },
+   {
+    "t": "更多 >>",
+    "h": "https://cggl.cug.edu.cn/wtcggg/index.chtml"
+   },
+   {
+    "t": "更多 >>",
+    "h": "https://cggl.cug.edu.cn/fscggg/index.chtml"
+   },
+   {
+    "t": "更多 >>",
+    "h": "https://cggl.cug.edu.cn/bggg/index.chtml"
+   },
+   {
+    "t": "更多 >>",
+    "h": "https://cggl.cug.edu.cn/cgggkscg/index.chtml"
+   }
+  ],
+  "cands": [
+   {
+    "u": "https://cggl.cug.edu.cn/",
+    "label": "home",
+    "scanned": 76,
+    "oldest": "2023-11-27",
+    "n": 0,
+    "newest": [
+     "2026-10-12 【CGYX202600040】（1250万元）2027-",
+     "2026-10-10 【CGYX202600037】（160万元）2027年度",
+     "2026-10-10 【CGYX202600035】（160万元）2027年度"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://cggl.cug.edu.cn/yxgk/index.chtml",
+    "label": "更多 >>",
+    "scanned": 10,
+    "oldest": "2026-06-09",
+    "n": 0,
+    "newest": [
+     "2026-10-12 【CGYX202600040】（1250万元）2027-",
+     "2026-10-10 【CGYX202600037】（160万元）2027年度",
+     "2026-10-10 【CGYX202600035】（160万元）2027年度"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://cggl.cug.edu.cn/xqtc/index.chtml",
+    "label": "更多 >>",
+    "scanned": 2,
+    "oldest": "2023-11-27",
+    "n": 0,
+    "newest": [
+     "2023-12-11 中国地质大学工程项目采购需求调查（仅供测试）",
+     "2023-11-27 采购需求调查测试（仅供测试）"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://cggl.cug.edu.cn/cgxqzqyj/index.chtml",
+    "label": "更多 >>",
+    "scanned": 10,
+    "oldest": "2026-08-14",
+    "n": 0,
+    "newest": [
+     "2026-08-21 中国地质大学（武汉）光谱仪类设备购置采购需求征求意见公告",
+     "2026-08-21 中国地质大学（武汉）激光微区剥蚀设备购置采购需求征求意见",
+     "2026-08-21 中国地质大学（武汉）样品制备与处理设备购置采购需求征求意"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://cggl.cug.edu.cn/dylygs/index.chtml",
+    "label": "更多 >>",
+    "scanned": 10,
+    "oldest": "2025-11-28",
+    "n": 0,
+    "newest": [
+     "2026-10-13 中国地质大学（武汉）新校区二期学三食堂燃气工程单一来源方",
+     "2026-07-27 中国地质大学（武汉）选择原创话剧《大地之光》培训排演服务",
+     "2026-06-08 中国地质大学（武汉）2026年度中国知网CNKI 单一来"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://cggl.cug.edu.cn/wtcggg/index.chtml",
+    "label": "更多 >>",
+    "scanned": 10,
+    "oldest": "2026-09-29",
+    "n": 0,
+    "newest": [
+     "2026-10-16 中国地质大学（武汉）偏光冷热台显微测温摄像系统公开招标公",
+     "2026-10-16 中国地质大学（武汉）能源动力数值仿真平台与高性能刀片服务",
+     "2026-10-14 中国地质大学（武汉）能源智慧管控实验教学设备校内磋商公告"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://cggl.cug.edu.cn/bggg/index.chtml",
+    "label": "更多 >>",
+    "scanned": 10,
+    "oldest": "2026-08-13",
+    "n": 0,
+    "newest": [
+     "2026-10-14 中国地质大学（武汉）后勤保障部出租出借公用房招租-东区珠",
+     "2026-09-30 中国地质大学（武汉）南望山校区学生宿舍组团四A区、学生宿",
+     "2026-09-29 中国地质大学（武汉）数智赋能安全工程专业课程体系化优化与"
+    ],
+    "rows": []
+   }
+  ]
+ },
+ {
+  "key": "BIT",
+  "title": "北京理工大学",
+  "url": "https://cgzx.bit.edu.cn/sfw_cms/e?page=cms.index",
+  "sfw": true,
+  "navs": [
+   {
+    "t": "MORE",
+    "h": "https://cgzx.bit.edu.cn/sfw_cms/e?page=cms.psms.gglist&typeDetail=XQ&catalog=A"
+   },
+   {
+    "t": "MORE",
+    "h": "https://cgzx.bit.edu.cn/sfw_cms/e?page=cms.psms.gglist&typeDetail=GG"
+   }
+  ],
+  "cands": [
+   {
+    "u": "https://cgzx.bit.edu.cn/sfw_cms/e?page=cms.index",
+    "label": "home",
+    "scanned": 6,
+    "oldest": "2026-09-23",
+    "n": 0,
+    "newest": [
+     "2026-10-16 2026年11月采购意向项目-3",
+     "2026-10-13 2026年11月采购意向项目-2",
+     "2026-10-10 2026年11月采购意向项目-1"
+    ],
+    "rows": []
+   }
+  ],
+  "sfwScan": {
+   "scanned": 100,
+   "oldest": "2026-07-25",
+   "n": 1,
+   "newest": [
+    "2026-10-16 北京理工大学多模态人机交互信号采集单元采购（2026-3",
+    "2026-10-16 北京理工大学原位变温X-射线粉末衍射仪采购项目（2026",
+    "2026-10-16 北京理工大学房山分校（阎村）2026-2027年冬季采暖"
+   ],
+   "rows": [
+    "BIT-GXTC-A1-26630016 | weak | 北京理工大学某雷达隔振安装机箱及机械件采购(第二次)（GXTC-A1"
+   ]
+  }
+ }
+]
