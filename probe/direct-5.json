@@ -1,0 +1,75 @@
+[
+ {
+  "key": "HNU",
+  "try": "cg.hnu.edu.cn",
+  "ok": true,
+  "title": "湖南大学程序设计类课程教学辅助系统",
+  "url": "https://cg.hnu.edu.cn/indexcs/simple.jsp?loginErr=0",
+  "cands": []
+ },
+ {
+  "key": "USST",
+  "try": "zbb.usst.edu.cn",
+  "ok": true,
+  "title": "上海理工大学招标办公室",
+  "url": "https://zbb.usst.edu.cn/",
+  "cands": []
+ },
+ {
+  "key": "USST",
+  "try": "zb.usst.edu.cn",
+  "ok": false,
+  "err": "page.goto: Timeout 25000ms exceeded."
+ },
+ {
+  "key": "CHD",
+  "try": "zbb.chd.edu.cn/site/",
+  "ok": false,
+  "err": "page.goto: Timeout 25000ms exceeded."
+ },
+ {
+  "key": "XUST",
+  "try": "gzc.xust.edu.cn/zbcg/yxgk.htm",
+  "ok": true,
+  "title": "意向公开-西安科技大学国有资产管理处",
+  "url": "https://gzc.xust.edu.cn/zbcg/yxgk.htm",
+  "cands": []
+ },
+ {
+  "key": "XUST",
+  "try": "www.xust.edu.cn/info/1256/",
+  "ok": true,
+  "title": "系统提示",
+  "url": "https://www.xust.edu.cn/info/1256/",
+  "cands": []
+ },
+ {
+  "key": "NIMTE",
+  "try": "www.nimte.cas.cn/events/notice/",
+  "ok": true,
+  "title": "活动通告-中国科学院宁波材料技术与工程研究所",
+  "url": "https://www.nimte.cas.cn/events/notice/",
+  "cands": [
+   {
+    "u": "https://www.nimte.cas.cn/events/notice/",
+    "label": "home",
+    "scanned": 5,
+    "oldest": "2023-03-30",
+    "n": 0,
+    "newest": [
+     "2023-03-30 中国科学院宁波材料技术与工程研究所声明",
+     "2023-03-30 关于私自刻制宁波材料所印章的严正声明",
+     "2023-03-30 中国科学院宁波材料技术与工程研究所关于竞争性选择资金存放"
+    ]
+   }
+  ]
+ },
+ {
+  "key": "IPHY",
+  "try": "www.iop.cas.cn/tzgg/",
+  "ok": true,
+  "title": "页面没有找到",
+  "url": "https://www.iop.cas.cn/tzgg/",
+  "cands": []
+ }
+]
