@@ -1,0 +1,203 @@
+[
+ {
+  "key": "NJUST",
+  "try": "cgzx.njust.edu.cn",
+  "ok": true,
+  "title": "",
+  "url": "https://cgzx.njust.edu.cn/",
+  "cands": []
+ },
+ {
+  "key": "NJUST",
+  "try": "zb.njust.edu.cn",
+  "ok": false,
+  "err": "page.goto: Timeout 25000ms exceeded."
+ },
+ {
+  "key": "TGU",
+  "try": "cgglzx.tiangong.edu.cn",
+  "ok": true,
+  "title": "场馆管理中心",
+  "url": "https://cgglzx.tiangong.edu.cn/",
+  "cands": [
+   {
+    "u": "https://cgglzx.tiangong.edu.cn/",
+    "label": "home",
+    "scanned": 10,
+    "oldest": "2019-04-18",
+    "n": 0,
+    "newest": [
+     "2026-09-15 天津工业大学奔月体育场、望星体育场、祥云体育场场地及奔月",
+     "2026-07-20 天津工业大学体育馆（主馆）部分采光天棚天窗漏雨维修工程项",
+     "2026-04-16 天津工业大学游泳馆更衣室墙面、顶板等部位更换维修工程项目"
+    ]
+   }
+  ]
+ },
+ {
+  "key": "NANKAI",
+  "try": "nkzbb.nankai.edu.cn",
+  "ok": true,
+  "title": "南开大学招投标管理办公室 - 首页",
+  "url": "https://nkzbb.nankai.edu.cn/",
+  "cands": [
+   {
+    "u": "https://nkzbb.nankai.edu.cn/",
+    "label": "home",
+    "scanned": 71,
+    "oldest": "2025-11-21",
+    "n": 0,
+    "newest": [
+     "2026-07-06 招投标管理办公室2026年暑假值班表",
+     "2026-05-14 招标办组织开展采购招标业务专题培训会",
+     "2026-04-30 招标办协同相关部门与学院开展业务交流活动"
+    ]
+   },
+   {
+    "u": "https://nkzbb.nankai.edu.cn/cghw/index.chtml",
+    "label": "采购公告",
+    "scanned": 15,
+    "oldest": "2026-08-20",
+    "n": 0,
+    "newest": [
+     "2026-09-21 南开大学医学院数字玻片扫描仪采购项目（NK2026H07",
+     "2026-09-20 南开大学津南校区大通学生中心大音乐厅LED大屏幕采购项目",
+     "2026-09-16 南开大学津南校区大通学生中心大音乐厅LED大屏幕采购项目"
+    ]
+   },
+   {
+    "u": "https://nkzbb.nankai.edu.cn/jghw/index.chtml",
+    "label": "货物类",
+    "scanned": 15,
+    "oldest": "2026-08-18",
+    "n": 0,
+    "newest": [
+     "2026-10-15 南开大学实验室设备处智慧安全实验室建设采购项目（NK20",
+     "2026-10-08 南开大学实验室设备处智慧安全实验室建设采购项目(NK20",
+     "2026-10-08 南开大学医学院数字玻片扫描仪采购项目（NK2026H07"
+    ]
+   },
+   {
+    "u": "https://nkzbb.nankai.edu.cn/ggtz/index.chtml",
+    "label": "MORE >",
+    "scanned": 15,
+    "oldest": "2025-05-19",
+    "n": 0,
+    "newest": [
+     "2026-07-06 招投标管理办公室2026年暑假值班表",
+     "2026-05-14 招标办组织开展采购招标业务专题培训会",
+     "2026-04-30 招标办协同相关部门与学院开展业务交流活动"
+    ]
+   },
+   {
+    "u": "https://nkzbb.nankai.edu.cn/cggc/index.chtml",
+    "label": "MORE >",
+    "scanned": 15,
+    "oldest": "2026-08-07",
+    "n": 0,
+    "newest": [
+     "2026-10-13 南开大学八里台校区学一食堂南侧小树林管线迁移工程（NK2",
+     "2026-10-12 南开大学2026-2028年度小型维修工程采购项目（NK",
+     "2026-10-12 南开大学国有资产管理办公室杨柳青A地块试验田改造项目（第"
+    ]
+   },
+   {
+    "u": "https://nkzbb.nankai.edu.cn/cgfw/index.chtml",
+    "label": "MORE >",
+    "scanned": 15,
+    "oldest": "2026-08-28",
+    "n": 0,
+    "newest": [
+     "2026-10-13 南开大学继续教育学院培训拍摄服务采购项目（NK2026F",
+     "2026-10-10 南开大学图书馆Wiley电子期刊采购项目（NK2026F",
+     "2026-10-08 南开大学海外社交媒体平台运营、推广服务（NK2026F0"
+    ]
+   },
+   {
+    "u": "https://nkzbb.nankai.edu.cn/cgqt/index.chtml",
+    "label": "MORE >",
+    "scanned": 15,
+    "oldest": "2026-05-13",
+    "n": 0,
+    "newest": [
+     "2026-10-08 南开大学2026年校园自助售货机项目（NK2026Z00",
+     "2026-09-11 南开大学泰达学院食堂经营项目（NK2026F015L）公",
+     "2026-08-03 南开大学津南校区、八里台校区学生宿舍2026年、2027"
+    ]
+   },
+   {
+    "u": "https://nkzbb.nankai.edu.cn/jggc/index.chtml",
+    "label": "MORE >",
+    "scanned": 15,
+    "oldest": "2026-07-24",
+    "n": 0,
+    "newest": [
+     "2026-09-29 南开大学八里台校区第五教学楼加固及修缮改造工程（NK20",
+     "2026-09-24 南开大学津南校区化学大楼施工（NK2026G030）中标",
+     "2026-09-23 南开大学国有资产管理办公室杨柳青A地块试验田改造项目（N"
+    ]
+   },
+   {
+    "u": "https://nkzbb.nankai.edu.cn/jgqt/index.chtml",
+    "label": "MORE >",
+    "scanned": 15,
+    "oldest": "2026-04-02",
+    "n": 0,
+    "newest": [
+     "2026-10-08 南开大学泰达学院食堂经营项目（NK2026F015L）中",
+     "2026-08-15 南开大学津南校区、八里台校区学生宿舍2026年、2027",
+     "2026-07-24 南开大学膳食服务中心八里台校区学生第三食堂2026年-2"
+    ]
+   },
+   {
+    "u": "https://nkzbb.nankai.edu.cn/yxgk/index.chtml",
+    "label": "MORE >",
+    "scanned": 15,
+    "oldest": "2026-08-13",
+    "n": 0,
+    "newest": [
+     "2026-10-13 2026年南开大学附属小学计算机机房及信息技术设施升级改",
+     "2026-09-22 南开大学八里台校区化学学院综合实验楼有机光电及储能实验室",
+     "2026-09-20 南开大学基建处津南校区学生公寓（一期）监理服务采购项目 "
+    ]
+   }
+  ]
+ },
+ {
+  "key": "NJU",
+  "try": "zbb.nju.edu.cn",
+  "ok": true,
+  "title": "网络维护",
+  "url": "https://zbb.nju.edu.cn/",
+  "cands": []
+ },
+ {
+  "key": "SITP",
+  "try": "www.sitp.cas.cn/ggtz/",
+  "ok": true,
+  "title": "通知公告--中国科学院上海技术物理研究所",
+  "url": "https://www.sitp.cas.cn/ggtz/",
+  "cands": [
+   {
+    "u": "https://www.sitp.cas.cn/ggtz/",
+    "label": "home",
+    "scanned": 15,
+    "oldest": "2025-09-23",
+    "n": 0,
+    "newest": [
+     "2026-10-14 中国科学院上海技术物理研究所关于碲镉汞超精切削系统竞争性",
+     "2026-09-09 中国科学院上海技术物理研究所大额存款公开招标（2026年",
+     "2026-05-25 红外科学与技术全国重点实验室2026年度开放课题通知"
+    ]
+   }
+  ]
+ },
+ {
+  "key": "NIAOT",
+  "try": "www.niaot.cas.cn/tzgg/",
+  "ok": true,
+  "title": "页面没有找到",
+  "url": "https://www.niaot.cas.cn/tzgg/",
+  "cands": []
+ }
+]
