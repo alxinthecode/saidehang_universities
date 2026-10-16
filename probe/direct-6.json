@@ -1,0 +1,98 @@
+[
+ {
+  "key": "HQU",
+  "try": "zb.hqu.edu.cn",
+  "ok": false,
+  "err": "page.goto: Timeout 25000ms exceeded."
+ },
+ {
+  "key": "HQU",
+  "try": "cggl.hqu.edu.cn",
+  "ok": true,
+  "title": "统一身份认证平台",
+  "url": "http://id.hqu.edu.cn/authserver/login?service=https%3A%2F%2Fcggl.hqu.edu.cn%2Fhqusso%2Fcaslogin.jsp",
+  "cands": []
+ },
+ {
+  "key": "LUT",
+  "try": "zbzx.lut.edu.cn",
+  "ok": false,
+  "err": "page.goto: net::ERR_CONNECTION_RESET at http://zbzx.lut.edu.cn/"
+ },
+ {
+  "key": "LUT",
+  "try": "cggl.lut.edu.cn",
+  "ok": false,
+  "err": "page.goto: Timeout 25000ms exceeded."
+ },
+ {
+  "key": "HHU",
+  "try": "zbb.hhu.edu.cn",
+  "ok": true,
+  "title": "",
+  "url": "https://zbb.hhu.edu.cn/",
+  "cands": []
+ },
+ {
+  "key": "SHIEP",
+  "try": "xxgk.shiep.edu.cn/574/list.htm",
+  "ok": true,
+  "title": "仪器设备采购信息",
+  "url": "https://xxgk.shiep.edu.cn/574/list.htm",
+  "cands": [
+   {
+    "u": "https://xxgk.shiep.edu.cn/574/list.htm",
+    "label": "仪器设备采购信息",
+    "scanned": 20,
+    "oldest": "2026-10-09",
+    "n": 0,
+    "newest": [
+     "2026-10-16 全国高校思政教育智能体平台服务的结果公告",
+     "2026-10-15 电力电缆金属护套及缓冲层缺陷电磁层析成像（EMT）检测方",
+     "2026-10-15 融媒体中心演播厅维保服务的结果公告"
+    ]
+   },
+   {
+    "u": "https://xxgk.shiep.edu.cn/574/list.htm",
+    "label": "仪器设备采购信息",
+    "scanned": 20,
+    "oldest": "2026-10-09",
+    "n": 0,
+    "newest": [
+     "2026-10-16 全国高校思政教育智能体平台服务的结果公告",
+     "2026-10-15 电力电缆金属护套及缓冲层缺陷电磁层析成像（EMT）检测方",
+     "2026-10-15 融媒体中心演播厅维保服务的结果公告"
+    ]
+   }
+  ]
+ },
+ {
+  "key": "QIBEBT",
+  "try": "qibebt.cas.cn/news/notice/",
+  "ok": true,
+  "title": "通知公告--中国科学院青岛生物能源与过程研究所",
+  "url": "https://qibebt.cas.cn/news/notice/",
+  "cands": [
+   {
+    "u": "https://qibebt.cas.cn/news/notice/",
+    "label": "home",
+    "scanned": 24,
+    "oldest": "2026-01-15",
+    "n": 0,
+    "newest": [
+     "2026-10-16 中国科学院青岛生物能源与过程研究所(山东能源研究院)招聘",
+     "2026-10-09 中国科学院青岛生物能源与过程研究所(山东能源研究院)会议",
+     "2026-10-08 关于2026年度中国科学院杰出科技成就奖的推荐公示"
+    ]
+   }
+  ]
+ },
+ {
+  "key": "SIMIT",
+  "try": "www.sim.cas.cn/tzgg/",
+  "ok": true,
+  "title": "页面没有找到",
+  "url": "https://www.sim.cas.cn/tzgg/",
+  "cands": []
+ }
+]
