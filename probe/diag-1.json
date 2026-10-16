@@ -1,0 +1,148 @@
+[
+ {
+  "key": "NEU",
+  "dom": "neu.edu.cn",
+  "home": "https://www.neu.edu.cn/",
+  "links": [],
+  "hosts": [
+   "cgzx.neu.edu.cn",
+   "zcc.neu.edu.cn"
+  ]
+ },
+ {
+  "key": "XATU",
+  "dom": "xatu.edu.cn",
+  "home": "https://www.xatu.edu.cn/",
+  "links": [
+   "招标采购 https://www.xatu.edu.cn/index/cgzb.htm"
+  ],
+  "hosts": [
+   "cgzb.xatu.edu.cn"
+  ]
+ },
+ {
+  "key": "HQU",
+  "dom": "hqu.edu.cn",
+  "home": "https://hqu.edu.cn/",
+  "links": [],
+  "hosts": [
+   "cwc.hqu.edu.cn",
+   "zb.hqu.edu.cn",
+   "cggl.hqu.edu.cn",
+   "zcgl.hqu.edu.cn"
+  ]
+ },
+ {
+  "key": "SXU",
+  "dom": "sxu.edu.cn",
+  "home": "https://www.sxu.edu.cn/",
+  "links": [],
+  "hosts": [
+   "zbcgzx.sxu.edu.cn",
+   "zbcgc.sxu.edu.cn",
+   "ztbb.sxu.edu.cn",
+   "cgzbc.sxu.edu.cn",
+   "zbcgw.sxu.edu.cn",
+   "zcb.sxu.edu.cn",
+   "sbzx.sxu.edu.cn",
+   "zcsbc.sxu.edu.cn",
+   "gzzx.sxu.edu.cn",
+   "cgb.sxu.edu.cn",
+   "zbcgb.sxu.edu.cn",
+   "ggzy.sxu.edu.cn",
+   "cwc.sxu.edu.cn",
+   "tzgg.sxu.edu.cn",
+   "zbgl.sxu.edu.cn",
+   "czc.sxu.edu.cn",
+   "zb2.sxu.edu.cn",
+   "cgbgs.sxu.edu.cn",
+   "zbb.sxu.edu.cn",
+   "cgzx.sxu.edu.cn",
+   "ztb.sxu.edu.cn",
+   "zbcg.sxu.edu.cn",
+   "zbzx.sxu.edu.cn",
+   "cg.sxu.edu.cn",
+   "cgzb.sxu.edu.cn",
+   "zb.sxu.edu.cn",
+   "bidding.sxu.edu.cn",
+   "ztbzx.sxu.edu.cn",
+   "zcc.sxu.edu.cn",
+   "zcglc.sxu.edu.cn",
+   "cgglc.sxu.edu.cn",
+   "cggl.sxu.edu.cn",
+   "sbc.sxu.edu.cn",
+   "cgc.sxu.edu.cn",
+   "caigou.sxu.edu.cn",
+   "zbxx.sxu.edu.cn",
+   "cgxx.sxu.edu.cn",
+   "zbtb.sxu.edu.cn",
+   "gzc.sxu.edu.cn",
+   "zcgl.sxu.edu.cn",
+   "ztbgl.sxu.edu.cn",
+   "cgw.sxu.edu.cn",
+   "zbgs.sxu.edu.cn",
+   "cgglzx.sxu.edu.cn",
+   "zbc.sxu.edu.cn",
+   "czzx.sxu.edu.cn",
+   "zcsb.sxu.edu.cn",
+   "cgzbzx.sxu.edu.cn"
+  ]
+ },
+ {
+  "key": "NWU",
+  "dom": "nwu.edu.cn",
+  "home": "https://www.nwu.edu.cn/",
+  "links": [
+   "152026.10\n   https://www.nwu.edu.cn/info/1139/22526.htm",
+   "152026.10\n   https://www.nwu.edu.cn/info/1098/22525.htm",
+   "152026.10\n   https://www.nwu.edu.cn/info/1098/22524.htm",
+   "采购管理 https://cgzbxt.nwu.edu.cn/index"
+  ],
+  "hosts": [
+   "cwc.nwu.edu.cn",
+   "cgzx.nwu.edu.cn",
+   "cgzbxt.nwu.edu.cn"
+  ]
+ },
+ {
+  "key": "NJU",
+  "dom": "nju.edu.cn",
+  "home": "https://www.nju.edu.cn/",
+  "links": [],
+  "hosts": [
+   "zbb.nju.edu.cn",
+   "zb.nju.edu.cn",
+   "zcc.nju.edu.cn",
+   "sbc.nju.edu.cn"
+  ]
+ },
+ {
+  "key": "SEMI",
+  "dom": "semi.cas.cn",
+  "home": "https://www.semi.cas.cn/",
+  "links": [
+   "采购公示 https://semi.cas.cn/xxgk/xxgkcggs"
+  ],
+  "hosts": [
+   "semi.cas.cn"
+  ]
+ },
+ {
+  "key": "SIAT",
+  "dom": "siat.cas.cn",
+  "home": "https://www.siat.cas.cn/",
+  "links": [
+   "关于《深圳先进院科技成果 https://www.siat.cas.cn/jggl/tzgg/202610/t20261016_8293082.html",
+   "关于深圳先进技术研究院实 https://www.siat.cas.cn/jggl/tzgg/202610/t20261016_8293080.html",
+   "关于中国科学院深圳先进技 https://www.siat.cas.cn/jggl/tzgg/202610/t20261016_8293075.html"
+  ],
+  "hosts": []
+ },
+ {
+  "key": "SIOC_OPT",
+  "dom": "shao.cas.cn",
+  "home": null,
+  "links": [],
+  "hosts": []
+ }
+]
