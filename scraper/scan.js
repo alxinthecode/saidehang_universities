@@ -29,7 +29,7 @@
   const imports = txt => /不(?:接受|允许)进口|进口产品[^。]{0,8}(?:否|不允许|不接受)/.test(txt) ? '不接受'
     : /(?:接受|允许)进口|进口产品[^。]{0,8}是/.test(txt) ? '允许' : '';
   const budgetOf = txt => { const m = txt.match(/预算(?:金额)?[^0-9]{0,12}([0-9][0-9.,]*)\s*(万元|元)/); return m ? m[1] + m[2] : ''; };
-  const DATE = /(20\d{2})\s*[-年./]\s*(\d{1,2})\s*[-月./]\s*(\d{1,2})/;
+  const DATE = /(20\d{2})\s*[-年./]+\s*(\d{1,2})\s*[-月./]+\s*(\d{1,2})/;
   const toYmd = s => { const m = String(s || '').match(DATE); return m ? `${m[1]}-${m[2].padStart(2, '0')}-${m[3].padStart(2, '0')}` : ''; };
   const cleanTitle = s => (s || '').replace(/^[\s·•▪■●\-]+/, '').replace(/\s+/g, ' ').trim();
   const idPart = s => String(s || '').replace(/[^A-Za-z0-9_\-.]/g, '');
@@ -70,7 +70,10 @@
     const endpoint = `/${prefix}/e`;
     const listHtml = await getText(`/${prefix}/e?page=cms.psms.gglist&typeDetail=XQ`).catch(() => '');
     const html = listHtml + document.documentElement.outerHTML;
-    const uuid = (html.match(/ops_uuid\s*=\s*"([0-9a-f]{32})"/) || [])[1] || '';
+    const found = (html.match(/ops_uuid\s*=\s*"([0-9a-f]{32})"/) || [])[1] || '';
+    // Many 思必得 sites set this shared default uuid from a script file instead of the page.
+    const uuids = [...new Set([found, '40cc3e0132e6a41c724a0e2612b1577f', ''])];
+    let uuid = found;
     let detail = SITE.detail || (html.match(/appPath\s*=\s*["'](http[^"']+)/) || [])[1]
       || (html.match(/window\.open\(\s*["']([^"']*publish\/)["']\s*\+\s*publish_id/) || [])[1] || '/provider/#/publish/';
     if (detail.startsWith('/')) detail = location.origin + detail;
@@ -86,11 +89,11 @@
       return JSON.parse(txt);
     };
 
-    let tpl = SITE.body, first = null;
-    if (tpl) first = await post(tpl, 0, 100);
-    else {
-      for (const t of SFW_TEMPLATES) {
-        try { const j = await post(t, 0, 100); if ((j.resultset || []).length && j.resultset[0].subject) { tpl = t; first = j; break; } } catch {}
+    let tpl = null, first = null;
+    search: for (const u of uuids) {
+      for (const t of SITE.body ? [SITE.body] : SFW_TEMPLATES) {
+        uuid = u;
+        try { const j = await post(t, 0, 100); if ((j.resultset || []).length && j.resultset[0].subject) { tpl = t; first = j; break search; } } catch {}
       }
     }
     if (!first) throw new Error('no 思必得 list query returned results');
@@ -112,7 +115,8 @@
   }
 
   // ---------- list reader ----------
-  function rowsFrom(doc, baseUrl, label) {
+  function rowsFrom(doc, baseUrl, label, linkPattern) {
+    const pat = linkPattern ? new RegExp(linkPattern) : null;
     const out = [], seen = new Set();
     doc.querySelectorAll('a[href]').forEach(a => {
       const href = a.getAttribute('href');
@@ -123,7 +127,7 @@
       if (!row || row.textContent.length > 400) row = a.parentElement;
       const near = (row ? row.textContent : '') + ' ' + (a.nextElementSibling ? a.nextElementSibling.textContent : '');
       const published = toYmd(near);
-      if (!published) return;
+      if (!published && !(pat && pat.test(href))) return;
       let url; try { url = new URL(href, baseUrl).href; } catch { return; }
       if (seen.has(url)) return;
       seen.add(url);
@@ -139,13 +143,31 @@
       const cfg = typeof l === 'string' ? { url: l } : l;
       const u = new URL(cfg.url, location.origin).href;
       const doc = u === location.href ? document : new DOMParser().parseFromString(await getText(u), 'text/html');
-      all.push(...rowsFrom(doc, u, cfg.label));
+      all.push(...rowsFrom(doc, u, cfg.label, cfg.linkPattern || SITE.linkPattern));
     }
     return all;
   }
 
   // ---------- custom readers ----------
-  const CUSTOM = {};
+  const CUSTOM = {
+    // Xi'an Jiaotong: cgb.xjtu.edu.cn serves each column as JSON.
+    async xjtu() {
+      const out = [];
+      for (const col of SITE.columns || []) {
+        const body = new URLSearchParams({ bkid: col.bkid, lmid: col.lmid, _rows: '100' });
+        const j = JSON.parse(await getText('/site/findNeiRongSummaryByLmId', { method: 'POST', body,
+          headers: { 'Content-Type': 'application/x-www-form-urlencoded; charset=UTF-8', 'X-Requested-With': 'XMLHttpRequest' } }));
+        const lists = (j.wzLmList || []).flatMap(l => l.nrList || l.neiRongList || l.dataList || []);
+        const items = lists.length ? lists : JSON.stringify(j).match(/\{[^{}]*"NRID"[^{}]*\}/g)?.map(x => JSON.parse(x)) || [];
+        for (const it of items) {
+          if (!it.BT || !it.NRID) continue;
+          out.push({ title: it.BT, text: it.JJ && it.JJ !== it.BT ? it.JJ : '', published: toYmd(`${it.FBSJ || ''}-${it.FBRQ || '01'}`),
+            deadline: '', method: col.label || '', no: '', url: `${location.origin}/site/caseInfo?nrid=${it.NRID}&jdid=${it.LMID || col.lmid}` });
+        }
+      }
+      return out;
+    },
+  };
 
   // ---------- run ----------
   const kind = SITE.kind || (/^\/sfw[\w]*\//.test(location.pathname) ? 'sfw' : 'list');

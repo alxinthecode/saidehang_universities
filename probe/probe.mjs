@@ -8,12 +8,8 @@ const sites = JSON.parse(await readFile(new URL('scraper/sites.json', ROOT), 'ut
 const scanSrc = await readFile(new URL('scraper/scan.js', ROOT), 'utf8');
 
 const DIAG = [
-  ['ZJU', 'https://cgywxt.zju.edu.cn/sfw/'],
-  ['UESTC', 'https://cg.uestc.edu.cn/f/list-bab1e63fa83e4c238d9262ec45e81b99.html'],
-  ['WHU', 'https://zb.whu.edu.cn/cgxx.htm'],
-  ['WHU2', 'http://cgztb.whu.edu.cn/Home'],
-  ['SYSU', 'https://bidding.sysu.edu.cn/'],
-  ['XJTU', 'https://cgb.xjtu.edu.cn/site/'],
+  ['TONGJI', 'https://czb.tongji.edu.cn/sggl/cgw/zbggList.jsp?type=A'],
+  ['SYSU', 'https://bidding.sysu.edu.cn/gg/cg'],
 ];
 
 const browser = await chromium.launch();
