@@ -1,0 +1,41 @@
+[
+ {
+  "key": "USTB",
+  "title": "北京科技大学资产全生命周期管理平台",
+  "url": "https://zcgl.ustb.edu.cn/sfw/",
+  "sfw": true,
+  "navs": [],
+  "cands": [],
+  "sfwErr": "page.evaluate: Error: no 思必得 list query returned results\n    at readSfw (eval at <anonymous> (eval a"
+ },
+ {
+  "key": "XAUAT",
+  "title": "招标采购管理系统",
+  "url": "https://zbb.xauat.edu.cn/",
+  "sfw": false,
+  "navs": [],
+  "cands": []
+ },
+ {
+  "key": "SDUST",
+  "title": "招标公告-山东科技大学",
+  "url": "http://www.sdust.edu.cn/index/zbgg.htm",
+  "sfw": false,
+  "navs": [],
+  "cands": [
+   {
+    "u": "http://www.sdust.edu.cn/index/zbgg.htm",
+    "label": "home",
+    "scanned": 10,
+    "oldest": "2026-10-08",
+    "n": 0,
+    "newest": [
+     "2026-10-16 山东科技大学材料学院实验室改造项目竞争性磋商公告",
+     "2026-10-12 山东科技大学化工学院实验室改造项目竞争性磋商公告",
+     "2026-10-12 山东科技大学研究生招生考试命题管理系统采购项目竞争性磋商"
+    ],
+    "rows": []
+   }
+  ]
+ }
+]
