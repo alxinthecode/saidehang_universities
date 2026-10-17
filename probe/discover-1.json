@@ -1,0 +1,501 @@
+[
+ {
+  "key": "CAU",
+  "title": "中国农业大学国有资产管理处",
+  "url": "https://cg.cau.edu.cn/sfw_cms/e?page=cms.index",
+  "sfw": true,
+  "navs": [
+   {
+    "t": "货物服务采购",
+    "h": "https://cg.cau.edu.cn/sfw_cms/e?page=cms.news&cid=79451"
+   },
+   {
+    "t": "货物采购",
+    "h": "https://cg.cau.edu.cn/sfw_cms/e?page=cms.news&cid=79451&nextcid=90870"
+   },
+   {
+    "t": "货物服务采购",
+    "h": "http://gzc.cau.edu.cn/sfw_cms/e?page=cms.news&cid=79451&nextcid=79653"
+   },
+   {
+    "t": "更多>",
+    "h": "https://cg.cau.edu.cn/sfw_cms/e?page=cms.news&cid=79442"
+   },
+   {
+    "t": "更多>",
+    "h": "https://cg.cau.edu.cn/sfw_cms/e?page=cms.news&cid=49238"
+   },
+   {
+    "t": "更多>",
+    "h": "https://cg.cau.edu.cn/sfw_cms/e?page=cms.psms.gglist&type=%E9%87%87%E8%B4%AD%E5%85%AC%E5%91%8A&typeDetail=CGGG&catalog=A"
+   },
+   {
+    "t": "更多>",
+    "h": "https://cg.cau.edu.cn/sfw_cms/e?page=cms.psms.gglist&type=%E9%87%87%E8%B4%AD%E5%85%AC%E5%91%8A&typeDetail=CGGG&catalog=B"
+   },
+   {
+    "t": "更多>",
+    "h": "https://cg.cau.edu.cn/sfw_cms/e?page=cms.psms.gglist2&type=CZ"
+   }
+  ],
+  "cands": [
+   {
+    "u": "https://cg.cau.edu.cn/sfw_cms/e?page=cms.index",
+    "label": "home",
+    "scanned": 29,
+    "oldest": "2023-12-05",
+    "n": 0,
+    "newest": [
+     "2026-09-17 学回信 谋发展 作先锋——国资处党支部召开春季学期期末组",
+     "2026-09-08 学校召开《中国农业大学仪器设备验收实施细则》专题解读会",
+     "2026-07-09 国有资产管理处党支部开展“牢记嘱托 强农报国”主题党日活"
+    ],
+    "rows": []
+   }
+  ],
+  "sfwErr": "page.evaluate: Error: no 思必得 list query returned results\n    at readSfw (eval at <anonymous> (eval a"
+ },
+ {
+  "key": "CAU",
+  "title": "中国农业大学国有资产管理处",
+  "url": "https://gzc.cau.edu.cn/sfw_cms/e?page=cms.index",
+  "sfw": true,
+  "navs": [
+   {
+    "t": "货物服务采购",
+    "h": "https://gzc.cau.edu.cn/sfw_cms/e?page=cms.news&cid=79451"
+   },
+   {
+    "t": "货物采购",
+    "h": "https://gzc.cau.edu.cn/sfw_cms/e?page=cms.news&cid=79451&nextcid=90870"
+   },
+   {
+    "t": "货物服务采购",
+    "h": "http://gzc.cau.edu.cn/sfw_cms/e?page=cms.news&cid=79451&nextcid=79653"
+   },
+   {
+    "t": "更多>",
+    "h": "https://gzc.cau.edu.cn/sfw_cms/e?page=cms.news&cid=79442"
+   },
+   {
+    "t": "更多>",
+    "h": "https://gzc.cau.edu.cn/sfw_cms/e?page=cms.news&cid=49238"
+   },
+   {
+    "t": "更多>",
+    "h": "https://gzc.cau.edu.cn/sfw_cms/e?page=cms.psms.gglist&type=%E9%87%87%E8%B4%AD%E5%85%AC%E5%91%8A&typeDetail=CGGG&catalog=A"
+   },
+   {
+    "t": "更多>",
+    "h": "https://gzc.cau.edu.cn/sfw_cms/e?page=cms.psms.gglist&type=%E9%87%87%E8%B4%AD%E5%85%AC%E5%91%8A&typeDetail=CGGG&catalog=B"
+   },
+   {
+    "t": "更多>",
+    "h": "https://gzc.cau.edu.cn/sfw_cms/e?page=cms.psms.gglist2&type=CZ"
+   }
+  ],
+  "cands": [
+   {
+    "u": "https://gzc.cau.edu.cn/sfw_cms/e?page=cms.index",
+    "label": "home",
+    "scanned": 29,
+    "oldest": "2023-12-05",
+    "n": 0,
+    "newest": [
+     "2026-09-17 学回信 谋发展 作先锋——国资处党支部召开春季学期期末组",
+     "2026-09-08 学校召开《中国农业大学仪器设备验收实施细则》专题解读会",
+     "2026-07-09 国有资产管理处党支部开展“牢记嘱托 强农报国”主题党日活"
+    ],
+    "rows": []
+   }
+  ],
+  "sfwErr": "page.evaluate: Error: no 思必得 list query returned results\n    at readSfw (eval at <anonymous> (eval a"
+ },
+ {
+  "key": "SDNU",
+  "title": "山东师范大学招标采购办公室",
+  "url": "http://www.zcb.sdnu.edu.cn/",
+  "sfw": false,
+  "navs": [
+   {
+    "t": "更多>>",
+    "h": "http://www.zcb.sdnu.edu.cn/cggg/hwl.htm"
+   },
+   {
+    "t": "更多>>",
+    "h": "http://www.zcb.sdnu.edu.cn/cggg/fwl.htm"
+   },
+   {
+    "t": "更多>>",
+    "h": "http://www.zcb.sdnu.edu.cn/cggg/gcl.htm"
+   },
+   {
+    "t": "更多>>",
+    "h": "http://www.zcb.sdnu.edu.cn/jggg/hwl.htm"
+   },
+   {
+    "t": "更多>>",
+    "h": "http://www.zcb.sdnu.edu.cn/jggg/fwl.htm"
+   },
+   {
+    "t": "更多>>",
+    "h": "http://www.zcb.sdnu.edu.cn/jggg/gcl.htm"
+   },
+   {
+    "t": "更多>>",
+    "h": "http://www.zcb.sdnu.edu.cn/jggg/yjcg.htm"
+   },
+   {
+    "t": "更多>>",
+    "h": "http://www.zcb.sdnu.edu.cn/tzgg1/gztz.htm"
+   }
+  ],
+  "cands": [
+   {
+    "u": "http://www.zcb.sdnu.edu.cn/",
+    "label": "home",
+    "scanned": 56,
+    "oldest": "2024-11-12",
+    "n": 0,
+    "newest": [
+     "2026-10-14 山东师范大学2026年物理与光电学院精密微加工与成像系统",
+     "2026-10-13 山东师范大学2026年信息办班牌系统升级竞争性磋商公告",
+     "2026-10-12 山东师范大学千佛山校区11-13号学生公寓洗衣、洗鞋、干"
+    ],
+    "rows": []
+   },
+   {
+    "u": "http://www.zcb.sdnu.edu.cn/cggg/hwl.htm",
+    "label": "更多>>",
+    "scanned": 14,
+    "oldest": "2026-09-19",
+    "n": 0,
+    "newest": [
+     "2026-10-14 山东师范大学2026年物理与光电学院精密微加工与成像系统",
+     "2026-10-13 山东师范大学2026年信息办班牌系统升级竞争性磋商公告",
+     "2026-10-12 山东师范大学千佛山校区11-13号学生公寓洗衣、洗鞋、干"
+    ],
+    "rows": []
+   },
+   {
+    "u": "http://www.zcb.sdnu.edu.cn/cggg/fwl.htm",
+    "label": "更多>>",
+    "scanned": 15,
+    "oldest": "2026-06-24",
+    "n": 0,
+    "newest": [
+     "2026-09-29 山东师范大学2026年审计处工程审计服务采购项目竞争性磋",
+     "2026-08-21 山东师范大学2026年校长办公室迎新晚会综合服务采购项目",
+     "2026-08-19 山东师范大学山东师范大学2026年教务处综合评价招生考试"
+    ],
+    "rows": []
+   },
+   {
+    "u": "http://www.zcb.sdnu.edu.cn/cggg/gcl.htm",
+    "label": "更多>>",
+    "scanned": 15,
+    "oldest": "2026-07-15",
+    "n": 0,
+    "newest": [
+     "2026-10-12 山东师范大学2026年工会教工俱乐部改造提升工程采购项目",
+     "2026-10-09 山东师范大学师范教育实训基地，11、12、13号学生公寓",
+     "2026-10-08 山东师范大学2026年两校区公共场地道路改造工程"
+    ],
+    "rows": []
+   },
+   {
+    "u": "http://www.zcb.sdnu.edu.cn/jggg/hwl.htm",
+    "label": "更多>>",
+    "scanned": 15,
+    "oldest": "2026-09-17",
+    "n": 0,
+    "newest": [
+     "2026-10-16 山东师范大学2026年化学院电感耦合等离子体质谱仪采购项",
+     "2026-10-16 山东师范大学2026年化学院电子顺磁共振波谱仪采购项目（",
+     "2026-10-16 山东师范大学2026年化学院多功能材料吸附表征系统采购项"
+    ],
+    "rows": []
+   },
+   {
+    "u": "http://www.zcb.sdnu.edu.cn/jggg/fwl.htm",
+    "label": "更多>>",
+    "scanned": 15,
+    "oldest": "2026-07-10",
+    "n": 0,
+    "newest": [
+     "2026-10-15 山东师范大学2026年审计处工程审计服务采购项目结果公告",
+     "2026-09-17 山东师范大学长清湖校区松苑1-4号学生公寓建设项目全过程",
+     "2026-09-09 山东师范大学2026年教务处综合评价招生考试系统平台运营"
+    ],
+    "rows": []
+   },
+   {
+    "u": "http://www.zcb.sdnu.edu.cn/jggg/gcl.htm",
+    "label": "更多>>",
+    "scanned": 15,
+    "oldest": "2026-07-17",
+    "n": 0,
+    "newest": [
+     "2026-10-14 山东师范大学2026年两校区教学楼电缆线路改造及装修工程",
+     "2026-10-14 山东师范大学省级体育智能化考试中心建设项目室外配套工程中",
+     "2026-10-11 山东师范大学省级体育智能化考试中心建设项目室外配套工程中"
+    ],
+    "rows": []
+   },
+   {
+    "u": "http://www.zcb.sdnu.edu.cn/jggg/yjcg.htm",
+    "label": "更多>>",
+    "scanned": 15,
+    "oldest": "2024-10-22",
+    "n": 0,
+    "newest": [
+     "2025-06-25 后勤管理处给水抢修应急采购项目（012）资料公示",
+     "2025-06-11 后勤管理处给水抢修应急采购项目（010、011）资料公示",
+     "2025-05-09 后勤管理处排水抢修应急采购项目（009）采购资料公示"
+    ],
+    "rows": []
+   },
+   {
+    "u": "http://www.zcb.sdnu.edu.cn/tzgg1/gztz.htm",
+    "label": "更多>>",
+    "scanned": 15,
+    "oldest": "2021-10-15",
+    "n": 0,
+    "newest": [
+     "2026-07-02 山东师范大学关于印发《山东师范大学“评定分离”招标项目定",
+     "2026-01-22 财政部 关于推动解决政府采购异常低价问题的通知",
+     "2025-11-12 关于印发《招标人主体责任履行指引》的通知(发改法规〔20"
+    ],
+    "rows": []
+   }
+  ]
+ },
+ {
+  "key": "SDNU",
+  "title": "山东师范大学招标采购办公室",
+  "url": "https://zcb.sdnu.edu.cn/",
+  "sfw": false,
+  "navs": [
+   {
+    "t": "更多>>",
+    "h": "https://zcb.sdnu.edu.cn/cggg/hwl.htm"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://zcb.sdnu.edu.cn/cggg/fwl.htm"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://zcb.sdnu.edu.cn/cggg/gcl.htm"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://zcb.sdnu.edu.cn/jggg/hwl.htm"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://zcb.sdnu.edu.cn/jggg/fwl.htm"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://zcb.sdnu.edu.cn/jggg/gcl.htm"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://zcb.sdnu.edu.cn/jggg/yjcg.htm"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://zcb.sdnu.edu.cn/tzgg1/gztz.htm"
+   }
+  ],
+  "cands": [
+   {
+    "u": "https://zcb.sdnu.edu.cn/",
+    "label": "home",
+    "scanned": 56,
+    "oldest": "2024-11-12",
+    "n": 0,
+    "newest": [
+     "2026-10-14 山东师范大学2026年物理与光电学院精密微加工与成像系统",
+     "2026-10-13 山东师范大学2026年信息办班牌系统升级竞争性磋商公告",
+     "2026-10-12 山东师范大学千佛山校区11-13号学生公寓洗衣、洗鞋、干"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zcb.sdnu.edu.cn/cggg/hwl.htm",
+    "label": "更多>>",
+    "scanned": 14,
+    "oldest": "2026-09-19",
+    "n": 0,
+    "newest": [
+     "2026-10-14 山东师范大学2026年物理与光电学院精密微加工与成像系统",
+     "2026-10-13 山东师范大学2026年信息办班牌系统升级竞争性磋商公告",
+     "2026-10-12 山东师范大学千佛山校区11-13号学生公寓洗衣、洗鞋、干"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zcb.sdnu.edu.cn/cggg/fwl.htm",
+    "label": "更多>>",
+    "scanned": 15,
+    "oldest": "2026-06-24",
+    "n": 0,
+    "newest": [
+     "2026-09-29 山东师范大学2026年审计处工程审计服务采购项目竞争性磋",
+     "2026-08-21 山东师范大学2026年校长办公室迎新晚会综合服务采购项目",
+     "2026-08-19 山东师范大学山东师范大学2026年教务处综合评价招生考试"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zcb.sdnu.edu.cn/cggg/gcl.htm",
+    "label": "更多>>",
+    "scanned": 15,
+    "oldest": "2026-07-15",
+    "n": 0,
+    "newest": [
+     "2026-10-12 山东师范大学2026年工会教工俱乐部改造提升工程采购项目",
+     "2026-10-09 山东师范大学师范教育实训基地，11、12、13号学生公寓",
+     "2026-10-08 山东师范大学2026年两校区公共场地道路改造工程"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zcb.sdnu.edu.cn/jggg/hwl.htm",
+    "label": "更多>>",
+    "scanned": 15,
+    "oldest": "2026-09-17",
+    "n": 0,
+    "newest": [
+     "2026-10-16 山东师范大学2026年化学院电感耦合等离子体质谱仪采购项",
+     "2026-10-16 山东师范大学2026年化学院电子顺磁共振波谱仪采购项目（",
+     "2026-10-16 山东师范大学2026年化学院多功能材料吸附表征系统采购项"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zcb.sdnu.edu.cn/jggg/fwl.htm",
+    "label": "更多>>",
+    "scanned": 15,
+    "oldest": "2026-07-10",
+    "n": 0,
+    "newest": [
+     "2026-10-15 山东师范大学2026年审计处工程审计服务采购项目结果公告",
+     "2026-09-17 山东师范大学长清湖校区松苑1-4号学生公寓建设项目全过程",
+     "2026-09-09 山东师范大学2026年教务处综合评价招生考试系统平台运营"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zcb.sdnu.edu.cn/jggg/gcl.htm",
+    "label": "更多>>",
+    "scanned": 15,
+    "oldest": "2026-07-17",
+    "n": 0,
+    "newest": [
+     "2026-10-14 山东师范大学2026年两校区教学楼电缆线路改造及装修工程",
+     "2026-10-14 山东师范大学省级体育智能化考试中心建设项目室外配套工程中",
+     "2026-10-11 山东师范大学省级体育智能化考试中心建设项目室外配套工程中"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zcb.sdnu.edu.cn/jggg/yjcg.htm",
+    "label": "更多>>",
+    "scanned": 15,
+    "oldest": "2024-10-22",
+    "n": 0,
+    "newest": [
+     "2025-06-25 后勤管理处给水抢修应急采购项目（012）资料公示",
+     "2025-06-11 后勤管理处给水抢修应急采购项目（010、011）资料公示",
+     "2025-05-09 后勤管理处排水抢修应急采购项目（009）采购资料公示"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zcb.sdnu.edu.cn/tzgg1/gztz.htm",
+    "label": "更多>>",
+    "scanned": 15,
+    "oldest": "2021-10-15",
+    "n": 0,
+    "newest": [
+     "2026-07-02 山东师范大学关于印发《山东师范大学“评定分离”招标项目定",
+     "2026-01-22 财政部 关于推动解决政府采购异常低价问题的通知",
+     "2025-11-12 关于印发《招标人主体责任履行指引》的通知(发改法规〔20"
+    ],
+    "rows": []
+   }
+  ]
+ },
+ {
+  "key": "ZJGSU",
+  "title": "浙江工商大学采购中心",
+  "url": "https://cgzx.zjgsu.edu.cn/main.htm",
+  "sfw": false,
+  "navs": [
+   {
+    "t": "招标公告",
+    "h": "https://cgzx.zjgsu.edu.cn/4737/list.htm"
+   },
+   {
+    "t": "more>>",
+    "h": "https://cgzx.zjgsu.edu.cn/4738/list.htm"
+   },
+   {
+    "t": "more>>",
+    "h": "https://cgzx.zjgsu.edu.cn/4744/list.htm"
+   },
+   {
+    "t": "more>>",
+    "h": "https://cgzx.zjgsu.edu.cn/4745/list.htm"
+   },
+   {
+    "t": "more>>",
+    "h": "https://cgzx.zjgsu.edu.cn/4747/list.htm"
+   }
+  ],
+  "cands": [
+   {
+    "u": "https://cgzx.zjgsu.edu.cn/main.htm",
+    "label": "home",
+    "scanned": 28,
+    "oldest": "2026-07-22",
+    "n": 0,
+    "newest": [
+     "2026-10-12 浙江工商大学继续教育学院自考助学2026级学生在线学习服",
+     "2026-09-30 浙江求是招标代理有限公司关于浙江工商大学2026-202",
+     "2026-09-30 浙江工商大学下沙校区游泳馆燃气热水锅炉升级改造项目（设备"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://cgzx.zjgsu.edu.cn/4737/list.htm",
+    "label": "招标公告",
+    "scanned": 7,
+    "oldest": "2026-08-06",
+    "n": 0,
+    "newest": [
+     "2026-11-02 浙江工商大学继续教育学院自考助学2026级学生在线学习服",
+     "2026-10-21 浙江求是招标代理有限公司关于浙江工商大学2026-202",
+     "2026-10-20 浙江工商大学下沙校区游泳馆燃气热水锅炉升级改造项目（设备"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://cgzx.zjgsu.edu.cn/4744/list.htm",
+    "label": "more>>",
+    "scanned": 3,
+    "oldest": "2023-03-31",
+    "n": 0,
+    "newest": [
+     "2025-03-25 关于调整浙江省政府采购云平台电子卖场网上超市相关内容的通",
+     "2024-12-30 2024年度采购中心职工考评结果公示",
+     "2023-03-31 浙江省政府采购禁止行为清单指引(一)"
+    ],
+    "rows": []
+   }
+  ]
+ }
+]

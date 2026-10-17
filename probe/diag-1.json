@@ -1,0 +1,70 @@
+[
+ {
+  "key": "CAU",
+  "dom": "cau.edu.cn",
+  "home": "https://www.cau.edu.cn/",
+  "links": [
+   "招标采购 https://gzc.cau.edu.cn/sfw_cms/e?page=cms.index"
+  ],
+  "hosts": [
+   "cwc.cau.edu.cn",
+   "cg.cau.edu.cn",
+   "zb.cau.edu.cn",
+   "gzc.cau.edu.cn"
+  ]
+ },
+ {
+  "key": "NWAFU",
+  "dom": "nwsuaf.edu.cn",
+  "home": "https://www.nwsuaf.edu.cn/",
+  "links": [
+   "采购服务系统 https://cg.nwafu.edu.cn/"
+  ],
+  "hosts": [
+   "cg.nwsuaf.edu.cn",
+   "zcgl.nwsuaf.edu.cn",
+   "gzc.nwsuaf.edu.cn"
+  ]
+ },
+ {
+  "key": "SDNU",
+  "dom": "sdnu.edu.cn",
+  "home": "https://www.sdnu.edu.cn/",
+  "links": [
+   "招标采购 http://www.zcb.sdnu.edu.cn/"
+  ],
+  "hosts": [
+   "zcb.sdnu.edu.cn"
+  ]
+ },
+ {
+  "key": "CJLU",
+  "dom": "cjlu.edu.cn",
+  "home": "https://www.cjlu.edu.cn/",
+  "links": [],
+  "hosts": []
+ },
+ {
+  "key": "QHU",
+  "dom": "qhu.edu.cn",
+  "home": "https://www.qhu.edu.cn/",
+  "links": [
+   "15\n\t\t\t\t\t\t\t\t\t https://www.qhu.edu.cn/tzgg/757eec5eeca34fde871c99fc9bcae87e.htm",
+   "13\n\t\t\t\t\t\t\t\t\t https://www.qhu.edu.cn/tzgg/fbac629e82404446bbf4772f82c5b234.htm"
+  ],
+  "hosts": []
+ },
+ {
+  "key": "ZJGSU",
+  "dom": "zjgsu.edu.cn",
+  "home": null,
+  "links": [],
+  "hosts": [
+   "cwc.zjgsu.edu.cn",
+   "cgzx.zjgsu.edu.cn",
+   "cg.zjgsu.edu.cn",
+   "sbc.zjgsu.edu.cn",
+   "cggl.zjgsu.edu.cn"
+  ]
+ }
+]
