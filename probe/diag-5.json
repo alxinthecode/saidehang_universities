@@ -1,0 +1,59 @@
+[
+ {
+  "key": "YNU",
+  "dom": "ynu.edu.cn",
+  "home": "https://www.ynu.edu.cn/",
+  "links": [],
+  "hosts": []
+ },
+ {
+  "key": "BJFU",
+  "dom": "bjfu.edu.cn",
+  "home": "https://www.bjfu.edu.cn/",
+  "links": [],
+  "hosts": [
+   "zbzx.bjfu.edu.cn",
+   "zcc.bjfu.edu.cn",
+   "sbc.bjfu.edu.cn",
+   "gzc.bjfu.edu.cn"
+  ]
+ },
+ {
+  "key": "SICNU",
+  "dom": "sicnu.edu.cn",
+  "home": "https://www.sicnu.edu.cn/",
+  "links": [
+   "招标采购 https://zczx.sicnu.edu.cn/"
+  ],
+  "hosts": [
+   "zczx.sicnu.edu.cn"
+  ]
+ },
+ {
+  "key": "CTGU",
+  "dom": "ctgu.edu.cn",
+  "home": "https://www.ctgu.edu.cn/",
+  "links": [
+   "采购与招标中心 http://zb.ctgu.edu.cn/",
+   "招标信息 http://zb.ctgu.edu.cn/"
+  ],
+  "hosts": [
+   "zb.ctgu.edu.cn",
+   "zcc.ctgu.edu.cn"
+  ]
+ },
+ {
+  "key": "NCST",
+  "dom": "ncst.edu.cn",
+  "home": null,
+  "links": [],
+  "hosts": []
+ },
+ {
+  "key": "JLNU",
+  "dom": "jlnu.edu.cn",
+  "home": null,
+  "links": [],
+  "hosts": []
+ }
+]
