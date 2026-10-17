@@ -1,0 +1,69 @@
+[
+ {
+  "key": "CUGB",
+  "dom": "cugb.edu.cn",
+  "home": "https://www.cugb.edu.cn/",
+  "links": [
+   "招标公告 https://zbcg.cugb.edu.cn/"
+  ],
+  "hosts": [
+   "cwc.cugb.edu.cn",
+   "zbcg.cugb.edu.cn",
+   "gzc.cugb.edu.cn",
+   "zcgl.cugb.edu.cn"
+  ]
+ },
+ {
+  "key": "NEFU",
+  "dom": "nefu.edu.cn",
+  "home": "https://www.nefu.edu.cn/",
+  "links": [],
+  "hosts": [
+   "cwc.nefu.edu.cn",
+   "zbb.nefu.edu.cn"
+  ]
+ },
+ {
+  "key": "AHNU",
+  "dom": "ahnu.edu.cn",
+  "home": "https://www.ahnu.edu.cn/",
+  "links": [
+   "招标公告 https://www.ahnu.edu.cn/index/zbgg.htm"
+  ],
+  "hosts": [
+   "cwc.ahnu.edu.cn",
+   "zb.ahnu.edu.cn",
+   "zcc.ahnu.edu.cn",
+   "cggl.ahnu.edu.cn"
+  ]
+ },
+ {
+  "key": "USC",
+  "dom": "usc.edu.cn",
+  "home": "https://www.usc.edu.cn/",
+  "links": [],
+  "hosts": []
+ },
+ {
+  "key": "CNU",
+  "dom": "cnu.edu.cn",
+  "home": "https://www.cnu.edu.cn/",
+  "links": [],
+  "hosts": [
+   "cwc.cnu.edu.cn",
+   "gzc.cnu.edu.cn"
+  ]
+ },
+ {
+  "key": "CSUFT",
+  "dom": "csuft.edu.cn",
+  "home": "https://www.csuft.edu.cn/",
+  "links": [
+   "招标采购 https://cztzx.csuft.edu.cn/"
+  ],
+  "hosts": [
+   "cgglzx.csuft.edu.cn",
+   "cztzx.csuft.edu.cn"
+  ]
+ }
+]

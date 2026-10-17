@@ -1,0 +1,248 @@
+[
+ {
+  "key": "CUGB",
+  "title": "中国地质大学采购服务平台",
+  "url": "https://zbcg.cugb.edu.cn/sfw2/e?page=cms.index",
+  "sfw": true,
+  "navs": [
+   {
+    "t": "更多>",
+    "h": "https://zbcg.cugb.edu.cn/sfw2/e?page=cms.psms.gglist&type=XQ&catalog=A"
+   }
+  ],
+  "cands": [
+   {
+    "u": "https://zbcg.cugb.edu.cn/sfw2/e?page=cms.index",
+    "label": "home",
+    "scanned": 12,
+    "oldest": "2024-03-29",
+    "n": 0,
+    "newest": [
+     "2026-03-16 党建领航，校企联动！招标与采购办公室走进京东，探寻高质量",
+     "2025-09-25 党建引领聚合力 协同联动促发展——招标与采购办公室与雄安",
+     "2024-10-18 Citywalk行走的党课 ——共赏祖国大好河山，共话改"
+    ],
+    "rows": []
+   }
+  ],
+  "sfwScan": {
+   "scanned": 100,
+   "oldest": "2026-08-06",
+   "n": 1,
+   "newest": [
+    "2026-10-16 学生工作处艺术教育中心乐器采购（202610410109",
+    "2026-10-16 中国地质大学（北京）显微测温冷热台采购项目（202611",
+    "2026-10-15 材料科学与工程学院-金相显微镜-新能源材料技术与战略（2"
+   ],
+   "rows": [
+    "CUGB-2026112010990 | weak | 中国地质大学（北京）激振器采购项目公开招标公告"
+   ]
+  }
+ },
+ {
+  "key": "NEFU",
+  "title": "东北林业大学招标管理中心",
+  "url": "https://zbb.nefu.edu.cn/sfw_cms/e?page=cms.index",
+  "sfw": true,
+  "navs": [
+   {
+    "t": "更多>",
+    "h": "https://zbb.nefu.edu.cn/sfw_cms/e?page=cms.news&cid=4401"
+   },
+   {
+    "t": "更多>",
+    "h": "https://zbb.nefu.edu.cn/sfw_cms/e?page=cms.psms.gglist&typeDetail=XQ&cate=4392"
+   },
+   {
+    "t": "更多>",
+    "h": "https://zbb.nefu.edu.cn/sfw_cms/e?page=cms.psms.gglist&typeDetail=GG&cate=4393"
+   },
+   {
+    "t": "更多>",
+    "h": "https://zbb.nefu.edu.cn/sfw_cms/e?page=cms.psms.scatter.list"
+   },
+   {
+    "t": "更多>",
+    "h": "https://zbb.nefu.edu.cn/sfw_cms/e?page=cms.news2&shopType=DYLY,DYLYWT&cate=50133"
+   },
+   {
+    "t": "更多>",
+    "h": "https://zbb.nefu.edu.cn/sfw_cms/e?page=cms.psms.gglist&typeDetail=YX&cate=172005"
+   }
+  ],
+  "cands": [
+   {
+    "u": "https://zbb.nefu.edu.cn/sfw_cms/e?page=cms.index",
+    "label": "home",
+    "scanned": 14,
+    "oldest": "2024-03-21",
+    "n": 0,
+    "newest": [
+     "2026-09-02 关于做好2026年第四季度采购意向公开工作的通知",
+     "2026-06-02 关于做好2026年第三季度采购意向公开工作的通知",
+     "2026-03-19 关于做好2026年第二季度采购意向公开工作的通知"
+    ],
+    "rows": []
+   }
+  ],
+  "sfwScan": {
+   "scanned": 100,
+   "oldest": "2026-06-23",
+   "n": 0,
+   "newest": [
+    "2026-10-16 高通量核酸扩增及分析系统（ZB2026000127）采购",
+    "2026-10-12 分析测试中心七氟丙烷灭火系统采购(第二次)（ZB2026",
+    "2026-10-12 东北林业大学四种驱离设备采购项目（DLCG2026102"
+   ],
+   "rows": []
+  }
+ },
+ {
+  "key": "AHNU",
+  "title": "招标公告-安徽师范大学",
+  "url": "https://www.ahnu.edu.cn/index/zbgg.htm",
+  "sfw": false,
+  "navs": [
+   {
+    "t": "招标公告",
+    "h": "https://www.ahnu.edu.cn/index/zbgg.htm"
+   }
+  ],
+  "cands": [
+   {
+    "u": "https://www.ahnu.edu.cn/index/zbgg.htm",
+    "label": "招标公告",
+    "scanned": 17,
+    "oldest": "2021-09-21",
+    "n": 0,
+    "newest": [
+     "2026-09-21 关于本学期校领导接待日安排的通知",
+     "2026-09-18 关于2026年国庆节、中秋节期间校车安排的通知",
+     "2026-07-30 安徽师范大学2026年度专职辅导员招聘公告（第二批）"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://www.ahnu.edu.cn/index/zbgg.htm",
+    "label": "招标公告",
+    "scanned": 17,
+    "oldest": "2021-09-21",
+    "n": 0,
+    "newest": [
+     "2026-09-21 关于本学期校领导接待日安排的通知",
+     "2026-09-18 关于2026年国庆节、中秋节期间校车安排的通知",
+     "2026-07-30 安徽师范大学2026年度专职辅导员招聘公告（第二批）"
+    ],
+    "rows": []
+   }
+  ]
+ },
+ {
+  "key": "AHNU",
+  "title": "资产处",
+  "url": "https://zcc.ahnu.edu.cn/",
+  "sfw": false,
+  "navs": [],
+  "cands": [
+   {
+    "u": "https://zcc.ahnu.edu.cn/",
+    "label": "home",
+    "scanned": 9,
+    "oldest": "2025-02-02",
+    "n": 0,
+    "newest": [
+     "2026-06-04 学校加强实验室安全工作",
+     "2026-05-01 学校开展“五一”假期实验室安全检查",
+     "2026-03-25 安徽大学资产与实验室管理处来校调研交流"
+    ],
+    "rows": []
+   }
+  ]
+ },
+ {
+  "key": "CSUFT",
+  "title": "招投标管理处",
+  "url": "https://cztzx.csuft.edu.cn/",
+  "sfw": false,
+  "navs": [
+   {
+    "t": "采购公告",
+    "h": "https://cztzx.csuft.edu.cn/cggg.htm"
+   },
+   {
+    "t": "更多》",
+    "h": "https://cztzx.csuft.edu.cn/zxdt.htm"
+   },
+   {
+    "t": "更多》",
+    "h": "https://cztzx.csuft.edu.cn/bmgk/jbqk.htm"
+   },
+   {
+    "t": "更多》",
+    "h": "https://cztzx.csuft.edu.cn/zcfg/gjzcfg.htm%7D"
+   },
+   {
+    "t": "更多》",
+    "h": "https://cztzx.csuft.edu.cn/cgjg.htm"
+   },
+   {
+    "t": "更多》",
+    "h": "https://cztzx.csuft.edu.cn/yqlj.htm"
+   }
+  ],
+  "cands": [
+   {
+    "u": "https://cztzx.csuft.edu.cn/cggg.htm",
+    "label": "采购公告",
+    "scanned": 10,
+    "oldest": "2026-09-29",
+    "n": 0,
+    "newest": [
+     "2026-10-14 中南林业科技大学北园校区S03-D06地块土壤污染状况调",
+     "2026-10-13 中南林业科技大学“校友回湘”暨办学115周年高质量发展大",
+     "2026-10-05 中南林业科技大学东园学生公寓东侧新建篮球场项目竞争性磋商"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://cztzx.csuft.edu.cn/zxdt.htm",
+    "label": "更多》",
+    "scanned": 10,
+    "oldest": "2021-02-03",
+    "n": 0,
+    "newest": [
+     "2024-12-30 关于公布我校采购代理机构遴选结果的通知",
+     "2024-03-16 副校长尹双凤到招投标管理处调研",
+     "2021-10-19 湖南环境生物职业技术学院来政府采购与招投标管理中心考察交"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://cztzx.csuft.edu.cn/cgjg.htm",
+    "label": "更多》",
+    "scanned": 10,
+    "oldest": "2026-09-29",
+    "n": 0,
+    "newest": [
+     "2026-10-14 中南林业科技大学实验室废气、废水处理设备维保项目成交公告",
+     "2026-10-13 中南林业科技大学师生文艺汇演项目磋商结果公告",
+     "2026-10-13 中南林业科技大学南园校区(学生宿舍、教室等)整体改扩建项"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://cztzx.csuft.edu.cn/yqlj.htm",
+    "label": "更多》",
+    "scanned": 3,
+    "oldest": "2025-09-11",
+    "n": 0,
+    "newest": [
+     "2025-09-11 中国湖南政府采购网",
+     "2025-09-11 中南林业科技大学采购管理系统",
+     "2025-09-11 湖南省公共资源交易中心集中政府采购辅助系统"
+    ],
+    "rows": []
+   }
+  ]
+ }
+]
