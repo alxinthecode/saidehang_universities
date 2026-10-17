@@ -158,7 +158,9 @@ Keywords come from the Cedrat product table (`docs/Cedrat_产品表_Product_Cata
 
 - **Strong**: the tender names a product Cedrat sells. Examples: 快反镜 / 快速反射镜 / 快速控制反射镜 (FSM); 压电促动器 / 压电陶瓷驱动器 / 压电叠堆 (APA, PPA); 压电位移台 / 纳米位移台 / 纳米定位台 (piezo stages); 压电偏摆台 / tip-tilt; 压电快门; 压电电机 / 压电马达; 压电驱动电源 / 压电放大器 / 压电控制器; 电磁作动器 / 惯性作动器 (MICA); 电涡流传感器.
 - **Weak**: a lead to check by hand. This covers a bare 压电 (often a whole instrument with a piezo inside, such as an AFM or vibrometer) and system-level terms: 位移台, 纳米定位, 倾斜镜, 摆镜, 指向机构, 促动器, 音圈, 主动隔振 / 主动减振, 自适应光学, 变形镜, 稳像, 光束稳定 and others. The full list is in `scraper/scan.js`.
-- **Not counted** (not Cedrat products): 电动 / 电控 / 手动位移台 (motorized screw stages), 隔振台 / 光学平台 (passive isolation), 振镜 (galvo scanners), 六自由度 / 并联机构 platforms, plain 位移传感器. False hits like 高压电缆 / 电压电流 / 稳压电源 are excluded too.
+- Motorized stages (电动平台 / 电动位移台 / 电控位移台) are kept as **weak** leads: not piezo, but bought by the same labs, and a possible domestic-made line.
+- **Not counted**: 隔振台 / 光学平台 (passive isolation), 振镜 (galvo scanners), 六自由度 / 并联机构 platforms, plain 位移传感器.
+- Tenders that refuse imports are **not** filtered out; the import restriction is shown as a tag. False hits like 高压电缆 / 电压电流 / 稳压电源 are excluded too.
 - **Import flag** is read from the announcement text. Cedrat products are imported; under the 2025 domestic-product policy (国办发〔2025〕34号) many tenders refuse imports or give domestic goods a 20% price deduction, so "Imports not accepted" usually means the tender needs a domestic partner or should be skipped.
 
 ## Updating the data

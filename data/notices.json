@@ -69,6 +69,52 @@
     "noteEn": "Direct stage purchase; check whether the spec allows piezo stages."
   },
   {
+    "_id": "TJU-TDZC2026N0119",
+    "school": "TJU",
+    "title": "天津大学天津纳米颗粒与纳米系统国际研究中心高精度三维电动平台系统采购项目竞争性磋商公告",
+    "url": "https://zbb.tju.edu.cn/provider/#/publish/20MVAO7QBLHQ9RR7",
+    "published": "2026-10-16",
+    "deadline": "2026-10-27 13:30",
+    "method": "竞争性磋商",
+    "no": "TDZC2026N0119",
+    "budget": "176万元",
+    "imports": "不接受",
+    "strong": [],
+    "weak": [
+      "电动平台"
+    ],
+    "tier": "weak",
+    "snippet": "22 套，伺服电机+精密导轨+光栅尺全闭环，亚微米级重复定位精度；每套限价 8 万元；不接受进口产品；合同签订后 20 天内供货",
+    "status": "new",
+    "note": "",
+    "firstSeen": "2026-10-16",
+    "titleEn": "Tianjin Int'l Center for Nanoparticles & Nanosystems: high-precision 3-axis motorized stage system (competitive negotiation)",
+    "noteEn": ""
+  },
+  {
+    "_id": "SZTU-SZTUWSJJ2600361",
+    "school": "SZTU",
+    "title": "亚微米级成像高速飞拍平台（SZTUWSJJ2600361）采购公告",
+    "url": "http://ztb.sztu.edu.cn/provider/#/publish/20MVAQJ2H4K8B2LE",
+    "published": "2026-10-16",
+    "deadline": "2026-10-21 17:00",
+    "method": "网上竞价",
+    "no": "SZTUWSJJ2600361",
+    "budget": "",
+    "imports": "",
+    "strong": [],
+    "weak": [
+      "精密运动平台"
+    ],
+    "tier": "weak",
+    "snippet": "平台 1 台 其他光学仪器 预算 ￥ 424,000 技术参数 1.00级大理石精密运动平台，搭载微孔陶瓷载物台，载物台平面度小于3um； 2.XY轴行程大于250mm，Z轴行程大于150mm，XYZ轴重复定位精度为≤ 0.5um； 3.X",
+    "status": "new",
+    "note": "",
+    "firstSeen": "2026-10-17",
+    "titleEn": "Sub-micron imaging high-speed fly-scan platform (SZTUWSJJ2600361)",
+    "noteEn": ""
+  },
+  {
     "_id": "JLU-JLU-KC26053",
     "school": "JLU",
     "title": "超快激光振荡器（JLU-KC26053）采购公告",
@@ -89,6 +135,54 @@
     "note": "",
     "firstSeen": "2026-10-17",
     "titleEn": "Ultrafast laser oscillator (JLU-KC26053)",
+    "noteEn": ""
+  },
+  {
+    "budget": "66万元",
+    "budgetEn": "CNY 660k (22 units, max CNY 30k each)",
+    "deadline": "2026-10-23 09:30",
+    "firstSeen": "2026-10-15",
+    "imports": "不接受",
+    "method": "快速磋商",
+    "no": "TDZC2026N0110",
+    "note": "丝杠/直线电机平台，单价低，不接受进口，另有本国产品20%价格扣除。不适合 Cedrat 直接投。磋商文件 10-19 前获取。",
+    "noteEn": "Lead-screw / linear-motor stage at a low unit price. Imports not accepted, and domestic products get a 20% price deduction. Not a direct fit for Cedrat. Bid documents available until Oct 19.",
+    "published": "2026-10-14",
+    "school": "TJU",
+    "snippet": "22 套，单轴直线运动定位装置，精密丝杠/直线电机+闭环反馈；每套限价 3 万元；不接受进口产品；10 月 19 日前获取磋商文件",
+    "snippetEn": "Single-axis linear positioning unit with precision lead screw or linear motor and closed-loop feedback. Imported products are not accepted.",
+    "status": "new",
+    "strong": [],
+    "tier": "weak",
+    "title": "天津纳米颗粒与纳米系统国际研究中心高精度一维电动平台采购项目快速磋商公告",
+    "titleEn": "Tianjin Int'l Center for Nanoparticles & Nanosystems: high-precision single-axis motorized stage (rapid negotiation)",
+    "url": "https://zbb.tju.edu.cn/provider/#/publish/20MV7USQ6HAU8E2M",
+    "weak": [
+      "电动平台"
+    ],
+    "_id": "TJU-TDZC2026N0110"
+  },
+  {
+    "_id": "SZTU-SZTUWSJJ2600325",
+    "school": "SZTU",
+    "title": "原位电化学可视化超景深系统（SZTUWSJJ2600325）采购公告",
+    "url": "http://ztb.sztu.edu.cn/provider/#/publish/20MV7FLPYX2RYJ7G",
+    "published": "2026-10-14",
+    "deadline": "2026-10-19 10:00",
+    "method": "网上竞价",
+    "no": "SZTUWSJJ2600325",
+    "budget": "",
+    "imports": "",
+    "strong": [],
+    "weak": [
+      "电动平台"
+    ],
+    "tier": "weak",
+    "snippet": "合、环形、片射照明、四分区独立控制。 4. 三轴电动多角度载物平台： 4.1镜头电动平台：总电动行程≥100mm，支架可带动镜头左、右侧倾斜观测，左右侧分别倾斜角度≥90度，倾斜角度传感器识别分辨率1度。Z轴扫描台可拆卸式设计，可拓展安装在",
+    "status": "new",
+    "note": "",
+    "firstSeen": "2026-10-17",
+    "titleEn": "In-situ electrochemistry visualization extended-depth-of-field system (SZTUWSJJ2600325)",
     "noteEn": ""
   },
   {
@@ -343,6 +437,52 @@
       "主动隔振"
     ],
     "_id": "THU-20260235"
+  },
+  {
+    "budget": "",
+    "deadline": "2026-05-11 17:00",
+    "firstSeen": "2026-10-15",
+    "imports": "",
+    "method": "公开招标",
+    "no": "TDZC2026N0022",
+    "note": "2025-12 曾以 TDZC2025N0379 招过一次，4 月重新招标。精仪学院是潜在客户。",
+    "noteEn": "First tendered in Dec 2025 (TDZC2025N0379), re-tendered in April. This school is a prospect.",
+    "published": "2026-04-30",
+    "school": "TJU",
+    "snippet": "",
+    "status": "new",
+    "strong": [],
+    "tier": "weak",
+    "title": "精密仪器与光电子工程学院组合式精密电控位移台采购项目公开招标公告",
+    "titleEn": "School of Precision Instruments & Opto-electronics: modular precision motorized positioning stages (open tender)",
+    "url": "https://zbb.tju.edu.cn/provider/#/publish/20MOL7JHOP52XX8R",
+    "weak": [
+      "电控位移台"
+    ],
+    "_id": "TJU-TDZC2026N0022"
+  },
+  {
+    "budget": "",
+    "deadline": "2025-12-25 17:30",
+    "firstSeen": "2026-10-15",
+    "imports": "",
+    "method": "公开招标",
+    "no": "TDZC2025N0379",
+    "note": "12-26 发过更正公告；2026-04 重新招标（TDZC2026N0022）。",
+    "noteEn": "Correction notice issued Dec 26; re-tendered in Apr 2026 (TDZC2026N0022).",
+    "published": "2025-12-18",
+    "school": "TJU",
+    "snippet": "",
+    "status": "new",
+    "strong": [],
+    "tier": "weak",
+    "title": "精密仪器与光电子工程学院组合式精密电控位移台采购项目公开招标公告",
+    "titleEn": "School of Precision Instruments & Opto-electronics: modular precision motorized positioning stages (open tender)",
+    "url": "https://zbb.tju.edu.cn/provider/#/publish/20MJB9Z3IUASGV07",
+    "weak": [
+      "电控位移台"
+    ],
+    "_id": "TJU-TDZC2025N0379"
   },
   {
     "_id": "XJTU-cc81459f008a",

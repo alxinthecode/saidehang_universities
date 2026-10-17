@@ -20,10 +20,11 @@
 
   // Strong = the tender names a product Cedrat sells (see the Cedrat product table, 招标关键词 tab).
   // Weak = a lead only: bare 压电, whole instruments with piezo parts, system-level terms.
-  // Not matched on purpose: 电动平台/电控位移台 (motorised screw stages), 隔振台/光学平台 (passive),
-  // 振镜 (galvo scanners), 六自由度/并联机构 (large platforms), plain 位移传感器.
+  // Motorised stages (电动平台/电控位移台) are weak leads: not piezo, but the same labs and a possible
+  // domestic-made line for 赛得航. Not matched on purpose: 隔振台/光学平台 (passive), 振镜 (galvo
+  // scanners), 六自由度/并联机构 (large platforms), plain 位移传感器.
   const STRONG = ['快反镜','快速反射镜','快速控制反射镜','快速偏转镜','快速倾斜镜','精跟踪镜','精瞄镜','压电促动器','压电陶瓷促动器','压电陶瓷驱动器','压电作动器','压电致动器','压电执行器','压电陶瓷执行器','压电叠堆','压电陶瓷堆','叠层压电','压电堆栈','压电位移台','纳米位移台','纳米定位台','压电扫描台','压电平台','压电纳米','压电偏摆台','压电倾斜台','压电偏转镜','tip-tilt','tip tilt','压电快门','压电电机','压电马达','压电直线电机','压电驱动电源','压电陶瓷驱动电源','压电放大器','压电功率放大器','压电控制器','压电陶瓷控制器','压电驱动器','压电驱动模块','电磁作动器','磁驱作动器','动铁作动器','惯性作动器','主动减振作动器','电涡流位移传感器','电涡流传感器','fast steering','fsm'];
-  const WEAK = ['压电','piezo','纳米位移','纳米定位','微位移','位移台','精密定位','倾斜镜','摆镜','偏摆台','指向镜','指向机构','促动器','致动器','作动器','音圈','磁致伸缩','激振器','主动隔振','主动减振','自适应光学','变形镜','稳像','光束稳定','光束指向','高压放大器','电容位移传感器'];
+  const WEAK = ['压电','piezo','纳米位移','纳米定位','微位移','位移台','精密定位','倾斜镜','摆镜','偏摆台','指向镜','指向机构','促动器','致动器','作动器','音圈','磁致伸缩','激振器','主动隔振','主动减振','自适应光学','变形镜','稳像','光束稳定','光束指向','高压放大器','电容位移传感器','电动平台','电动位移台','电控位移台','电动平移台','精密运动平台'];
   // Award/result/contract notices are not opportunities.
   const RESULT = /(中标|成交|结果|废标|流标|终止|合同|验收)(公告|公示)|中标候选人|结果公示|采购意向/;
 
@@ -31,12 +32,11 @@
   // 偏压电源, 调压/升压/降压电路, 气压/负压/正压/真空压… — neutralise those before matching.
   // Motorised / manual stages are not piezo: drop 电动位移台, 电控平台, 手动位移台 … before matching too.
   const norm = s => (s || '').toLowerCase()
-    .replace(/[高低中电槽稳偏调升降气负正空水油液血]压电/g, m => '#'.repeat(m.length))
-    .replace(/(电动|电控|手动|机动|步进电机|丝杠|直线电机)(精密)?(位移台|平移台|平台|转台)/g, m => '#'.repeat(m.length));
+    .replace(/[高低中电槽稳偏调升降气负正空水油液血]压电/g, m => '#'.repeat(m.length));
   const strip = s => (s || '').replace(/<[^>]+>/g, ' ').replace(/&nbsp;/g, ' ').replace(/\s+/g, ' ').trim();
   const imports = txt => /不(?:接受|允许)进口|进口产品[^。]{0,8}(?:否|不允许|不接受)/.test(txt) ? '不接受'
     : /(?:接受|允许)进口|进口产品[^。]{0,8}是/.test(txt) ? '允许' : '';
-  const budgetOf = txt => { const m = txt.match(/预算(?:金额)?[^0-9]{0,12}([0-9][0-9.,]*)\s*(万元|元)/); return m ? m[1] + m[2] : ''; };
+  const budgetOf = txt => { const m = txt.match(/预算(?:金额)?[^0-9]{0,12}([0-9][0-9.,]*)\s*(万元|元)/); return m ? m[1].replace(/(\.\d*?)0+$/, '$1').replace(/\.$/, '') + m[2] : ''; };
   const DATE = /(20\d{2})\s*[-年./]+\s*(\d{1,2})\s*[-月./]+\s*(\d{1,2})/;
   const toYmd = s => { const m = String(s || '').match(DATE); return m ? `${m[1]}-${m[2].padStart(2, '0')}-${m[3].padStart(2, '0')}` : ''; };
   const cleanTitle = s => (s || '').replace(/^[\s·•▪■●\-]+/, '').replace(/\s+/g, ' ').trim();
@@ -47,11 +47,13 @@
     const strong = STRONG.filter(k => low.includes(k));
     // A weak term inside a matched strong one (压电 in 压电位移台) adds nothing.
     const weak = WEAK.filter(k => low.includes(k) && !strong.some(t => t.includes(k)));
-    if (!strong.length && !weak.length) return null;
-    const k0 = strong[0] || weak[0];
+    // …and so does one inside another weak term (位移台 in 电控位移台).
+    const weakOut = weak.filter(k => !weak.some(t => t !== k && t.includes(k)));
+    if (!strong.length && !weakOut.length) return null;
+    const k0 = strong[0] || weakOut[0];
     const i = low.indexOf(k0);
     const full = title + ' ' + text;
-    return { strong, weak, tier: strong.length ? 'strong' : 'weak', snippet: text ? full.slice(Math.max(0, i - 40), i + 80) : '' };
+    return { strong, weak: weakOut, tier: strong.length ? 'strong' : 'weak', snippet: text ? full.slice(Math.max(0, i - 40), i + 80) : '' };
   }
 
   async function getText(url, init) {
@@ -117,10 +119,20 @@
         published: toYmd(it.beginTime || it.pdate || it.creTime),
         deadline: String(it.endTime || it.edate || '').slice(0, 16),
         method: it.shopTypeName || it.shoppingTypeName || '',
-        no: it.tenderNo || it.businessNo || '',
+        no: it.tenderNo || it.businessNo || '', syncId: it.syncId || '',
         url: it.url || it.fullUrl || (it.syncId ? detail + it.syncId : location.origin + endpoint + '?page=cms.psms.gglist&typeDetail=XQ'),
       };
     });
+  }
+
+  async function detailText(syncId) {
+    try {
+      const res = await fetch(`https://provider.yuncaitong.cn/api/publish/${syncId}`);
+      const j = await res.json();
+      const parts = [];
+      (function walk(v) { if (typeof v === 'string') { if (v.length > 20) parts.push(v); } else if (v && typeof v === 'object') Object.values(v).forEach(walk); })(j);
+      return strip(parts.join(' ')).slice(0, 20000);
+    } catch { return ''; }
   }
 
   // ---------- list reader ----------
@@ -192,8 +204,13 @@
     scanned++;
     if (r.published && (!oldest || r.published < oldest)) oldest = r.published;
     if (RESULT.test(r.title)) continue;
-    const m = match(r.title, r.text);
+    let m = match(r.title, r.text);
     if (!m) continue;
+    // Many 思必得 sites leave the text out of the list; read the published notice for imports/budget.
+    if (kind === 'sfw' && !r.text && r.syncId) {
+      r.text = await detailText(r.syncId);
+      if (r.text) m = match(r.title, r.text) || m;
+    }
     let id;
     const code = SITE.idFrom ? (r.title.match(new RegExp(SITE.idFrom)) || [])[1] : '';
     if (code) id = `${school}-${code}`;
