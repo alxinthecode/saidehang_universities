@@ -1,0 +1,69 @@
+[
+ {
+  "key": "ZJOU",
+  "title": "实验室建设与设备管理处",
+  "url": "https://sbc.zjou.edu.cn/",
+  "sfw": false,
+  "navs": [
+   {
+    "t": "更多>>",
+    "h": "https://sbc.zjou.edu.cn/tzgg.htm"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://sbc.zjou.edu.cn/bszn.htm"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://sbc.zjou.edu.cn/gzdt/gzdt.htm"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://sbc.zjou.edu.cn/sbzs.htm"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://sbc.zjou.edu.cn/kkc.htm"
+   }
+  ],
+  "cands": [
+   {
+    "u": "https://sbc.zjou.edu.cn/tzgg.htm",
+    "label": "更多>>",
+    "scanned": 20,
+    "oldest": "2018-12-22",
+    "n": 0,
+    "newest": [
+     "2024-03-28 实验室安全十条准则",
+     "2023-11-07 关于转发“教育部高等教育司关于举办高校教学实验室安全与管",
+     "2023-10-11 推荐几种化学品MSDS信息查询方式，供实验师生参考"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://sbc.zjou.edu.cn/bszn.htm",
+    "label": "更多>>",
+    "scanned": 1,
+    "oldest": "2023-11-08",
+    "n": 0,
+    "newest": [
+     "2023-11-08 浙江海洋大学采管系统采购操作手册（第五版）"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://sbc.zjou.edu.cn/gzdt/gzdt.htm",
+    "label": "更多>>",
+    "scanned": 20,
+    "oldest": "2023-09-28",
+    "n": 0,
+    "newest": [
+     "2026-10-09 校领导带队开展国庆前实验室安全专项检查",
+     "2026-06-12 学校开展2026年危化品防盗抢应急演练活动",
+     "2026-04-24 学校组织学习教育部2026年高校实验室安全工作视频培训"
+    ],
+    "rows": []
+   }
+  ]
+ }
+]

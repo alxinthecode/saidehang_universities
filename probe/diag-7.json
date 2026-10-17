@@ -1,0 +1,20 @@
+[
+ {
+  "key": "AHAU",
+  "dom": "ahau.edu.cn",
+  "home": "https://www.ahau.edu.cn/",
+  "links": [],
+  "hosts": []
+ },
+ {
+  "key": "ZJOU",
+  "dom": "zjou.edu.cn",
+  "home": "https://www.zjou.edu.cn/",
+  "links": [
+   "招标公告 http://sbc.zjou.edu.cn/ztbxxgspt/zbgg.htm"
+  ],
+  "hosts": [
+   "sbc.zjou.edu.cn"
+  ]
+ }
+]

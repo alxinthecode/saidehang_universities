@@ -1,0 +1,40 @@
+[
+ {
+  "key": "LZU",
+  "try": "zbb.lzu.edu.cn",
+  "ok": true,
+  "title": "",
+  "url": "https://zbb.lzu.edu.cn/",
+  "cands": []
+ },
+ {
+  "key": "LZU",
+  "try": "zcc.lzu.edu.cn",
+  "ok": true,
+  "title": "兰州大学资产处",
+  "url": "https://zcc.lzu.edu.cn/",
+  "cands": []
+ },
+ {
+  "key": "FJNU",
+  "try": "cggl.fjnu.edu.cn/sfw_cms/e?page=cms.index",
+  "ok": true,
+  "title": "福建师范大学采购招标网",
+  "url": "https://cggl.fjnu.edu.cn/sfw_cms/e?page=cms.index",
+  "cands": [
+   {
+    "u": "https://cggl.fjnu.edu.cn/sfw_cms/e?page=cms.index",
+    "label": "home",
+    "scanned": 22,
+    "oldest": "2024-04-03",
+    "n": 0,
+    "newest": [
+     "2026-06-15 我校召开采购招标专题培训会",
+     "2026-06-12 资产管理处、实验室与设备管理处联合开展资产管理与采购招标",
+     "2025-12-31 我校召开采购招标专题培训会"
+    ]
+   }
+  ],
+  "sfwErr": "page.evaluate: Error: no 思必得 list query returned results\n    at readSfw (eval at"
+ }
+]
