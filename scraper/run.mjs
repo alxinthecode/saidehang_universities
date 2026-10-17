@@ -60,6 +60,31 @@ let next = 0;
 await Promise.all(Array.from({ length: CONCURRENCY }, async () => {
   while (next < SITES.length) { const i = next++; results[i] = await scanSite(SITES[i]); }
 }));
+// 思必得 notices published as PDF have no text in the list. For matched ones that are new or still
+// missing an import flag, open the notice page and read the rendered text (imports, budget, snippet).
+const IMPORTS = t => /不(?:接受|允许)进口|进口产品[^。]{0,8}(?:否|不允许|不接受)/.test(t) ? '不接受'
+  : /(?:接受|允许)进口|进口产品[^。]{0,8}是/.test(t) ? '允许' : '';
+const BUDGET = t => { const m = t.match(/预算(?:金额)?[^0-9]{0,12}([0-9][0-9.,]*)\s*(万元|元)/); return m ? m[1].replace(/(\.\d*?)0+$/, '$1').replace(/\.$/, '') + m[2] : ''; };
+const known = new Map(notices.map(n => [n._id, n]));
+const needText = results.filter(r => r.ok).flatMap(r => r.rows)
+  .filter(row => /\/provider\/#\/publish\//.test(row.url) && !row.snippet && !(known.get(row._id) || {}).imports)
+  .slice(0, 30);
+for (const row of needText) {
+  const page = await ctx.newPage();
+  try {
+    await page.goto(row.url, { waitUntil: 'domcontentloaded', timeout: 45000 });
+    await page.waitForLoadState('networkidle', { timeout: 20000 }).catch(() => {});
+    await page.waitForTimeout(3000);
+    const text = (await page.evaluate(() => document.body.innerText)).replace(/\s+/g, '');
+    row.imports = IMPORTS(text) || row.imports;
+    row.budget = BUDGET(text) || row.budget;
+    const i = text.search(/采购需求|项目内容|采购内容/);
+    if (i >= 0) row.snippet = text.slice(i, i + 160);
+    console.log(`detail ${row._id}: imports=${row.imports || '-'} budget=${row.budget || '-'}`);
+  } catch (e) {
+    console.log(`detail ${row._id}: ${String(e.message || e).split('\n')[0]}`);
+  } finally { await page.close(); }
+}
 await browser.close();
 
 // Merge: keep everything already in the file; add new ids; refresh deadline/budget/imports
