@@ -115,6 +115,7 @@ td a{color:var(--accent)}
   <div class="strip">
     <div class="stat"><b id="s-open">–</b><span data-i="sOpen"></span></div>
     <div class="stat"><b id="s-strong">–</b><span data-i="sStrong"></span></div>
+    <div class="stat"><b id="s-weak">–</b><span data-i="sWeak"></span></div>
     <div class="stat"><b id="s-imp">–</b><span data-i="sImp"></span></div>
     <div class="stat"><b id="s-total">–</b><span data-i="sTotal"></span></div>
   </div>
@@ -122,6 +123,7 @@ td a{color:var(--accent)}
   <div class="filters">
     <button class="chip" data-f="open" id="f-open" data-i="fOpen"></button>
     <button class="chip" data-f="strong" id="f-strong" data-i="fStrong"></button>
+    <button class="chip" data-f="weak" id="f-weak" data-i="fWeak"></button>
     <button class="chip" data-f="hideSkip" id="f-hideskip" data-i="fHide"></button>
     <span class="sep"></span>
     <select id="school" class="schoolsel"></select>
@@ -150,8 +152,8 @@ td a{color:var(--accent)}
 
 <script>
 const T={
- zh:{h1:'高校与研究所采购标讯',sOpen:'未截止的匹配公告',sStrong:'强相关（核心产品词）',sImp:'明确允许进口',sTotal:'累计匹配',
-  fOpen:'仅未截止',fStrong:'仅强相关',fHide:'隐藏「不适合」',q:'搜索标题、关键词、编号',
+ zh:{h1:'高校与研究所采购标讯',sOpen:'未截止的匹配公告',sStrong:'强相关（核心产品词）',sWeak:'弱相关（线索）',sImp:'明确允许进口',sTotal:'累计匹配',
+  fOpen:'仅未截止',fStrong:'仅强相关',fWeak:'仅弱相关',fHide:'隐藏「不适合」',q:'搜索标题、关键词、编号',
   srcH:'来源平台与覆盖范围',thSchool:'单位',thPlat:'平台',thScan:'本次扫描',thBack:'覆盖到',thNote:'说明',
   ruleH:'匹配规则',kwStrongH:'强相关：标讯直接写了 Cedrat 在卖的产品',kwWeakH:'弱相关：线索（整机里含压电部件、系统级用语），需要人工判断',
   ruleNote:'在标题和公告正文中匹配（部分学校只提供标题，见上表）。中标、成交、合同等结果公告不计入。「高压电缆」「电压电流」这类词已排除；电动/电控位移台、被动隔振台、振镜、六自由度平台不再计入（不是 Cedrat 产品）。进口一栏读取公告里的"是否允许进口产品"表述；Cedrat 产品为进口，标注「不接受进口」的项目需通过国内代理或放弃。研究所的公告取自其「通知公告」栏目；研究所 10 万元以下的采购通常由课题组直接向供应商询价、不公开发布，所以这里只能看到较大金额的项目。',
@@ -160,8 +162,8 @@ const T={
   loading:'正在读取公告…',none:'还没有公告。每天的扫描会把匹配到的公告写到这里。',noMatch:'没有符合当前筛选的公告。试试取消「仅未截止」或学校筛选。',
   noDb:'此视图无法读取公告数据。请在 claude.ai 登录后打开。',readErr:c=>'读取失败（'+c+'），请刷新页面。',statusLabel:'跟进状态',
   status:{new:'新',watch:'关注',bid:'准备投标',skip:'不适合'}},
- en:{h1:'University & Institute Tender Watch',sOpen:'Open matching tenders',sStrong:'Strong matches (core product terms)',sImp:'Imports explicitly allowed',sTotal:'Total matches',
-  fOpen:'Open only',fStrong:'Strong only',fHide:'Hide “Not a fit”',q:'Search title, keyword, tender no.',
+ en:{h1:'University & Institute Tender Watch',sOpen:'Open matching tenders',sStrong:'Strong matches (core product terms)',sWeak:'Weak matches (leads)',sImp:'Imports explicitly allowed',sTotal:'Total matches',
+  fOpen:'Open only',fStrong:'Strong only',fWeak:'Weak only',fHide:'Hide “Not a fit”',q:'Search title, keyword, tender no.',
   srcH:'Sources and coverage',thSchool:'Source',thPlat:'Platform',thScan:'Last scan',thBack:'Covers back to',thNote:'Notes',
   ruleH:'Matching rules',kwStrongH:'Strong: the tender names a product Cedrat sells',kwWeakH:'Weak: a lead only (instrument with piezo parts, system-level term), check by hand',
   ruleNote:'Terms are matched in the title and, where published, the full announcement text (some universities publish titles only; see the table above). Award, result and contract notices are skipped. False hits such as 高压电缆 (high-voltage cable) are excluded, and motorised stages, passive isolation tables, galvo scanners and 6-DOF platforms are no longer counted (Cedrat doesn’t make them). The import column reads the announcement’s statement on imported products. Cedrat products are imported, so tenders marked “Imports not accepted” need a domestic partner or should be skipped. Research-institute items come from each institute’s notice board; institutes usually buy items under ¥100k directly from suppliers without a public notice, so only larger purchases show up here.',
@@ -185,7 +187,7 @@ let SCHOOLS=[
 const EXTRA_SCHOOL_EN={'天大':'Tianjin U','上交':'SJTU','哈工大':'Harbin IT','清华':'Tsinghua','北航':'Beihang'};
 const STATUS_KEYS=['new','watch','bid','skip'];
 
-const state={rows:[],meta:null,f:{open:false,strong:false,hideSkip:true},school:'',q:'',lang:'zh',loaded:false,err:''};
+const state={rows:[],meta:null,f:{open:false,strong:false,weak:false,hideSkip:true},school:'',q:'',lang:'zh',loaded:false,err:''};
 let canWrite=true,db=null;
 try{const s=JSON.parse(localStorage.getItem('tw-filters')||'null');if(s){Object.assign(state.f,s.f||{});if(typeof s.school==='string')state.school=s.school;if(s.lang)state.lang=s.lang;}}catch(e){}
 if(location.hash==='#en')state.lang='en';else if(location.hash==='#zh')state.lang='zh';
@@ -207,7 +209,7 @@ function fillSchools(){
   if(state.school&&!SCHOOLS.some(s=>s.k===state.school))state.school='';
   sc.value=state.school;
 }
-document.querySelectorAll('[data-f]').forEach(b=>b.onclick=()=>{state.f[b.dataset.f]=!state.f[b.dataset.f];save();paint()});
+document.querySelectorAll('[data-f]').forEach(b=>b.onclick=()=>{const k=b.dataset.f;state.f[k]=!state.f[k];if(state.f[k]&&k==='strong')state.f.weak=false;if(state.f[k]&&k==='weak')state.f.strong=false;save();paint()});
 document.getElementById('q').addEventListener('input',e=>{state.q=e.target.value.trim().toLowerCase();render()});
 document.querySelectorAll('[data-lang]').forEach(b=>b.onclick=()=>{state.lang=b.dataset.lang;document.documentElement.lang=en()?'en':'zh-CN';save();paint()});
 
@@ -242,6 +244,7 @@ function render(){
   const rows=state.rows.map(r=>({...r,_due:dueInfo(r)}));
   document.getElementById('s-open').textContent=state.loaded?rows.filter(r=>r._due.open&&r.status!=='skip').length:'–';
   document.getElementById('s-strong').textContent=state.loaded?rows.filter(r=>r.tier==='strong').length:'–';
+  document.getElementById('s-weak').textContent=state.loaded?rows.filter(r=>r.tier!=='strong').length:'–';
   document.getElementById('s-imp').textContent=state.loaded?rows.filter(r=>r.imports==='允许').length:'–';
   document.getElementById('s-total').textContent=state.loaded?rows.length:'–';
   if(state.err){L.innerHTML='<div class="empty">'+esc(state.err)+'</div>';return}
@@ -250,6 +253,7 @@ function render(){
   const v=rows.filter(r=>{
     if(state.f.open&&!r._due.open)return false;
     if(state.f.strong&&r.tier!=='strong')return false;
+    if(state.f.weak&&r.tier==='strong')return false;
     if(state.f.hideSkip&&r.status==='skip')return false;
     if(state.school&&r.school!==state.school)return false;
     if(state.q){const kws=[...(r.strong||[]),...(r.weak||[])];const hay=[r.title,r.titleEn,r.no,r.snippet,r.snippetEn,...kws,...kws.map(k=>KW_EN[k]||'')].join(' ').toLowerCase();if(!hay.includes(state.q))return false}
