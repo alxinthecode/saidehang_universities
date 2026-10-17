@@ -9,7 +9,7 @@ for (const [k, u, id] of [['TJU', 'https://zbb.tju.edu.cn/sfw_cms/e?page=cms.psm
   const page = await ctx.newPage();
   await page.goto(u, { waitUntil: 'domcontentloaded', timeout: 60000 });
   out[k] = await page.evaluate(async id => {
-    try { const r = await fetch(`https://provider.yuncaitong.cn/api/publish/${id}`); const t = await r.text(); return { status: r.status, len: t.length, head: t.slice(0, 300), hasImport: /不接受进口/.test(t) }; }
+    try { const r = await fetch(`https://provider.yuncaitong.cn/api/publish/${id}`); const t = await r.text(); return { status: r.status, len: t.length, head: t, hasImport: /不接受进口/.test(t) }; }
     catch (e) { return { err: String(e) }; }
   }, id);
   await page.close();
