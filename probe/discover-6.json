@@ -1,0 +1,316 @@
+[
+ {
+  "key": "JLAU",
+  "title": "采购与招投标管理中心",
+  "url": "https://cgzx.jlau.edu.cn/",
+  "sfw": true,
+  "navs": [
+   {
+    "t": "采购信息",
+    "h": "https://cgzx.jlau.edu.cn/cgxx.htm"
+   },
+   {
+    "t": "更多",
+    "h": "https://cgzx.jlau.edu.cn/zcfg.htm"
+   },
+   {
+    "t": "更多",
+    "h": "https://cgzx.jlau.edu.cn/index/gzzd.htm"
+   },
+   {
+    "t": "更多",
+    "h": "https://cgzx.jlau.edu.cn/index/gzdt.htm"
+   },
+   {
+    "t": "更多",
+    "h": "https://cgzx.jlau.edu.cn/index/xxcggg.htm"
+   },
+   {
+    "t": "更多",
+    "h": "https://cgzx.jlau.edu.cn/index/xxcggs.htm"
+   },
+   {
+    "t": "更多",
+    "h": "https://cgzx.jlau.edu.cn/pgt.htm"
+   }
+  ],
+  "cands": [
+   {
+    "u": "https://cgzx.jlau.edu.cn/",
+    "label": "home",
+    "scanned": 53,
+    "oldest": "2019-04-17",
+    "n": 0,
+    "newest": [
+     "2021-06-30 政府采购需求管理办法",
+     "2020-10-23 中华人民共和国政府采购法",
+     "2020-10-23 中华人民共和国招标投标法"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://cgzx.jlau.edu.cn/cgxx.htm",
+    "label": "采购信息",
+    "scanned": 10,
+    "oldest": "2026-09-23",
+    "n": 0,
+    "newest": [
+     "2026-10-15 2026年-2027年吉林农业大学电气设备维护服务项目",
+     "2026-10-14 吉林农业大学植物保护学院科普材料采购项目成交结果公示",
+     "2026-10-12 吉林农业大学植物保护学院科普材料采购项目更正公告"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://cgzx.jlau.edu.cn/zcfg.htm",
+    "label": "更多",
+    "scanned": 8,
+    "oldest": "2020-10-23",
+    "n": 0,
+    "newest": [
+     "2021-06-30 政府采购需求管理办法",
+     "2020-10-23 中华人民共和国政府采购法",
+     "2020-10-23 中华人民共和国招标投标法"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://cgzx.jlau.edu.cn/index/gzzd.htm",
+    "label": "更多",
+    "scanned": 8,
+    "oldest": "2020-05-20",
+    "n": 0,
+    "newest": [
+     "2024-01-08 吉林农业大学采购管理办法",
+     "2024-01-08 吉林农业大学校内分散采购指导意见",
+     "2024-01-08 吉林农业大学非政府采购实施细则"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://cgzx.jlau.edu.cn/index/gzdt.htm",
+    "label": "更多",
+    "scanned": 6,
+    "oldest": "2019-10-31",
+    "n": 0,
+    "newest": [
+     "2025-03-06 关于转发《关于进一步规范政府采购项目执行的通知》《关于吉",
+     "2023-09-07 关于转发《关于规范吉林省政府采购电子商城交易行为有关问题",
+     "2023-09-07 采购与招投标管理中心参加省属高校 政府集中采购业务培训班"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://cgzx.jlau.edu.cn/index/xxcggg.htm",
+    "label": "更多",
+    "scanned": 10,
+    "oldest": "2026-09-10",
+    "n": 0,
+    "newest": [
+     "2026-10-15 2026年-2027年吉林农业大学电气设备维护服务项目",
+     "2026-10-12 吉林农业大学植物保护学院科普材料采购项目更正公告",
+     "2026-10-10 吉林农业大学教研基地玉米出售项目竞价公告"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://cgzx.jlau.edu.cn/index/xxcggs.htm",
+    "label": "更多",
+    "scanned": 10,
+    "oldest": "2026-09-15",
+    "n": 0,
+    "newest": [
+     "2026-10-14 吉林农业大学植物保护学院科普材料采购项目成交结果公示",
+     "2026-10-10 吉林农业大学科研用地玉米收割项目结果公告",
+     "2026-09-24 吉林市税务局“土地增值税清算实战化培训”合作办学项目特殊"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://cgzx.jlau.edu.cn/pgt.htm",
+    "label": "更多",
+    "scanned": 2,
+    "oldest": "2020-05-20",
+    "n": 0,
+    "newest": [
+     "2020-07-02 政府采购电子商城 网站链接",
+     "2020-05-20 关于政府采购电子商城正式运行有关事宜的通知"
+    ],
+    "rows": []
+   }
+  ],
+  "sfwErr": "page.evaluate: Error: no 思必得 list query returned results\n    at readSfw (eval at <anonymous> (eval a"
+ },
+ {
+  "key": "JLAU",
+  "title": "",
+  "url": "https://cggl.jlau.edu.cn/",
+  "sfw": false,
+  "navs": [],
+  "cands": []
+ },
+ {
+  "key": "QFNU",
+  "title": "招投标公告-曲阜师范大学",
+  "url": "https://www.qfnu.edu.cn/xwzx/ztbgg.htm",
+  "sfw": false,
+  "navs": [],
+  "cands": [
+   {
+    "u": "https://www.qfnu.edu.cn/xwzx/ztbgg.htm",
+    "label": "home",
+    "scanned": 15,
+    "oldest": "2026-10-09",
+    "n": 0,
+    "newest": [
+     "2026-10-16 曲阜师范大学2026年学三食堂厨卫用具购置项目(三次)结",
+     "2026-10-16 曲阜师范大学2026年教学设备采购项目2公开招标招标公告",
+     "2026-10-15 曲阜师范大学日照校区1号-3号学生公寓、学生综合服务中心"
+    ],
+    "rows": []
+   }
+  ]
+ },
+ {
+  "key": "QFNU",
+  "title": "资产管理处",
+  "url": "https://zcc.qfnu.edu.cn/",
+  "sfw": false,
+  "navs": [
+   {
+    "t": "招标公告",
+    "h": "https://zcc.qfnu.edu.cn/ztzx/zbgg.htm"
+   },
+   {
+    "t": "更多 >>",
+    "h": "https://zcc.qfnu.edu.cn/gzdt.htm"
+   },
+   {
+    "t": "更多 >>",
+    "h": "https://zcc.qfnu.edu.cn/tzgg.htm"
+   },
+   {
+    "t": "更多 >>",
+    "h": "https://zcc.qfnu.edu.cn/xzzx.htm"
+   },
+   {
+    "t": "更多 >>",
+    "h": "https://zcc.qfnu.edu.cn/ztzx/zzxx.htm"
+   },
+   {
+    "t": "更多 >>",
+    "h": "https://zcc.qfnu.edu.cn/ztzx/zbgg1.htm"
+   },
+   {
+    "t": "更多 >>",
+    "h": "https://zcc.qfnu.edu.cn/ztzx/ysgonggao.htm"
+   }
+  ],
+  "cands": [
+   {
+    "u": "https://zcc.qfnu.edu.cn/",
+    "label": "home",
+    "scanned": 8,
+    "oldest": "2026-02-07",
+    "n": 0,
+    "newest": [
+     "2026-02-07 转发：2026年2月7日曲阜师范...",
+     "2026-02-07 拍卖公告（转发）",
+     "2026-02-07 5月9日 曲阜师范大学曲阜校区..."
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zcc.qfnu.edu.cn/ztzx/zbgg.htm",
+    "label": "招标公告",
+    "scanned": 8,
+    "oldest": "2026-10-12",
+    "n": 0,
+    "newest": [
+     "2026-10-16 曲阜师范大学2026年教学设备采购项目2公开招标招标公告",
+     "2026-10-15 曲阜师范大学日照校区1号-3号学生公寓、学生综合服务中心",
+     "2026-10-13 曲阜师范大学2026年极端条件量子材料重点实验室设备购置"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zcc.qfnu.edu.cn/gzdt.htm",
+    "label": "更多 >>",
+    "scanned": 8,
+    "oldest": "2026-05-01",
+    "n": 0,
+    "newest": [
+     "2026-09-16 树立和践行正确政绩观学习教育总结",
+     "2026-07-13 汲取榜样力量 践行初心担当——资产管理处党支部开展科学家",
+     "2026-06-25 深学细悟创新理论 强化党建引领保障——陈刚在资产管理处党"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zcc.qfnu.edu.cn/tzgg.htm",
+    "label": "更多 >>",
+    "scanned": 8,
+    "oldest": "2026-09-04",
+    "n": 0,
+    "newest": [
+     "2026-10-05 关于开展2026年度国有资产清查工作的通知",
+     "2026-10-15 知识产权转让公示",
+     "2026-10-13 知识产权转让公示"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zcc.qfnu.edu.cn/xzzx.htm",
+    "label": "更多 >>",
+    "scanned": 7,
+    "oldest": "2021-10-29",
+    "n": 0,
+    "newest": [
+     "2025-05-27 采购项目履约保证金退还申请表",
+     "2025-06-11 曲阜师范大学政府采购预采购申请表",
+     "2023-05-26 曲阜师范大学政府采购意向公开申请表"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zcc.qfnu.edu.cn/ztzx/zzxx.htm",
+    "label": "更多 >>",
+    "scanned": 7,
+    "oldest": "2024-06-05",
+    "n": 0,
+    "newest": [
+     "2026-02-07 转发：2026年2月7日曲阜师范大学沿街房租赁权拍卖会",
+     "2025-09-11 拍卖公告（转发）",
+     "2025-05-08 5月9日 曲阜师范大学曲阜校区和日照校区沿街商铺租赁权拍"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zcc.qfnu.edu.cn/ztzx/zbgg1.htm",
+    "label": "更多 >>",
+    "scanned": 8,
+    "oldest": "2026-09-24",
+    "n": 0,
+    "newest": [
+     "2026-10-16 曲阜师范大学2026年学三食堂厨卫用具购置项目(三次)结",
+     "2026-10-15 曲阜师范大学2026年公务用车租赁服务项目结果公告",
+     "2026-10-13 曲阜师范大学档案馆2026年档案库房设备采购项目终止公告"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zcc.qfnu.edu.cn/ztzx/ysgonggao.htm",
+    "label": "更多 >>",
+    "scanned": 8,
+    "oldest": "2026-09-23",
+    "n": 0,
+    "newest": [
+     "2026-10-10 曲阜师范大学2026年西区3号宿舍楼学生活动室触控一体机",
+     "2026-10-07 曲阜师范大学2026年度校园基础设施改造提升项目曲阜校区",
+     "2026-10-06 曲阜师范大学武器装备科研生产单位保密资格（二级）认证咨询"
+    ],
+    "rows": []
+   }
+  ]
+ }
+]

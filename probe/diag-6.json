@@ -1,0 +1,28 @@
+[
+ {
+  "key": "JLAU",
+  "dom": "jlau.edu.cn",
+  "home": "https://www.jlau.edu.cn/",
+  "links": [
+   "采购招标 http://cgzx.jlau.edu.cn/"
+  ],
+  "hosts": [
+   "cgzx.jlau.edu.cn",
+   "cggl.jlau.edu.cn"
+  ]
+ },
+ {
+  "key": "QFNU",
+  "dom": "qfnu.edu.cn",
+  "home": "https://www.qfnu.edu.cn/",
+  "links": [
+   "招投标 https://www.qfnu.edu.cn/xwzx/ztbgg.htm"
+  ],
+  "hosts": [
+   "cwc.qfnu.edu.cn",
+   "cg.qfnu.edu.cn",
+   "zb.qfnu.edu.cn",
+   "zcc.qfnu.edu.cn"
+  ]
+ }
+]

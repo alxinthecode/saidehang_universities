@@ -1,0 +1,26 @@
+[
+ {
+  "key": "BJFU",
+  "try": "zbzx.bjfu.edu.cn",
+  "ok": true,
+  "title": "您的访问请求可能对网站造成安全威胁，请求已被阻断。",
+  "url": "https://zbzx.bjfu.edu.cn/",
+  "cands": []
+ },
+ {
+  "key": "XUST",
+  "try": "gzc.xust.edu.cn/zbcg/cggg.htm",
+  "ok": true,
+  "title": "404错误提示",
+  "url": "https://gzc.xust.edu.cn/zbcg/cggg.htm",
+  "cands": []
+ },
+ {
+  "key": "XUST",
+  "try": "gzc.xust.edu.cn/zbcg.htm",
+  "ok": true,
+  "title": "404错误提示",
+  "url": "https://gzc.xust.edu.cn/zbcg.htm",
+  "cands": []
+ }
+]
