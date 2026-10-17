@@ -1,0 +1,60 @@
+[
+ {
+  "key": "NENU",
+  "dom": "nenu.edu.cn",
+  "home": "https://www.nenu.edu.cn/",
+  "links": [
+   "招标采购 https://zbcg.nenu.edu.cn/"
+  ],
+  "hosts": [
+   "cwc.nenu.edu.cn",
+   "zbcg.nenu.edu.cn",
+   "cg.nenu.edu.cn",
+   "zcc.nenu.edu.cn"
+  ]
+ },
+ {
+  "key": "IMU",
+  "dom": "imu.edu.cn",
+  "home": "https://www.imu.edu.cn/",
+  "links": [],
+  "hosts": [
+   "cwc.imu.edu.cn",
+   "zbcg.imu.edu.cn",
+   "cggl.imu.edu.cn",
+   "zcgl.imu.edu.cn"
+  ]
+ },
+ {
+  "key": "JXNU",
+  "dom": "jxnu.edu.cn",
+  "home": null,
+  "links": [],
+  "hosts": [
+   "zbcgzx.jxnu.edu.cn",
+   "cwc.jxnu.edu.cn",
+   "zcgl.jxnu.edu.cn"
+  ]
+ },
+ {
+  "key": "SCAU",
+  "dom": "scau.edu.cn",
+  "home": null,
+  "links": [],
+  "hosts": []
+ },
+ {
+  "key": "YBU",
+  "dom": "ybu.edu.cn",
+  "home": null,
+  "links": [],
+  "hosts": []
+ },
+ {
+  "key": "HNNU",
+  "dom": "hnnu.edu.cn",
+  "home": null,
+  "links": [],
+  "hosts": []
+ }
+]

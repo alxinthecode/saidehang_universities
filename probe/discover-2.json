@@ -1,0 +1,381 @@
+[
+ {
+  "key": "NENU",
+  "title": "政府采购与招标管理中心",
+  "url": "https://zbcg.nenu.edu.cn/",
+  "sfw": false,
+  "navs": [
+   {
+    "t": "采购公告",
+    "h": "https://zbcg.nenu.edu.cn/cgggydd.htm"
+   }
+  ],
+  "cands": [
+   {
+    "u": "https://zbcg.nenu.edu.cn/",
+    "label": "home",
+    "scanned": 38,
+    "oldest": "2026-01-08",
+    "n": 0,
+    "newest": [
+     "2026-10-12 [政府采购]东北师范大学净月大街校区学生宿舍丙建设项目招",
+     "2026-09-29 [非政府采购]东北师范大学净月大街校区学生宿舍丙建设项目",
+     "2026-09-29 [政府采购]东北师范大学净月大街校区五育融合教育中心一期"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zbcg.nenu.edu.cn/cgggydd.htm",
+    "label": "采购公告",
+    "scanned": 10,
+    "oldest": "2026-10-10",
+    "n": 0,
+    "newest": [
+     "2026-10-14 [非政府采购]东北师范大学教育学部2026-2027年教",
+     "2026-10-14 [政府采购]东北师范大学ACS数据库采购（二次）单一来源",
+     "2026-10-14 [政府采购]东北师范大学Gale原始档案数据库采购单一来"
+    ],
+    "rows": []
+   }
+  ]
+ },
+ {
+  "key": "NENU",
+  "title": "东北师范大学资产与实验室管理处",
+  "url": "https://zcc.nenu.edu.cn/",
+  "sfw": false,
+  "navs": [
+   {
+    "t": "查看更多＋",
+    "h": "https://zcc.nenu.edu.cn/tzgg.htm"
+   },
+   {
+    "t": "查看更多＋",
+    "h": "https://zcc.nenu.edu.cn/gzdt.htm"
+   },
+   {
+    "t": "查看更多＋",
+    "h": "https://zcc.nenu.edu.cn/sysaqzl/gzzd.htm"
+   },
+   {
+    "t": "查看更多＋",
+    "h": "https://zcc.nenu.edu.cn/sysaqzl/aqzs.htm"
+   },
+   {
+    "t": "查看更多＋",
+    "h": "https://zcc.nenu.edu.cn/sysaqzl/aqal.htm"
+   },
+   {
+    "t": "查看更多＋",
+    "h": "https://zcc.nenu.edu.cn/sysaqzl/jctb.htm"
+   },
+   {
+    "t": "查看更多＋",
+    "h": "https://zcc.nenu.edu.cn/djyd/zbhd.htm"
+   },
+   {
+    "t": "查看更多＋",
+    "h": "https://zcc.nenu.edu.cn/cyxz.htm"
+   }
+  ],
+  "cands": [
+   {
+    "u": "https://zcc.nenu.edu.cn/",
+    "label": "home",
+    "scanned": 8,
+    "oldest": "2022-09-14",
+    "n": 0,
+    "newest": [
+     "2025-12-05 学校举办第六届实验室安全文...",
+     "2025-11-17 我校举办大型仪器设备 ——高...",
+     "2024-11-12 我校举办化学实验室火灾事故..."
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zcc.nenu.edu.cn/tzgg.htm",
+    "label": "查看更多＋",
+    "scanned": 15,
+    "oldest": "2024-11-11",
+    "n": 0,
+    "newest": [
+     "2026-06-24 关于开展2026年度大型仪器培训项目申报工作的通知",
+     "2026-06-24 《关于2026-2027学年暑假期间资产与实验室管理处工",
+     "2026-01-17 2025年度大型仪器开放共享免考核评审结果公示"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zcc.nenu.edu.cn/gzdt.htm",
+    "label": "查看更多＋",
+    "scanned": 15,
+    "oldest": "2020-10-16",
+    "n": 0,
+    "newest": [
+     "2025-12-05 学校举办第六届实验室安全文化宣传月活动",
+     "2025-11-17 我校举办大型仪器设备 ——高内涵细胞成像分析系统专题培训",
+     "2024-11-12 我校举办化学实验室火灾事故专项应急演练活动"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zcc.nenu.edu.cn/sysaqzl/gzzd.htm",
+    "label": "查看更多＋",
+    "scanned": 15,
+    "oldest": "2021-04-20",
+    "n": 0,
+    "newest": [
+     "2023-09-25 高等学校实验室安全检查项目表（2023年）",
+     "2023-09-25 教育部办公厅关于印发《高等学校实验室安全规范》的通知（教",
+     "2023-09-19 东北师范大学危险化学品安全管理办法"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zcc.nenu.edu.cn/sysaqzl/aqzs.htm",
+    "label": "查看更多＋",
+    "scanned": 6,
+    "oldest": "2021-05-20",
+    "n": 0,
+    "newest": [
+     "2023-11-07 东北师范大学第四届实验室安全文化宣传月安全知识巡展",
+     "2023-11-07 东北师范大学实验室安全管理制度与高校实验室安全事故案例汇",
+     "2021-05-20 实验室文化月展板"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zcc.nenu.edu.cn/sysaqzl/aqal.htm",
+    "label": "查看更多＋",
+    "scanned": 12,
+    "oldest": "2021-05-20",
+    "n": 0,
+    "newest": [
+     "2023-11-07 实验室危化品安全事故案例（一）",
+     "2023-11-07 实验室危化品安全事故案例（二）",
+     "2023-11-07 实验室消防安全事故案例"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zcc.nenu.edu.cn/djyd/zbhd.htm",
+    "label": "查看更多＋",
+    "scanned": 15,
+    "oldest": "2020-05-22",
+    "n": 0,
+    "newest": [
+     "2026-03-20 资产与实验室管理处党支部召开树立和践行正确政绩观学习教育",
+     "2025-12-02 深学细悟强理论实践赋能促发展——资产与实验室管理处党支部",
+     "2025-09-25 机关党委七个支部联合开展“学习贯彻习近平总书记关于党的建"
+    ],
+    "rows": []
+   }
+  ]
+ },
+ {
+  "key": "IMU",
+  "title": "招标采购中心",
+  "url": "https://zbcg.imu.edu.cn/",
+  "sfw": false,
+  "navs": [
+   {
+    "t": "more>>",
+    "h": "https://zbcg.imu.edu.cn/index/zdxal.htm"
+   },
+   {
+    "t": "more>>",
+    "h": "https://zbcg.imu.edu.cn/index/dxal.htm"
+   },
+   {
+    "t": "more>>",
+    "h": "https://zbcg.imu.edu.cn/ywzn.htm"
+   },
+   {
+    "t": "more>>",
+    "h": "https://zbcg.imu.edu.cn/index/xzzx.htm"
+   }
+  ],
+  "cands": [
+   {
+    "u": "https://zbcg.imu.edu.cn/index/zdxal.htm",
+    "label": "more>>",
+    "scanned": 16,
+    "oldest": "2024-09-13",
+    "n": 0,
+    "newest": [
+     "2025-05-29 内蒙古自治区财政厅关于政府采购领域 违法违规行为典型案例",
+     "2025-04-07 一起关于评审不当的投诉案",
+     "2025-04-07 采购人代表参加评审活动时应当注意哪些事项？"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zbcg.imu.edu.cn/index/dxal.htm",
+    "label": "more>>",
+    "scanned": 16,
+    "oldest": "2025-06-04",
+    "n": 0,
+    "newest": [
+     "2025-09-03 典型案例545号：供应商承诺软件公司派人驻场，可以吗？",
+     "2025-08-27 典型案例544号：检测报告超出检测能力范围，属于提供虚假",
+     "2025-08-27 典型案例543号：从业人员必须满足采购文件要求的服务人员"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zbcg.imu.edu.cn/ywzn.htm",
+    "label": "more>>",
+    "scanned": 16,
+    "oldest": "2023-11-07",
+    "n": 0,
+    "newest": [
+     "2026-04-23 内蒙古大学供应商管理办法（暂行）",
+     "2024-12-26 【采购风险提醒】采购程序倒置",
+     "2024-12-26 【采购风险提醒】未落实支持中小企业政策"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zbcg.imu.edu.cn/index/xzzx.htm",
+    "label": "more>>",
+    "scanned": 16,
+    "oldest": "2022-08-16",
+    "n": 0,
+    "newest": [
+     "2026-06-25 集中采购目录外限额标准以下项目合同/计划备案信息采集表",
+     "2026-06-08 内蒙古大学服务类采购项目验收报告（2025版）",
+     "2026-06-01 内蒙古大学政府采购项目采购需求管理（范本）"
+    ],
+    "rows": []
+   }
+  ]
+ },
+ {
+  "key": "IMU",
+  "title": "内蒙古大学资产管理处",
+  "url": "https://zcgl.imu.edu.cn/",
+  "sfw": true,
+  "navs": [
+   {
+    "t": "更多>>",
+    "h": "https://zcgl.imu.edu.cn/xwdt.htm"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://zcgl.imu.edu.cn/index/tzgg.htm"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://zcgl.imu.edu.cn/gzzd1/gdzcgl.htm"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://zcgl.imu.edu.cn/gzzd1/fdcgl.htm"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://zcgl.imu.edu.cn/gzzd1/kcjdgl.htm"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://zcgl.imu.edu.cn/bszn/gdzcyw.htm"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://zcgl.imu.edu.cn/bszn/fdcyw.htm"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://zcgl.imu.edu.cn/bszn/kcjdyw.htm"
+   }
+  ],
+  "cands": [
+   {
+    "u": "https://zcgl.imu.edu.cn/xwdt.htm",
+    "label": "更多>>",
+    "scanned": 16,
+    "oldest": "2025-11-13",
+    "n": 0,
+    "newest": [
+     "2026-09-16 光影铸魂忆长征 实干担当护保障——资产管理处党支部开展观",
+     "2026-09-09 资产管理处组织召开全校通用办公设备配置上限工作部署会",
+     "2026-07-20 羊性能测定站建设项目顺利通过验收"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zcgl.imu.edu.cn/index/tzgg.htm",
+    "label": "更多>>",
+    "scanned": 16,
+    "oldest": "2020-03-31",
+    "n": 0,
+    "newest": [
+     "2026-07-20 内蒙古大学报废资产转让公告",
+     "2025-12-24 内蒙古大学报废资产转让公告",
+     "2025-12-24 内蒙古大学报废资产转让公告"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zcgl.imu.edu.cn/gzzd1/gdzcgl.htm",
+    "label": "更多>>",
+    "scanned": 15,
+    "oldest": "2026-07-14",
+    "n": 0,
+    "newest": [
+     "2026-07-14 政府会计准则第3号—固定资产",
+     "2026-07-14 事业单位财务规则",
+     "2026-07-14 事业单位国有资产管理暂行办法"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zcgl.imu.edu.cn/gzzd1/fdcgl.htm",
+    "label": "更多>>",
+    "scanned": 1,
+    "oldest": "2026-07-14",
+    "n": 0,
+    "newest": [
+     "2026-07-14 内蒙古大学公用房管理办法（修订）"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zcgl.imu.edu.cn/gzzd1/kcjdgl.htm",
+    "label": "更多>>",
+    "scanned": 1,
+    "oldest": "2026-07-14",
+    "n": 0,
+    "newest": [
+     "2026-07-14 内蒙古大学草原家畜种质创新与繁育基地运行管理办法（试行）"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zcgl.imu.edu.cn/bszn/gdzcyw.htm",
+    "label": "更多>>",
+    "scanned": 9,
+    "oldest": "2021-05-20",
+    "n": 0,
+    "newest": [
+     "2026-05-15 资产建账操作讲解",
+     "2026-05-15 资产变动操作讲解",
+     "2026-04-16 资产盘点系统操作示意图"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zcgl.imu.edu.cn/bszn/fdcyw.htm",
+    "label": "更多>>",
+    "scanned": 1,
+    "oldest": "2026-07-14",
+    "n": 0,
+    "newest": [
+     "2026-07-14 内蒙古大学公用房申请报告"
+    ],
+    "rows": []
+   }
+  ],
+  "sfwErr": "page.evaluate: Error: no 思必得 list query returned results\n    at readSfw (eval at <anonymous> (eval a"
+ }
+]
