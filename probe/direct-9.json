@@ -1,0 +1,24 @@
+[
+ {
+  "key": "HEBTU",
+  "try": "zcgl.hebtu.edu.cn",
+  "ok": false,
+  "err": "page.goto: net::ERR_EMPTY_RESPONSE at http://zcgl.hebtu.edu.cn/"
+ },
+ {
+  "key": "SXU",
+  "try": "www.sxu.edu.cn",
+  "ok": true,
+  "title": "502",
+  "url": "https://www.sxu.edu.cn/",
+  "cands": []
+ },
+ {
+  "key": "SXU",
+  "try": "zbcg.sxu.edu.cn",
+  "ok": true,
+  "title": "502",
+  "url": "https://www.sxu.edu.cn/",
+  "cands": []
+ }
+]

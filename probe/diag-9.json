@@ -1,0 +1,21 @@
+[
+ {
+  "key": "DLOU",
+  "dom": "dlou.edu.cn",
+  "home": "https://www.dlou.edu.cn/",
+  "links": [],
+  "hosts": []
+ },
+ {
+  "key": "HAINNU",
+  "dom": "hainnu.edu.cn",
+  "home": null,
+  "links": [],
+  "hosts": [
+   "cwc.hainnu.edu.cn",
+   "czc.hainnu.edu.cn",
+   "gzc.hainnu.edu.cn",
+   "zcgl.hainnu.edu.cn"
+  ]
+ }
+]
