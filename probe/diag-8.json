@@ -1,0 +1,28 @@
+[
+ {
+  "key": "SHOU",
+  "dom": "shou.edu.cn",
+  "home": "https://www.shou.edu.cn/",
+  "links": [
+   "上海海洋大学2026年1 https://www.shou.edu.cn/2026/1008/c7083a355882/page.htm",
+   "上海海洋大学2026年1 https://www.shou.edu.cn/2026/1008/c7083a355883/page.htm",
+   "上海海洋大学2026年1 https://www.shou.edu.cn/2026/0917/c7083a355459/page.htm",
+   "上海海洋大学2026年1 https://www.shou.edu.cn/2026/0917/c7083a355458/page.htm",
+   "上海海洋大学2026年1 https://www.shou.edu.cn/2026/0917/c7083a355457/page.htm",
+   "上海海洋大学2026年1 https://www.shou.edu.cn/2026/0917/c7083a355456/page.htm",
+   "上海海洋大学2026年1 https://www.shou.edu.cn/2026/0917/c7083a355455/page.htm",
+   "上海海洋大学2026年1 https://www.shou.edu.cn/2026/0915/c7083a355395/page.htm"
+  ],
+  "hosts": [
+   "cwc.shou.edu.cn",
+   "ztb.shou.edu.cn"
+  ]
+ },
+ {
+  "key": "JSU",
+  "dom": "jsu.edu.cn",
+  "home": null,
+  "links": [],
+  "hosts": []
+ }
+]

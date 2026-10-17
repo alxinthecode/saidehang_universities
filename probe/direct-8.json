@@ -1,0 +1,30 @@
+[
+ {
+  "key": "HRBNU",
+  "try": "gzc.hrbnu.edu.cn",
+  "ok": false,
+  "err": "page.goto: Timeout 25000ms exceeded."
+ },
+ {
+  "key": "CAU",
+  "try": "cg.cau.edu.cn/sfw_cms/e?page=cms.index",
+  "ok": true,
+  "title": "中国农业大学国有资产管理处",
+  "url": "https://cg.cau.edu.cn/sfw_cms/e?page=cms.index",
+  "cands": [
+   {
+    "u": "https://cg.cau.edu.cn/sfw_cms/e?page=cms.index",
+    "label": "home",
+    "scanned": 29,
+    "oldest": "2023-12-05",
+    "n": 0,
+    "newest": [
+     "2026-09-17 学回信 谋发展 作先锋——国资处党支部召开春季学期期末组",
+     "2026-09-08 学校召开《中国农业大学仪器设备验收实施细则》专题解读会",
+     "2026-07-09 国有资产管理处党支部开展“牢记嘱托 强农报国”主题党日活"
+    ]
+   }
+  ],
+  "sfwErr": "page.evaluate: Error: no 思必得 list query returned results\n    at readSfw (eval at"
+ }
+]
