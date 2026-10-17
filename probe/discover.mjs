@@ -1,4 +1,4 @@
-// Round 7: another batch of engineering universities. 50 more universities + research institutes.
+// Round 8: science-strong, highly ranked universities. 50 more universities + research institutes.
 import { chromium } from 'playwright';
 import dns from 'node:dns/promises';
 import { readFile, writeFile } from 'node:fs/promises';
@@ -6,17 +6,15 @@ import { readFile, writeFile } from 'node:fs/promises';
 const ROOT = new URL('..', import.meta.url);
 const scanSrc = await readFile(new URL('scraper/scan.js', ROOT), 'utf8');
 const UNIS = {
-  NCUT:'ncut.edu.cn', CUP:'cup.edu.cn', CUMTB:'cumtb.edu.cn', HEBUST:'hebust.edu.cn', TUST:'tust.edu.cn', DJTU:'djtu.edu.cn', SUT:'sut.edu.cn',
-  LNTU:'lntu.edu.cn', CCUT:'ccut.edu.cn', NEEPU:'neepu.edu.cn', NEPU:'nepu.edu.cn', SDUT:'sdut.edu.cn', UJN:'ujn.edu.cn', YTU:'ytu.edu.cn',
-  SDJZU:'sdjzu.edu.cn', CCZU:'cczu.edu.cn', NJFU:'njfu.edu.cn', JSNU:'jsnu.edu.cn', YCIT:'ycit.edu.cn', USTS:'usts.edu.cn', HYIT:'hyit.edu.cn',
-  CJLU:'cjlu.edu.cn', ZUST:'zust.edu.cn', SUES:'sues.edu.cn', SIT:'sit.edu.cn', SDJU:'sdju.edu.cn', AHUT:'ahut.edu.cn', AUST:'aust.edu.cn',
-  XMUT:'xmut.edu.cn', FJNU:'fjnu.edu.cn', JMU:'jmu.edu.cn', JXUST:'jxust.edu.cn', ECJTU:'ecjtu.edu.cn', ECUT:'ecut.edu.cn', HAUT:'haut.edu.cn',
-  HPU:'hpu.edu.cn', ZZULI:'zzuli.edu.cn', HAUST:'haust.edu.cn', NCWU:'ncwu.edu.cn', HBUT:'hbut.edu.cn', WTU:'wtu.edu.cn', CTGU:'ctgu.edu.cn',
-  YANGTZEU:'yangtzeu.edu.cn', HNUST:'hnust.edu.cn', USC:'usc.edu.cn', HUT:'hut.edu.cn', GZHU:'gzhu.edu.cn', DGUT:'dgut.edu.cn', STU:'stu.edu.cn',
-  WYU:'wyu.edu.cn', GLUT:'glut.edu.cn', CUIT:'cuit.edu.cn', XHU:'xhu.edu.cn', SUSE:'suse.edu.cn', SUST:'sust.edu.cn', XAUT:'xaut.edu.cn',
-  XSYU:'xsyu.edu.cn', SNNU:'snnu.edu.cn', LZJTU:'lzjtu.edu.cn', TYUST:'tyust.edu.cn', IMUT:'imut.edu.cn', HAINANU:'hainanu.edu.cn', NXU:'nxu.edu.cn',
-  CNU:'cnu.edu.cn', TJNU:'tjnu.edu.cn', NUIST:'nuist.edu.cn', ZJUT:'zjut.edu.cn', BJUT:'bjut.edu.cn', YNU:'ynu.edu.cn', GZU:'gzu.edu.cn',
-  SZPU:'szpu.edu.cn', GDOU:'gdou.edu.cn', NUAA:'nuaa.edu.cn', HHU:'hhu.edu.cn', CQU2:'cqupt.edu.cn',
+  BNU:'bnu.edu.cn', CAU:'cau.edu.cn', NENU:'nenu.edu.cn', HUNNU:'hunnu.edu.cn', NJNU:'njnu.edu.cn', YNU:'ynu.edu.cn', ZZU:'zzu.edu.cn',
+  CUGB:'cugb.edu.cn', CPU:'cpu.edu.cn', HZAU:'hzau.edu.cn', NJAU:'njau.edu.cn', NWAFU:'nwsuaf.edu.cn', IMU:'imu.edu.cn', HENU:'henu.edu.cn',
+  HBU:'hbu.edu.cn', BJFU:'bjfu.edu.cn', LNU:'lnu.edu.cn', NEFU:'nefu.edu.cn', HLJU:'hlju.edu.cn', HZNU:'hznu.edu.cn', SHNU:'shnu.edu.cn',
+  SDNU:'sdnu.edu.cn', JXNU:'jxnu.edu.cn', NWNU:'nwnu.edu.cn', GXNU:'gxnu.edu.cn', SICNU:'sicnu.edu.cn', CQNU:'cqnu.edu.cn', AHNU:'ahnu.edu.cn',
+  HEBTU:'hebtu.edu.cn', QFNU:'qfnu.edu.cn', FJNU:'fjnu.edu.cn', CJLU:'cjlu.edu.cn', SCAU:'scau.edu.cn', NJFU:'njfu.edu.cn', ZAFU:'zafu.edu.cn',
+  CTGU:'ctgu.edu.cn', WTU:'wtu.edu.cn', USC:'usc.edu.cn', HTU:'htu.edu.cn', SXU:'sxu.edu.cn', SHZU:'shzu.edu.cn', QHU:'qhu.edu.cn',
+  YBU:'ybu.edu.cn', NEAU:'neau.edu.cn', LZU:'lzu.edu.cn', NCST:'ncst.edu.cn', GZHU:'gzhu.edu.cn', CNU:'cnu.edu.cn', TJNU:'tjnu.edu.cn',
+  SNUT:'snut.edu.cn', YZU:'yzu.edu.cn', ZJGSU:'zjgsu.edu.cn', HNNU:'hnnu.edu.cn', LNNU:'lnnu.edu.cn',
+  HRBNU:'hrbnu.edu.cn', JLNU:'jlnu.edu.cn', SXNU:'sxnu.edu.cn', CSUFT:'csuft.edu.cn', GZNU:'gznu.edu.cn', YNNU:'ynnu.edu.cn', XJNU:'xjnu.edu.cn',
 };
 const PREFIX = ['zbcgzx','ztbb','zbcgc','cgzbc','zbcgw','zcb','zcsbc','sbzx','zcsbc','gzzx','zbcgb','cgb','cwc','ggzy','tzgg','zbgl','zb2','czc','cgbgs','zbb','zbcg','cgzx','ztb','zbzx','cg','cgb','cgzb','zb','bidding','ztbzx','zcc','zcglc','sbc','cgglc','cggl','cgc','zbcgzx','caigou','zbgl','zbxx','cgxx','zbtb','gzc','zcgl','ztbgl','cgw','zbgs','cgglzx','zbc','czzx','zbcgb','cgzbzx','zcsb'];
 const REL = /采购|招标|招投标/;
