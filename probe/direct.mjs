@@ -4,25 +4,13 @@ import { readFile, writeFile } from 'node:fs/promises';
 const ROOT = new URL('..', import.meta.url);
 const scanSrc = await readFile(new URL('scraper/scan.js', ROOT), 'utf8');
 const T = {
-  BJTU: ['cg.bjtu.edu.cn', 'cggl.bjtu.edu.cn', 'czzx.bjtu.edu.cn', 'gzc.bjtu.edu.cn'], CDUT: ['cg.cdut.edu.cn', 'cgzb.cdut.edu.cn', 'zb.cdut.edu.cn'],
-  NEU: ['cgzx.neu.edu.cn'], PKU: ['cg.pku.edu.cn', 'zb.pku.edu.cn'], SCUT: ['zbzx.scut.edu.cn'], HNU: ['cg.hnu.edu.cn'], HQU: ['zb.hqu.edu.cn', 'cggl.hqu.edu.cn'],
-  HRBEU: ['cgb.hrbeu.edu.cn', 'cggl.hrbeu.edu.cn'], JNU: ['cgzx.jnu.edu.cn', 'zbcg.jnu.edu.cn', 'zbtb.jnu.edu.cn'], LZU: ['zbb.lzu.edu.cn'],
-  NJUST: ['cgzx.njust.edu.cn', 'zb.njust.edu.cn'], QUST: ['czzx.qust.edu.cn'], SAU: ['zbcgb.sau.edu.cn', 'cg.sau.edu.cn'], SHMTU: ['cggl.shmtu.edu.cn'],
-  SWU: ['caigou.swu.edu.cn'], YZU: ['cgb.yzu.edu.cn', 'cggl.yzu.edu.cn', 'cgc.yzu.edu.cn'], SEU: ['zbb.seu.edu.cn', 'cgzx.seu.edu.cn'], USST: ['zbb.usst.edu.cn', 'zb.usst.edu.cn'],
-  LUT: ['zbzx.lut.edu.cn', 'cggl.lut.edu.cn'], CQJTU: ['zbcgzx.cqjtu.edu.cn'], HUBU: ['ztb.hubu.edu.cn', 'cg.hubu.edu.cn'], SWUST: ['zb.swust.edu.cn'],
-  TGU: ['cgglzx.tiangong.edu.cn'], XJU: ['zcglc.xju.edu.cn'], BISTU: ['zcc.bistu.edu.cn'], YSU: ['zcglc.ysu.edu.cn'], GXU: ['cg.gxu.edu.cn'],
-  NCU: ['cgzx.ncu.edu.cn', 'cg.ncu.edu.cn'], HRBUST: ['gzc.hrbust.edu.cn'], CHD: ['zbb.chd.edu.cn/site/'], HHU: ['zbb.hhu.edu.cn'], UPC: ['zbb.upc.edu.cn'],
-  ZSTU: ['cgzx.zstu.edu.cn'], NUC: ['zbcg.nuc.edu.cn'], NANKAI: ['nkzbb.nankai.edu.cn'], NBU: ['notice-nbu.pms.ucaigou.net'], NWU: ['cgzbxt.nwu.edu.cn/index', 'cgzx.nwu.edu.cn'],
-  CQUPT: ['cgpt.cqupt.edu.cn/notices'], SWPU: ['cwcggl.swpu.edu.cn/index.chtml'], XATU: ['cgzb.xatu.edu.cn', 'www.xatu.edu.cn/index/cgzb.htm'],
-  XAUAT: ['jdzcb.xauat.edu.cn/cgxx/cggg/hwl.htm'], XUST: ['gzc.xust.edu.cn/zbcg/yxgk.htm', 'www.xust.edu.cn/info/1256/'], SHIEP: ['xxgk.shiep.edu.cn/574/list.htm'],
-  GUET: ['zbcg.guet.edu.cn', 'www.guet.edu.cn/6361/list.htm'], USTB: ['cg.ustb.edu.cn', 'zb.ustb.edu.cn'], ZJU: ['cgzx.zju.edu.cn'], NJU: ['zbb.nju.edu.cn'],
-  // research institutes: notice / procurement columns
-  HFIPS: ['www.hf.cas.cn/zncs/zcc/xmgg/'], CSU_CAS: ['csu.cas.cn/gb/qt/zfcg/'], IOA: ['www.ioa.cas.cn/tzgg/'], IOM: ['www.imech.cas.cn/notice/'],
-  SSLAB: ['www.sslab.org.cn/news/notice'], NAOC: ['nao.cas.cn/news/tz/'], NIMTE: ['www.nimte.cas.cn/events/notice/'], QIBEBT: ['qibebt.cas.cn/news/notice/'],
-  SEMI: ['semi.cas.cn/xxgk/xxgkcggs/'], SIAT: ['www.siat.cas.cn/jggl/tzgg/'], SINANO: ['sinano.cas.cn/news/tzgg/'], SITP: ['www.sitp.cas.cn/ggtz/'],
-  CIOMP: ['www.ciomp.cas.cn/tzgg/', 'www.ciomp.cas.cn/zbxx/'], IOE: ['www.ioe.cas.cn/tzgg/', 'www.ioe.cas.cn/zbcg/'], SIOM: ['www.siom.cas.cn/tzgg/', 'siom.cas.cn'],
-  XIOPM: ['www.opt.cas.cn/tzgg/', 'opt.cas.cn'], AIOFM: ['www.aiofm.cas.cn/tzgg/'], SIA: ['www.sia.cas.cn/tzgg/'], IPHY: ['www.iop.cas.cn/tzgg/'],
-  SIMIT: ['www.sim.cas.cn/tzgg/'], IOE_CAS: ['www.ioe.ac.cn'], AIRCAS: ['www.aircas.ac.cn/tzgg/'], IHEP: ['www.ihep.cas.cn/tzgg/'], NIAOT: ['www.niaot.cas.cn/tzgg/'],
+  CTGU: ['zb.ctgu.edu.cn'], NWAFU: ['cg.nwafu.edu.cn'], NJNU: ['cgzx.njnu.edu.cn'], NEAU: ['cgb.neau.edu.cn', 'cg.neau.edu.cn'],
+  NWNU: ['cg.nwnu.edu.cn'], JXNU: ['zbcgzx.jxnu.edu.cn'], BJFU: ['zbzx.bjfu.edu.cn'], LZU: ['zbb.lzu.edu.cn', 'zcc.lzu.edu.cn'],
+  HRBNU: ['gzc.hrbnu.edu.cn'], HEBTU: ['zcgl.hebtu.edu.cn'], CNU: ['gzc.cnu.edu.cn'], SICNU: ['zczx.sicnu.edu.cn'], LNNU: ['cgzb.lnnu.edu.cn'],
+  CQNU: ['cscz.cqnu.edu.cn'], NJFU: ['gzc.njfu.edu.cn'], QHU: ['www.qhu.edu.cn/tzgg/'], XUST: ['gzc.xust.edu.cn/zbcg/cggg.htm', 'gzc.xust.edu.cn/zbcg.htm'],
+  FJNU: ['cggl.fjnu.edu.cn/sfw_cms/e?page=cms.index'], CAU: ['cg.cau.edu.cn/sfw_cms/e?page=cms.index'], SXU: ['www.sxu.edu.cn', 'zbcg.sxu.edu.cn'],
+  NJAU: ['zbb.njau.edu.cn', 'cgzx.njau.edu.cn'], SCAU: ['zbb.scau.edu.cn', 'cgzx.scau.edu.cn'], HUNNU: ['zbb.hunnu.edu.cn', 'cgzx.hunnu.edu.cn'],
+  ZZU: ['zbb.zzu.edu.cn', 'cgzx.zzu.edu.cn', 'zbcg.zzu.edu.cn'], YNU: ['zcc.ynu.edu.cn', 'cgzx.ynu.edu.cn'], HENU: ['zbb.henu.edu.cn', 'cgzx.henu.edu.cn', 'zbcg.henu.edu.cn'],
 };
 const browser = await chromium.launch();
 const ctx = await browser.newContext({ locale: 'zh-CN', timezoneId: 'Asia/Shanghai', ignoreHTTPSErrors: true });

@@ -1,4 +1,4 @@
-// Round 8: science-strong, highly ranked universities. 50 more universities + research institutes.
+// Round 9: more science-strong universities (agricultural, normal, ocean). 50 more universities + research institutes.
 import { chromium } from 'playwright';
 import dns from 'node:dns/promises';
 import { readFile, writeFile } from 'node:fs/promises';
@@ -6,15 +6,10 @@ import { readFile, writeFile } from 'node:fs/promises';
 const ROOT = new URL('..', import.meta.url);
 const scanSrc = await readFile(new URL('scraper/scan.js', ROOT), 'utf8');
 const UNIS = {
-  BNU:'bnu.edu.cn', CAU:'cau.edu.cn', NENU:'nenu.edu.cn', HUNNU:'hunnu.edu.cn', NJNU:'njnu.edu.cn', YNU:'ynu.edu.cn', ZZU:'zzu.edu.cn',
-  CUGB:'cugb.edu.cn', CPU:'cpu.edu.cn', HZAU:'hzau.edu.cn', NJAU:'njau.edu.cn', NWAFU:'nwsuaf.edu.cn', IMU:'imu.edu.cn', HENU:'henu.edu.cn',
-  HBU:'hbu.edu.cn', BJFU:'bjfu.edu.cn', LNU:'lnu.edu.cn', NEFU:'nefu.edu.cn', HLJU:'hlju.edu.cn', HZNU:'hznu.edu.cn', SHNU:'shnu.edu.cn',
-  SDNU:'sdnu.edu.cn', JXNU:'jxnu.edu.cn', NWNU:'nwnu.edu.cn', GXNU:'gxnu.edu.cn', SICNU:'sicnu.edu.cn', CQNU:'cqnu.edu.cn', AHNU:'ahnu.edu.cn',
-  HEBTU:'hebtu.edu.cn', QFNU:'qfnu.edu.cn', FJNU:'fjnu.edu.cn', CJLU:'cjlu.edu.cn', SCAU:'scau.edu.cn', NJFU:'njfu.edu.cn', ZAFU:'zafu.edu.cn',
-  CTGU:'ctgu.edu.cn', WTU:'wtu.edu.cn', USC:'usc.edu.cn', HTU:'htu.edu.cn', SXU:'sxu.edu.cn', SHZU:'shzu.edu.cn', QHU:'qhu.edu.cn',
-  YBU:'ybu.edu.cn', NEAU:'neau.edu.cn', LZU:'lzu.edu.cn', NCST:'ncst.edu.cn', GZHU:'gzhu.edu.cn', CNU:'cnu.edu.cn', TJNU:'tjnu.edu.cn',
-  SNUT:'snut.edu.cn', YZU:'yzu.edu.cn', ZJGSU:'zjgsu.edu.cn', HNNU:'hnnu.edu.cn', LNNU:'lnnu.edu.cn',
-  HRBNU:'hrbnu.edu.cn', JLNU:'jlnu.edu.cn', SXNU:'sxnu.edu.cn', CSUFT:'csuft.edu.cn', GZNU:'gznu.edu.cn', YNNU:'ynnu.edu.cn', XJNU:'xjnu.edu.cn',
+  SICAU:'sicau.edu.cn', SDAU:'sdau.edu.cn', HENAU:'henau.edu.cn', HUNAU:'hunau.edu.cn', FAFU:'fafu.edu.cn', SYAU:'syau.edu.cn',
+  JLAU:'jlau.edu.cn', AHAU:'ahau.edu.cn', SHOU:'shou.edu.cn', DLOU:'dlou.edu.cn', SWFU:'swfu.edu.cn', IMNU:'imnu.edu.cn',
+  QHNU:'qhnu.edu.cn', YNNU:'ynnu.edu.cn', SHNU:'shnu.edu.cn', HZNU:'hznu.edu.cn', QFNU:'qfnu.edu.cn', ZJOU:'zjou.edu.cn', JSU:'jsu.edu.cn', HAINNU:'hainnu.edu.cn',
+
 };
 const PREFIX = ['zbcgzx','ztbb','zbcgc','cgzbc','zbcgw','zcb','zcsbc','sbzx','zcsbc','gzzx','zbcgb','cgb','cwc','ggzy','tzgg','zbgl','zb2','czc','cgbgs','zbb','zbcg','cgzx','ztb','zbzx','cg','cgb','cgzb','zb','bidding','ztbzx','zcc','zcglc','sbc','cgglc','cggl','cgc','zbcgzx','caigou','zbgl','zbxx','cgxx','zbtb','gzc','zcgl','ztbgl','cgw','zbgs','cgglzx','zbc','czzx','zbcgb','cgzbzx','zcsb'];
 const REL = /采购|招标|招投标/;
