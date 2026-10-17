@@ -1,0 +1,49 @@
+[
+ {
+  "key": "ZZU",
+  "dom": "zzu.edu.cn",
+  "home": "https://www.zzu.edu.cn/",
+  "links": [],
+  "hosts": []
+ },
+ {
+  "key": "LNU",
+  "dom": "lnu.edu.cn",
+  "home": "https://www.lnu.edu.cn/",
+  "links": [],
+  "hosts": [
+   "zbcg.lnu.edu.cn",
+   "cgzx.lnu.edu.cn"
+  ]
+ },
+ {
+  "key": "CQNU",
+  "dom": "cqnu.edu.cn",
+  "home": "https://www.cqnu.edu.cn/",
+  "links": [
+   "采购招标 http://cscz.cqnu.edu.cn/"
+  ],
+  "hosts": [
+   "cscz.cqnu.edu.cn"
+  ]
+ },
+ {
+  "key": "WTU",
+  "dom": "wtu.edu.cn",
+  "home": "https://www.wtu.edu.cn/",
+  "links": [],
+  "hosts": []
+ },
+ {
+  "key": "GZHU",
+  "dom": "gzhu.edu.cn",
+  "home": "https://gzhu.edu.cn/",
+  "links": [],
+  "hosts": [
+   "cwc.gzhu.edu.cn",
+   "zbb.gzhu.edu.cn",
+   "zb.gzhu.edu.cn",
+   "gzc.gzhu.edu.cn"
+  ]
+ }
+]

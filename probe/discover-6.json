@@ -1,0 +1,70 @@
+[
+ {
+  "key": "LNU",
+  "title": "辽宁大学 招标采购办公室",
+  "url": "https://zbcg.lnu.edu.cn/",
+  "sfw": false,
+  "navs": [
+   {
+    "t": "招标公告",
+    "h": "https://zbcg.lnu.edu.cn/zhaobiao.htm"
+   }
+  ],
+  "cands": [
+   {
+    "u": "https://zbcg.lnu.edu.cn/",
+    "label": "home",
+    "scanned": 1,
+    "oldest": "2021-11-30",
+    "n": 0,
+    "newest": [
+     "2021-11-30 辽宁大学招标采购工作指南（流程图）2021年11月版"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zbcg.lnu.edu.cn/zhaobiao.htm",
+    "label": "招标公告",
+    "scanned": 10,
+    "oldest": "2026-06-16",
+    "n": 0,
+    "newest": [
+     "2026-09-08 （辽宁大学2026年采购代理机构遴选项目）遴选公告",
+     "2026-08-29 辽宁大学比价采购公告（辽宁大学崇山校区学生宿舍项目配合考",
+     "2026-08-24 辽宁大学比价采购公告（辽宁大学崇山校区学生宿舍项目水土保"
+    ],
+    "rows": []
+   }
+  ]
+ },
+ {
+  "key": "CQNU",
+  "title": "",
+  "url": "https://cscz.cqnu.edu.cn/",
+  "sfw": false,
+  "navs": [],
+  "cands": []
+ },
+ {
+  "key": "GZHU",
+  "title": "广州大学财务处",
+  "url": "https://cwc.gzhu.edu.cn/",
+  "sfw": false,
+  "navs": [],
+  "cands": [
+   {
+    "u": "https://cwc.gzhu.edu.cn/",
+    "label": "home",
+    "scanned": 5,
+    "oldest": "2025-01-22",
+    "n": 0,
+    "newest": [
+     "2026-07-21 广大[2026]5号（广州大学关于印发《广州大学公务接待",
+     "2026-07-21 广大[2026]3号（广州大学关于修订《广州大学国有资产",
+     "2025-09-30 广大[2025]74号（广州大学关于印发《广州大学饮食服"
+    ],
+    "rows": []
+   }
+  ]
+ }
+]
