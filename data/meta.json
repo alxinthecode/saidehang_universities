@@ -27,7 +27,7 @@
     "TJU": {
       "note": "多数仅标题",
       "noteEn": "Mostly titles only",
-      "oldest": "2026-09-09",
+      "oldest": "2026-09-11",
       "scanned": 100
     },
     "USTC": {
@@ -380,7 +380,7 @@
     },
     "UJN": {
       "scanned": 10,
-      "oldest": "2026-09-17"
+      "oldest": "2026-09-18"
     },
     "WYU": {
       "scanned": 48,
@@ -445,6 +445,10 @@
     "IOA": {
       "scanned": 34,
       "oldest": "2024-07-15"
+    },
+    "OUC": {
+      "scanned": 100,
+      "oldest": "2026-09-30"
     }
   },
   "extra": [
@@ -473,13 +477,13 @@
       "url": "https://cgzx.hit.edu.cn/sfw_cms/e?page=cms.news2"
     }
   ],
-  "lastRun": "2026-10-17T13:00",
+  "lastRun": "2026-10-17T23:22",
   "lastResults": [
     {
       "school": "THU",
       "ok": true,
       "scanned": 100,
-      "matches": 0
+      "matches": 1
     },
     {
       "school": "BUAA",
@@ -503,7 +507,7 @@
       "school": "TJU",
       "ok": true,
       "scanned": 100,
-      "matches": 0
+      "matches": 2
     },
     {
       "school": "USTC",
@@ -646,7 +650,7 @@
       "school": "SZTU",
       "ok": true,
       "scanned": 100,
-      "matches": 4
+      "matches": 6
     },
     {
       "school": "AHU",
@@ -866,8 +870,9 @@
     },
     {
       "school": "OUC",
-      "ok": false,
-      "error": "page.goto: net::ERR_EMPTY_RESPONSE at http://zb.ouc.edu.cn/sfw_cms/e?page=cms.index (after retry)"
+      "ok": true,
+      "scanned": 100,
+      "matches": 0
     },
     {
       "school": "BJTU",
@@ -1015,9 +1020,8 @@
     },
     {
       "school": "SIT",
-      "ok": true,
-      "scanned": 10,
-      "matches": 0
+      "ok": false,
+      "error": "page.goto: Timeout 60000ms exceeded. (after retry)"
     },
     {
       "school": "STU",
