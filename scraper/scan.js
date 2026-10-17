@@ -36,7 +36,8 @@
   const strip = s => (s || '').replace(/<[^>]+>/g, ' ').replace(/&nbsp;/g, ' ').replace(/\s+/g, ' ').trim();
   const imports = txt => /不(?:接受|允许)进口|进口产品[^。]{0,8}(?:否|不允许|不接受)/.test(txt) ? '不接受'
     : /(?:接受|允许)进口|进口产品[^。]{0,8}是/.test(txt) ? '允许' : '';
-  const budgetOf = txt => { const m = txt.match(/预算(?:金额)?[^0-9]{0,12}([0-9][0-9.,]*)\s*(万元|元)/); return m ? m[1].replace(/(\.\d*?)0+$/, '$1').replace(/\.$/, '') + m[2] : ''; };
+  const budgetOf = txt => { const m = txt.match(/预算(?:金额)?[^0-9]{0,12}([0-9][0-9.,]*)\s*(万元|元)/); if (m) return m[1].replace(/(\.\d*?)0+$/, '$1').replace(/\.$/, '') + m[2];
+    const y = txt.match(/预算[^0-9]{0,6}[￥¥]\s*([0-9][0-9,]*(?:\.\d+)?)/); return y ? y[1] + '元' : ''; };
   const DATE = /(20\d{2})\s*[-年./]+\s*(\d{1,2})\s*[-月./]+\s*(\d{1,2})/;
   const toYmd = s => { const m = String(s || '').match(DATE); return m ? `${m[1]}-${m[2].padStart(2, '0')}-${m[3].padStart(2, '0')}` : ''; };
   const cleanTitle = s => (s || '').replace(/^[\s·•▪■●\-]+/, '').replace(/\s+/g, ' ').trim();

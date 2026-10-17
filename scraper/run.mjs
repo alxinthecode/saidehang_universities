@@ -64,10 +64,11 @@ await Promise.all(Array.from({ length: CONCURRENCY }, async () => {
 // missing an import flag, open the notice page and read the rendered text (imports, budget, snippet).
 const IMPORTS = t => /不(?:接受|允许)进口|进口产品[^。]{0,8}(?:否|不允许|不接受)/.test(t) ? '不接受'
   : /(?:接受|允许)进口|进口产品[^。]{0,8}是/.test(t) ? '允许' : '';
-const BUDGET = t => { const m = t.match(/预算(?:金额)?[^0-9]{0,12}([0-9][0-9.,]*)\s*(万元|元)/); return m ? m[1].replace(/(\.\d*?)0+$/, '$1').replace(/\.$/, '') + m[2] : ''; };
+const BUDGET = t => { const m = t.match(/预算(?:金额)?[^0-9]{0,12}([0-9][0-9.,]*)\s*(万元|元)/); if (m) return m[1].replace(/(\.\d*?)0+$/, '$1').replace(/\.$/, '') + m[2];
+  const y = t.match(/预算[^0-9]{0,6}[￥¥]\s*([0-9][0-9,]*(?:\.\d+)?)/); return y ? y[1] + '元' : ''; };
 const known = new Map(notices.map(n => [n._id, n]));
 const needText = results.filter(r => r.ok).flatMap(r => r.rows)
-  .filter(row => /\/provider\/#\/publish\//.test(row.url) && !row.snippet && !(known.get(row._id) || {}).imports)
+  .filter(row => /#\/publish\//.test(row.url) && !row.snippet && !(known.get(row._id) || {}).detailRead)
   .slice(0, 30);
 for (const row of needText) {
   const page = await ctx.newPage();
@@ -76,6 +77,7 @@ for (const row of needText) {
     await page.waitForLoadState('networkidle', { timeout: 20000 }).catch(() => {});
     await page.waitForTimeout(3000);
     const text = (await page.evaluate(() => document.body.innerText)).replace(/\s+/g, '');
+    row.detailRead = new Date().toISOString().slice(0, 10);
     row.imports = IMPORTS(text) || row.imports;
     row.budget = BUDGET(text) || row.budget;
     const i = text.search(/采购需求|项目内容|采购内容/);
@@ -99,7 +101,7 @@ for (const r of results.filter(r => r.ok)) {
       byId.set(row._id, fresh);
       added.push(fresh);
     } else {
-      for (const k of ['deadline', 'budget', 'imports', 'snippet']) if (!cur[k] && row[k]) cur[k] = row[k];
+      for (const k of ['deadline', 'budget', 'imports', 'snippet', 'detailRead']) if (!cur[k] && row[k]) cur[k] = row[k];
       // Re-found rows take the current keyword rules.
       for (const k of ['strong', 'weak', 'tier']) cur[k] = row[k];
     }
