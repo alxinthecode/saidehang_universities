@@ -1,0 +1,44 @@
+[
+ {
+  "key": "QHNU",
+  "title": "青海师范大学国有资产管理处",
+  "url": "https://gzc.qhnu.edu.cn/",
+  "sfw": false,
+  "navs": [
+   {
+    "t": "更多",
+    "h": "https://gzc.qhnu.edu.cn/index/xwdt.htm"
+   },
+   {
+    "t": "更多",
+    "h": "https://gzc.qhnu.edu.cn/zcfg.htm"
+   }
+  ],
+  "cands": [
+   {
+    "u": "https://gzc.qhnu.edu.cn/",
+    "label": "home",
+    "scanned": 42,
+    "oldest": "2019-09-18",
+    "n": 0,
+    "newest": [
+     "2026-06-03 追寻红色足迹，传承西路军精神，汲取奋进力量2026-06",
+     "2026-03-19 我校召开2026年招标代理机构廉政提醒谈话会2026-0",
+     "2026-03-06 我校召开2026年第一次采购招标工作领导小组会议2026"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://gzc.qhnu.edu.cn/zcfg.htm",
+    "label": "更多",
+    "scanned": 1,
+    "oldest": "2020-12-30",
+    "n": 0,
+    "newest": [
+     "2020-12-30 行政事业性国有资产管理条例（中华人民共和国国务院令第73"
+    ],
+    "rows": []
+   }
+  ]
+ }
+]

@@ -1,0 +1,23 @@
+[
+ {
+  "key": "HENAU",
+  "dom": "henau.edu.cn",
+  "home": "https://www.henau.edu.cn/",
+  "links": [],
+  "hosts": []
+ },
+ {
+  "key": "QHNU",
+  "dom": "qhnu.edu.cn",
+  "home": "https://www.qhnu.edu.cn/",
+  "links": [
+   "10\n          https://www.qhnu.edu.cn/info/1039/22728.htm",
+   "21\n          https://www.qhnu.edu.cn/info/1039/22644.htm"
+  ],
+  "hosts": [
+   "cwc.qhnu.edu.cn",
+   "cgzb.qhnu.edu.cn",
+   "gzc.qhnu.edu.cn"
+  ]
+ }
+]
