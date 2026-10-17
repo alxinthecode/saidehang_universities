@@ -1,0 +1,81 @@
+[
+ {
+  "key": "BNU",
+  "title": "北京师范大学采购信息网",
+  "url": "https://cg.bnu.edu.cn/sfw_cms/e?page=cms.index",
+  "sfw": true,
+  "navs": [
+   {
+    "t": "北京师范大学采购信息网",
+    "h": "https://cg.bnu.edu.cn/sfw_cms/e?page=cms.index#"
+   },
+   {
+    "t": "更多",
+    "h": "https://cg.bnu.edu.cn/sfw_cms/e?page=cms.news&cid=2061"
+   },
+   {
+    "t": "更多",
+    "h": "https://cg.bnu.edu.cn/sfw_cms/e?page=cms.news&cid=2053"
+   },
+   {
+    "t": "更多",
+    "h": "https://cg.bnu.edu.cn/sfw_cms/e?page=cms.psms.gglist&typeDetail=XQ&shopping_type=WSJJ"
+   },
+   {
+    "t": "更多",
+    "h": "https://cg.bnu.edu.cn/sfw_cms/e?page=cms.psms.gglist&typeDetail=XQ&shopping_type=WSXJ"
+   },
+   {
+    "t": "更多",
+    "h": "https://cg.bnu.edu.cn/sfw_cms/e?page=cms.psms.gglist&typeDetail=XQ&category=WTCG"
+   },
+   {
+    "t": "更多",
+    "h": "https://cg.bnu.edu.cn/sfw_cms/e?page=cms.psms.gglist&typeDetail=GS&shopping_type=DYLY"
+   },
+   {
+    "t": "更多",
+    "h": "https://cg.bnu.edu.cn/sfw_cms/e?page=cms.news&cid=2069"
+   }
+  ],
+  "cands": [
+   {
+    "u": "https://cg.bnu.edu.cn/sfw_cms/e?page=cms.index",
+    "label": "home",
+    "scanned": 23,
+    "oldest": "2017-07-18",
+    "n": 0,
+    "newest": [
+     "2018-07-31 北京师范大学发票信息",
+     "2017-07-19 政府采购货物和服务招标投标管理办法",
+     "2017-07-18 关于做好政府采购信息公开工作的通知"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://cg.bnu.edu.cn/sfw_cms/e?page=cms.index#",
+    "label": "北京师范大学采购信息网",
+    "scanned": 23,
+    "oldest": "2017-07-18",
+    "n": 0,
+    "newest": [
+     "2018-07-31 北京师范大学发票信息",
+     "2017-07-19 政府采购货物和服务招标投标管理办法",
+     "2017-07-18 关于做好政府采购信息公开工作的通知"
+    ],
+    "rows": []
+   }
+  ],
+  "sfwScan": {
+   "scanned": 100,
+   "oldest": "2026-08-05",
+   "n": 0,
+   "newest": [
+    "2026-10-16 北京师范大学珠海校区卓越教师国债项目圆二色光谱仪采购项目",
+    "2026-10-16 北京师范大学珠海校区气相色谱仪（温室气体专用）采购项目更",
+    "2026-10-16 北京师范大学放电等离子烧结炉采购项目（WT2026179"
+   ],
+   "rows": []
+  }
+ }
+]
