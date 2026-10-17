@@ -1,0 +1,73 @@
+[
+ {
+  "key": "CPU",
+  "dom": "cpu.edu.cn",
+  "home": "https://www.cpu.edu.cn/",
+  "links": [
+   "招投标办公室 http://cgzx.cpu.edu.cn/",
+   "招标系统 http://cgzx.cpu.edu.cn/sso/index.htm",
+   "招标信息 http://cgzx.cpu.edu.cn/"
+  ],
+  "hosts": [
+   "cgzx.cpu.edu.cn",
+   "zb.cpu.edu.cn",
+   "gzc.cpu.edu.cn",
+   "zcgl.cpu.edu.cn"
+  ]
+ },
+ {
+  "key": "HLJU",
+  "dom": "hlju.edu.cn",
+  "home": "https://www.hlju.edu.cn/",
+  "links": [],
+  "hosts": [
+   "cwc.hlju.edu.cn",
+   "cgzx.hlju.edu.cn",
+   "zb.hlju.edu.cn",
+   "gzc.hlju.edu.cn"
+  ]
+ },
+ {
+  "key": "HEBTU",
+  "dom": "hebtu.edu.cn",
+  "home": "https://www.hebtu.edu.cn/",
+  "links": [],
+  "hosts": [
+   "cwc.hebtu.edu.cn",
+   "zcgl.hebtu.edu.cn"
+  ]
+ },
+ {
+  "key": "HTU",
+  "dom": "htu.edu.cn",
+  "home": "https://www.htu.edu.cn/",
+  "links": [
+   "招标采购 https://www.htu.edu.cn/zbycgxx/list.htm"
+  ],
+  "hosts": [
+   "zcgl.htu.edu.cn"
+  ]
+ },
+ {
+  "key": "TJNU",
+  "dom": "tjnu.edu.cn",
+  "home": "https://www.tjnu.edu.cn/",
+  "links": [
+   "招标采购 https://gyzc.tjnu.edu.cn/xxgk/zbcgxx2.htm"
+  ],
+  "hosts": [
+   "cwc.tjnu.edu.cn",
+   "caigou.tjnu.edu.cn",
+   "gyzc.tjnu.edu.cn"
+  ]
+ },
+ {
+  "key": "GZNU",
+  "dom": "gznu.edu.cn",
+  "home": "https://www.gznu.edu.cn/",
+  "links": [],
+  "hosts": [
+   "gzc.gznu.edu.cn"
+  ]
+ }
+]

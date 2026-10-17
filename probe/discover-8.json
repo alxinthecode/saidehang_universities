@@ -1,0 +1,396 @@
+[
+ {
+  "key": "CPU",
+  "title": "中国药科大学招投标办公室 - 首页",
+  "url": "https://cgzx.cpu.edu.cn/",
+  "sfw": false,
+  "navs": [
+   {
+    "t": "更多>>",
+    "h": "https://cgzx.cpu.edu.cn/gzdt/index.chtml"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://cgzx.cpu.edu.cn/cgxxhw/index.chtml"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://cgzx.cpu.edu.cn/cjgshw/index.chtml"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://cgzx.cpu.edu.cn/dyly/index.chtml"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://cgzx.cpu.edu.cn/zxcg/index.chtml"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://cgzx.cpu.edu.cn/zfcgyxgk/index.chtml"
+   }
+  ],
+  "cands": [
+   {
+    "u": "https://cgzx.cpu.edu.cn/",
+    "label": "home",
+    "scanned": 89,
+    "oldest": "2026-06-16",
+    "n": 0,
+    "newest": [
+     "2026-10-16 中国药科大学江宁校区大学生活动中心10kV高压进线工程项",
+     "2026-10-16 中国药科大学学生宿舍网运维项目竞争性磋商公告DCFPCS",
+     "2026-10-14 中国药科大学大小鼠条件位置偏爱实验分析系统项目公开招标公"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://cgzx.cpu.edu.cn/gzdt/index.chtml",
+    "label": "更多>>",
+    "scanned": 15,
+    "oldest": "2024-05-09",
+    "n": 0,
+    "newest": [
+     "2026-09-11 全国学生资助管理中心（教育部政府采购中心）一行来我校调研",
+     "2026-07-13 招投标办公室2026年暑假值班表",
+     "2026-06-19 招投标办公室参加“两新”设备采购警示教育会"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://cgzx.cpu.edu.cn/cgxxhw/index.chtml",
+    "label": "更多>>",
+    "scanned": 15,
+    "oldest": "2026-08-26",
+    "n": 0,
+    "newest": [
+     "2026-10-14 中国药科大学大小鼠条件位置偏爱实验分析系统项目公开招标公",
+     "2026-10-10 中国药科大学凝胶渗透色谱仪项目竞争性磋商公告DCHKCS",
+     "2026-09-30 中国药科大学江宁校区一食堂副食品采购项目（包4烘焙原料、"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://cgzx.cpu.edu.cn/cjgshw/index.chtml",
+    "label": "更多>>",
+    "scanned": 15,
+    "oldest": "2026-08-25",
+    "n": 0,
+    "newest": [
+     "2026-10-15 中国药科大学智能超灵敏超分辨显微镜项目中标公告DCHKZ",
+     "2026-10-13 中国药科大学微透析电化学检测器项目中标公告DCHKZB0",
+     "2026-10-10 中国药科大学微型超速离心机项目成交公告DCHKCS021"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://cgzx.cpu.edu.cn/dyly/index.chtml",
+    "label": "更多>>",
+    "scanned": 15,
+    "oldest": "2026-05-11",
+    "n": 0,
+    "newest": [
+     "2026-09-18 中国药科大学液质联用仪维保采购项目成交结果公告DCFKD",
+     "2026-09-16 中国药科大学2026年度Clarivate Analyt",
+     "2026-09-16 中国药科大学2026年度Elsevier Science"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://cgzx.cpu.edu.cn/zxcg/index.chtml",
+    "label": "更多>>",
+    "scanned": 15,
+    "oldest": "2026-10-12",
+    "n": 0,
+    "newest": [
+     "2026-10-16 中国药科大学江宁校区菜鸟驿站改扩建项目全过程造价咨询服务",
+     "2026-10-16 中国药科大学玄武门校区篮球地胶铺设项目自行采购项目结果公",
+     "2026-10-16 中国药科大学智慧教室驻场服务项目自行采购项目结果公告(2"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://cgzx.cpu.edu.cn/zfcgyxgk/index.chtml",
+    "label": "更多>>",
+    "scanned": 15,
+    "oldest": "2026-03-20",
+    "n": 0,
+    "newest": [
+     "2026-09-24 中国药科大学2026年政府采购意向公开（第24批）",
+     "2026-09-15 中国药科大学2026年政府采购意向公开（第23批）",
+     "2026-08-12 中国药科大学2026年政府采购意向公开（第22批）"
+    ],
+    "rows": []
+   }
+  ]
+ },
+ {
+  "key": "HLJU",
+  "title": "黑龙江大学国有资产管理处",
+  "url": "https://gzc.hlju.edu.cn/",
+  "sfw": false,
+  "navs": [
+   {
+    "t": "招标公告",
+    "h": "https://gzc.hlju.edu.cn/list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1201"
+   }
+  ],
+  "cands": [
+   {
+    "u": "https://gzc.hlju.edu.cn/",
+    "label": "home",
+    "scanned": 29,
+    "oldest": "2019-04-24",
+    "n": 0,
+    "newest": [
+     "2026-03-16 机关党委国有资产管理处党支部召开树立和践行正确政绩观学习",
+     "2026-02-11 校领导慰问在岗教职员工和留校学生",
+     "2026-01-16 省、市不动产登记部门相关领导来校座谈交流"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://gzc.hlju.edu.cn/list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1201",
+    "label": "招标公告",
+    "scanned": 15,
+    "oldest": "2023-12-08",
+    "n": 0,
+    "newest": [
+     "2025-08-06 外国语言文学学院文化墙制作安装服务询价采购公告",
+     "2025-06-24 黑龙江大学主楼索引牌部分条目更换服务询价采购公告",
+     "2024-10-30 黑龙江大学主楼中央空调维保服务询价采购公告"
+    ],
+    "rows": []
+   }
+  ]
+ },
+ {
+  "key": "HTU",
+  "title": "招标采购",
+  "url": "https://www.htu.edu.cn/zbycgxx/list.htm",
+  "sfw": false,
+  "navs": [],
+  "cands": [
+   {
+    "u": "https://www.htu.edu.cn/zbycgxx/list.htm",
+    "label": "home",
+    "scanned": 8,
+    "oldest": "2026-10-08",
+    "n": 0,
+    "newest": [
+     "2026-10-16 河南师范大学建设路西校区铺设混凝土及墙体粉刷项目 (分2",
+     "2026-10-16 河南师范大学2026年建设路校区两联两人位上床下桌采购项",
+     "2026-10-14 河南师范大学2026年软件学院网络安全攻防实验室建设项目"
+    ],
+    "rows": []
+   }
+  ]
+ },
+ {
+  "key": "TJNU",
+  "title": "国有资产管理处",
+  "url": "https://gyzc.tjnu.edu.cn/",
+  "sfw": false,
+  "navs": [
+   {
+    "t": "招标采购信息",
+    "h": "https://gyzc.tjnu.edu.cn/xxgk/zbcgxx2.htm"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://gyzc.tjnu.edu.cn/djzl.htm"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://gyzc.tjnu.edu.cn/ggl.htm"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://gyzc.tjnu.edu.cn/gzdt.htm"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://gyzc.tjnu.edu.cn/sbwxxcs.htm"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://gyzc.tjnu.edu.cn/sysaq.htm"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://gyzc.tjnu.edu.cn/czgg.htm"
+   }
+  ],
+  "cands": [
+   {
+    "u": "https://gyzc.tjnu.edu.cn/djzl.htm",
+    "label": "更多>>",
+    "scanned": 10,
+    "oldest": "2026-06-16",
+    "n": 0,
+    "newest": [
+     "2026-10-16 【学习进行时】习近平出席全国卫生与健康大会并发表重要讲话",
+     "2026-09-10 【学习进行时】习近平向全国广大教师和教育工作者致以节日祝",
+     "2026-09-08 【学习进行时】习近平在上海合作组织成员国元首理事会第二十"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://gyzc.tjnu.edu.cn/ggl.htm",
+    "label": "更多>>",
+    "scanned": 10,
+    "oldest": "2019-04-26",
+    "n": 0,
+    "newest": [
+     "2026-10-09 天津师范大学2026年大型仪器维修经费补贴情况公示（第三",
+     "2026-09-14 天津师范大学2026年大型仪器维修经费补贴情况公示（第二",
+     "2026-05-11 天津师范大学2026年大型仪器维修经费补贴情况公示（第一"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://gyzc.tjnu.edu.cn/gzdt.htm",
+    "label": "更多>>",
+    "scanned": 10,
+    "oldest": "2026-01-23",
+    "n": 0,
+    "newest": [
+     "2026-10-09 我校组织参加实验室安全培训",
+     "2026-07-01 天津师范大学召开采购业务暨廉政警示教育培训会",
+     "2026-06-25 天津师范大学举办实验室安全风险管控专题培训会"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://gyzc.tjnu.edu.cn/sbwxxcs.htm",
+    "label": "更多>>",
+    "scanned": 7,
+    "oldest": "2008-08-25",
+    "n": 0,
+    "newest": [
+     "2013-10-18 笔记本日常使用维护",
+     "2013-10-18 低值易耗品使用维护注意事项",
+     "2013-10-18 木制办公家具去污保洁小常识"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://gyzc.tjnu.edu.cn/sysaq.htm",
+    "label": "更多>>",
+    "scanned": 10,
+    "oldest": "2025-12-12",
+    "n": 0,
+    "newest": [
+     "2026-10-09 我校组织参加实验室安全培训",
+     "2026-08-12 巩金龙率队检查校园防汛防台风和暑期安全稳定工作",
+     "2026-06-25 天津师范大学举办实验室安全风险管控专题培训会"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://gyzc.tjnu.edu.cn/czgg.htm",
+    "label": "更多>>",
+    "scanned": 10,
+    "oldest": "2018-05-29",
+    "n": 0,
+    "newest": [
+     "2019-01-03 低值耐用品处置公告(DZ 20190102)",
+     "2019-01-03 资产拟处置公告(ZC 20190102)",
+     "2018-11-20 低值耐用品处置公告(DZ 20181119)"
+    ],
+    "rows": []
+   }
+  ]
+ },
+ {
+  "key": "GZNU",
+  "title": "国有资产管理处",
+  "url": "https://gzc.gznu.edu.cn/",
+  "sfw": false,
+  "navs": [
+   {
+    "t": "更多+",
+    "h": "https://gzc.gznu.edu.cn/index/gzdt.htm"
+   },
+   {
+    "t": "更多+",
+    "h": "https://gzc.gznu.edu.cn/index/ztbgg.htm"
+   },
+   {
+    "t": "更多+",
+    "h": "https://gzc.gznu.edu.cn/index/tzgg.htm"
+   },
+   {
+    "t": "更多+",
+    "h": "https://gzc.gznu.edu.cn/index/djgz.htm"
+   }
+  ],
+  "cands": [
+   {
+    "u": "https://gzc.gznu.edu.cn/",
+    "label": "home",
+    "scanned": 5,
+    "oldest": "2021-04-02",
+    "n": 0,
+    "newest": [
+     "2023-05-05 ​学校召开“一校一址”搬迁工作组例会",
+     "2024-08-14 关于落实执行《省财政厅关于进一步加强单一来源政府采购方式",
+     "2021-12-25 国有资产管理处关于2021年年终采购及入库工作安排的通知"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://gzc.gznu.edu.cn/index/gzdt.htm",
+    "label": "更多+",
+    "scanned": 20,
+    "oldest": "2016-10-25",
+    "n": 0,
+    "newest": [
+     "2024-06-04 学校召开2024年国有资产清查工作启动会",
+     "2023-05-06 ​学校召开“一校一址”搬迁工作组例会",
+     "2023-04-11 副校长罗永祥带队到贵州轻工职业技术学院调研搬迁工作"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://gzc.gznu.edu.cn/index/ztbgg.htm",
+    "label": "更多+",
+    "scanned": 12,
+    "oldest": "2023-10-15",
+    "n": 0,
+    "newest": [
+     "2026-07-08 贵州师范大学2026-2027年实验室危险废物无害化处置",
+     "2026-06-24 贵州师范大学2026-2027年实验室危险废物无害化处置",
+     "2026-06-03 贵州师范大学合同能源管理方案征集公告"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://gzc.gznu.edu.cn/index/tzgg.htm",
+    "label": "更多+",
+    "scanned": 18,
+    "oldest": "2011-12-24",
+    "n": 0,
+    "newest": [
+     "2024-08-14 关于落实执行《省财政厅关于进一步加强单一来源政府采购方式",
+     "2021-12-16 国有资产管理处关于2021年年终采购及入库工作安排的通知",
+     "2021-12-06 关于政府采购电子卖场正式运行的通知"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://gzc.gznu.edu.cn/index/djgz.htm",
+    "label": "更多+",
+    "scanned": 18,
+    "oldest": "2019-03-15",
+    "n": 0,
+    "newest": [
+     "2026-08-31 国有资产管理处召开《关于7起招标投标领域不正之风和腐败问",
+     "2024-07-10 党纪学习教育——中央纪委国家监委网站",
+     "2024-04-30 党纪学习教育-贵州师范大学"
+    ],
+    "rows": []
+   }
+  ]
+ }
+]
