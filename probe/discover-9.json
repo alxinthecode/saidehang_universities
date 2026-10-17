@@ -1,0 +1,135 @@
+[
+ {
+  "key": "HZAU",
+  "title": "华中农业大学采购与招标中心",
+  "url": "https://ztb.hzau.edu.cn/",
+  "sfw": false,
+  "navs": [
+   {
+    "t": "采购公告",
+    "h": "https://ztb.hzau.edu.cn/cggg.htm"
+   },
+   {
+    "t": "MORE",
+    "h": "https://ztb.hzau.edu.cn/xqgg/yxgk.htm"
+   },
+   {
+    "t": "MORE",
+    "h": "https://ztb.hzau.edu.cn/xqgg/xqgs.htm"
+   },
+   {
+    "t": "MORE",
+    "h": "https://ztb.hzau.edu.cn/xqgg/dylygs.htm"
+   },
+   {
+    "t": "MORE",
+    "h": "https://ztb.hzau.edu.cn/xqgg/qt.htm"
+   },
+   {
+    "t": "网上竞价",
+    "h": "http://jj.hzau.edu.cn/bid/newloginHZAU"
+   },
+   {
+    "t": "MORE",
+    "h": "https://ztb.hzau.edu.cn/cggg/jzcg.htm"
+   },
+   {
+    "t": "货物",
+    "h": "https://ztb.hzau.edu.cn/cggg/jzcg/hw.htm"
+   }
+  ],
+  "cands": [
+   {
+    "u": "https://ztb.hzau.edu.cn/",
+    "label": "home",
+    "scanned": 172,
+    "oldest": "2018-05-08",
+    "n": 0,
+    "newest": [
+     "2026-10-16 华中农业大学农业微生物资源库项目洁净室工程",
+     "2026-09-16 重大病虫疫情抗药性监测中心（湖北）政府采购意向公告",
+     "2026-09-07 替代蛋白工程交叉研究中心项目工程总承包（EPC）等政府采"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://ztb.hzau.edu.cn/cggg.htm",
+    "label": "采购公告",
+    "scanned": 15,
+    "oldest": "2024-11-18",
+    "n": 0,
+    "newest": [
+     "2024-11-22 【采购公告】微生物资源库建设项目第二批（高灵敏微生物分选",
+     "2024-11-22 【采购公告】资源与环境学院历史土壤整段标本修复采购项目（",
+     "2024-11-22 【采购公告】微生物资源库建设项目第六批(高效液相色谱仪等"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://ztb.hzau.edu.cn/xqgg/yxgk.htm",
+    "label": "MORE",
+    "scanned": 14,
+    "oldest": "2026-03-12",
+    "n": 0,
+    "newest": [
+     "2026-10-16 【意向公开】华中农业大学农业微生物资源库项目洁净室工程",
+     "2026-09-16 【意向公开】重大病虫疫情抗药性监测中心（湖北）政府采购意",
+     "2026-09-07 【意向公开】替代蛋白工程交叉研究中心项目工程总承包（EP"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://ztb.hzau.edu.cn/xqgg/xqgs.htm",
+    "label": "MORE",
+    "scanned": 15,
+    "oldest": "2026-06-26",
+    "n": 0,
+    "newest": [
+     "2026-10-16 【需求公示】华中农业大学农业智能装备创新支撑中心项目第四",
+     "2026-10-15 【需求公示】农业微生物资源库项目洁净室工程项目需求征求意",
+     "2026-09-28 【需求公示】华中农业大学国家基础研究创新提升工程设备更新"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://ztb.hzau.edu.cn/xqgg/dylygs.htm",
+    "label": "MORE",
+    "scanned": 15,
+    "oldest": "2025-09-09",
+    "n": 0,
+    "newest": [
+     "2026-09-20 【单一来源公示】单一来源采购“柑橘黄龙病绿色防控技术研发",
+     "2026-08-18 【单一来源公示】单一来源采购“玉米南繁育种科研用地”公示",
+     "2026-07-05 【单一来源公示】单一来源采购“2026年万方、超星系列数"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://ztb.hzau.edu.cn/cggg/jzcg.htm",
+    "label": "MORE",
+    "scanned": 15,
+    "oldest": "2026-08-25",
+    "n": 0,
+    "newest": [
+     "2026-10-16 【货物】园艺作物智慧育种创新支撑平台第二十一批",
+     "2026-10-16 【货物】华中农业大学国家基础研究创新提升工程设备更新项目",
+     "2026-10-16 【服务】华中农业大学襄阳校区资产清查项目竞争性磋商采购公"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://ztb.hzau.edu.cn/cggg/jzcg/hw.htm",
+    "label": "货物",
+    "scanned": 15,
+    "oldest": "2026-08-05",
+    "n": 0,
+    "newest": [
+     "2026-10-16 【货物】园艺作物智慧育种创新支撑平台第二十一批",
+     "2026-10-16 【货物】华中农业大学国家基础研究创新提升工程设备更新项目",
+     "2026-09-24 【货物】华中农业大学农业智能装备创新支撑中心项目第三十八"
+    ],
+    "rows": []
+   }
+  ]
+ }
+]
