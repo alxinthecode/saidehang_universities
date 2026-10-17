@@ -1,0 +1,253 @@
+[
+ {
+  "key": "FAFU",
+  "title": "福建农林大学采购招标管理系统",
+  "url": "https://cgzb.fafu.edu.cn/sfw2/",
+  "sfw": true,
+  "navs": [],
+  "cands": [],
+  "sfwErr": "page.evaluate: Error: no 思必得 list query returned results\n    at readSfw (eval at <anonymous> (eval a"
+ },
+ {
+  "key": "FAFU",
+  "title": "福建农林大学--招标信息管理系统",
+  "url": "http://zb.fafu.edu.cn/page/index.jsp",
+  "sfw": true,
+  "navs": [
+   {
+    "t": "更多...",
+    "h": "http://zb.fafu.edu.cn/page/noticeList.jsp"
+   },
+   {
+    "t": "更多...",
+    "h": "http://zb.fafu.edu.cn/page/infoList.jsp?id=1"
+   },
+   {
+    "t": "更多...",
+    "h": "http://zb.fafu.edu.cn/page/infoList.jsp?id=4"
+   },
+   {
+    "t": "更多...",
+    "h": "http://zb.fafu.edu.cn/page/infoList.jsp?id=6"
+   },
+   {
+    "t": "更多...",
+    "h": "http://zb.fafu.edu.cn/page/infoList.jsp?id=7"
+   },
+   {
+    "t": "更多...",
+    "h": "http://zb.fafu.edu.cn/page/infoList.jsp?id=8"
+   },
+   {
+    "t": "更多...",
+    "h": "http://zb.fafu.edu.cn/page/infoList.jsp?id=5"
+   },
+   {
+    "t": "更多...",
+    "h": "http://zb.fafu.edu.cn/page/infoList.jsp?id=10"
+   }
+  ],
+  "cands": [
+   {
+    "u": "http://zb.fafu.edu.cn/page/index.jsp",
+    "label": "home",
+    "scanned": 80,
+    "oldest": "2023-11-03",
+    "n": 0,
+    "newest": [
+     "2025-05-16 FJNLDX202501",
+     "2024-02-27 [350001]SQ[GK]2023010-1",
+     "2024-02-19 [350001]FZHTZB[CS]2023012"
+    ],
+    "rows": []
+   },
+   {
+    "u": "http://zb.fafu.edu.cn/page/infoList.jsp?id=1",
+    "label": "更多...",
+    "scanned": 25,
+    "oldest": "2023-11-28",
+    "n": 0,
+    "newest": [
+     "2025-05-16 福建农林大学2025-2028年采购招标代理机构比选项目",
+     "2024-02-27 福建农林大学蛋白红外成像系统等设备采购项目(二次)",
+     "2024-02-19 人事人才评价服务"
+    ],
+    "rows": []
+   },
+   {
+    "u": "http://zb.fafu.edu.cn/page/infoList.jsp?id=4",
+    "label": "更多...",
+    "scanned": 25,
+    "oldest": "2023-04-25",
+    "n": 0,
+    "newest": [
+     "2025-05-30 2025年福建农林大学旗山校区学生宿舍家具采购项目预公告",
+     "2024-07-10 N-福建农林大学便携式光合作用测量系统等科研仪器设备采购",
+     "2024-06-24 N-福建农林大学金山校区2024-2027年度物业服务采"
+    ],
+    "rows": []
+   },
+   {
+    "u": "http://zb.fafu.edu.cn/page/infoList.jsp?id=6",
+    "label": "更多...",
+    "scanned": 25,
+    "oldest": "2025-11-04",
+    "n": 0,
+    "newest": [
+     "2026-10-16 樛木苑3号楼宿舍加固改造项目方案、初步设计及概算编制（设",
+     "2026-10-10 幼儿园2026结构优化修缮工程（设计）",
+     "2026-09-22 大学城校区南北门文化墙基础改造工程（设计）"
+    ],
+    "rows": []
+   },
+   {
+    "u": "http://zb.fafu.edu.cn/page/infoList.jsp?id=7",
+    "label": "更多...",
+    "scanned": 25,
+    "oldest": "2023-08-14",
+    "n": 0,
+    "newest": [
+     "2026-09-20 “金山校区、旗山校区学生宿舍互联网宽带接入服务”运维服务",
+     "2026-09-15 福州大学城校区梧桐楼4-5层装修改造项目（监理）",
+     "2026-08-17 食品材料科学与结构设计联合研究中心修缮项目（监理）"
+    ],
+    "rows": []
+   },
+   {
+    "u": "http://zb.fafu.edu.cn/page/infoList.jsp?id=8",
+    "label": "更多...",
+    "scanned": 24,
+    "oldest": "2026-05-30",
+    "n": 0,
+    "newest": [
+     "2026-10-16 创享社区平台贯通学校一站式拓荒社区防腐木平台建设项目",
+     "2026-09-21 东苑学生通道-东区教工宿舍周边道路及环境提升工程",
+     "2026-09-21 2026年南洋楹路（观音湖侧）及荆东路（观音湖路段）路面"
+    ],
+    "rows": []
+   },
+   {
+    "u": "http://zb.fafu.edu.cn/page/infoList.jsp?id=5",
+    "label": "更多...",
+    "scanned": 25,
+    "oldest": "2025-12-17",
+    "n": 0,
+    "newest": [
+     "2026-09-07 西芹科教与艺术基地礼堂修缮提升项目",
+     "2026-09-07 西芹科教与艺术基地公共区域修缮提升项目",
+     "2026-08-28 西芹科教与艺术基地55号学生宿舍楼修缮提升项目"
+    ],
+    "rows": []
+   },
+   {
+    "u": "http://zb.fafu.edu.cn/page/infoList.jsp?id=10",
+    "label": "更多...",
+    "scanned": 25,
+    "oldest": "2026-02-27",
+    "n": 0,
+    "newest": [
+     "2026-10-28 福州仓山校区咸熙苑1号楼提升改造工程（设计施工一体化）",
+     "2026-10-09 福建农林大学海峡联合学院和海峡联合研究院建设项目（三期）",
+     "2026-10-08 福州仓山校区遐安片区新增箱式变压器建设项目（监理）"
+    ],
+    "rows": []
+   }
+  ],
+  "sfwErr": "page.evaluate: Error: no 思必得 list query returned results\n    at readSfw (eval at <anonymous> (eval a"
+ },
+ {
+  "key": "FAFU",
+  "title": "国有资产管理处",
+  "url": "https://gzc.fafu.edu.cn/",
+  "sfw": true,
+  "navs": [],
+  "cands": [
+   {
+    "u": "https://gzc.fafu.edu.cn/",
+    "label": "home",
+    "scanned": 9,
+    "oldest": "2024-10-30",
+    "n": 0,
+    "newest": [
+     "2026-07-23 国资处、基建处赴厦门大学学习交流",
+     "2026-07-17 校领导深入国有资产管理处调研",
+     "2026-06-30 筑牢实验室安全防线 提升应急处置实战能力 —— 我校开展"
+    ],
+    "rows": []
+   }
+  ],
+  "sfwErr": "page.evaluate: Error: no 思必得 list query returned results\n    at readSfw (eval at <anonymous> (eval a"
+ },
+ {
+  "key": "SHNU",
+  "title": "资产与实验室管理处",
+  "url": "https://zcc.shnu.edu.cn/",
+  "sfw": false,
+  "navs": [
+   {
+    "t": "更多>>",
+    "h": "https://zcc.shnu.edu.cn/23112/list.htm"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://zcc.shnu.edu.cn/_t596/23117/list.htm"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://zcc.shnu.edu.cn/_t596/xxzd/list.htm"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://zcc.shnu.edu.cn/_t596/23119/list.htm"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://zcc.shnu.edu.cn/_t596/23120/list.htm"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://zcc.shnu.edu.cn/dxyqsbtp/list.htm"
+   }
+  ],
+  "cands": [
+   {
+    "u": "https://zcc.shnu.edu.cn/",
+    "label": "home",
+    "scanned": 37,
+    "oldest": "2019-11-06",
+    "n": 0,
+    "newest": [
+     "2026-10-14 固定资产入账流程优化通知",
+     "2026-09-24 行政楼南侧停车场施工通知",
+     "2026-09-10 关于校园道路沥青摊铺期间交通调整的通知"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zcc.shnu.edu.cn/23112/list.htm",
+    "label": "更多>>",
+    "scanned": 10,
+    "oldest": "2026-07-19",
+    "n": 0,
+    "newest": [
+     "2026-10-14 固定资产入账流程优化通知",
+     "2026-09-24 行政楼南侧停车场施工通知",
+     "2026-09-10 关于校园道路沥青摊铺期间交通调整的通知"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zcc.shnu.edu.cn/dxyqsbtp/list.htm",
+    "label": "更多>>",
+    "scanned": 2,
+    "oldest": "2021-07-16",
+    "n": 0,
+    "newest": [
+     "2021-07-16 三维运动捕捉系统",
+     "2021-07-16 纳米粒度与电位分析仪"
+    ],
+    "rows": []
+   }
+  ]
+ }
+]

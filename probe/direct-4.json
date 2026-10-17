@@ -1,0 +1,30 @@
+[
+ {
+  "key": "NWNU",
+  "try": "cg.nwnu.edu.cn",
+  "ok": true,
+  "title": "",
+  "url": "https://cg.nwnu.edu.cn/",
+  "cands": []
+ },
+ {
+  "key": "NJFU",
+  "try": "gzc.njfu.edu.cn",
+  "ok": true,
+  "title": "国有资产管理处、投招标中心",
+  "url": "https://gzc.njfu.edu.cn/",
+  "cands": []
+ },
+ {
+  "key": "YNU",
+  "try": "zcc.ynu.edu.cn",
+  "ok": false,
+  "err": "page.goto: net::ERR_NAME_NOT_RESOLVED at http://zcc.ynu.edu.cn/"
+ },
+ {
+  "key": "YNU",
+  "try": "cgzx.ynu.edu.cn",
+  "ok": false,
+  "err": "page.goto: net::ERR_NAME_NOT_RESOLVED at http://cgzx.ynu.edu.cn/"
+ }
+]

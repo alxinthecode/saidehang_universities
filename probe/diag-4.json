@@ -1,0 +1,28 @@
+[
+ {
+  "key": "FAFU",
+  "dom": "fafu.edu.cn",
+  "home": "http://www.fafu.edu.cn/",
+  "links": [
+   "招标投标 http://zb.fafu.edu.cn/page/index.jsp"
+  ],
+  "hosts": [
+   "cwc.fafu.edu.cn",
+   "cgzb.fafu.edu.cn",
+   "zb.fafu.edu.cn",
+   "gzc.fafu.edu.cn",
+   "zcgl.fafu.edu.cn"
+  ]
+ },
+ {
+  "key": "SHNU",
+  "dom": "shnu.edu.cn",
+  "home": "https://www.shnu.edu.cn/",
+  "links": [],
+  "hosts": [
+   "cwc.shnu.edu.cn",
+   "zcc.shnu.edu.cn",
+   "zcgl.shnu.edu.cn"
+  ]
+ }
+]
