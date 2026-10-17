@@ -477,7 +477,7 @@
       "url": "https://cgzx.hit.edu.cn/sfw_cms/e?page=cms.news2"
     }
   ],
-  "lastRun": "2026-10-17T23:22",
+  "lastRun": "2026-10-17T23:29",
   "lastResults": [
     {
       "school": "THU",
@@ -870,9 +870,8 @@
     },
     {
       "school": "OUC",
-      "ok": true,
-      "scanned": 100,
-      "matches": 0
+      "ok": false,
+      "error": "page.goto: net::ERR_EMPTY_RESPONSE at http://zb.ouc.edu.cn/sfw_cms/e?page=cms.index (after retry)"
     },
     {
       "school": "BJTU",
@@ -1002,9 +1001,8 @@
     },
     {
       "school": "LNTU",
-      "ok": true,
-      "scanned": 20,
-      "matches": 0
+      "ok": false,
+      "error": "page.goto: Timeout 60000ms exceeded. (after retry)"
     },
     {
       "school": "NEPU",
