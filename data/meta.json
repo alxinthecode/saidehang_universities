@@ -477,7 +477,7 @@
       "url": "https://cgzx.hit.edu.cn/sfw_cms/e?page=cms.news2"
     }
   ],
-  "lastRun": "2026-10-17T23:29",
+  "lastRun": "2026-10-17T23:35",
   "lastResults": [
     {
       "school": "THU",
@@ -1001,8 +1001,9 @@
     },
     {
       "school": "LNTU",
-      "ok": false,
-      "error": "page.goto: Timeout 60000ms exceeded. (after retry)"
+      "ok": true,
+      "scanned": 20,
+      "matches": 0
     },
     {
       "school": "NEPU",

@@ -20,7 +20,8 @@
     "note": "",
     "firstSeen": "2026-10-17",
     "titleEn": "",
-    "noteEn": ""
+    "noteEn": "",
+    "detailRead": "2026-10-17"
   },
   {
     "_id": "WESTLAKE-WLU-FW-KS-WM-2026-0224",
@@ -77,7 +78,7 @@
     "deadline": "2026-10-21 17:00",
     "method": "网上竞价",
     "no": "SZTUWSJJ2600357",
-    "budget": "",
+    "budget": "280,000元",
     "imports": "",
     "strong": [],
     "weak": [
@@ -194,7 +195,7 @@
     "deadline": "2026-10-19 10:00",
     "method": "网上竞价",
     "no": "SZTUWSJJ2600325",
-    "budget": "",
+    "budget": "485,000元",
     "imports": "",
     "strong": [],
     "weak": [
@@ -240,7 +241,7 @@
     "deadline": "2026-10-09 16:00",
     "method": "网上竞价",
     "no": "SZTUWSJJ2600314",
-    "budget": "",
+    "budget": "230,000元",
     "imports": "",
     "strong": [],
     "weak": [
@@ -402,7 +403,7 @@
     "deadline": "2026-09-18 17:00",
     "method": "网上竞价",
     "no": "SZTUWSJJ2600275",
-    "budget": "",
+    "budget": "280,000元",
     "imports": "",
     "strong": [],
     "weak": [
