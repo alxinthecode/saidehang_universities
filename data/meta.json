@@ -155,7 +155,7 @@
       "oldest": "2026-10-14"
     },
     "NJUPT": {
-      "scanned": 22,
+      "scanned": 20,
       "oldest": "2026-09-04"
     },
     "HDU": {
@@ -449,6 +449,94 @@
     "OUC": {
       "scanned": 100,
       "oldest": "2026-09-30"
+    },
+    "BNU": {
+      "scanned": 100,
+      "oldest": "2026-08-05"
+    },
+    "CUGB": {
+      "scanned": 100,
+      "oldest": "2026-08-06"
+    },
+    "HBU": {
+      "scanned": 100,
+      "oldest": "2026-06-25"
+    },
+    "NEFU": {
+      "scanned": 100,
+      "oldest": "2026-06-23"
+    },
+    "CPU": {
+      "scanned": 30,
+      "oldest": "2026-08-26"
+    },
+    "CSUFT": {
+      "scanned": 10,
+      "oldest": "2026-09-29"
+    },
+    "GXNU": {
+      "scanned": 15,
+      "oldest": "2026-09-11"
+    },
+    "HTU": {
+      "scanned": 8,
+      "oldest": "2026-10-08"
+    },
+    "HZAU": {
+      "scanned": 15,
+      "oldest": "2026-08-25"
+    },
+    "NENU": {
+      "scanned": 48,
+      "oldest": "2026-01-08"
+    },
+    "SDNU": {
+      "scanned": 14,
+      "oldest": "2026-09-19"
+    },
+    "ZAFU": {
+      "scanned": 10,
+      "oldest": "2026-09-28"
+    },
+    "LNU": {
+      "scanned": 10,
+      "oldest": "2026-06-16"
+    },
+    "HENU": {
+      "scanned": 10,
+      "oldest": "2026-09-28"
+    },
+    "NJAU": {
+      "scanned": 30,
+      "oldest": "2026-06-15"
+    },
+    "QFNU": {
+      "scanned": 16,
+      "oldest": "2026-09-24"
+    },
+    "SDAU": {
+      "scanned": 28,
+      "oldest": "2026-07-10"
+    },
+    "JLAU": {
+      "scanned": 10,
+      "oldest": "2026-09-10"
+    },
+    "YNNU": {
+      "scanned": 15,
+      "oldest": "2026-10-08"
+    },
+    "SWFU": {
+      "scanned": 15,
+      "oldest": "2026-09-28"
+    },
+    "FAFU": {
+      "scanned": 49,
+      "oldest": "2025-11-04"
+    },
+    "HAINNU": {
+      "scanned": 14,
+      "oldest": "2026-05-29"
     }
   },
   "extra": [
@@ -477,7 +565,7 @@
       "url": "https://cgzx.hit.edu.cn/sfw_cms/e?page=cms.news2"
     }
   ],
-  "lastRun": "2026-10-17T23:35",
+  "lastRun": "2026-10-18T01:47",
   "lastResults": [
     {
       "school": "THU",
@@ -564,9 +652,8 @@
     },
     {
       "school": "DLMU",
-      "ok": true,
-      "scanned": 100,
-      "matches": 0
+      "ok": false,
+      "error": "page.goto: Timeout 60000ms exceeded. (after retry)"
     },
     {
       "school": "HUST",
@@ -660,9 +747,8 @@
     },
     {
       "school": "XIDIAN",
-      "ok": true,
-      "scanned": 30,
-      "matches": 0
+      "ok": false,
+      "error": "page.goto: Timeout 60000ms exceeded. (after retry)"
     },
     {
       "school": "UCAS",
@@ -697,7 +783,7 @@
     {
       "school": "NJUPT",
       "ok": true,
-      "scanned": 22,
+      "scanned": 20,
       "matches": 0
     },
     {
@@ -750,9 +836,8 @@
     },
     {
       "school": "BIT",
-      "ok": true,
-      "scanned": 100,
-      "matches": 0
+      "ok": false,
+      "error": "page.goto: Timeout 60000ms exceeded. (after retry)"
     },
     {
       "school": "HITWH",
@@ -864,9 +949,8 @@
     },
     {
       "school": "NUC",
-      "ok": true,
-      "scanned": 15,
-      "matches": 1
+      "ok": false,
+      "error": "page.goto: net::ERR_CONNECTION_REFUSED at https://zbcg.nuc.edu.cn/cgxx/hwl.htm (after retry)"
     },
     {
       "school": "OUC",
@@ -881,9 +965,8 @@
     },
     {
       "school": "HRBUST",
-      "ok": true,
-      "scanned": 14,
-      "matches": 0
+      "ok": false,
+      "error": "page.goto: Timeout 60000ms exceeded. (after retry)"
     },
     {
       "school": "NANKAI",
@@ -905,9 +988,8 @@
     },
     {
       "school": "SWPU",
-      "ok": true,
-      "scanned": 20,
-      "matches": 0
+      "ok": false,
+      "error": "page.goto: Timeout 60000ms exceeded. (after retry)"
     },
     {
       "school": "XAUAT",
@@ -1099,6 +1181,148 @@
       "ok": true,
       "scanned": 7,
       "matches": 0
+    },
+    {
+      "school": "BNU",
+      "ok": true,
+      "scanned": 100,
+      "matches": 0
+    },
+    {
+      "school": "CUGB",
+      "ok": true,
+      "scanned": 100,
+      "matches": 1
+    },
+    {
+      "school": "HBU",
+      "ok": true,
+      "scanned": 100,
+      "matches": 0
+    },
+    {
+      "school": "NEFU",
+      "ok": true,
+      "scanned": 100,
+      "matches": 0
+    },
+    {
+      "school": "CAU",
+      "ok": false,
+      "error": "page.evaluate: Error: no 思必得 list query returned results (after retry)"
+    },
+    {
+      "school": "CPU",
+      "ok": true,
+      "scanned": 30,
+      "matches": 0
+    },
+    {
+      "school": "CSUFT",
+      "ok": true,
+      "scanned": 10,
+      "matches": 0
+    },
+    {
+      "school": "GXNU",
+      "ok": true,
+      "scanned": 15,
+      "matches": 0
+    },
+    {
+      "school": "HTU",
+      "ok": true,
+      "scanned": 8,
+      "matches": 0
+    },
+    {
+      "school": "HZAU",
+      "ok": true,
+      "scanned": 15,
+      "matches": 0
+    },
+    {
+      "school": "NENU",
+      "ok": true,
+      "scanned": 48,
+      "matches": 0
+    },
+    {
+      "school": "SDNU",
+      "ok": true,
+      "scanned": 14,
+      "matches": 0
+    },
+    {
+      "school": "ZAFU",
+      "ok": true,
+      "scanned": 10,
+      "matches": 0
+    },
+    {
+      "school": "LNU",
+      "ok": true,
+      "scanned": 10,
+      "matches": 0
+    },
+    {
+      "school": "HENU",
+      "ok": true,
+      "scanned": 10,
+      "matches": 0
+    },
+    {
+      "school": "NJAU",
+      "ok": true,
+      "scanned": 30,
+      "matches": 0
+    },
+    {
+      "school": "QFNU",
+      "ok": true,
+      "scanned": 16,
+      "matches": 0
+    },
+    {
+      "school": "SDAU",
+      "ok": true,
+      "scanned": 28,
+      "matches": 0
+    },
+    {
+      "school": "JLAU",
+      "ok": true,
+      "scanned": 10,
+      "matches": 0
+    },
+    {
+      "school": "YNNU",
+      "ok": true,
+      "scanned": 15,
+      "matches": 0
+    },
+    {
+      "school": "SWFU",
+      "ok": true,
+      "scanned": 15,
+      "matches": 0
+    },
+    {
+      "school": "FAFU",
+      "ok": true,
+      "scanned": 49,
+      "matches": 0
+    },
+    {
+      "school": "HAINNU",
+      "ok": true,
+      "scanned": 14,
+      "matches": 0
+    },
+    {
+      "school": "FJNU",
+      "ok": false,
+      "error": "page.evaluate: Error: no 思必得 list query returned results (after retry)"
     },
     {
       "school": "AIRCAS",
