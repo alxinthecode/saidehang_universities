@@ -1,0 +1,96 @@
+[
+ {
+  "key": "NJFU",
+  "title": "国有资产管理处、投招标中心",
+  "url": "https://gzc.njfu.edu.cn/",
+  "sfw": false,
+  "navs": [
+   {
+    "t": "采购公告",
+    "h": "http://gzc.njfu.edu.cn/zbcg/zbgg/index.html"
+   }
+  ],
+  "cands": []
+ },
+ {
+  "key": "LNNU",
+  "title": "采购与招标管理办公室",
+  "url": "https://cgzb.lnnu.edu.cn/",
+  "sfw": false,
+  "navs": [
+   {
+    "t": "招标信息",
+    "h": "https://cgzb.lnnu.edu.cn/"
+   },
+   {
+    "t": "招标及政府采购公告",
+    "h": "https://cgzb.lnnu.edu.cn/zbxx/zbjzfcggg.htm"
+   },
+   {
+    "t": "校内采购公告",
+    "h": "https://cgzb.lnnu.edu.cn/zbxx/xncggg.htm"
+   },
+   {
+    "t": "云平台采购公告",
+    "h": "https://cgzbgl.lnnu.edu.cn/home/cgNotice"
+   },
+   {
+    "t": "更多>",
+    "h": "https://cgzb.lnnu.edu.cn/tzgg.htm"
+   },
+   {
+    "t": "更多>",
+    "h": "https://cgzb.lnnu.edu.cn/ywzn.htm"
+   },
+   {
+    "t": "更多>",
+    "h": "https://cgzb.lnnu.edu.cn/wdxz.htm"
+   },
+   {
+    "t": "更多>",
+    "h": "https://cgzb.lnnu.edu.cn/zcfg.htm"
+   }
+  ],
+  "cands": []
+ },
+ {
+  "key": "LNNU",
+  "title": "资产管理处",
+  "url": "https://zcglc.lnnu.edu.cn/",
+  "sfw": false,
+  "navs": [
+   {
+    "t": "更多>>",
+    "h": "https://zcglc.lnnu.edu.cn/#"
+   }
+  ],
+  "cands": [
+   {
+    "u": "https://zcglc.lnnu.edu.cn/",
+    "label": "home",
+    "scanned": 8,
+    "oldest": "2026-07-12",
+    "n": 0,
+    "newest": [
+     "2026-09-20 辽宁师范大学2台报废变压器网络竞价整体转让项目",
+     "2026-09-18 辽宁省教育厅调研组来我校开展2026年实验室安全现场调研",
+     "2026-09-01 辽宁师范大学4处商业网点招租项目成交公示"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zcglc.lnnu.edu.cn/#",
+    "label": "更多>>",
+    "scanned": 8,
+    "oldest": "2026-07-12",
+    "n": 0,
+    "newest": [
+     "2026-09-20 辽宁师范大学2台报废变压器网络竞价整体转让项目",
+     "2026-09-18 辽宁省教育厅调研组来我校开展2026年实验室安全现场调研",
+     "2026-09-01 辽宁师范大学4处商业网点招租项目成交公示"
+    ],
+    "rows": []
+   }
+  ]
+ }
+]

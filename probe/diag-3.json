@@ -1,0 +1,67 @@
+[
+ {
+  "key": "HUNNU",
+  "dom": "hunnu.edu.cn",
+  "home": "https://www.hunnu.edu.cn/",
+  "links": [],
+  "hosts": []
+ },
+ {
+  "key": "HENU",
+  "dom": "henu.edu.cn",
+  "home": "https://www.henu.edu.cn/",
+  "links": [],
+  "hosts": []
+ },
+ {
+  "key": "NWNU",
+  "dom": "nwnu.edu.cn",
+  "home": "https://www.nwnu.edu.cn/",
+  "links": [],
+  "hosts": [
+   "cwc.nwnu.edu.cn",
+   "cg.nwnu.edu.cn",
+   "sbc.nwnu.edu.cn",
+   "gzc.nwnu.edu.cn"
+  ]
+ },
+ {
+  "key": "NJFU",
+  "dom": "njfu.edu.cn",
+  "home": "https://www.njfu.edu.cn/",
+  "links": [
+   "采购招标 https://gzc.njfu.edu.cn/"
+  ],
+  "hosts": [
+   "zbcgw.njfu.edu.cn",
+   "zbcg.njfu.edu.cn",
+   "gzc.njfu.edu.cn",
+   "zcgl.njfu.edu.cn",
+   "zbc.njfu.edu.cn"
+  ]
+ },
+ {
+  "key": "NEAU",
+  "dom": "neau.edu.cn",
+  "home": "https://www.neau.edu.cn/",
+  "links": [],
+  "hosts": [
+   "cgb.neau.edu.cn",
+   "cwc.neau.edu.cn",
+   "cg.neau.edu.cn",
+   "gzc.neau.edu.cn"
+  ]
+ },
+ {
+  "key": "LNNU",
+  "dom": "lnnu.edu.cn",
+  "home": "https://www.lnnu.edu.cn/",
+  "links": [
+   "招标采购 http://cgzb.lnnu.edu.cn/"
+  ],
+  "hosts": [
+   "cgzb.lnnu.edu.cn",
+   "zcglc.lnnu.edu.cn"
+  ]
+ }
+]
