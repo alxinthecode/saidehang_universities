@@ -1,0 +1,21 @@
+[
+ {
+  "key": "SYAU",
+  "dom": "syau.edu.cn",
+  "home": "https://www.syau.edu.cn/",
+  "links": [],
+  "hosts": [
+   "cwc.syau.edu.cn",
+   "gzc.syau.edu.cn"
+  ]
+ },
+ {
+  "key": "HZNU",
+  "dom": "hznu.edu.cn",
+  "home": "https://www.hznu.edu.cn/",
+  "links": [],
+  "hosts": [
+   "cgzx.hznu.edu.cn"
+  ]
+ }
+]

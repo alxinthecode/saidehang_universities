@@ -1,0 +1,23 @@
+[
+ {
+  "key": "SYAU",
+  "title": "资产与实验室管理处",
+  "url": "https://gzc.syau.edu.cn/",
+  "sfw": false,
+  "navs": [
+   {
+    "t": ">>更多",
+    "h": "https://gzc.syau.edu.cn/xwzx.htm"
+   },
+   {
+    "t": ">>更多",
+    "h": "https://gzc.syau.edu.cn/tzgg/tzgg.htm"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://gzc.syau.edu.cn/djgz.htm"
+   }
+  ],
+  "cands": []
+ }
+]
