@@ -1,0 +1,23 @@
+[
+ {
+  "key": "SICAU",
+  "dom": "sicau.edu.cn",
+  "home": "https://www.sicau.edu.cn/",
+  "links": [],
+  "hosts": [
+   "cwc.sicau.edu.cn"
+  ]
+ },
+ {
+  "key": "SWFU",
+  "dom": "swfu.edu.cn",
+  "home": "https://www.swfu.edu.cn/",
+  "links": [
+   "采购信息 https://www.swfu.edu.cn/xxgk1/cgxx.htm"
+  ],
+  "hosts": [
+   "zb.swfu.edu.cn",
+   "gzc.swfu.edu.cn"
+  ]
+ }
+]
