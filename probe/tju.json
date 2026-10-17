@@ -2,7 +2,7 @@
  "TJU": {
   "status": 200,
   "len": 673,
-  "head": "{\"id\":\"20MV7USQ6HAU8E2M\",\"idApp\":\"15BAE0524632000163E006BB63C16007_1.4dadcf723809ec3a0247862e1224721a\",\"orgId\":\"15BAE0524632000163E006BB63C16007\",\"orgName\":\"天津大学\",\"type\":\"ZCXQ\",\"subject\":\"天津大学天津纳米颗粒与纳米系统国际研究中心高精度一维电动平台采购项目快速磋商公告\",\"contentType\":\"PDF\",\"content\":\"\",\"sign\":\"天津大学招投标管理办公室\",\"timeBegin\":179",
+  "head": "{\"id\":\"20MV7USQ6HAU8E2M\",\"idApp\":\"15BAE0524632000163E006BB63C16007_1.4dadcf723809ec3a0247862e1224721a\",\"orgId\":\"15BAE0524632000163E006BB63C16007\",\"orgName\":\"天津大学\",\"type\":\"ZCXQ\",\"subject\":\"天津大学天津纳米颗粒与纳米系统国际研究中心高精度一维电动平台采购项目快速磋商公告\",\"contentType\":\"PDF\",\"content\":\"\",\"sign\":\"天津大学招投标管理办公室\",\"timeBegin\":1791939600000,\"timeEnd\":1792400400000,\"ended\":false,\"createTime\":1791966854537,\"creator\":\"管理员\",\"projectType\":\"TENDER\",\"projectTypeName\":\"快速磋商\",\"visit\":170,\"share\":0,\"available\":true,\"projectCode\":\"TDZC2026N0110\",\"projectName\":\"天津大学天津纳米颗粒与纳米系统国际研究中心高精度一维电动平台采购项目\",\"agent\":false,\"open\":true,\"recommend\":false,\"standard\":false,\"providerLimit\":false,\"question\":false,\"zkph\":false}",
   "hasImport": false
  }
 }
