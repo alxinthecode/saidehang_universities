@@ -3,7 +3,7 @@ name: Discover procurement sites
 on:
   push:
     branches: [discover]
-    paths: [probe/direct.mjs, probe/discover.mjs, probe/cedrat.mjs, .github/workflows/discover.yml]
+    paths: [probe/tju.mjs, probe/direct.mjs, probe/discover.mjs, probe/cedrat.mjs, .github/workflows/discover.yml]
 
 permissions:
   contents: write
@@ -15,7 +15,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        shard: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
+        shard: [0]
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
@@ -24,7 +24,7 @@ jobs:
       - run: |
           npm install --no-audit --no-fund
           npx playwright install --with-deps chromium
-      - run: timeout 40m node probe/discover.mjs || true
+      - run: timeout 40m node probe/tju.mjs || true
         env:
           SHARD: ${{ matrix.shard }}
           SHARDS: 12
@@ -32,6 +32,6 @@ jobs:
         run: |
           git config user.name "tender-scan-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add probe/discover-*.json probe/diag-*.json || exit 0
+          git add probe/tju.json || exit 0
           git commit -m "Discovery shard ${{ matrix.shard }}" || exit 0
           for i in 1 2 3 4 5; do git pull --rebase origin discover && git push origin HEAD:discover && break; sleep $((RANDOM % 10 + 3)); done
