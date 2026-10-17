@@ -4,12 +4,16 @@
   "n": 2,
   "rows": [
    {
+    "keys": "id,subject,beginTime,newType,tenderId,tenderNo,tenderName,type,shopType,shopTypeName,state,catalog,contentHtml,contentPdf,contentDoc,syncTime,syncId,creTime,creType,attach,deleteDate,states,processId,executionModel,isEnd,visited,orgType,orgTypeName,orgId,agentNo,endTime,address,tip,isOffLine,baseDepName,url,sourceType,tenderState,agentName,thirdNo,openTime,applyId,fullUrl,isContract,pdate,collectType,shopTypeCount,orgTypeCount,itemTotalSum,itemTotalRmb",
+    "long": {},
     "subject": "天津大学天津纳米颗粒与纳米系统国际研究中心高精度三维电动平台系统采购项目竞争性磋商公告",
     "begin": "2026-10-16 09:00:00",
     "end": "2026-10-23 17:00:00",
     "text": ""
    },
    {
+    "keys": "id,subject,beginTime,newType,tenderId,tenderNo,tenderName,type,shopType,shopTypeName,state,catalog,contentHtml,contentPdf,contentDoc,syncTime,syncId,creTime,creType,attach,deleteDate,states,processId,executionModel,isEnd,visited,orgType,orgTypeName,orgId,agentNo,endTime,address,tip,isOffLine,baseDepName,url,sourceType,tenderState,agentName,thirdNo,openTime,applyId,fullUrl,isContract,pdate,collectType,shopTypeCount,orgTypeCount,itemTotalSum,itemTotalRmb",
+    "long": {},
     "subject": "天津大学天津纳米颗粒与纳米系统国际研究中心高精度一维电动平台采购项目快速磋商公告",
     "begin": "2026-10-14 09:00:00",
     "end": "2026-10-19 17:00:00",
@@ -22,18 +26,24 @@
   "n": 3,
   "rows": [
    {
+    "keys": "id,subject,beginTime,newType,tenderId,tenderNo,tenderName,type,shopType,shopTypeName,state,catalog,contentHtml,contentPdf,contentDoc,syncTime,syncId,creTime,creType,attach,deleteDate,states,processId,executionModel,isEnd,visited,orgType,orgTypeName,orgId,agentNo,endTime,address,tip,isOffLine,baseDepName,url,sourceType,tenderState,agentName,thirdNo,openTime,applyId,fullUrl,isContract,pdate,collectType,shopTypeCount,orgTypeCount,itemTotalSum,itemTotalRmb",
+    "long": {},
     "subject": "天津大学精密仪器与光电子工程学院组合式精密电控位移台采购项目公开招标公告",
     "begin": "2026-04-30 09:00:00",
     "end": "2026-05-11 17:00:00",
     "text": ""
    },
    {
+    "keys": "id,subject,beginTime,newType,tenderId,tenderNo,tenderName,type,shopType,shopTypeName,state,catalog,contentHtml,contentPdf,contentDoc,syncTime,syncId,creTime,creType,attach,deleteDate,states,processId,executionModel,isEnd,visited,orgType,orgTypeName,orgId,agentNo,endTime,address,tip,isOffLine,baseDepName,url,sourceType,tenderState,agentName,thirdNo,openTime,applyId,fullUrl,isContract,pdate,collectType,shopTypeCount,orgTypeCount,itemTotalSum,itemTotalRmb",
+    "long": {},
     "subject": "天津大学精密仪器与光电子工程学院组合式精密电控位移台采购项目更正公告",
     "begin": "2025-12-26 16:47:08",
     "end": null,
     "text": ""
    },
    {
+    "keys": "id,subject,beginTime,newType,tenderId,tenderNo,tenderName,type,shopType,shopTypeName,state,catalog,contentHtml,contentPdf,contentDoc,syncTime,syncId,creTime,creType,attach,deleteDate,states,processId,executionModel,isEnd,visited,orgType,orgTypeName,orgId,agentNo,endTime,address,tip,isOffLine,baseDepName,url,sourceType,tenderState,agentName,thirdNo,openTime,applyId,fullUrl,isContract,pdate,collectType,shopTypeCount,orgTypeCount,itemTotalSum,itemTotalRmb",
+    "long": {},
     "subject": "天津大学精密仪器与光电子工程学院组合式精密电控位移台采购项目公开招标公告",
     "begin": "2025-12-18 18:20:04",
     "end": "2025-12-25 17:30:00",
