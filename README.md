@@ -154,6 +154,14 @@ The live version on claude.ai keeps the data in a shared database and lets you s
 | Fujian A&F U 福建农林 | zb.fafu.edu.cn | List pages (titles only) |
 | Hainan Normal U 海南师范 | gzc.hainnu.edu.cn | List pages (titles only) |
 
+| Hong Kong university | Tender list | How it's read |
+|---|---|---|
+| HKU 香港大学 | Supplier Portal "Negotiation Abstracts" (www.feo.hku.hk/finance/open-tender) | Table reader (English) |
+| HKBU 香港浸会大学 | fohome.hkbu.edu.hk tender notice | Table reader (English) |
+| EdUHK 香港教育大学 | www.eduhk.hk/tender_notice | Table reader (English) |
+
+Hong Kong is a separate customs territory, so the mainland domestic-product rules (国办发〔2025〕34号) don't apply and imported products can bid directly. Not readable from outside: PolyU (captcha), CUHK (times out), CityU (login), HKMU (bot check); HKUST has no public tender page.
+
 | Research institute | Notice board | How it's read |
 |---|---|---|
 | CAS Aerospace Information Research Inst. 中科院空天院 | www.aircas.ac.cn | List pages (titles only) |

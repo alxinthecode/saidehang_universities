@@ -23,10 +23,10 @@
   // Motorised stages (电动平台/电控位移台) are weak leads: not piezo, but the same labs and a possible
   // domestic-made line for 赛得航. Not matched on purpose: 隔振台/光学平台 (passive), 振镜 (galvo
   // scanners), 六自由度/并联机构 (large platforms), plain 位移传感器.
-  const STRONG = ['快反镜','快速反射镜','快速控制反射镜','快速偏转镜','快速倾斜镜','精跟踪镜','精瞄镜','压电促动器','压电陶瓷促动器','压电陶瓷驱动器','压电作动器','压电致动器','压电执行器','压电陶瓷执行器','压电叠堆','压电陶瓷堆','叠层压电','压电堆栈','压电位移台','纳米位移台','纳米定位台','压电扫描台','压电平台','压电纳米','压电偏摆台','压电倾斜台','压电偏转镜','tip-tilt','tip tilt','压电快门','压电电机','压电马达','压电直线电机','压电驱动电源','压电陶瓷驱动电源','压电放大器','压电功率放大器','压电控制器','压电陶瓷控制器','压电驱动器','压电驱动模块','电磁作动器','磁驱作动器','动铁作动器','惯性作动器','主动减振作动器','电涡流位移传感器','电涡流传感器','fast steering','fsm'];
-  const WEAK = ['压电','piezo','纳米位移','纳米定位','微位移','位移台','精密定位','倾斜镜','摆镜','偏摆台','指向镜','指向机构','促动器','致动器','作动器','音圈','磁致伸缩','激振器','主动隔振','主动减振','自适应光学','变形镜','稳像','光束稳定','光束指向','高压放大器','电容位移传感器','电动平台','电动位移台','电控位移台','电动平移台','精密运动平台'];
+  const STRONG = ['快反镜','快速反射镜','快速控制反射镜','快速偏转镜','快速倾斜镜','精跟踪镜','精瞄镜','压电促动器','压电陶瓷促动器','压电陶瓷驱动器','压电作动器','压电致动器','压电执行器','压电陶瓷执行器','压电叠堆','压电陶瓷堆','叠层压电','压电堆栈','压电位移台','纳米位移台','纳米定位台','压电扫描台','压电平台','压电纳米','压电偏摆台','压电倾斜台','压电偏转镜','tip-tilt','tip tilt','压电快门','压电电机','压电马达','压电直线电机','压电驱动电源','压电陶瓷驱动电源','压电放大器','压电功率放大器','压电控制器','压电陶瓷控制器','压电驱动器','压电驱动模块','电磁作动器','磁驱作动器','动铁作动器','惯性作动器','主动减振作动器','电涡流位移传感器','电涡流传感器','fast steering','fsm','piezo actuator','piezoelectric actuator','piezo stack','piezo stage','piezo motor','piezo controller','piezo driver','piezo amplifier','nanopositioning','nano-positioning','nanopositioner','steering mirror','tip/tilt','piezo shutter','eddy current sensor','eddy-current sensor'];
+  const WEAK = ['压电','piezo','纳米位移','纳米定位','微位移','位移台','精密定位','倾斜镜','摆镜','偏摆台','指向镜','指向机构','促动器','致动器','作动器','音圈','磁致伸缩','激振器','主动隔振','主动减振','自适应光学','变形镜','稳像','光束稳定','光束指向','高压放大器','电容位移传感器','电动平台','电动位移台','电控位移台','电动平移台','精密运动平台','actuator','positioning stage','linear stage','translation stage','motorized stage','motorised stage','micropositioning','adaptive optics','deformable mirror','active vibration','image stabili','beam stabili','beam steering','vibration exciter','shaker','voice coil'];
   // Award/result/contract notices are not opportunities.
-  const RESULT = /(中标|成交|结果|废标|流标|终止|合同|验收)(公告|公示)|中标候选人|结果公示|采购意向/;
+  const RESULT = /(中标|成交|结果|废标|流标|终止|合同|验收)(公告|公示)|中标候选人|结果公示|采购意向|\bawards?\b|\bawarded\b|tender results?/i;
 
   // 压电 also appears inside unrelated words: 高压电缆, 电压电流, 槽压电化学, 稳压电源,
   // 偏压电源, 调压/升压/降压电路, 气压/负压/正压/真空压… — neutralise those before matching.
@@ -39,6 +39,13 @@
   const budgetOf = txt => { const m = txt.match(/预算(?:金额)?[^0-9]{0,12}([0-9][0-9.,]*)\s*(万元|元)/); if (m) return m[1].replace(/(\.\d*?)0+$/, '$1').replace(/\.$/, '') + m[2];
     const y = txt.match(/预算[^0-9]{0,6}[￥¥]\s*([0-9][0-9,]*(?:\.\d+)?)/); return y ? y[1] + '元' : ''; };
   const DATE = /(20\d{2})\s*[-年./]+\s*(\d{1,2})\s*[-月./]+\s*(\d{1,2})/;
+  const MON = { jan: 1, feb: 2, mar: 3, apr: 4, may: 5, jun: 6, jul: 7, aug: 8, sep: 9, oct: 10, nov: 11, dec: 12 };
+  const EN_DATE = /(\d{1,2})[\s-]+(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)[a-z]*\.?[\s,-]+(\d{4}|\d{2})\b/ig;
+  // Every English-style date in a string (08-Oct-2026, 2 Oct 26, 22 October 2026), as YYYY-MM-DD.
+  const enDates = s => [...String(s || '').matchAll(EN_DATE)].map(m => {
+    const y = m[3].length === 2 ? '20' + m[3] : m[3];
+    return `${y}-${String(MON[m[2].toLowerCase()]).padStart(2, '0')}-${m[1].padStart(2, '0')}`;
+  });
   const toYmd = s => { const m = String(s || '').match(DATE); return m ? `${m[1]}-${m[2].padStart(2, '0')}-${m[3].padStart(2, '0')}` : ''; };
   const cleanTitle = s => (s || '').replace(/^[\s·•▪■●\-]+/, '').replace(/\s+/g, ' ').trim();
   const idPart = s => String(s || '').replace(/[^A-Za-z0-9_\-.]/g, '');
@@ -175,6 +182,27 @@
 
   // ---------- custom readers ----------
   const CUSTOM = {
+    // Tender tables on the rendered page (Hong Kong universities): one row per tender, English dates.
+    async table() {
+      const today = new Date(Date.now() + 8 * 3600e3).toISOString().slice(0, 10);
+      const out = [];
+      document.querySelectorAll('tr').forEach(tr => {
+        const cells = [...tr.querySelectorAll('td')].map(td => td.innerText.replace(/\s+/g, ' ').trim()).filter(Boolean);
+        if (cells.length < 2) return;
+        const rowText = cells.join(' | ');
+        const dates = enDates(rowText).concat(toYmd(rowText) ? [toYmd(rowText)] : []);
+        if (!dates.length) return;
+        const title = cells.filter(c => !enDates(c).length && !toYmd(c)).sort((a, b) => b.length - a.length)[0] || '';
+        if (title.length < 10 || /^tender (no|ref)/i.test(title)) return;
+        const deadline = dates[dates.length - 1];
+        if (deadline < today || /\b(closed|cancell?ed)\b/i.test(rowText)) return;
+        const no = (cells.find(c => /^[A-Z0-9][A-Z0-9/\-_,.]{4,30}$/.test(c)) || '');
+        const a = tr.querySelector('a[href]');
+        out.push({ title, text: rowText, published: dates.length > 1 ? dates[0] : '', deadline, method: '', no,
+          url: a ? new URL(a.getAttribute('href'), location.href).href : location.href });
+      });
+      return out;
+    },
     // Xi'an Jiaotong: cgb.xjtu.edu.cn serves each column as JSON.
     async xjtu() {
       const out = [];

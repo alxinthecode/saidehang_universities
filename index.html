@@ -156,9 +156,9 @@ const T={
   fOpen:'仅未截止',fStrong:'仅强相关',fWeak:'仅弱相关',fHide:'隐藏「不适合」',q:'搜索标题、关键词、编号',
   srcH:'来源平台与覆盖范围',thSchool:'单位',thPlat:'平台',thScan:'本次扫描',thBack:'覆盖到',thNote:'说明',
   ruleH:'匹配规则',kwStrongH:'强相关：标讯直接写了 Cedrat 在卖的产品',kwWeakH:'弱相关：线索（整机里含压电部件、系统级用语），需要人工判断',
-  ruleNote:'在标题和公告正文中匹配（部分学校只提供标题，见上表）。中标、成交、合同等结果公告不计入。「高压电缆」「电压电流」这类词已排除；电动/电控位移台不是压电产品，作为弱相关线索保留；被动隔振台、振镜、六自由度平台不计入。进口一栏读取公告里的"是否允许进口产品"表述；Cedrat 产品为进口，标注「不接受进口」的项目需通过国内代理或放弃。研究所的公告取自其「通知公告」栏目；研究所 10 万元以下的采购通常由课题组直接向供应商询价、不公开发布，所以这里只能看到较大金额的项目。',
+  ruleNote:'在标题和公告正文中匹配（部分学校只提供标题，见上表）。中标、成交、合同等结果公告不计入。「高压电缆」「电压电流」这类词已排除；电动/电控位移台不是压电产品，作为弱相关线索保留；被动隔振台、振镜、六自由度平台不计入。进口一栏读取公告里的"是否允许进口产品"表述；Cedrat 产品为进口，标注「不接受进口」的项目需通过国内代理或放弃。香港高校不适用内地的本国产品价格扣除政策，进口产品可以直接投标。研究所的公告取自其「通知公告」栏目；研究所 10 万元以下的采购通常由课题组直接向供应商询价、不公开发布，所以这里只能看到较大金额的项目。',
   impYes:'允许进口',impNo:'不接受进口',impUnk:'进口未注明',budget:'预算 ',note:'备注：',published:'发布',closed:'已截止',today:'今天',days:n=>n+' 天',due:'截止 ',
-  allSchools:n=>'全部单位（'+n+'）',grpUni:'高校',grpInst:'研究所',refresh:'刷新扫描',refreshHint:'在 GitHub 打开扫描任务，点击「Run workflow」。约 5 分钟后刷新本页即可看到新数据。',lastFail:'上次扫描失败：',lastRun:'上次扫描 ',bj:'（北京时间）',notYet:'尚未扫描',items:' 条',
+  allSchools:n=>'全部单位（'+n+'）',grpUni:'内地高校',grpHK:'香港高校',grpInst:'研究所',refresh:'刷新扫描',refreshHint:'在 GitHub 打开扫描任务，点击「Run workflow」。约 5 分钟后刷新本页即可看到新数据。',lastFail:'上次扫描失败：',lastRun:'上次扫描 ',bj:'（北京时间）',notYet:'尚未扫描',items:' 条',
   loading:'正在读取公告…',none:'还没有公告。每天的扫描会把匹配到的公告写到这里。',noMatch:'没有符合当前筛选的公告。试试取消「仅未截止」或学校筛选。',
   noDb:'此视图无法读取公告数据。请在 claude.ai 登录后打开。',readErr:c=>'读取失败（'+c+'），请刷新页面。',statusLabel:'跟进状态',
   status:{new:'新',watch:'关注',bid:'准备投标',skip:'不适合'}},
@@ -166,9 +166,9 @@ const T={
   fOpen:'Open only',fStrong:'Strong only',fWeak:'Weak only',fHide:'Hide “Not a fit”',q:'Search title, keyword, tender no.',
   srcH:'Sources and coverage',thSchool:'Source',thPlat:'Platform',thScan:'Last scan',thBack:'Covers back to',thNote:'Notes',
   ruleH:'Matching rules',kwStrongH:'Strong: the tender names a product Cedrat sells',kwWeakH:'Weak: a lead only (instrument with piezo parts, system-level term), check by hand',
-  ruleNote:'Terms are matched in the title and, where published, the full announcement text (some universities publish titles only; see the table above). Award, result and contract notices are skipped. False hits such as 高压电缆 (high-voltage cable) are excluded, motorised stages are kept as weak leads (not piezo), and passive isolation tables, galvo scanners and 6-DOF platforms are not counted. The import column reads the announcement’s statement on imported products. Cedrat products are imported, so tenders marked “Imports not accepted” need a domestic partner or should be skipped. Research-institute items come from each institute’s notice board; institutes usually buy items under ¥100k directly from suppliers without a public notice, so only larger purchases show up here.',
+  ruleNote:'Terms are matched in the title and, where published, the full announcement text (some universities publish titles only; see the table above). Award, result and contract notices are skipped. False hits such as 高压电缆 (high-voltage cable) are excluded, motorised stages are kept as weak leads (not piezo), and passive isolation tables, galvo scanners and 6-DOF platforms are not counted. The import column reads the announcement’s statement on imported products. Cedrat products are imported, so tenders marked “Imports not accepted” need a domestic partner or should be skipped. Hong Kong universities are not covered by the mainland domestic-product rules, so imported products can bid directly. Research-institute items come from each institute’s notice board; institutes usually buy items under ¥100k directly from suppliers without a public notice, so only larger purchases show up here.',
   impYes:'Imports allowed',impNo:'Imports not accepted',impUnk:'Imports not stated',budget:'Budget ',note:'Note: ',published:'published',closed:'closed',today:'Today',days:n=>n+(n===1?' day':' days'),due:'Due ',
-  allSchools:n=>'All sources ('+n+')',grpUni:'Universities',grpInst:'Research institutes',refresh:'Refresh scan',refreshHint:'Opens the scan job on GitHub: click “Run workflow”. Reload this page in about 5 minutes to see new data.',lastFail:'Last scan failed: ',lastRun:'Last scan ',bj:' (Beijing time)',notYet:'Not scanned yet',items:' items',
+  allSchools:n=>'All sources ('+n+')',grpUni:'Mainland universities',grpHK:'Hong Kong universities',grpInst:'Research institutes',refresh:'Refresh scan',refreshHint:'Opens the scan job on GitHub: click “Run workflow”. Reload this page in about 5 minutes to see new data.',lastFail:'Last scan failed: ',lastRun:'Last scan ',bj:' (Beijing time)',notYet:'Not scanned yet',items:' items',
   loading:'Loading tenders…',none:'No tenders yet. Each scan adds matching announcements here.',noMatch:'No tenders match these filters. Try clearing “Open only” or the university filter.',
   noDb:'This view can’t read the tender data. Sign in to claude.ai and open the page again.',readErr:c=>'Couldn’t load tenders ('+c+'). Refresh the page.',statusLabel:'Follow-up status',
   status:{new:'New',watch:'Watching',bid:'Preparing bid',skip:'Not a fit'}}
@@ -204,7 +204,7 @@ function fillSchools(){
   const opt=s=>'<option value="'+esc(s.k)+'">'+esc(name(s))+'</option>';
   const grp=(lab,arr)=>arr.length?'<optgroup label="'+esc(lab)+'">'+arr.map(opt).join('')+'</optgroup>':'';
   sc.innerHTML='<option value="">'+esc(t().allSchools(SCHOOLS.length))+'</option>'+
-    grp(t().grpUni,list.filter(s=>s.org!=='institute'))+grp(t().grpInst,list.filter(s=>s.org==='institute'));
+    grp(t().grpUni,list.filter(s=>s.org==='uni'))+grp(t().grpHK,list.filter(s=>s.org==='hk'))+grp(t().grpInst,list.filter(s=>s.org==='institute'));
   sc.setAttribute('aria-label',t().thSchool);
   if(state.school&&!SCHOOLS.some(s=>s.k===state.school))state.school='';
   sc.value=state.school;

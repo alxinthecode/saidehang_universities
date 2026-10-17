@@ -1621,6 +1621,30 @@
   ]
  },
  {
+  "key": "HKU",
+  "zh": "香港大学",
+  "en": "HKU",
+  "kind": "table",
+  "org": "hk",
+  "url": "https://www.feo.hku.hk/finance/open-tender"
+ },
+ {
+  "key": "HKBU",
+  "zh": "香港浸会大学",
+  "en": "HKBU",
+  "kind": "table",
+  "org": "hk",
+  "url": "https://fohome.hkbu.edu.hk/for-suppliers/information/tender-notice.html"
+ },
+ {
+  "key": "EDUHK",
+  "zh": "香港教育大学",
+  "en": "EdUHK",
+  "kind": "table",
+  "org": "hk",
+  "url": "https://www.eduhk.hk/tender_notice/index.php"
+ },
+ {
   "key": "AIRCAS",
   "zh": "中科院空天院",
   "en": "CAS Aerospace Information Research Inst.",
