@@ -1,0 +1,264 @@
+[
+ {
+  "key": "SDAU",
+  "title": "通知公告网",
+  "url": "https://tzgg.sdau.edu.cn/",
+  "sfw": false,
+  "navs": [
+   {
+    "t": "招标公告",
+    "h": "https://tzgg.sdau.edu.cn/7898/list.htm"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://tzgg.sdau.edu.cn/_t552/xxswh/list.htm"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://tzgg.sdau.edu.cn/_t552/7899/list.htm"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://tzgg.sdau.edu.cn/_t552/7894/list.htm"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://tzgg.sdau.edu.cn/_t552/7898/list.htm"
+   }
+  ],
+  "cands": [
+   {
+    "u": "https://tzgg.sdau.edu.cn/7898/list.htm",
+    "label": "招标公告",
+    "scanned": 14,
+    "oldest": "2026-08-13",
+    "n": 0,
+    "newest": [
+     "2026-10-16 山东农业大学汶阳田科研与示范基地条件提升项目结果公告",
+     "2026-10-16 山东农业大学2026年高层次人才团队动医学院科研仪器采购",
+     "2026-10-15 山东农业大学2026年岱宗校区食堂综合体饮品商铺租赁项目"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://tzgg.sdau.edu.cn/_t552/xxswh/list.htm",
+    "label": "更多>>",
+    "scanned": 14,
+    "oldest": "2026-09-21",
+    "n": 0,
+    "newest": [
+     "2026-10-13 关于举办第二届肉牛全产业链高质量发展会议的通知",
+     "2026-10-12 “笔耕百廿”教材建设论坛暨 “瞻鲁大讲堂”校庆特别专场",
+     "2026-10-12 “强农报国”系列学术报告——迎接建校120周年重点活动"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://tzgg.sdau.edu.cn/_t552/7899/list.htm",
+    "label": "更多>>",
+    "scanned": 3,
+    "oldest": "2020-11-16",
+    "n": 0,
+    "newest": [
+     "2021-05-18 科技部关于发布国家重点研发计划“农业生物重要性状形成与环",
+     "2021-04-12 【公示】我校2018年山东省科学技术奖励申报项目",
+     "2020-11-16 关于做好第十届优秀科技工作者评选工作的通知"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://tzgg.sdau.edu.cn/_t552/7894/list.htm",
+    "label": "更多>>",
+    "scanned": 14,
+    "oldest": "2026-02-23",
+    "n": 0,
+    "newest": [
+     "2026-09-29 关于召开2026国际产学研用合作会议（山东）分会场生物技",
+     "2026-09-16 [网信中心]关于山东农业大学超算平台成果奖励的通知",
+     "2026-08-14 关于召开2026国际盐碱地农业大会（ICSA -2026"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://tzgg.sdau.edu.cn/_t552/7898/list.htm",
+    "label": "更多>>",
+    "scanned": 14,
+    "oldest": "2026-08-13",
+    "n": 0,
+    "newest": [
+     "2026-10-16 山东农业大学汶阳田科研与示范基地条件提升项目结果公告",
+     "2026-10-16 山东农业大学2026年高层次人才团队动医学院科研仪器采购",
+     "2026-10-15 山东农业大学2026年岱宗校区食堂综合体饮品商铺租赁项目"
+    ],
+    "rows": []
+   }
+  ]
+ },
+ {
+  "key": "SDAU",
+  "title": "资产管理处",
+  "url": "https://zcc.sdau.edu.cn/",
+  "sfw": false,
+  "navs": [
+   {
+    "t": "采购信息",
+    "h": "https://zcc.sdau.edu.cn/zbxx/list.htm"
+   },
+   {
+    "t": "采购公告",
+    "h": "https://zcc.sdau.edu.cn/932/list.htm"
+   },
+   {
+    "t": "竞价采购平台",
+    "h": "https://pu.easyjcx.com/edu/10434#/login"
+   },
+   {
+    "t": "网上竞价采购",
+    "h": "https://zcc.sdau.edu.cn/jjcg/list.htm"
+   }
+  ],
+  "cands": [
+   {
+    "u": "https://zcc.sdau.edu.cn/",
+    "label": "home",
+    "scanned": 43,
+    "oldest": "2021-04-27",
+    "n": 0,
+    "newest": [
+     "2026-08-26 我校首个“跨省远程异地+评定分离”项目顺利实施",
+     "2025-10-23 学校召开2026年政府采购预算编报工作部署会",
+     "2024-03-27 喀什大学资产管理处来我校调研资产管理工作"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zcc.sdau.edu.cn/zbxx/list.htm",
+    "label": "采购信息",
+    "scanned": 14,
+    "oldest": "2026-07-10",
+    "n": 0,
+    "newest": [
+     "2026-10-16 山东农业大学2026年生科学院发育分子生物学团队科研设备",
+     "2026-10-16 山东农业大学2026年生科学院发育分子生物学团队科研设备",
+     "2026-10-13 山东农业大学2026年植物发育分子生物学团队科研设备采购"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://zcc.sdau.edu.cn/932/list.htm",
+    "label": "采购公告",
+    "scanned": 14,
+    "oldest": "2026-08-13",
+    "n": 0,
+    "newest": [
+     "2026-10-16 山东农业大学汶阳田科研与示范基地条件提升项目结果公告",
+     "2026-10-16 山东农业大学2026年高层次人才团队动医学院科研仪器采购",
+     "2026-10-15 山东农业大学2026年岱宗校区食堂综合体饮品商铺租赁项目"
+    ],
+    "rows": []
+   }
+  ]
+ },
+ {
+  "key": "SDAU",
+  "title": "登录",
+  "url": "http://cggl.sdau.edu.cn/backend.php/index/login",
+  "sfw": false,
+  "navs": [],
+  "cands": []
+ },
+ {
+  "key": "SDAU",
+  "title": "山东农业大学竞价采购网",
+  "url": "https://caigou.sdau.edu.cn/",
+  "sfw": false,
+  "navs": [
+   {
+    "t": "竞价信息",
+    "h": "http://202.194.131.143/school/listAction.do?method=listBidForm"
+   },
+   {
+    "t": "竞价结果",
+    "h": "http://202.194.131.143/school/listAction.do?method=listIsItWelcome"
+   },
+   {
+    "t": "我在哪里可以找到竞价信息",
+    "h": "https://caigou.sdau.edu.cn/2014/0505/c5770a56152/page.htm"
+   },
+   {
+    "t": "竞价结束后如何选择经销商",
+    "h": "https://caigou.sdau.edu.cn/2014/0506/c5770a56168/page.htm"
+   }
+  ],
+  "cands": []
+ },
+ {
+  "key": "IMNU",
+  "title": "国有资产管理处",
+  "url": "https://gzc.imnu.edu.cn/",
+  "sfw": false,
+  "navs": [
+   {
+    "t": "更多>>",
+    "h": "https://gzc.imnu.edu.cn/gzdt.htm"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://gzc.imnu.edu.cn/zlxz.htm"
+   },
+   {
+    "t": "【采购】询价方式采购流程",
+    "h": "https://gzc.imnu.edu.cn/info/1009/1093.htm"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://gzc.imnu.edu.cn/gzzd.htm"
+   },
+   {
+    "t": "更多>>",
+    "h": "https://gzc.imnu.edu.cn/glpt.htm"
+   }
+  ],
+  "cands": [
+   {
+    "u": "https://gzc.imnu.edu.cn/gzdt.htm",
+    "label": "更多>>",
+    "scanned": 15,
+    "oldest": "2023-06-09",
+    "n": 0,
+    "newest": [
+     "2026-05-29 【采购工作】中国教育和科研计算机网（CERNET） 接入",
+     "2026-05-09 【党建活动】我处同资产管理服务中心联合开展主题党日活动",
+     "2026-04-03 【采购工作】我处参加招标采购工作高质量发展座谈会"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://gzc.imnu.edu.cn/zlxz.htm",
+    "label": "更多>>",
+    "scanned": 15,
+    "oldest": "2020-04-07",
+    "n": 0,
+    "newest": [
+     "2026-04-20 【采购】采购需求审查表、采购需求调查表",
+     "2026-04-13 【资产】资产处置鉴定意见书",
+     "2024-03-15 【采购】货物、服务采购需求及参数一览表"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://gzc.imnu.edu.cn/gzzd.htm",
+    "label": "更多>>",
+    "scanned": 15,
+    "oldest": "2024-11-29",
+    "n": 0,
+    "newest": [
+     "2026-04-03 内蒙古自治区财政厅内蒙古自治区工业和信息化厅关于进一步落",
+     "2026-01-28 内蒙古自治区财政厅 自治区公共资源交易中心关于印发《内蒙",
+     "2026-01-22 关于推动解决政府采购异常低价问题的通知"
+    ],
+    "rows": []
+   }
+  ]
+ }
+]

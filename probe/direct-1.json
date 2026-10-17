@@ -1,0 +1,34 @@
+[
+ {
+  "key": "NWAFU",
+  "try": "cg.nwafu.edu.cn",
+  "ok": true,
+  "title": "Not allowed to visit this website - Northwest A&F University",
+  "url": "https://cg.nwafu.edu.cn/",
+  "cands": []
+ },
+ {
+  "key": "SICNU",
+  "try": "zczx.sicnu.edu.cn",
+  "ok": true,
+  "title": "招标采购信息网",
+  "url": "https://zczx.sicnu.edu.cn/",
+  "cands": []
+ },
+ {
+  "key": "SCAU",
+  "try": "zbb.scau.edu.cn",
+  "ok": true,
+  "title": "403 Forbidden",
+  "url": "https://zbb.scau.edu.cn/",
+  "cands": []
+ },
+ {
+  "key": "SCAU",
+  "try": "cgzx.scau.edu.cn",
+  "ok": true,
+  "title": "403 Forbidden",
+  "url": "https://cgzx.scau.edu.cn/",
+  "cands": []
+ }
+]

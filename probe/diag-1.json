@@ -1,0 +1,28 @@
+[
+ {
+  "key": "SDAU",
+  "dom": "sdau.edu.cn",
+  "home": "https://www.sdau.edu.cn/",
+  "links": [
+   "招标采购系统 https://pu.easyjcx.com/edu/10434#/login"
+  ],
+  "hosts": [
+   "tzgg.sdau.edu.cn",
+   "cwc.sdau.edu.cn",
+   "zcc.sdau.edu.cn",
+   "cggl.sdau.edu.cn",
+   "caigou.sdau.edu.cn"
+  ]
+ },
+ {
+  "key": "IMNU",
+  "dom": "imnu.edu.cn",
+  "home": "https://www.imnu.edu.cn/",
+  "links": [],
+  "hosts": [
+   "cwc.imnu.edu.cn",
+   "gzc.imnu.edu.cn",
+   "zcgl.imnu.edu.cn"
+  ]
+ }
+]
