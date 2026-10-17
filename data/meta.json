@@ -21,7 +21,7 @@
     "THU": {
       "note": "按正文全文匹配；网上比选只有标题",
       "noteEn": "Full announcement text matched; online-comparison items are title-only",
-      "oldest": "2026-10-12",
+      "oldest": "2026-10-13",
       "scanned": 100
     },
     "TJU": {
@@ -368,7 +368,7 @@
     },
     "SIT": {
       "scanned": 10,
-      "oldest": "2026-10-14"
+      "oldest": "2026-10-15"
     },
     "STU": {
       "scanned": 32,
@@ -400,7 +400,7 @@
     },
     "YCIT": {
       "scanned": 10,
-      "oldest": "2026-07-09"
+      "oldest": "2026-07-15"
     },
     "YTU": {
       "scanned": 10,
@@ -473,7 +473,7 @@
       "url": "https://cgzx.hit.edu.cn/sfw_cms/e?page=cms.news2"
     }
   ],
-  "lastRun": "2026-10-17T07:29",
+  "lastRun": "2026-10-17T13:00",
   "lastResults": [
     {
       "school": "THU",
@@ -644,8 +644,9 @@
     },
     {
       "school": "SZTU",
-      "ok": false,
-      "error": "page.goto: Timeout 60000ms exceeded. (after retry)"
+      "ok": true,
+      "scanned": 100,
+      "matches": 4
     },
     {
       "school": "AHU",
@@ -1128,8 +1129,9 @@
     },
     {
       "school": "QIBEBT",
-      "ok": false,
-      "error": "page.goto: Timeout 60000ms exceeded. (after retry)"
+      "ok": true,
+      "scanned": 24,
+      "matches": 0
     }
   ]
 }
