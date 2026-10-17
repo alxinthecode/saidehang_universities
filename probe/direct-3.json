@@ -1,0 +1,79 @@
+[
+ {
+  "key": "NEAU",
+  "try": "cgb.neau.edu.cn",
+  "ok": true,
+  "title": "东北农业大学农业农村部鸡遗传育种重点实验室",
+  "url": "https://cgb.neau.edu.cn/",
+  "cands": [
+   {
+    "u": "https://cgb.neau.edu.cn/",
+    "label": "home",
+    "scanned": 13,
+    "oldest": "2022-01-19",
+    "n": 0,
+    "newest": [
+     "2026-09-10 农业农村部鸡遗传育种重点实验室举办“...",
+     "2026-09-08 新羽初展·智创未来——农业农村部鸡遗传...",
+     "2026-08-17 农业农村部多家重点实验室专家赴福建光..."
+    ]
+   },
+   {
+    "u": "https://cgb.neau.edu.cn/xwdt.htm",
+    "label": "更多>>",
+    "scanned": 16,
+    "oldest": "2025-10-09",
+    "n": 0,
+    "newest": [
+     "2026-09-10 农业农村部鸡遗传育种重点实验室举办“杨山先生诞辰100周",
+     "2026-09-08 新羽初展·智创未来——农业农村部鸡遗传育种重点实验室举行",
+     "2026-08-17 农业农村部多家重点实验室专家赴福建光泽开展国家肉鸡产业技"
+    ]
+   },
+   {
+    "u": "https://cgb.neau.edu.cn/tzgg.htm",
+    "label": "更多>>",
+    "scanned": 9,
+    "oldest": "2020-12-02",
+    "n": 0,
+    "newest": [
+     "2025-05-26 关于召开2025年度春季研究生论文答辩会的通知",
+     "2025-01-05 关于召开我重点实验室2024年度工作总结汇报会议的通知",
+     "2024-12-12 关于举办第五届“杨山奖学金”颁奖大会暨学术研讨会的通知"
+    ]
+   }
+  ]
+ },
+ {
+  "key": "NEAU",
+  "try": "cg.neau.edu.cn",
+  "ok": false,
+  "err": "page.goto: Timeout 25000ms exceeded."
+ },
+ {
+  "key": "CQNU",
+  "try": "cscz.cqnu.edu.cn",
+  "ok": true,
+  "title": "",
+  "url": "https://cscz.cqnu.edu.cn/",
+  "cands": []
+ },
+ {
+  "key": "ZZU",
+  "try": "zbb.zzu.edu.cn",
+  "ok": false,
+  "err": "page.goto: net::ERR_NAME_NOT_RESOLVED at http://zbb.zzu.edu.cn/"
+ },
+ {
+  "key": "ZZU",
+  "try": "cgzx.zzu.edu.cn",
+  "ok": false,
+  "err": "page.goto: net::ERR_NAME_NOT_RESOLVED at http://cgzx.zzu.edu.cn/"
+ },
+ {
+  "key": "ZZU",
+  "try": "zbcg.zzu.edu.cn",
+  "ok": false,
+  "err": "page.goto: net::ERR_NAME_NOT_RESOLVED at http://zbcg.zzu.edu.cn/"
+ }
+]

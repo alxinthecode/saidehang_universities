@@ -1,0 +1,20 @@
+[
+ {
+  "key": "HUNAU",
+  "dom": "hunau.edu.cn",
+  "home": null,
+  "links": [],
+  "hosts": []
+ },
+ {
+  "key": "YNNU",
+  "dom": "ynnu.edu.cn",
+  "home": "https://www.ynnu.edu.cn/",
+  "links": [
+   "招标采购 https://zczx.ynnu.edu.cn/"
+  ],
+  "hosts": [
+   "zczx.ynnu.edu.cn"
+  ]
+ }
+]
