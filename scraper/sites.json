@@ -1363,13 +1363,6 @@
   "url": "https://zbb.nefu.edu.cn/sfw_cms/e?page=cms.index"
  },
  {
-  "key": "CAU",
-  "zh": "中国农大",
-  "en": "China Agricultural U",
-  "kind": "sfw",
-  "url": "https://cg.cau.edu.cn/sfw_cms/e?page=cms.index"
- },
- {
   "key": "CPU",
   "zh": "中国药科",
   "en": "China Pharmaceutical U",
@@ -1626,13 +1619,6 @@
     "label": "采购信息"
    }
   ]
- },
- {
-  "key": "FJNU",
-  "zh": "福建师范",
-  "en": "Fujian Normal U",
-  "kind": "sfw",
-  "url": "https://cggl.fjnu.edu.cn/sfw_cms/e?page=cms.index"
  },
  {
   "key": "AIRCAS",

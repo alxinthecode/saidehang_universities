@@ -1207,11 +1207,6 @@
       "matches": 0
     },
     {
-      "school": "CAU",
-      "ok": false,
-      "error": "page.evaluate: Error: no 思必得 list query returned results (after retry)"
-    },
-    {
       "school": "CPU",
       "ok": true,
       "scanned": 30,
@@ -1318,11 +1313,6 @@
       "ok": true,
       "scanned": 14,
       "matches": 0
-    },
-    {
-      "school": "FJNU",
-      "ok": false,
-      "error": "page.evaluate: Error: no 思必得 list query returned results (after retry)"
     },
     {
       "school": "AIRCAS",

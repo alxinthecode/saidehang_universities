@@ -1,8 +1,8 @@
 # Cedrat University Tender Watch · 赛得航高校标讯
 
-Tracks procurement announcements from 104 Chinese university platforms and 6 CAS research institutes and flags the ones that match Cedrat Technologies' product lines (piezo actuators and motors, fast steering mirrors, magnetic actuators, controllers).
+Tracks procurement announcements from 126 Chinese university platforms and 6 CAS research institutes and flags the ones that match Cedrat Technologies' product lines (piezo actuators and motors, fast steering mirrors, magnetic actuators, controllers).
 
-汇总 104 所高校和 6 家中科院研究所的采购公告，筛出与 Cedrat（赛得航科技）压电促动器、压电马达、快反镜、磁驱作动器等产品相关的标讯。
+汇总 126 所高校和 6 家中科院研究所的采购公告，筛出与 Cedrat（赛得航科技）压电促动器、压电马达、快反镜、磁驱作动器等产品相关的标讯。
 
 ## What's here
 
@@ -23,7 +23,7 @@ The live version on claude.ai keeps the data in a shared database and lets you s
 
 ## Platforms covered
 
-104 universities, picked for strength in optics, precision instruments, aerospace, mechatronics and microelectronics, plus 6 Chinese Academy of Sciences institutes. The full configuration is in `scraper/sites.json` (institutes carry `"org": "institute"`).
+126 universities, picked for strength in optics, precision instruments, aerospace, mechatronics, microelectronics and the natural sciences, plus 6 Chinese Academy of Sciences institutes. The full configuration is in `scraper/sites.json` (institutes carry `"org": "institute"`).
 
 | University | Platform | How it's read |
 |---|---|---|
@@ -131,6 +131,28 @@ The live version on claude.ai keeps the data in a shared database and lets you s
 | Guangdong Ocean U 广东海洋 | www.gdou.edu.cn | List pages (titles only) |
 | East China Jiaotong 华东交通 | zfcgzbb.ecjtu.edu.cn | List pages (titles only) |
 | Jiangxi UST 江西理工 | www.jxust.edu.cn | List pages (titles only) |
+| Beijing Normal U 北师大 | cg.bnu.edu.cn | 思必得 platform (full text on most) |
+| China U of Geosciences (Beijing) 中国地大(北京) | zbcg.cugb.edu.cn | 思必得 platform (full text on most) |
+| Hebei U 河北大学 | zcgl.hbu.edu.cn | 思必得 platform (full text on most) |
+| Northeast Forestry U 东北林业 | zbb.nefu.edu.cn | 思必得 platform (full text on most) |
+| China Pharmaceutical U 中国药科 | cgzx.cpu.edu.cn | List pages (titles only) |
+| Central South U of Forestry & Tech 中南林业科大 | cztzx.csuft.edu.cn | List pages (titles only) |
+| Guangxi Normal U 广西师范 | www.xcgl.gxnu.edu.cn | List pages (titles only) |
+| Henan Normal U 河南师范 | www.htu.edu.cn | List pages (titles only) |
+| Huazhong Agricultural U 华中农业 | ztb.hzau.edu.cn | List pages (titles only) |
+| Northeast Normal U 东北师范 | zbcg.nenu.edu.cn | List pages (titles only) |
+| Shandong Normal U 山东师范 | zcb.sdnu.edu.cn | List pages (titles only) |
+| Zhejiang A&F U 浙江农林 | cgzx.zafu.edu.cn | List pages (titles only) |
+| Liaoning U 辽宁大学 | zbcg.lnu.edu.cn | List pages (titles only) |
+| Henan U 河南大学 | zbcg.henu.edu.cn | List pages (titles only) |
+| Nanjing Agricultural U 南京农业 | zbb.njau.edu.cn | List pages (titles only) |
+| Qufu Normal U 曲阜师范 | zcc.qfnu.edu.cn | List pages (titles only) |
+| Shandong Agricultural U 山东农业 | zcc.sdau.edu.cn | List pages (titles only) |
+| Jilin Agricultural U 吉林农业 | cgzx.jlau.edu.cn | List pages (titles only) |
+| Yunnan Normal U 云南师范 | zczx.ynnu.edu.cn | List pages (titles only) |
+| Southwest Forestry U 西南林业 | www.swfu.edu.cn | List pages (titles only) |
+| Fujian A&F U 福建农林 | zb.fafu.edu.cn | List pages (titles only) |
+| Hainan Normal U 海南师范 | gzc.hainnu.edu.cn | List pages (titles only) |
 
 | Research institute | Notice board | How it's read |
 |---|---|---|
@@ -150,7 +172,7 @@ Two generic readers in `scraper/scan.js` handle almost everything:
 
 Award, result and contract notices are skipped; only open opportunities are matched.
 
-Tried but not usable from outside China or without a login (October 2026): Zhejiang U, Southeast U, Hunan U, Harbin Engineering, Jinan U, Shanghai Maritime, Nanjing U (login or maintenance page); Peking U, Northeastern U, USTB, South China UT, Nanjing UST, Hohai, Lanzhou UT, Southwest UST, China U of Petroleum (East China) (time out from abroad); Nanjing U of Aeronautics & Astronautics (blocks foreign visitors); Sun Yat-sen (list no longer updated); CQUPT, Ningbo U, Northwest U, Dongguan UT (app-only platforms); China U of Mining (Beijing) (platform returns no list). CAS institutes whose notice board was not found: Shanghai Inst. of Optics and Fine Mechanics, Xi'an Inst. of Optics, Inst. of Optics and Electronics (Chengdu), Anhui Inst. of Optics, Inst. of Semiconductors, Inst. of Physics, Shenyang Inst. of Automation.
+Tried but not usable from outside China or without a login (October 2026): Zhejiang U, Southeast U, Hunan U, Harbin Engineering, Jinan U, Shanghai Maritime, Nanjing U (login or maintenance page); Peking U, Northeastern U, USTB, South China UT, Nanjing UST, Hohai, Lanzhou UT, Southwest UST, China U of Petroleum (East China) (time out from abroad); Nanjing U of Aeronautics & Astronautics (blocks foreign visitors); Sun Yat-sen (list no longer updated); CQUPT, Ningbo U, Northwest U, Dongguan UT (app-only platforms); China U of Mining (Beijing), China Agricultural U, Fujian Normal U (思必得 platform returns no list); Beijing Forestry, Capital Normal, Northwest A&F, South China Agricultural, Hunan Normal, Shanxi U (block foreign visitors or error pages); Zhengzhou U, Yunnan U, Lanzhou U, Nanjing Normal (no public list found). CAS institutes whose notice board was not found: Shanghai Inst. of Optics and Fine Mechanics, Xi'an Inst. of Optics, Inst. of Optics and Electronics (Chengdu), Anhui Inst. of Optics, Inst. of Semiconductors, Inst. of Physics, Shenyang Inst. of Automation.
 
 ## Matching rules
 
