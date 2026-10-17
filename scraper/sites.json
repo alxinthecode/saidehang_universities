@@ -1334,6 +1334,307 @@
   ]
  },
  {
+  "key": "BNU",
+  "zh": "北师大",
+  "en": "Beijing Normal U",
+  "kind": "sfw",
+  "url": "https://cg.bnu.edu.cn/sfw_cms/e?page=cms.index"
+ },
+ {
+  "key": "CUGB",
+  "zh": "中国地大(北京)",
+  "en": "China U of Geosciences (Beijing)",
+  "kind": "sfw",
+  "url": "https://zbcg.cugb.edu.cn/sfw2/e?page=cms.index",
+  "prefix": "sfw2"
+ },
+ {
+  "key": "HBU",
+  "zh": "河北大学",
+  "en": "Hebei U",
+  "kind": "sfw",
+  "url": "https://zcgl.hbu.edu.cn/sfw_cms/e?page=cms.index"
+ },
+ {
+  "key": "NEFU",
+  "zh": "东北林业",
+  "en": "Northeast Forestry U",
+  "kind": "sfw",
+  "url": "https://zbb.nefu.edu.cn/sfw_cms/e?page=cms.index"
+ },
+ {
+  "key": "CAU",
+  "zh": "中国农大",
+  "en": "China Agricultural U",
+  "kind": "sfw",
+  "url": "https://cg.cau.edu.cn/sfw_cms/e?page=cms.index"
+ },
+ {
+  "key": "CPU",
+  "zh": "中国药科",
+  "en": "China Pharmaceutical U",
+  "kind": "list",
+  "url": "https://cgzx.cpu.edu.cn/cgxxhw/index.chtml",
+  "lists": [
+   {
+    "url": "/cgxxhw/index.chtml",
+    "label": "采购信息·货物"
+   },
+   {
+    "url": "/zxcg/index.chtml",
+    "label": "自行采购"
+   }
+  ]
+ },
+ {
+  "key": "CSUFT",
+  "zh": "中南林业科大",
+  "en": "Central South U of Forestry & Tech",
+  "kind": "list",
+  "url": "https://cztzx.csuft.edu.cn/cggg.htm",
+  "lists": [
+   {
+    "url": "/cggg.htm",
+    "label": "采购公告"
+   }
+  ]
+ },
+ {
+  "key": "GXNU",
+  "zh": "广西师范",
+  "en": "Guangxi Normal U",
+  "kind": "list",
+  "url": "http://www.xcgl.gxnu.edu.cn/cgglzx/list.htm",
+  "lists": [
+   {
+    "url": "/cgglzx/list.htm",
+    "label": "采购公告"
+   }
+  ]
+ },
+ {
+  "key": "HTU",
+  "zh": "河南师范",
+  "en": "Henan Normal U",
+  "kind": "list",
+  "url": "https://www.htu.edu.cn/zbycgxx/list.htm",
+  "lists": [
+   {
+    "url": "/zbycgxx/list.htm",
+    "label": "招标与采购信息"
+   }
+  ]
+ },
+ {
+  "key": "HZAU",
+  "zh": "华中农业",
+  "en": "Huazhong Agricultural U",
+  "kind": "list",
+  "url": "https://ztb.hzau.edu.cn/cggg/jzcg.htm",
+  "lists": [
+   {
+    "url": "/cggg/jzcg.htm",
+    "label": "集中采购公告"
+   }
+  ]
+ },
+ {
+  "key": "NENU",
+  "zh": "东北师范",
+  "en": "Northeast Normal U",
+  "kind": "list",
+  "url": "https://zbcg.nenu.edu.cn/cgggydd.htm",
+  "lists": [
+   {
+    "url": "/cgggydd.htm",
+    "label": "采购公告"
+   },
+   {
+    "url": "/",
+    "label": "政府采购与招标"
+   }
+  ]
+ },
+ {
+  "key": "SDNU",
+  "zh": "山东师范",
+  "en": "Shandong Normal U",
+  "kind": "list",
+  "url": "https://zcb.sdnu.edu.cn/cggg/hwl.htm",
+  "lists": [
+   {
+    "url": "/cggg/hwl.htm",
+    "label": "采购公告·货物"
+   }
+  ]
+ },
+ {
+  "key": "ZAFU",
+  "zh": "浙江农林",
+  "en": "Zhejiang A&F U",
+  "kind": "list",
+  "url": "https://cgzx.zafu.edu.cn/cggg.htm",
+  "lists": [
+   {
+    "url": "/cggg.htm",
+    "label": "采购公告"
+   }
+  ]
+ },
+ {
+  "key": "LNU",
+  "zh": "辽宁大学",
+  "en": "Liaoning U",
+  "kind": "list",
+  "url": "https://zbcg.lnu.edu.cn/zhaobiao.htm",
+  "lists": [
+   {
+    "url": "/zhaobiao.htm",
+    "label": "招标公告"
+   }
+  ]
+ },
+ {
+  "key": "HENU",
+  "zh": "河南大学",
+  "en": "Henan U",
+  "kind": "list",
+  "url": "https://zbcg.henu.edu.cn/hwcg/index.chtml",
+  "lists": [
+   {
+    "url": "/hwcg/index.chtml",
+    "label": "货物采购公告"
+   }
+  ]
+ },
+ {
+  "key": "NJAU",
+  "zh": "南京农业",
+  "en": "Nanjing Agricultural U",
+  "kind": "list",
+  "url": "https://zbb.njau.edu.cn/pgoods/index.chtml",
+  "lists": [
+   {
+    "url": "/pgoods/index.chtml",
+    "label": "货物采购公告"
+   },
+   {
+    "url": "/fscggg/index.chtml",
+    "label": "分散采购公告"
+   }
+  ]
+ },
+ {
+  "key": "QFNU",
+  "zh": "曲阜师范",
+  "en": "Qufu Normal U",
+  "kind": "list",
+  "url": "https://zcc.qfnu.edu.cn/ztzx/zbgg.htm",
+  "lists": [
+   {
+    "url": "/ztzx/zbgg.htm",
+    "label": "招标公告"
+   },
+   {
+    "url": "/ztzx/zbgg1.htm",
+    "label": "采购公告"
+   }
+  ]
+ },
+ {
+  "key": "SDAU",
+  "zh": "山东农业",
+  "en": "Shandong Agricultural U",
+  "kind": "list",
+  "url": "https://zcc.sdau.edu.cn/zbxx/list.htm",
+  "lists": [
+   {
+    "url": "/zbxx/list.htm",
+    "label": "采购信息"
+   },
+   {
+    "url": "/932/list.htm",
+    "label": "采购公告"
+   }
+  ]
+ },
+ {
+  "key": "JLAU",
+  "zh": "吉林农业",
+  "en": "Jilin Agricultural U",
+  "kind": "list",
+  "url": "https://cgzx.jlau.edu.cn/index/xxcggg.htm",
+  "lists": [
+   {
+    "url": "/index/xxcggg.htm",
+    "label": "校内采购公告"
+   }
+  ]
+ },
+ {
+  "key": "YNNU",
+  "zh": "云南师范",
+  "en": "Yunnan Normal U",
+  "kind": "list",
+  "url": "https://zczx.ynnu.edu.cn/qbgg.htm",
+  "lists": [
+   {
+    "url": "/qbgg.htm",
+    "label": "全部公告"
+   }
+  ]
+ },
+ {
+  "key": "SWFU",
+  "zh": "西南林业",
+  "en": "Southwest Forestry U",
+  "kind": "list",
+  "url": "https://www.swfu.edu.cn/xxgk1/cgxx.htm",
+  "lists": [
+   {
+    "url": "/xxgk1/cgxx.htm",
+    "label": "采购信息"
+   }
+  ]
+ },
+ {
+  "key": "FAFU",
+  "zh": "福建农林",
+  "en": "Fujian A&F U",
+  "kind": "list",
+  "url": "http://zb.fafu.edu.cn/page/infoList.jsp?id=8",
+  "lists": [
+   {
+    "url": "/page/infoList.jsp?id=8",
+    "label": "招标信息"
+   },
+   {
+    "url": "/page/infoList.jsp?id=6",
+    "label": "招标信息"
+   }
+  ]
+ },
+ {
+  "key": "HAINNU",
+  "zh": "海南师范",
+  "en": "Hainan Normal U",
+  "kind": "list",
+  "url": "https://gzc.hainnu.edu.cn/1184/list.htm",
+  "lists": [
+   {
+    "url": "/1184/list.htm",
+    "label": "采购信息"
+   }
+  ]
+ },
+ {
+  "key": "FJNU",
+  "zh": "福建师范",
+  "en": "Fujian Normal U",
+  "kind": "sfw",
+  "url": "https://cggl.fjnu.edu.cn/sfw_cms/e?page=cms.index"
+ },
+ {
   "key": "AIRCAS",
   "zh": "中科院空天院",
   "en": "CAS Aerospace Information Research Inst.",
