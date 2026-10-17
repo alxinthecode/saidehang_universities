@@ -1,0 +1,65 @@
+[
+ {
+  "key": "NJNU",
+  "dom": "njnu.edu.cn",
+  "home": "https://www.njnu.edu.cn/",
+  "links": [],
+  "hosts": [
+   "cwc.njnu.edu.cn",
+   "cgzx.njnu.edu.cn",
+   "zcc.njnu.edu.cn"
+  ]
+ },
+ {
+  "key": "HBU",
+  "dom": "hbu.edu.cn",
+  "home": "https://www.hbu.edu.cn/",
+  "links": [],
+  "hosts": [
+   "cwc.hbu.edu.cn",
+   "zcgl.hbu.edu.cn"
+  ]
+ },
+ {
+  "key": "GXNU",
+  "dom": "gxnu.edu.cn",
+  "home": "https://www.gxnu.edu.cn/",
+  "links": [
+   "集中采购 > http://www.xcgl.gxnu.edu.cn/cgglzx/list.htm"
+  ],
+  "hosts": [
+   "cwc.gxnu.edu.cn",
+   "cg.gxnu.edu.cn"
+  ]
+ },
+ {
+  "key": "ZAFU",
+  "dom": "zafu.edu.cn",
+  "home": "https://www.zafu.edu.cn/",
+  "links": [],
+  "hosts": [
+   "cgzx.zafu.edu.cn",
+   "sbc.zafu.edu.cn"
+  ]
+ },
+ {
+  "key": "LZU",
+  "dom": "lzu.edu.cn",
+  "home": "https://www.lzu.edu.cn/",
+  "links": [],
+  "hosts": [
+   "cwc.lzu.edu.cn",
+   "zbb.lzu.edu.cn",
+   "zcc.lzu.edu.cn"
+  ]
+ },
+ {
+  "key": "HRBNU",
+  "dom": "hrbnu.edu.cn",
+  "home": null,
+  "links": [],
+  "hosts": [
+   "gzc.hrbnu.edu.cn"
+  ]
+ }
+]

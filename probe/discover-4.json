@@ -1,0 +1,217 @@
+[
+ {
+  "key": "HBU",
+  "title": "河北大学财务处",
+  "url": "https://cwc.hbu.edu.cn/",
+  "sfw": false,
+  "navs": [],
+  "cands": [
+   {
+    "u": "https://cwc.hbu.edu.cn/",
+    "label": "home",
+    "scanned": 52,
+    "oldest": "2017-09-24",
+    "n": 0,
+    "newest": [
+     "2026-03-18 关于开展第三轮会计、经济、审计系列专业技术岗位期满考评工",
+     "2024-11-28 关于组织开展会计、经济、审计系列第三轮专业技术岗位聘用中",
+     "2020-10-15 关于2021年建设项目立项事宜的通知"
+    ],
+    "rows": []
+   }
+  ]
+ },
+ {
+  "key": "HBU",
+  "title": "资产管理处",
+  "url": "https://zcgl.hbu.edu.cn/sfw_cms/e?page=cms.index",
+  "sfw": true,
+  "navs": [
+   {
+    "t": "更多>",
+    "h": "https://zcgl.hbu.edu.cn/sfw_cms/e?page=cms.news&cid=103399"
+   },
+   {
+    "t": "更多>",
+    "h": "https://zcgl.hbu.edu.cn/sfw_cms/e?page=cms.psms.gglist&typeDetail=CGGG&catalog=A"
+   },
+   {
+    "t": "更多>",
+    "h": "https://zcgl.hbu.edu.cn/sfw_cms/e?page=cms.psms.gglist&typeDetail=CGGG&catalog=C"
+   },
+   {
+    "t": "更多>",
+    "h": "https://zcgl.hbu.edu.cn/sfw_cms/e?page=cms.psms.gglist&typeDetail=CGGG&catalog=B"
+   },
+   {
+    "t": "更多>",
+    "h": "https://zcgl.hbu.edu.cn/sfw_cms/e?page=cms.psms.gglist&typeDetail=JGGG&orgType=22"
+   },
+   {
+    "t": "更多>",
+    "h": "https://zcgl.hbu.edu.cn/sfw_cms/e?page=cms.psms.gglist&typeDetail=YXGK"
+   },
+   {
+    "t": "更多>",
+    "h": "https://zcgl.hbu.edu.cn/sfw_cms/e?page=cms.news3&cid=100435"
+   }
+  ],
+  "cands": [
+   {
+    "u": "https://zcgl.hbu.edu.cn/sfw_cms/e?page=cms.index",
+    "label": "home",
+    "scanned": 10,
+    "oldest": "2026-07-29",
+    "n": 0,
+    "newest": [
+     "2026-10-13 关于马娜等同志的任职公示",
+     "2026-10-09 关于公布资产管理处部分空缺岗位资格审核合格人员名单的通知",
+     "2026-10-08 资产管理处关于对部分空缺岗位补充征集报名的通知"
+    ],
+    "rows": []
+   }
+  ],
+  "sfwScan": {
+   "scanned": 100,
+   "oldest": "2026-06-25",
+   "n": 0,
+   "newest": [
+    "2026-10-15 河北大学重大教学科研设备仪器更新项目国产设备（五） 5包",
+    "2026-10-15 河北大学五四路校区竹园2#、3#学生宿舍建设项目工程监理",
+    "2026-10-14 重大教学科研设备仪器更新项目国产设备(四)包3（三次）（"
+   ],
+   "rows": []
+  }
+ },
+ {
+  "key": "GXNU",
+  "title": "采购管理中心",
+  "url": "http://www.xcgl.gxnu.edu.cn/cgglzx/list.htm",
+  "sfw": false,
+  "navs": [],
+  "cands": [
+   {
+    "u": "http://www.xcgl.gxnu.edu.cn/cgglzx/list.htm",
+    "label": "home",
+    "scanned": 15,
+    "oldest": "2026-09-11",
+    "n": 0,
+    "newest": [
+     "2026-10-16 超高压液相色谱-电喷雾检测仪（GXJLGL2026-J1",
+     "2026-10-16 外语学院语言室设备采购[HC（ZB5）2026067J]",
+     "2026-10-16 实验室仪器设备采购（GXZC2026-G1-003147"
+    ],
+    "rows": []
+   }
+  ]
+ },
+ {
+  "key": "ZAFU",
+  "title": "浙江农林大学-采购与招标中心",
+  "url": "https://cgzx.zafu.edu.cn/",
+  "sfw": false,
+  "navs": [
+   {
+    "t": "查看更多+",
+    "h": "https://cgzx.zafu.edu.cn/tzgg.htm"
+   },
+   {
+    "t": "查看更多+",
+    "h": "https://cgzx.zafu.edu.cn/zxdt.htm"
+   },
+   {
+    "t": "查看更多+",
+    "h": "https://cgzx.zafu.edu.cn/gzlc.htm"
+   },
+   {
+    "t": "查看更多+",
+    "h": "https://cgzx.zafu.edu.cn/cgyx.htm"
+   },
+   {
+    "t": "查看更多+",
+    "h": "https://cgzx.zafu.edu.cn/cggg.htm"
+   },
+   {
+    "t": "查看更多+",
+    "h": "https://cgzx.zafu.edu.cn/cgjggg.htm"
+   }
+  ],
+  "cands": [
+   {
+    "u": "https://cgzx.zafu.edu.cn/tzgg.htm",
+    "label": "查看更多+",
+    "scanned": 2,
+    "oldest": "2024-01-30",
+    "n": 0,
+    "newest": [
+     "2026-05-21 关于做好2026年度采购管理工作的提醒",
+     "2024-01-30 浙江省财政厅关于进一步优化政府采购进口产品管理工作的通知"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://cgzx.zafu.edu.cn/zxdt.htm",
+    "label": "查看更多+",
+    "scanned": 10,
+    "oldest": "2026-03-24",
+    "n": 0,
+    "newest": [
+     "2026-09-16 采购中心参加2026全国政府采购从业人员研修班",
+     "2026-09-15 采购中心赴二级单位开展招标采购政策宣讲",
+     "2026-09-11 采购中心参加浙江省高校采购工作交流研讨会"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://cgzx.zafu.edu.cn/gzlc.htm",
+    "label": "查看更多+",
+    "scanned": 1,
+    "oldest": "2025-06-12",
+    "n": 0,
+    "newest": [
+     "2025-06-12 竞争性磋商流程图"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://cgzx.zafu.edu.cn/cgyx.htm",
+    "label": "查看更多+",
+    "scanned": 10,
+    "oldest": "2026-09-28",
+    "n": 0,
+    "newest": [
+     "2026-10-10 浙江农林大学2026年10月机械臂教学实验平台政府采购意",
+     "2026-10-10 浙江农林大学2026年10月大型活动设备租赁政府采购意向",
+     "2026-10-10 浙江农林大学2026年10月固液废弃物回收处置政府采购意"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://cgzx.zafu.edu.cn/cggg.htm",
+    "label": "查看更多+",
+    "scanned": 10,
+    "oldest": "2026-09-28",
+    "n": 0,
+    "newest": [
+     "2026-10-13 浙江五石中正工程咨询有限公司关于浙江农林大学手持式三维扫",
+     "2026-10-10 浙江致信招标代理有限公司关于浙江农林大学实验室安全准入系",
+     "2026-10-10 浙江豪圣建设项目管理有限公司关于浙江农林大学机械基础实验"
+    ],
+    "rows": []
+   },
+   {
+    "u": "https://cgzx.zafu.edu.cn/cgjggg.htm",
+    "label": "查看更多+",
+    "scanned": 10,
+    "oldest": "2026-09-28",
+    "n": 0,
+    "newest": [
+     "2026-10-13 浙江省国际技术设备招标有限公司关于浙江农林大学智能测控综",
+     "2026-10-10 浙江乐诚工程咨询有限公司关于浙江农林大学事件相关电位系统",
+     "2026-10-10 浙江乐诚工程咨询有限公司关于浙江农林大学林木生长动态监测"
+    ],
+    "rows": []
+   }
+  ]
+ }
+]
