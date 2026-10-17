@@ -1,24 +1,17 @@
-// Render the TJU detail pages and save their text.
+// Check that the scanner can read 思必得 notice text from inside the site (TJU, SZTU, THU).
 import { chromium } from 'playwright';
-import { writeFile } from 'node:fs/promises';
-const URLS = {
-  '一维电动平台': 'https://zbb.tju.edu.cn/provider/#/publish/20MV7USQ6HAU8E2M',
-  '三维电动平台': 'https://zbb.tju.edu.cn/provider/#/publish/20MVAO7QBLHQ9RR7',
-};
+import { readFile, writeFile } from 'node:fs/promises';
+const scan = await readFile(new URL('../scraper/scan.js', import.meta.url), 'utf8').catch(() => '');
 const browser = await chromium.launch();
 const ctx = await browser.newContext({ locale: 'zh-CN', ignoreHTTPSErrors: true });
 const out = {};
-for (const [k, u] of Object.entries(URLS)) {
+for (const [k, u, id] of [['TJU', 'https://zbb.tju.edu.cn/sfw_cms/e?page=cms.psms.gglist&typeDetail=XQ', '20MV7USQ6HAU8E2M']]) {
   const page = await ctx.newPage();
-  const apis = [];
-  page.on('response', async r => { if (/json|text/.test(r.headers()['content-type'] || '') && !/\.(js|css)$/.test(r.url())) { try { const t = await r.text(); if (t.length > 300) apis.push({ url: r.url(), t: t.slice(0, 200) }); } catch {} } });
-  try {
-    await page.goto(u, { waitUntil: 'domcontentloaded', timeout: 60000 });
-    await page.waitForLoadState('networkidle', { timeout: 30000 }).catch(() => {});
-    await page.waitForTimeout(5000);
-    const frames = await Promise.all(page.frames().map(f => f.evaluate(() => document.body?.innerText || '').catch(() => '')));
-    out[k] = { text: frames.join('\n=====\n').slice(0, 20000), apis };
-  } catch (e) { out[k] = { err: String(e) }; }
+  await page.goto(u, { waitUntil: 'domcontentloaded', timeout: 60000 });
+  out[k] = await page.evaluate(async id => {
+    try { const r = await fetch(`https://provider.yuncaitong.cn/api/publish/${id}`); const t = await r.text(); return { status: r.status, len: t.length, head: t.slice(0, 300), hasImport: /不接受进口/.test(t) }; }
+    catch (e) { return { err: String(e) }; }
+  }, id);
   await page.close();
 }
 await writeFile(new URL('./tju.json', import.meta.url), JSON.stringify(out, null, 1));
