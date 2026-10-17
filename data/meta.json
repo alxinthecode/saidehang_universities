@@ -537,6 +537,18 @@
     "HAINNU": {
       "scanned": 14,
       "oldest": "2026-05-29"
+    },
+    "HKU": {
+      "scanned": 1,
+      "oldest": "2026-10-08"
+    },
+    "HKBU": {
+      "scanned": 0,
+      "oldest": ""
+    },
+    "EDUHK": {
+      "scanned": 9,
+      "oldest": "2026-10-22"
     }
   },
   "extra": [
@@ -565,7 +577,7 @@
       "url": "https://cgzx.hit.edu.cn/sfw_cms/e?page=cms.news2"
     }
   ],
-  "lastRun": "2026-10-18T01:47",
+  "lastRun": "2026-10-18T04:24",
   "lastResults": [
     {
       "school": "THU",
@@ -747,8 +759,9 @@
     },
     {
       "school": "XIDIAN",
-      "ok": false,
-      "error": "page.goto: Timeout 60000ms exceeded. (after retry)"
+      "ok": true,
+      "scanned": 30,
+      "matches": 0
     },
     {
       "school": "UCAS",
@@ -836,8 +849,9 @@
     },
     {
       "school": "BIT",
-      "ok": false,
-      "error": "page.goto: Timeout 60000ms exceeded. (after retry)"
+      "ok": true,
+      "scanned": 100,
+      "matches": 0
     },
     {
       "school": "HITWH",
@@ -1312,6 +1326,24 @@
       "school": "HAINNU",
       "ok": true,
       "scanned": 14,
+      "matches": 0
+    },
+    {
+      "school": "HKU",
+      "ok": true,
+      "scanned": 1,
+      "matches": 0
+    },
+    {
+      "school": "HKBU",
+      "ok": true,
+      "scanned": 0,
+      "matches": 0
+    },
+    {
+      "school": "EDUHK",
+      "ok": true,
+      "scanned": 9,
       "matches": 0
     },
     {
