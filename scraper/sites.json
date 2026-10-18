@@ -6,7 +6,8 @@
   "kind": "sfw",
   "url": "https://sbcgczxxfb.sysc.tsinghua.edu.cn/sfw_cms/e?page=cms.psms.gglist&typeDetail=XQ&catalog=A",
   "body": "sort=begin_time+desc&type=ZCGS&type=ZCXQ&type=YQXQ&type=BYXQ&type=CSXQ&isEnd=&catalog=&shopType=&keywords=",
-  "detail": "https://sbgysfw.sysc.tsinghua.edu.cn/#/publish/"
+  "detail": "https://sbgysfw.sysc.tsinghua.edu.cn/#/publish/",
+  "fr": "Université Tsinghua"
  },
  {
   "key": "BUAA",
@@ -28,7 +29,8 @@
     "label": "网上竞价"
    }
   ],
-  "idFrom": "BUAA([A-Z]{2}\\d+)"
+  "idFrom": "BUAA([A-Z]{2}\\d+)",
+  "fr": "Université Beihang"
  },
  {
   "key": "HIT",
@@ -36,7 +38,8 @@
   "en": "Harbin IT",
   "kind": "sfw",
   "url": "https://cgzx.hit.edu.cn/sfw_cms/e?page=cms.psms.gglist&shopping_type=GKCG&typeDetail=XQ",
-  "body": "sort=edate%20desc&typePublish=ZC&typePublish=YQ&typePublish=CS&typePublish=BY&typePublish=BG&typeDetail=XQ&shoppingType=&type=&isEnd=&categoryId=&notShoppingType=&keywords="
+  "body": "sort=edate%20desc&typePublish=ZC&typePublish=YQ&typePublish=CS&typePublish=BY&typePublish=BG&typeDetail=XQ&shoppingType=&type=&isEnd=&categoryId=&notShoppingType=&keywords=",
+  "fr": "Institut de technologie de Harbin"
  },
  {
   "key": "SJTU",
@@ -44,7 +47,8 @@
   "en": "SJTU",
   "kind": "sfw",
   "url": "https://pboffice.sjtu.edu.cn/sfw_cms/e?page=cms.psms.gglist&typeDetail=XQ&cate=103249",
-  "body": "sort=beginTime%20desc&type=ZCXQ&type=YQXQ&type=BYXQ&type=CSXQ&shopType=&catalog=&isEnd=&categoryId=103249&ggType=XQ&keywords="
+  "body": "sort=beginTime%20desc&type=ZCXQ&type=YQXQ&type=BYXQ&type=CSXQ&shopType=&catalog=&isEnd=&categoryId=103249&ggType=XQ&keywords=",
+  "fr": "Université Jiao Tong de Shanghai"
  },
  {
   "key": "TJU",
@@ -52,42 +56,48 @@
   "en": "Tianjin U",
   "kind": "sfw",
   "url": "https://zbb.tju.edu.cn/sfw_cms/e?page=cms.psms.gglist&typeDetail=XQ",
-  "body": "sort=begin_time%20desc&type=CSXQ&type=ZCXQ&type=BYXQ&type=YQXQ&type=ZCGS&shopType=&orgType=&catalog=&keywords="
+  "body": "sort=begin_time%20desc&type=CSXQ&type=ZCXQ&type=BYXQ&type=YQXQ&type=ZCGS&shopType=&orgType=&catalog=&keywords=",
+  "fr": "Université de Tianjin"
  },
  {
   "key": "USTC",
   "zh": "中科大",
   "en": "USTC",
   "kind": "sfw",
-  "url": "https://cggl.ustc.edu.cn/sfw_cms/e?page=cms.index"
+  "url": "https://cggl.ustc.edu.cn/sfw_cms/e?page=cms.index",
+  "fr": "Université des sciences et technologies de Chine"
  },
  {
   "key": "CQU",
   "zh": "重庆大学",
   "en": "Chongqing U",
   "kind": "sfw",
-  "url": "https://ztbzx.cqu.edu.cn/sfw_cms/e?page=cms.index"
+  "url": "https://ztbzx.cqu.edu.cn/sfw_cms/e?page=cms.index",
+  "fr": "Université de Chongqing"
  },
  {
   "key": "SCU",
   "zh": "四川大学",
   "en": "Sichuan U",
   "kind": "sfw",
-  "url": "https://cg.scu.edu.cn/sfw_cms/e?page=cms.index"
+  "url": "https://cg.scu.edu.cn/sfw_cms/e?page=cms.index",
+  "fr": "Université du Sichuan"
  },
  {
   "key": "HITSZ",
   "zh": "哈工大(深圳)",
   "en": "HIT Shenzhen",
   "kind": "sfw",
-  "url": "https://cggl.hitsz.edu.cn/sfw_cms/e?page=cms.index"
+  "url": "https://cggl.hitsz.edu.cn/sfw_cms/e?page=cms.index",
+  "fr": "Institut de technologie de Harbin (Shenzhen)"
  },
  {
   "key": "WESTLAKE",
   "zh": "西湖大学",
   "en": "Westlake U",
   "kind": "sfw",
-  "url": "https://procurement.westlake.edu.cn/sfw_cms/e?page=cms.index"
+  "url": "https://procurement.westlake.edu.cn/sfw_cms/e?page=cms.index",
+  "fr": "Université Westlake"
  },
  {
   "key": "BUPT",
@@ -95,35 +105,40 @@
   "en": "BUPT",
   "kind": "sfw",
   "prefix": "sfw",
-  "url": "https://cg.bupt.edu.cn/sfw/e?page=cms.index"
+  "url": "https://cg.bupt.edu.cn/sfw/e?page=cms.index",
+  "fr": "Université des postes et télécommunications de Pékin"
  },
  {
   "key": "XMU",
   "zh": "厦门大学",
   "en": "Xiamen U",
   "kind": "sfw",
-  "url": "https://xdzc.xmu.edu.cn/sfw_cms/e?page=cms.index"
+  "url": "https://xdzc.xmu.edu.cn/sfw_cms/e?page=cms.index",
+  "fr": "Université de Xiamen"
  },
  {
   "key": "DUT",
   "zh": "大连理工",
   "en": "Dalian UT",
   "kind": "sfw",
-  "url": "http://cgbmis.dlut.edu.cn/sfw_cms/e?page=cms.index"
+  "url": "http://cgbmis.dlut.edu.cn/sfw_cms/e?page=cms.index",
+  "fr": "Université de technologie de Dalian"
  },
  {
   "key": "KUST",
   "zh": "昆明理工",
   "en": "Kunming UST",
   "kind": "sfw",
-  "url": "https://cgzx.kust.edu.cn/sfw_cms/e?page=cms.index"
+  "url": "https://cgzx.kust.edu.cn/sfw_cms/e?page=cms.index",
+  "fr": "Université des sciences et technologies de Kunming"
  },
  {
   "key": "DLMU",
   "zh": "大连海事",
   "en": "Dalian Maritime",
   "kind": "sfw",
-  "url": "https://cgzx.dlmu.edu.cn/sfw_cms/e?page=cms.index"
+  "url": "https://cgzx.dlmu.edu.cn/sfw_cms/e?page=cms.index",
+  "fr": "Université maritime de Dalian"
  },
  {
   "key": "HUST",
@@ -144,7 +159,8 @@
     "url": "/zfcgxqgs/index.chtml",
     "label": "采购需求公示"
    }
-  ]
+  ],
+  "fr": "Université des sciences et technologies de Huazhong"
  },
  {
   "key": "FUDAN",
@@ -165,7 +181,8 @@
     "url": "/cgxqdc/list.htm",
     "label": "采购需求调查"
    }
-  ]
+  ],
+  "fr": "Université Fudan"
  },
  {
   "key": "NWPU",
@@ -178,7 +195,8 @@
     "url": "/zbgg.htm",
     "label": "招标公告"
    }
-  ]
+  ],
+  "fr": "Université polytechnique du Nord-Ouest"
  },
  {
   "key": "TONGJI",
@@ -200,7 +218,8 @@
     "label": "招标公告"
    }
   ],
-  "linkPattern": "zbggNews\\.jsp"
+  "linkPattern": "zbggNews\\.jsp",
+  "fr": "Université Tongji"
  },
  {
   "key": "SUSTECH",
@@ -225,7 +244,8 @@
     "url": "/tender/index/pid/45/sort_id/56",
     "label": "采购需求公示"
    }
-  ]
+  ],
+  "fr": "Université des sciences et technologies du Sud (SUSTech)"
  },
  {
   "key": "UESTC",
@@ -238,7 +258,8 @@
     "url": "/f/list-bab1e63fa83e4c238d9262ec45e81b99.html",
     "label": "采购公告"
    }
-  ]
+  ],
+  "fr": "Université des sciences et technologies électroniques de Chine"
  },
  {
   "key": "WHU",
@@ -251,7 +272,8 @@
     "url": "/cgxx.htm",
     "label": "采购公告"
    }
-  ]
+  ],
+  "fr": "Université de Wuhan"
  },
  {
   "key": "XJTU",
@@ -265,7 +287,8 @@
     "lmid": "4af592f37641715c0176419ae14f000d",
     "label": "校级采购公告"
    }
-  ]
+  ],
+  "fr": "Université Jiaotong de Xi’an"
  },
  {
   "key": "SHU",
@@ -278,7 +301,8 @@
     "url": "/sy/zbkscg_list.jsp?gglx=ZBGG",
     "label": "采购公告"
    }
-  ]
+  ],
+  "fr": "Université de Shanghai"
  },
  {
   "key": "NJTECH",
@@ -291,42 +315,48 @@
     "url": "/xeys/cggg.htm",
     "label": "采购公告"
    }
-  ]
+  ],
+  "fr": "Université de technologie de Nankin"
  },
  {
   "key": "JLU",
   "zh": "吉林大学",
   "en": "Jilin U",
   "kind": "sfw",
-  "url": "https://cgglzx.jlu.edu.cn/"
+  "url": "https://cgglzx.jlu.edu.cn/",
+  "fr": "Université du Jilin"
  },
  {
   "key": "SDU",
   "zh": "山东大学",
   "en": "Shandong U",
   "kind": "sfw",
-  "url": "https://zcgl.sdu.edu.cn/"
+  "url": "https://zcgl.sdu.edu.cn/",
+  "fr": "Université du Shandong"
  },
  {
   "key": "BUCT",
   "zh": "北京化工",
   "en": "BUCT",
   "kind": "sfw",
-  "url": "https://cg.buct.edu.cn/sfw_cms/e?page=cms.index"
+  "url": "https://cg.buct.edu.cn/sfw_cms/e?page=cms.index",
+  "fr": "Université de technologie chimique de Pékin"
  },
  {
   "key": "SZTU",
   "zh": "深圳技术大学",
   "en": "Shenzhen Tech U",
   "kind": "sfw",
-  "url": "https://ztb.sztu.edu.cn/sfw_cms/e?page=cms.index"
+  "url": "https://ztb.sztu.edu.cn/sfw_cms/e?page=cms.index",
+  "fr": "Université de technologie de Shenzhen"
  },
  {
   "key": "AHU",
   "zh": "安徽大学",
   "en": "Anhui U",
   "kind": "sfw",
-  "url": "https://cgzx.ahu.edu.cn/sfw_cms/e?page=cms.index"
+  "url": "https://cgzx.ahu.edu.cn/sfw_cms/e?page=cms.index",
+  "fr": "Université de l’Anhui"
  },
  {
   "key": "XIDIAN",
@@ -341,7 +371,8 @@
    {
     "url": "/fwcggg/index.chtml"
    }
-  ]
+  ],
+  "fr": "Université Xidian"
  },
  {
   "key": "UCAS",
@@ -356,7 +387,8 @@
    {
     "url": "/zfcghw/index.chtml"
    }
-  ]
+  ],
+  "fr": "Université de l’Académie chinoise des sciences"
  },
  {
   "key": "SUDA",
@@ -371,7 +403,8 @@
    {
     "url": "/hwxjgg/list.htm"
    }
-  ]
+  ],
+  "fr": "Université de Suzhou"
  },
  {
   "key": "ECNU",
@@ -383,7 +416,8 @@
    {
     "url": "/cggghw/index.chtml"
    }
-  ]
+  ],
+  "fr": "Université normale de Chine orientale"
  },
  {
   "key": "SHANGHAITECH",
@@ -398,7 +432,8 @@
    {
     "url": "/1528/list.htm"
    }
-  ]
+  ],
+  "fr": "Université ShanghaiTech"
  },
  {
   "key": "SCNU",
@@ -410,7 +445,8 @@
    {
     "url": "/gateway.do"
    }
-  ]
+  ],
+  "fr": "Université normale de Chine du Sud"
  },
  {
   "key": "NJUPT",
@@ -425,7 +461,8 @@
    {
     "url": "/fscgxx/index.chtml"
    }
-  ]
+  ],
+  "fr": "Université des postes et télécommunications de Nankin"
  },
  {
   "key": "HDU",
@@ -437,7 +474,8 @@
    {
     "url": "/13049/list.htm"
    }
-  ]
+  ],
+  "fr": "Université Dianzi de Hangzhou"
  },
  {
   "key": "SWJTU",
@@ -449,7 +487,8 @@
    {
     "url": "/cggg.htm"
    }
-  ]
+  ],
+  "fr": "Université Jiaotong du Sud-Ouest"
  },
  {
   "key": "CSU",
@@ -461,7 +500,8 @@
    {
     "url": "/csustatic/index.html"
    }
-  ]
+  ],
+  "fr": "Université du Centre-Sud"
  },
  {
   "key": "SZU",
@@ -473,7 +513,8 @@
    {
     "url": "/"
    }
-  ]
+  ],
+  "fr": "Université de Shenzhen"
  },
  {
   "key": "DHU",
@@ -488,7 +529,8 @@
    {
     "url": "/27265/list.htm"
    }
-  ]
+  ],
+  "fr": "Université Donghua"
  },
  {
   "key": "HEBUT",
@@ -500,7 +542,8 @@
    {
     "url": "/cggg/index.htm"
    }
-  ]
+  ],
+  "fr": "Université de technologie du Hebei"
  },
  {
   "key": "UJS",
@@ -518,7 +561,8 @@
    {
     "url": "/xqgs.htm"
    }
-  ]
+  ],
+  "fr": "Université du Jiangsu"
  },
  {
   "key": "TYUT",
@@ -530,28 +574,32 @@
    {
     "url": "/xxgk/zfcg.htm"
    }
-  ]
+  ],
+  "fr": "Université de technologie de Taiyuan"
  },
  {
   "key": "BIT",
   "zh": "北理工",
   "en": "Beijing IT",
   "kind": "sfw",
-  "url": "https://cgzx.bit.edu.cn/sfw_cms/e?page=cms.index"
+  "url": "https://cgzx.bit.edu.cn/sfw_cms/e?page=cms.index",
+  "fr": "Institut de technologie de Pékin"
  },
  {
   "key": "HITWH",
   "zh": "哈工大(威海)",
   "en": "HIT Weihai",
   "kind": "sfw",
-  "url": "https://zcgl.hitwh.edu.cn/sfw_cms/e?page=cms.index"
+  "url": "https://zcgl.hitwh.edu.cn/sfw_cms/e?page=cms.index",
+  "fr": "Institut de technologie de Harbin (Weihai)"
  },
  {
   "key": "JIANGNAN",
   "zh": "江南大学",
   "en": "Jiangnan U",
   "kind": "sfw",
-  "url": "https://bidding.jiangnan.edu.cn/sfw_cms/e?page=cms.index"
+  "url": "https://bidding.jiangnan.edu.cn/sfw_cms/e?page=cms.index",
+  "fr": "Université du Jiangnan"
  },
  {
   "key": "CAUC",
@@ -564,7 +612,8 @@
     "url": "/zbcgzx/cggg/hwl.htm",
     "label": "采购公告·货物"
    }
-  ]
+  ],
+  "fr": "Université de l’aviation civile de Chine"
  },
  {
   "key": "WZU",
@@ -581,7 +630,8 @@
     "url": "/list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1071",
     "label": "采购公告"
    }
-  ]
+  ],
+  "fr": "Université de Wenzhou"
  },
  {
   "key": "WHUT",
@@ -598,7 +648,8 @@
     "url": "/cgfscg/index.chtml",
     "label": "分散采购"
    }
-  ]
+  ],
+  "fr": "Université de technologie de Wuhan"
  },
  {
   "key": "NCHU",
@@ -611,7 +662,8 @@
     "url": "/cggg",
     "label": "采购公告"
    }
-  ]
+  ],
+  "fr": "Université Hangkong de Nanchang"
  },
  {
   "key": "HFUT",
@@ -624,7 +676,8 @@
     "url": "/cms/",
     "label": "采购公告"
    }
-  ]
+  ],
+  "fr": "Université de technologie de Hefei"
  },
  {
   "key": "QDU",
@@ -641,7 +694,8 @@
     "url": "/jjgg/index.chtml",
     "label": "竞价公告"
    }
-  ]
+  ],
+  "fr": "Université de Qingdao"
  },
  {
   "key": "ZJNU",
@@ -662,7 +716,8 @@
     "url": "/20380/list.htm",
     "label": "磋商公告"
    }
-  ]
+  ],
+  "fr": "Université normale du Zhejiang"
  },
  {
   "key": "SDUST",
@@ -675,7 +730,8 @@
     "url": "/index/zbgg.htm",
     "label": "招标公告"
    }
-  ]
+  ],
+  "fr": "Université des sciences et technologies du Shandong"
  },
  {
   "key": "JUST",
@@ -688,7 +744,8 @@
     "url": "/zbgg/list.htm",
     "label": "招标公告"
    }
-  ]
+  ],
+  "fr": "Université des sciences et technologies du Jiangsu"
  },
  {
   "key": "CUMT",
@@ -705,7 +762,8 @@
     "url": "/xjgg/index.chtml",
     "label": "询价公告"
    }
-  ]
+  ],
+  "fr": "Université des mines de Chine"
  },
  {
   "key": "ECUST",
@@ -726,7 +784,8 @@
     "url": "/ejdwcggg/index.chtml",
     "label": "二级单位采购"
    }
-  ]
+  ],
+  "fr": "Université des sciences et technologies de Chine orientale"
  },
  {
   "key": "NTU",
@@ -743,7 +802,8 @@
     "url": "/jjgg/index.chtml",
     "label": "竞价公告"
    }
-  ]
+  ],
+  "fr": "Université de Nantong"
  },
  {
   "key": "CCNU",
@@ -756,7 +816,8 @@
     "url": "/",
     "label": "招标信息"
    }
-  ]
+  ],
+  "fr": "Université normale de Chine centrale"
  },
  {
   "key": "XTU",
@@ -773,7 +834,8 @@
     "url": "/jjgg/index.chtml",
     "label": "竞价公告"
    }
-  ]
+  ],
+  "fr": "Université de Xiangtan"
  },
  {
   "key": "CUG",
@@ -786,7 +848,8 @@
     "url": "/wtcggg/index.chtml",
     "label": "采购公告"
    }
-  ]
+  ],
+  "fr": "Université des géosciences de Chine (Wuhan)"
  },
  {
   "key": "NCEPU",
@@ -799,7 +862,8 @@
     "url": "/zbcggg/index.htm",
     "label": "招标采购公告"
    }
-  ]
+  ],
+  "fr": "Université de l’énergie électrique de Chine du Nord"
  },
  {
   "key": "NUC",
@@ -812,14 +876,16 @@
     "url": "/cgxx/hwl.htm",
     "label": "采购信息·货物"
    }
-  ]
+  ],
+  "fr": "Université du Nord de la Chine"
  },
  {
   "key": "OUC",
   "zh": "中国海洋大学",
   "en": "Ocean U of China",
   "kind": "sfw",
-  "url": "http://zb.ouc.edu.cn/sfw_cms/e?page=cms.index"
+  "url": "http://zb.ouc.edu.cn/sfw_cms/e?page=cms.index",
+  "fr": "Université océanique de Chine"
  },
  {
   "key": "BJTU",
@@ -832,7 +898,8 @@
     "url": "/zb/zbcggs/index.htm",
     "label": "招标采购公告"
    }
-  ]
+  ],
+  "fr": "Université Jiaotong de Pékin"
  },
  {
   "key": "HRBUST",
@@ -845,7 +912,8 @@
     "url": "/1291/list.htm",
     "label": "招标信息"
    }
-  ]
+  ],
+  "fr": "Université des sciences et technologies de Harbin"
  },
  {
   "key": "NANKAI",
@@ -858,7 +926,8 @@
     "url": "/jghw/index.chtml",
     "label": "货物类"
    }
-  ]
+  ],
+  "fr": "Université Nankai"
  },
  {
   "key": "SAU",
@@ -871,7 +940,8 @@
     "url": "/cgxx/cggg.htm",
     "label": "采购公告"
    }
-  ]
+  ],
+  "fr": "Université aérospatiale de Shenyang"
  },
  {
   "key": "SHIEP",
@@ -884,7 +954,8 @@
     "url": "/574/list.htm",
     "label": "仪器设备采购信息"
    }
-  ]
+  ],
+  "fr": "Université de l’énergie électrique de Shanghai"
  },
  {
   "key": "SWPU",
@@ -901,7 +972,8 @@
     "url": "/cgtycg/index.chtml",
     "label": "采购公告"
    }
-  ]
+  ],
+  "fr": "Université du pétrole du Sud-Ouest"
  },
  {
   "key": "XAUAT",
@@ -914,7 +986,8 @@
     "url": "/cgxx/cggg/hwl.htm",
     "label": "采购公告·货物"
    }
-  ]
+  ],
+  "fr": "Université d’architecture et de technologie de Xi’an"
  },
  {
   "key": "XJU",
@@ -927,7 +1000,8 @@
     "url": "/zbcg.htm",
     "label": "招标采购"
    }
-  ]
+  ],
+  "fr": "Université du Xinjiang"
  },
  {
   "key": "NCU",
@@ -940,28 +1014,32 @@
     "url": "/",
     "label": "采购公告"
    }
-  ]
+  ],
+  "fr": "Université de Nanchang"
  },
  {
   "key": "AUST",
   "zh": "安徽理工",
   "en": "Anhui UST",
   "kind": "sfw",
-  "url": "https://cg.aust.edu.cn/sfw_cms/e?page=cms.index"
+  "url": "https://cg.aust.edu.cn/sfw_cms/e?page=cms.index",
+  "fr": "Université des sciences et technologies de l’Anhui"
  },
  {
   "key": "SNNU",
   "zh": "陕西师范",
   "en": "Shaanxi Normal",
   "kind": "sfw",
-  "url": "https://zbb.snnu.edu.cn/sfw_cms/e?page=cms.index"
+  "url": "https://zbb.snnu.edu.cn/sfw_cms/e?page=cms.index",
+  "fr": "Université normale du Shaanxi"
  },
  {
   "key": "CUP",
   "zh": "中国石油(北京)",
   "en": "China U of Petroleum (Beijing)",
   "kind": "sfw",
-  "url": "https://zcb.cup.edu.cn/sfw_cms/e?page=cms.index"
+  "url": "https://zcb.cup.edu.cn/sfw_cms/e?page=cms.index",
+  "fr": "Université du pétrole de Chine (Pékin)"
  },
  {
   "key": "AHUT",
@@ -978,7 +1056,8 @@
     "url": "/index/cjxx.htm",
     "label": "采购公告"
    }
-  ]
+  ],
+  "fr": "Université de technologie de l’Anhui"
  },
  {
   "key": "CCZU",
@@ -995,7 +1074,8 @@
     "url": "/21648/list.htm",
     "label": "货物类"
    }
-  ]
+  ],
+  "fr": "Université de Changzhou"
  },
  {
   "key": "CUIT",
@@ -1008,7 +1088,8 @@
     "url": "/hwcg.htm",
     "label": "货物采购"
    }
-  ]
+  ],
+  "fr": "Université des technologies de l’information de Chengdu"
  },
  {
   "key": "HAUT",
@@ -1025,7 +1106,8 @@
     "url": "/zbxx1/index.chtml",
     "label": "招标信息"
    }
-  ]
+  ],
+  "fr": "Université de technologie du Henan"
  },
  {
   "key": "HNUST",
@@ -1038,7 +1120,8 @@
     "url": "/cgxx/cggg/index.htm",
     "label": "采购公告"
    }
-  ]
+  ],
+  "fr": "Université des sciences et technologies du Hunan"
  },
  {
   "key": "HPU",
@@ -1051,7 +1134,8 @@
     "url": "/gzc_cggg.aspx",
     "label": "采购公告"
    }
-  ]
+  ],
+  "fr": "Université polytechnique du Henan"
  },
  {
   "key": "HAU",
@@ -1064,7 +1148,8 @@
     "url": "/cggg.htm",
     "label": "采购公告"
    }
-  ]
+  ],
+  "fr": "Université de Huai’an"
  },
  {
   "key": "IMUT",
@@ -1077,7 +1162,8 @@
     "url": "/cggg/wtcggg.htm",
     "label": "委托采购公告"
    }
-  ]
+  ],
+  "fr": "Université de technologie de Mongolie-Intérieure"
  },
  {
   "key": "JSNU",
@@ -1090,7 +1176,8 @@
     "url": "/3158/list.htm",
     "label": "采购公告"
    }
-  ]
+  ],
+  "fr": "Université normale du Jiangsu"
  },
  {
   "key": "LNTU",
@@ -1103,7 +1190,8 @@
     "url": "/xxgk/cgxx.htm",
     "label": "采购信息"
    }
-  ]
+  ],
+  "fr": "Université technique du Liaoning"
  },
  {
   "key": "NEPU",
@@ -1116,7 +1204,8 @@
     "url": "/index/zbgg.htm",
     "label": "招标公告"
    }
-  ]
+  ],
+  "fr": "Université du pétrole du Nord-Est"
  },
  {
   "key": "SDJU",
@@ -1133,7 +1222,8 @@
     "url": "/",
     "label": "招投标"
    }
-  ]
+  ],
+  "fr": "Université Dianji de Shanghai"
  },
  {
   "key": "SIT",
@@ -1146,7 +1236,8 @@
     "url": "/cggg.htm",
     "label": "采购公告"
    }
-  ]
+  ],
+  "fr": "Institut de technologie de Shanghai"
  },
  {
   "key": "STU",
@@ -1163,7 +1254,8 @@
     "url": "/portalwebController.do?goAtriclelist&articltype=hwl&page=1&rows=16",
     "label": "货物类"
    }
-  ]
+  ],
+  "fr": "Université de Shantou"
  },
  {
   "key": "SUSE",
@@ -1180,7 +1272,8 @@
     "url": "/czgg/index.chtml",
     "label": "采购公告"
    }
-  ]
+  ],
+  "fr": "Université des sciences et de l’ingénierie du Sichuan"
  },
  {
   "key": "UJN",
@@ -1193,7 +1286,8 @@
     "url": "/cggg.htm",
     "label": "采购公告"
    }
-  ]
+  ],
+  "fr": "Université de Jinan"
  },
  {
   "key": "WYU",
@@ -1210,7 +1304,8 @@
     "url": "/ztb/",
     "label": "采购招标"
    }
-  ]
+  ],
+  "fr": "Université Wuyi"
  },
  {
   "key": "XAUT",
@@ -1223,7 +1318,8 @@
     "url": "/ggzy/zbxx/zbgg.htm",
     "label": "招标公告"
    }
-  ]
+  ],
+  "fr": "Université de technologie de Xi’an"
  },
  {
   "key": "XSYU",
@@ -1240,7 +1336,8 @@
     "url": "/cggg1/hwl.htm",
     "label": "货物类"
    }
-  ]
+  ],
+  "fr": "Université Shiyou de Xi’an"
  },
  {
   "key": "YANGTZEU",
@@ -1253,7 +1350,8 @@
     "url": "/cggg/hwl.htm",
     "label": "采购公告·货物"
    }
-  ]
+  ],
+  "fr": "Université du Yangtsé"
  },
  {
   "key": "YCIT",
@@ -1266,7 +1364,8 @@
     "url": "/zbxx.htm",
     "label": "招标信息"
    }
-  ]
+  ],
+  "fr": "Institut de technologie de Yancheng"
  },
  {
   "key": "YTU",
@@ -1279,7 +1378,8 @@
     "url": "/zfcgzx/zbgg.htm",
     "label": "招标公告"
    }
-  ]
+  ],
+  "fr": "Université de Yantai"
  },
  {
   "key": "CCUT",
@@ -1292,7 +1392,8 @@
     "url": "/cggg.htm",
     "label": "采购公告"
    }
-  ]
+  ],
+  "fr": "Université de technologie de Changchun"
  },
  {
   "key": "GDOU",
@@ -1305,7 +1406,8 @@
     "url": "/kstd/zbxx.htm",
     "label": "招标信息"
    }
-  ]
+  ],
+  "fr": "Université océanique du Guangdong"
  },
  {
   "key": "ECJTU",
@@ -1318,7 +1420,8 @@
     "url": "/zbgg/hwl.htm",
     "label": "招标公告·货物"
    }
-  ]
+  ],
+  "fr": "Université Jiaotong de Chine orientale"
  },
  {
   "key": "JXUST",
@@ -1331,14 +1434,16 @@
     "url": "/jxustn/zbgg.htm",
     "label": "招标公告"
    }
-  ]
+  ],
+  "fr": "Université des sciences et technologies du Jiangxi"
  },
  {
   "key": "BNU",
   "zh": "北师大",
   "en": "Beijing Normal U",
   "kind": "sfw",
-  "url": "https://cg.bnu.edu.cn/sfw_cms/e?page=cms.index"
+  "url": "https://cg.bnu.edu.cn/sfw_cms/e?page=cms.index",
+  "fr": "Université normale de Pékin"
  },
  {
   "key": "CUGB",
@@ -1346,21 +1451,24 @@
   "en": "China U of Geosciences (Beijing)",
   "kind": "sfw",
   "url": "https://zbcg.cugb.edu.cn/sfw2/e?page=cms.index",
-  "prefix": "sfw2"
+  "prefix": "sfw2",
+  "fr": "Université des géosciences de Chine (Pékin)"
  },
  {
   "key": "HBU",
   "zh": "河北大学",
   "en": "Hebei U",
   "kind": "sfw",
-  "url": "https://zcgl.hbu.edu.cn/sfw_cms/e?page=cms.index"
+  "url": "https://zcgl.hbu.edu.cn/sfw_cms/e?page=cms.index",
+  "fr": "Université du Hebei"
  },
  {
   "key": "NEFU",
   "zh": "东北林业",
   "en": "Northeast Forestry U",
   "kind": "sfw",
-  "url": "https://zbb.nefu.edu.cn/sfw_cms/e?page=cms.index"
+  "url": "https://zbb.nefu.edu.cn/sfw_cms/e?page=cms.index",
+  "fr": "Université forestière du Nord-Est"
  },
  {
   "key": "CPU",
@@ -1377,7 +1485,8 @@
     "url": "/zxcg/index.chtml",
     "label": "自行采购"
    }
-  ]
+  ],
+  "fr": "Université pharmaceutique de Chine"
  },
  {
   "key": "CSUFT",
@@ -1390,7 +1499,8 @@
     "url": "/cggg.htm",
     "label": "采购公告"
    }
-  ]
+  ],
+  "fr": "Université forestière et technologique du Centre-Sud"
  },
  {
   "key": "GXNU",
@@ -1403,7 +1513,8 @@
     "url": "/cgglzx/list.htm",
     "label": "采购公告"
    }
-  ]
+  ],
+  "fr": "Université normale du Guangxi"
  },
  {
   "key": "HTU",
@@ -1416,7 +1527,8 @@
     "url": "/zbycgxx/list.htm",
     "label": "招标与采购信息"
    }
-  ]
+  ],
+  "fr": "Université normale du Henan"
  },
  {
   "key": "HZAU",
@@ -1429,7 +1541,8 @@
     "url": "/cggg/jzcg.htm",
     "label": "集中采购公告"
    }
-  ]
+  ],
+  "fr": "Université agricole de Huazhong"
  },
  {
   "key": "NENU",
@@ -1446,7 +1559,8 @@
     "url": "/",
     "label": "政府采购与招标"
    }
-  ]
+  ],
+  "fr": "Université normale du Nord-Est"
  },
  {
   "key": "SDNU",
@@ -1459,7 +1573,8 @@
     "url": "/cggg/hwl.htm",
     "label": "采购公告·货物"
    }
-  ]
+  ],
+  "fr": "Université normale du Shandong"
  },
  {
   "key": "ZAFU",
@@ -1472,7 +1587,8 @@
     "url": "/cggg.htm",
     "label": "采购公告"
    }
-  ]
+  ],
+  "fr": "Université d’agriculture et de foresterie du Zhejiang"
  },
  {
   "key": "LNU",
@@ -1485,7 +1601,8 @@
     "url": "/zhaobiao.htm",
     "label": "招标公告"
    }
-  ]
+  ],
+  "fr": "Université du Liaoning"
  },
  {
   "key": "HENU",
@@ -1498,7 +1615,8 @@
     "url": "/hwcg/index.chtml",
     "label": "货物采购公告"
    }
-  ]
+  ],
+  "fr": "Université du Henan"
  },
  {
   "key": "NJAU",
@@ -1515,7 +1633,8 @@
     "url": "/fscggg/index.chtml",
     "label": "分散采购公告"
    }
-  ]
+  ],
+  "fr": "Université agricole de Nankin"
  },
  {
   "key": "QFNU",
@@ -1532,7 +1651,8 @@
     "url": "/ztzx/zbgg1.htm",
     "label": "采购公告"
    }
-  ]
+  ],
+  "fr": "Université normale de Qufu"
  },
  {
   "key": "SDAU",
@@ -1549,7 +1669,8 @@
     "url": "/932/list.htm",
     "label": "采购公告"
    }
-  ]
+  ],
+  "fr": "Université agricole du Shandong"
  },
  {
   "key": "JLAU",
@@ -1562,7 +1683,8 @@
     "url": "/index/xxcggg.htm",
     "label": "校内采购公告"
    }
-  ]
+  ],
+  "fr": "Université agricole du Jilin"
  },
  {
   "key": "YNNU",
@@ -1575,7 +1697,8 @@
     "url": "/qbgg.htm",
     "label": "全部公告"
    }
-  ]
+  ],
+  "fr": "Université normale du Yunnan"
  },
  {
   "key": "SWFU",
@@ -1588,7 +1711,8 @@
     "url": "/xxgk1/cgxx.htm",
     "label": "采购信息"
    }
-  ]
+  ],
+  "fr": "Université forestière du Sud-Ouest"
  },
  {
   "key": "FAFU",
@@ -1605,7 +1729,8 @@
     "url": "/page/infoList.jsp?id=6",
     "label": "招标信息"
    }
-  ]
+  ],
+  "fr": "Université d’agriculture et de foresterie du Fujian"
  },
  {
   "key": "HAINNU",
@@ -1618,7 +1743,8 @@
     "url": "/1184/list.htm",
     "label": "采购信息"
    }
-  ]
+  ],
+  "fr": "Université normale de Hainan"
  },
  {
   "key": "HKU",
@@ -1626,7 +1752,8 @@
   "en": "HKU",
   "kind": "table",
   "org": "hk",
-  "url": "https://www.feo.hku.hk/finance/open-tender"
+  "url": "https://www.feo.hku.hk/finance/open-tender",
+  "fr": "Université de Hong Kong"
  },
  {
   "key": "HKBU",
@@ -1634,7 +1761,8 @@
   "en": "HKBU",
   "kind": "table",
   "org": "hk",
-  "url": "https://fohome.hkbu.edu.hk/for-suppliers/information/tender-notice.html"
+  "url": "https://fohome.hkbu.edu.hk/for-suppliers/information/tender-notice.html",
+  "fr": "Université baptiste de Hong Kong"
  },
  {
   "key": "EDUHK",
@@ -1642,7 +1770,8 @@
   "en": "EdUHK",
   "kind": "table",
   "org": "hk",
-  "url": "https://www.eduhk.hk/tender_notice/index.php"
+  "url": "https://www.eduhk.hk/tender_notice/index.php",
+  "fr": "Université de l’éducation de Hong Kong"
  },
  {
   "key": "AIRCAS",
@@ -1656,7 +1785,8 @@
     "label": "通知公告"
    }
   ],
-  "org": "institute"
+  "org": "institute",
+  "fr": "Institut de recherche en information aérospatiale (CAS)"
  },
  {
   "key": "CIOMP",
@@ -1670,7 +1800,8 @@
     "label": "通知公告"
    }
   ],
-  "org": "institute"
+  "org": "institute",
+  "fr": "Institut d’optique de Changchun (CAS, CIOMP)"
  },
  {
   "key": "SITP",
@@ -1684,7 +1815,8 @@
     "label": "公告通知"
    }
   ],
-  "org": "institute"
+  "org": "institute",
+  "fr": "Institut de physique technique de Shanghai (CAS)"
  },
  {
   "key": "NAOC",
@@ -1698,7 +1830,8 @@
     "label": "通知公告"
    }
   ],
-  "org": "institute"
+  "org": "institute",
+  "fr": "Observatoires astronomiques nationaux (CAS)"
  },
  {
   "key": "IOA",
@@ -1712,7 +1845,8 @@
     "label": "通知公告"
    }
   ],
-  "org": "institute"
+  "org": "institute",
+  "fr": "Institut d’acoustique (CAS)"
  },
  {
   "key": "QIBEBT",
@@ -1726,6 +1860,7 @@
     "label": "通知公告"
    }
   ],
-  "org": "institute"
+  "org": "institute",
+  "fr": "Institut de bioénergie de Qingdao (CAS)"
  }
 ]

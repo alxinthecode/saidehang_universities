@@ -48,7 +48,9 @@
     "titleEn": "Bio atomic force microscope upgrade module (WLU-FW-KS-WM-2026-0224)",
     "noteEn": "",
     "titleFr": "Module d'extension pour microscope à force atomique biologique (WLU-FW-KS-WM-2026-0224)",
-    "noteFr": ""
+    "noteFr": "",
+    "snippetEn": "AFM upgrade: irregular scan areas; automatic Z-motor adjustment to make full use of the piezo travel. 14-month warranty.",
+    "snippetFr": "Mise à niveau AFM : zones de balayage irrégulières ; réglage automatique du moteur Z pour exploiter toute la course piézo. Garantie 14 mois."
   },
   {
     "_id": "SZTU-SZTUWSJJ2600359",
@@ -73,7 +75,9 @@
     "titleEn": "Femtosecond laser smart machining controller (SZTUWSJJ2600359)",
     "noteEn": "",
     "titleFr": "Contrôleur d'usinage laser femtoseconde intelligent (SZTUWSJJ2600359)",
-    "noteFr": ""
+    "noteFr": "",
+    "snippetEn": "1 controller, budget CNY 285,000. Machining software triggers the laser and galvo scan path from the stage position signal; Lua scripting.",
+    "snippetFr": "1 contrôleur, budget 285 000 CNY. Le logiciel déclenche le laser et le balayage galvo à partir du signal de position de la platine ; scripts Lua."
   },
   {
     "_id": "SZTU-SZTUWSJJ2600357",
@@ -123,7 +127,11 @@
     "titleEn": "Tianjin Int'l Center for Nanoparticles & Nanosystems: high-precision 3-axis motorized stage system (competitive negotiation)",
     "noteEn": "",
     "titleFr": "Centre international nanoparticules et nanosystèmes de Tianjin : système de platines motorisées 3 axes haute précision (négociation concurrentielle)",
-    "noteFr": ""
+    "noteFr": "",
+    "snippetEn": "22 sets; servo motors, precision guides and linear encoders in full closed loop, sub-micron repeatability; max CNY 80,000 per set; imported products not accepted; delivery within 20 days of contract.",
+    "snippetFr": "22 ensembles ; servomoteurs, guidages de précision et règles optiques en boucle fermée, répétabilité submicronique ; 80 000 CNY max. par ensemble ; produits importés refusés ; livraison sous 20 jours après le contrat.",
+    "budgetEn": "CNY 1,760,000 (22 sets, max CNY 80,000 each)",
+    "budgetFr": "1 760 000 CNY (22 ensembles, 80 000 CNY max. chacun)"
   },
   {
     "_id": "SZTU-SZTUWSJJ2600361",
@@ -148,7 +156,9 @@
     "titleEn": "Sub-micron imaging high-speed fly-scan platform (SZTUWSJJ2600361)",
     "noteEn": "",
     "titleFr": "Plateforme d'imagerie submicronique à balayage rapide (SZTUWSJJ2600361)",
-    "noteFr": ""
+    "noteFr": "",
+    "snippetEn": "1 platform, budget CNY 424,000. Grade-00 granite precision motion stage with porous ceramic chuck (flatness < 3 µm); XY travel > 250 mm, Z > 150 mm; XYZ repeatability ≤ 0.5 µm.",
+    "snippetFr": "1 plateforme, budget 424 000 CNY. Platine de précision sur granit grade 00, plateau céramique poreux (planéité < 3 µm) ; course XY > 250 mm, Z > 150 mm ; répétabilité XYZ ≤ 0,5 µm."
   },
   {
     "_id": "JLU-JLU-KC26053",
@@ -173,7 +183,9 @@
     "titleEn": "Ultrafast laser oscillator (JLU-KC26053)",
     "noteEn": "",
     "titleFr": "Oscillateur laser ultrarapide (JLU-KC26053)",
-    "noteFr": ""
+    "noteFr": "",
+    "snippetEn": "Laser specs: beam divergence < 1 mrad; beam pointing stability 10 µrad/°C. One-year service, new original product.",
+    "snippetFr": "Caractéristiques laser : divergence < 1 mrad ; stabilité de pointage 10 µrad/°C. Service d’un an, produit neuf d’origine."
   },
   {
     "budget": "66万元",
@@ -188,7 +200,7 @@
     "published": "2026-10-14",
     "school": "TJU",
     "snippet": "22 套，单轴直线运动定位装置，精密丝杠/直线电机+闭环反馈；每套限价 3 万元；不接受进口产品；10 月 19 日前获取磋商文件",
-    "snippetEn": "Single-axis linear positioning unit with precision lead screw or linear motor and closed-loop feedback. Imported products are not accepted.",
+    "snippetEn": "22 sets; single-axis linear stage with precision lead screw or linear motor and closed-loop feedback; max CNY 30,000 per set; imported products not accepted; documents until Oct 19.",
     "status": "new",
     "strong": [],
     "tier": "weak",
@@ -201,7 +213,7 @@
     "_id": "TJU-TDZC2026N0110",
     "titleFr": "Centre international nanoparticules et nanosystèmes de Tianjin : platine motorisée 1 axe haute précision (négociation rapide)",
     "noteFr": "Platine à vis ou moteur linéaire, prix unitaire bas. Produits importés refusés, et réduction de prix de 20 % pour les produits chinois. Ne correspond pas directement à Cedrat. Dossier disponible jusqu'au 19 octobre.",
-    "snippetFr": "Unité de positionnement linéaire 1 axe, vis de précision ou moteur linéaire, asservissement en boucle fermée. Produits importés refusés.",
+    "snippetFr": "22 ensembles ; platine linéaire 1 axe à vis de précision ou moteur linéaire, asservie en boucle fermée ; 30 000 CNY max. par ensemble ; produits importés refusés ; dossier jusqu’au 19 octobre.",
     "budgetFr": "660 000 CNY (22 unités, 30 000 CNY max. chacune)"
   },
   {
@@ -227,7 +239,9 @@
     "titleEn": "In-situ electrochemistry visualization extended-depth-of-field system (SZTUWSJJ2600325)",
     "noteEn": "",
     "titleFr": "Système de visualisation électrochimique in situ à grande profondeur de champ (SZTUWSJJ2600325)",
-    "noteFr": ""
+    "noteFr": "",
+    "snippetEn": "Lighting with four independent zones. 3-axis motorized multi-angle stage: lens stage travel ≥ 100 mm, tilt ±90°, 1° tilt sensor; removable Z scan stage.",
+    "snippetFr": "Éclairage à quatre zones indépendantes. Platine motorisée 3 axes multi-angle : course ≥ 100 mm, inclinaison ±90°, capteur d’inclinaison 1° ; platine Z amovible."
   },
   {
     "_id": "SCU-ZBZXFB2026009",
@@ -252,7 +266,9 @@
     "titleEn": "Scanning probe microscope repair (ZBZXFB2026009)",
     "noteEn": "",
     "titleFr": "Réparation d'un microscope à sonde locale (ZBZXFB2026009)",
-    "noteFr": ""
+    "noteFr": "",
+    "snippetEn": "Repair and maintenance, budget CNY 180,000. After repair: piezo XY closed-loop noise < 100 pm, Z < 60 pm; AC detection bandwidth ≥ 6 MHz.",
+    "snippetFr": "Réparation et maintenance, budget 180 000 CNY. Après réparation : bruit en boucle fermée piézo XY < 100 pm, Z < 60 pm ; bande passante AC ≥ 6 MHz."
   },
   {
     "_id": "CUGB-2026112010990",
@@ -378,7 +394,9 @@
     "titleEn": "Atomic force microscope (WLU-HW-KS-NM-2026-1225)",
     "noteEn": "",
     "titleFr": "Microscope à force atomique (WLU-HW-KS-NM-2026-1225)",
-    "noteFr": ""
+    "noteFr": "",
+    "snippetEn": "Modes: tapping, contact, magnetic, electrostatic, Kelvin probe and piezoresponse force microscopy; automatic tip approach; separate closed-loop X, Y, Z axes.",
+    "snippetFr": "Modes : contact intermittent, contact, magnétique, électrostatique, Kelvin et microscopie à force piézoélectrique ; approche automatique de la pointe ; axes X, Y, Z séparés en boucle fermée."
   },
   {
     "budget": "",
@@ -428,7 +446,9 @@
     "titleEn": "Single-point laser vibrometer (WLU-HW-KS-WM-2026-0203)",
     "noteEn": "",
     "titleFr": "Vibromètre laser monopoint (WLU-HW-KS-WM-2026-0203)",
-    "noteFr": ""
+    "noteFr": "",
+    "snippetEn": "Acceptance test: 20 V burst signal with a piezo disc as exciter, 60 kHz high-pass filter, three 1 MHz runs on the user’s sample.",
+    "snippetFr": "Test de réception : salve de 20 V avec un disque piézo comme excitateur, filtre passe-haut 60 kHz, trois essais à 1 MHz sur l’échantillon de l’utilisateur."
   },
   {
     "budget": "",
@@ -476,9 +496,11 @@
     "note": "",
     "firstSeen": "2026-10-17",
     "titleEn": "Diode DC sputtering multi-function coater (SZTUWSJJ2600275)",
-    "noteEn": "Matched on 压电 in the text; may be a false hit.",
+    "noteEn": "Matched only because the text mentions a quartz (piezo) thickness monitor; probably not relevant.",
     "titleFr": "Dépôt multifonction par pulvérisation DC diode (SZTUWSJJ2600275)",
-    "noteFr": "Détecté sur « 压电 » dans le texte ; peut-être un faux positif."
+    "noteFr": "Détecté seulement parce que le texte mentionne un moniteur d’épaisseur à quartz (piézo) ; sans doute hors cible.",
+    "snippetEn": "Molecular pump; water-cooled targets; one QCM (quartz crystal) thickness monitor, 0.1 Å resolution, 6 MHz gold-plated crystals.",
+    "snippetFr": "Pompe moléculaire ; cibles refroidies à l’eau ; un moniteur d’épaisseur à quartz (QCM), résolution 0,1 Å, quartz dorés 6 MHz."
   },
   {
     "budget": "",
