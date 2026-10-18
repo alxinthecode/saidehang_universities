@@ -427,8 +427,8 @@
       "oldest": "2026-03-05"
     },
     "NAOC": {
-      "scanned": 14,
-      "oldest": "2026-01-30"
+      "scanned": 15,
+      "oldest": "2026-01-28"
     },
     "QIBEBT": {
       "scanned": 24,
@@ -577,7 +577,7 @@
       "url": "https://cgzx.hit.edu.cn/sfw_cms/e?page=cms.news2"
     }
   ],
-  "lastRun": "2026-10-18T04:24",
+  "lastRun": "2026-10-18T13:09",
   "lastResults": [
     {
       "school": "THU",
@@ -664,8 +664,9 @@
     },
     {
       "school": "DLMU",
-      "ok": false,
-      "error": "page.goto: Timeout 60000ms exceeded. (after retry)"
+      "ok": true,
+      "scanned": 100,
+      "matches": 0
     },
     {
       "school": "HUST",
@@ -963,8 +964,9 @@
     },
     {
       "school": "NUC",
-      "ok": false,
-      "error": "page.goto: net::ERR_CONNECTION_REFUSED at https://zbcg.nuc.edu.cn/cgxx/hwl.htm (after retry)"
+      "ok": true,
+      "scanned": 15,
+      "matches": 1
     },
     {
       "school": "OUC",
@@ -979,8 +981,9 @@
     },
     {
       "school": "HRBUST",
-      "ok": false,
-      "error": "page.goto: Timeout 60000ms exceeded. (after retry)"
+      "ok": true,
+      "scanned": 14,
+      "matches": 0
     },
     {
       "school": "NANKAI",
@@ -1002,14 +1005,14 @@
     },
     {
       "school": "SWPU",
-      "ok": false,
-      "error": "page.goto: Timeout 60000ms exceeded. (after retry)"
+      "ok": true,
+      "scanned": 20,
+      "matches": 0
     },
     {
       "school": "XAUAT",
-      "ok": true,
-      "scanned": 15,
-      "matches": 0
+      "ok": false,
+      "error": "page.goto: Timeout 60000ms exceeded. (after retry)"
     },
     {
       "school": "XJU",
@@ -1115,8 +1118,9 @@
     },
     {
       "school": "SIT",
-      "ok": false,
-      "error": "page.goto: Timeout 60000ms exceeded. (after retry)"
+      "ok": true,
+      "scanned": 10,
+      "matches": 0
     },
     {
       "school": "STU",
@@ -1367,7 +1371,7 @@
     {
       "school": "NAOC",
       "ok": true,
-      "scanned": 14,
+      "scanned": 15,
       "matches": 0
     },
     {
