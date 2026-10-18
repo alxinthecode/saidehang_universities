@@ -97,7 +97,7 @@ for (const r of results.filter(r => r.ok)) {
   for (const row of r.rows) {
     const cur = byId.get(row._id);
     if (!cur) {
-      const fresh = { ...row, titleEn: '', noteEn: '' };
+      const fresh = { ...row, titleEn: '', noteEn: '', titleFr: '', noteFr: '' };
       byId.set(row._id, fresh);
       added.push(fresh);
     } else {

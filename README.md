@@ -8,7 +8,7 @@ Tracks procurement announcements from 126 Chinese university platforms and 6 CAS
 
 | Path | Purpose |
 |---|---|
-| `index.html` | The dashboard. Chinese/English switch (top right, or add `#en` to the URL). |
+| `index.html` | The dashboard. Chinese / English / French switch (top right, or add `#en` or `#fr` to the URL). |
 | `data/notices.json` | Snapshot of matched announcements (title, link, deadline, budget, import flag, matched keywords, notes in Chinese and English). |
 | `data/meta.json` | Scan date and how far back each platform was covered. |
 | `scraper/sites.json` | The list of universities and how each one is read. Add a university here. |

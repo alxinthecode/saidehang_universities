@@ -104,7 +104,7 @@ td a{color:var(--accent)}
     <h1><small>赛得航科技 · Cedrat Technologies</small><span data-i="h1"></span></h1>
     <div class="hright">
       <div class="lang" role="group" aria-label="Language">
-        <button id="lang-zh" data-lang="zh">中文</button><button id="lang-en" data-lang="en">English</button>
+        <button id="lang-zh" data-lang="zh">中文</button><button id="lang-en" data-lang="en">English</button><button id="lang-fr" data-lang="fr">Français</button>
       </div>
       <div class="scanline" id="scanline"></div>
       <a class="refresh" id="refresh" href="https://github.com/alxinthecode/saidehang_universities/actions/workflows/scan.yml" target="_blank" rel="noopener" hidden><span data-i="refresh"></span></a>
@@ -171,12 +171,24 @@ const T={
   allSchools:n=>'All sources ('+n+')',grpUni:'Mainland universities',grpHK:'Hong Kong universities',grpInst:'Research institutes',refresh:'Refresh scan',refreshHint:'Opens the scan job on GitHub: click “Run workflow”. Reload this page in about 5 minutes to see new data.',lastFail:'Last scan failed: ',lastRun:'Last scan ',bj:' (Beijing time)',notYet:'Not scanned yet',items:' items',
   loading:'Loading tenders…',none:'No tenders yet. Each scan adds matching announcements here.',noMatch:'No tenders match these filters. Try clearing “Open only” or the university filter.',
   noDb:'This view can’t read the tender data. Sign in to claude.ai and open the page again.',readErr:c=>'Couldn’t load tenders ('+c+'). Refresh the page.',statusLabel:'Follow-up status',
-  status:{new:'New',watch:'Watching',bid:'Preparing bid',skip:'Not a fit'}}
+  status:{new:'New',watch:'Watching',bid:'Preparing bid',skip:'Not a fit'}},
+ fr:{h1:'Veille des appels d’offres universités & instituts',sOpen:'Appels d’offres ouverts correspondants',sStrong:'Correspondances fortes (produits Cedrat)',sWeak:'Correspondances faibles (pistes)',sImp:'Importations explicitement autorisées',sTotal:'Total des correspondances',
+  fOpen:'Ouverts seulement',fStrong:'Fortes seulement',fWeak:'Faibles seulement',fHide:'Masquer « Hors cible »',q:'Rechercher titre, mot-clé, n° d’appel',
+  srcH:'Sources et couverture',thSchool:'Source',thPlat:'Plateforme',thScan:'Dernier scan',thBack:'Remonte jusqu’au',thNote:'Remarques',
+  ruleH:'Règles de correspondance',kwStrongH:'Forte : l’appel d’offres cite un produit vendu par Cedrat',kwWeakH:'Faible : simple piste (instrument contenant des pièces piézo, terme système), à vérifier',
+  ruleNote:'Les termes sont recherchés dans le titre et, quand il est publié, dans le texte complet de l’avis (certaines universités ne publient que le titre ; voir le tableau ci-dessus). Les avis d’attribution, de résultat et de contrat sont ignorés. Les faux positifs comme 高压电缆 (câble haute tension) sont exclus ; les platines motorisées restent des pistes faibles (pas de piézo) ; les tables d’isolation passive, les scanners galvo et les plateformes 6 axes ne sont pas comptés. La colonne importation reprend ce que dit l’avis sur les produits importés. Les produits Cedrat sont importés : un appel marqué « Importations refusées » demande un partenaire local ou doit être écarté. Les universités de Hong Kong ne sont pas soumises aux règles chinoises de préférence nationale : les produits importés peuvent répondre directement. Les avis des instituts viennent de leur page d’annonces ; les instituts achètent en général sans annonce publique en dessous de 100 000 CNY, seuls les achats plus importants apparaissent ici.',
+  impYes:'Importations autorisées',impNo:'Importations refusées',impUnk:'Importations non précisées',budget:'Budget ',note:'Remarque : ',published:'publié',closed:'clos',today:'Aujourd’hui',days:n=>n+(n<=1?' jour':' jours'),due:'Clôture ',
+  allSchools:n=>'Toutes les sources ('+n+')',grpUni:'Universités (Chine continentale)',grpHK:'Universités de Hong Kong',grpInst:'Instituts de recherche',refresh:'Relancer le scan',refreshHint:'Ouvre la tâche de scan sur GitHub : cliquez sur « Run workflow ». Rechargez cette page dans environ 5 minutes pour voir les nouvelles données.',lastFail:'Échec du dernier scan : ',lastRun:'Dernier scan ',bj:' (heure de Pékin)',notYet:'Pas encore scanné',items:' avis',
+  loading:'Chargement des appels d’offres…',none:'Aucun appel d’offres pour l’instant. Chaque scan ajoute ici les avis correspondants.',noMatch:'Aucun appel d’offres ne correspond à ces filtres. Essayez de retirer « Ouverts seulement » ou le filtre de source.',
+  noDb:'Cette vue ne peut pas lire les données. Connectez-vous à claude.ai et rouvrez la page.',readErr:c=>'Chargement impossible ('+c+'). Rechargez la page.',statusLabel:'Suivi',
+  status:{new:'Nouveau',watch:'À suivre',bid:'Offre en préparation',skip:'Hors cible'}}
 };
-const STRONG=['快反镜','快速反射镜','快速控制反射镜','快速偏转镜','快速倾斜镜','精跟踪镜','精瞄镜','压电促动器','压电陶瓷促动器','压电陶瓷驱动器','压电作动器','压电致动器','压电执行器','压电陶瓷执行器','压电叠堆','压电陶瓷堆','叠层压电','压电堆栈','压电位移台','纳米位移台','纳米定位台','压电扫描台','压电平台','压电纳米','压电偏摆台','压电倾斜台','压电偏转镜','tip-tilt','tip tilt','压电快门','压电电机','压电马达','压电直线电机','压电驱动电源','压电陶瓷驱动电源','压电放大器','压电功率放大器','压电控制器','压电陶瓷控制器','压电驱动器','压电驱动模块','电磁作动器','磁驱作动器','动铁作动器','惯性作动器','主动减振作动器','电涡流位移传感器','电涡流传感器','fast steering','fsm'];
-const WEAK=['压电','piezo','纳米位移','纳米定位','微位移','位移台','精密定位','倾斜镜','摆镜','偏摆台','指向镜','指向机构','促动器','致动器','作动器','音圈','磁致伸缩','激振器','主动隔振','主动减振','自适应光学','变形镜','稳像','光束稳定','光束指向','高压放大器','电容位移传感器','电动平台','电动位移台','电控位移台','电动平移台','精密运动平台'];
+const STRONG=['快反镜','快速反射镜','快速控制反射镜','快速偏转镜','快速倾斜镜','精跟踪镜','精瞄镜','压电促动器','压电陶瓷促动器','压电陶瓷驱动器','压电作动器','压电致动器','压电执行器','压电陶瓷执行器','压电叠堆','压电陶瓷堆','叠层压电','压电堆栈','压电位移台','纳米位移台','纳米定位台','压电扫描台','压电平台','压电纳米','压电偏摆台','压电倾斜台','压电偏转镜','tip-tilt','tip tilt','压电快门','压电电机','压电马达','压电直线电机','压电驱动电源','压电陶瓷驱动电源','压电放大器','压电功率放大器','压电控制器','压电陶瓷控制器','压电驱动器','压电驱动模块','电磁作动器','磁驱作动器','动铁作动器','惯性作动器','主动减振作动器','电涡流位移传感器','电涡流传感器','fast steering','fsm','piezo actuator','piezoelectric actuator','piezo stack','piezo stage','piezo motor','piezo controller','piezo driver','piezo amplifier','nanopositioning','nano-positioning','nanopositioner','steering mirror','tip/tilt','piezo shutter','eddy current sensor','eddy-current sensor'];
+const WEAK=['压电','piezo','纳米位移','纳米定位','微位移','位移台','精密定位','倾斜镜','摆镜','偏摆台','指向镜','指向机构','促动器','致动器','作动器','音圈','磁致伸缩','激振器','主动隔振','主动减振','自适应光学','变形镜','稳像','光束稳定','光束指向','高压放大器','电容位移传感器','电动平台','电动位移台','电控位移台','电动平移台','精密运动平台','actuator','positioning stage','linear stage','translation stage','motorized stage','motorised stage','micropositioning','adaptive optics','deformable mirror','active vibration','image stabili','beam stabili','beam steering','vibration exciter','shaker','voice coil'];
 const KW_EN={"压电": "piezo", "纳米位移": "nano-displacement", "纳米定位": "nano-positioning", "微位移": "micro-displacement", "位移台": "positioning stage", "精密定位": "precision positioning", "倾斜镜": "tilt mirror", "摆镜": "steering mirror", "偏摆台": "tip-tilt stage", "指向镜": "pointing mirror", "指向机构": "pointing mechanism", "促动器": "actuator", "致动器": "actuator", "作动器": "actuator", "音圈": "voice coil", "磁致伸缩": "magnetostrictive", "激振器": "exciter", "主动隔振": "active isolation", "主动减振": "active damping", "自适应光学": "adaptive optics", "变形镜": "deformable mirror", "稳像": "image stabilization", "光束稳定": "beam stabilization", "光束指向": "beam pointing", "高压放大器": "HV amplifier", "电容位移传感器": "capacitive displacement sensor", "快反镜": "FSM", "快速反射镜": "fast steering mirror", "快速控制反射镜": "fast steering mirror", "快速偏转镜": "fast steering mirror", "快速倾斜镜": "fast tilt mirror", "精跟踪镜": "fine tracking mirror", "精瞄镜": "fine pointing mirror", "压电促动器": "piezo actuator", "压电陶瓷促动器": "piezo actuator", "压电陶瓷驱动器": "piezo actuator", "压电作动器": "piezo actuator", "压电致动器": "piezo actuator", "压电执行器": "piezo actuator", "压电陶瓷执行器": "piezo actuator", "压电叠堆": "piezo stack", "压电陶瓷堆": "piezo stack", "叠层压电": "piezo stack", "压电堆栈": "piezo stack", "压电位移台": "piezo stage", "纳米位移台": "nanopositioning stage", "纳米定位台": "nanopositioning stage", "压电扫描台": "piezo scan stage", "压电平台": "piezo stage", "压电纳米": "piezo nanopositioner", "压电偏摆台": "piezo tip-tilt", "压电倾斜台": "piezo tip-tilt", "压电偏转镜": "piezo tilt mirror", "tip-tilt": "tip-tilt", "tip tilt": "tip-tilt", "压电快门": "piezo shutter", "压电电机": "piezo motor", "压电马达": "piezo motor", "压电直线电机": "linear piezo motor", "压电驱动电源": "piezo driver", "压电陶瓷驱动电源": "piezo driver", "压电放大器": "piezo amplifier", "压电功率放大器": "piezo amplifier", "压电控制器": "piezo controller", "压电陶瓷控制器": "piezo controller", "压电驱动器": "piezo driver", "压电驱动模块": "piezo driver module", "电磁作动器": "electromagnetic actuator", "磁驱作动器": "magnetic actuator", "动铁作动器": "moving-iron actuator", "惯性作动器": "inertial actuator", "主动减振作动器": "active damping actuator", "电涡流位移传感器": "eddy current sensor", "电涡流传感器": "eddy current sensor", "piezo": "piezo", "fast steering": "fast steering mirror", "fsm": "FSM","电动平台": "motorized stage","电动位移台": "motorized stage","电控位移台": "motorized stage","电动平移台": "motorized stage","精密运动平台": "precision motion stage"};
-const METHOD_EN={'公开招标':'Open tender','快速磋商':'Rapid negotiation','竞争性磋商':'Competitive negotiation','竞争性谈判':'Competitive negotiation','网上比选':'Online comparison','网上竞价':'Online bidding','科研快采':'Research fast-track','快速采购':'Rapid procurement','线下比选(B)':'Offline comparison','单一来源':'Single source','校定采购':'University-run purchase','邀请招标':'Invited tender'};
+const KW_FR={"压电": "piézo", "纳米位移": "nano-déplacement", "纳米定位": "nanopositionnement", "微位移": "micro-déplacement", "位移台": "platine de positionnement", "精密定位": "positionnement de précision", "倾斜镜": "miroir basculant", "摆镜": "miroir orientable", "偏摆台": "platine tip-tilt", "指向镜": "miroir de pointage", "指向机构": "mécanisme de pointage", "促动器": "actionneur", "致动器": "actionneur", "作动器": "actionneur", "音圈": "bobine mobile", "磁致伸缩": "magnétostrictif", "激振器": "excitateur", "主动隔振": "isolation active", "主动减振": "amortissement actif", "自适应光学": "optique adaptative", "变形镜": "miroir déformable", "稳像": "stabilisation d'image", "光束稳定": "stabilisation de faisceau", "光束指向": "pointage de faisceau", "高压放大器": "amplificateur HT", "电容位移传感器": "capteur capacitif de déplacement", "快反镜": "FSM", "快速反射镜": "miroir à orientation rapide (FSM)", "快速控制反射镜": "miroir à orientation rapide (FSM)", "快速偏转镜": "miroir à orientation rapide (FSM)", "快速倾斜镜": "miroir basculant rapide", "精跟踪镜": "miroir de poursuite fine", "精瞄镜": "miroir de pointage fin", "压电促动器": "actionneur piézo", "压电陶瓷促动器": "actionneur piézo", "压电陶瓷驱动器": "actionneur piézo", "压电作动器": "actionneur piézo", "压电致动器": "actionneur piézo", "压电执行器": "actionneur piézo", "压电陶瓷执行器": "actionneur piézo", "压电叠堆": "empilement piézo", "压电陶瓷堆": "empilement piézo", "叠层压电": "empilement piézo", "压电堆栈": "empilement piézo", "压电位移台": "platine piézo", "纳米位移台": "platine de nanopositionnement", "纳米定位台": "platine de nanopositionnement", "压电扫描台": "platine de balayage piézo", "压电平台": "platine piézo", "压电纳米": "nanopositionneur piézo", "压电偏摆台": "tip-tilt piézo", "压电倾斜台": "tip-tilt piézo", "压电偏转镜": "miroir basculant piézo", "tip-tilt": "tip-tilt", "tip tilt": "tip-tilt", "压电快门": "obturateur piézo", "压电电机": "moteur piézo", "压电马达": "moteur piézo", "压电直线电机": "moteur piézo linéaire", "压电驱动电源": "alimentation piézo", "压电陶瓷驱动电源": "alimentation piézo", "压电放大器": "amplificateur piézo", "压电功率放大器": "amplificateur piézo", "压电控制器": "contrôleur piézo", "压电陶瓷控制器": "contrôleur piézo", "压电驱动器": "alimentation piézo", "压电驱动模块": "module de commande piézo", "电磁作动器": "actionneur électromagnétique", "磁驱作动器": "actionneur magnétique", "动铁作动器": "actionneur à fer mobile", "惯性作动器": "actionneur inertiel", "主动减振作动器": "actionneur d'amortissement actif", "电涡流位移传感器": "capteur à courants de Foucault", "电涡流传感器": "capteur à courants de Foucault", "piezo": "piézo", "fast steering": "miroir à orientation rapide (FSM)", "fsm": "FSM", "电动平台": "platine motorisée", "电动位移台": "platine motorisée", "电控位移台": "platine motorisée", "电动平移台": "platine motorisée", "精密运动平台": "platine de mouvement de précision"};
+const METHOD_FR={'快速竞价':'Enchère rapide','公开招标':"Appel d'offres ouvert",'快速磋商':'Négociation rapide','竞争性磋商':'Négociation concurrentielle','竞争性谈判':'Négociation concurrentielle','网上比选':'Comparaison en ligne','网上竞价':'Enchère en ligne','科研快采':'Achat rapide recherche','快速采购':'Achat rapide','线下比选(B)':'Comparaison hors ligne','单一来源':'Fournisseur unique','校定采购':"Achat géré par l'université",'邀请招标':"Appel d'offres restreint"};
+const METHOD_EN={'快速竞价':'Rapid bidding','公开招标':'Open tender','快速磋商':'Rapid negotiation','竞争性磋商':'Competitive negotiation','竞争性谈判':'Competitive negotiation','网上比选':'Online comparison','网上竞价':'Online bidding','科研快采':'Research fast-track','快速采购':'Rapid procurement','线下比选(B)':'Offline comparison','单一来源':'Single source','校定采购':'University-run purchase','邀请招标':'Invited tender'};
 let SCHOOLS=[
   {k:'THU',zh:'清华',en:'Tsinghua',url:'https://sbcgczxxfb.sysc.tsinghua.edu.cn'},
   {k:'BUAA',zh:'北航',en:'Beihang',url:'https://zbcg.buaa.edu.cn'},
@@ -190,10 +202,13 @@ const STATUS_KEYS=['new','watch','bid','skip'];
 const state={rows:[],meta:null,f:{open:false,strong:false,weak:false,hideSkip:true},school:'',q:'',lang:'zh',loaded:false,err:''};
 let canWrite=true,db=null;
 try{const s=JSON.parse(localStorage.getItem('tw-filters')||'null');if(s){Object.assign(state.f,s.f||{});if(typeof s.school==='string')state.school=s.school;if(s.lang)state.lang=s.lang;}}catch(e){}
-if(location.hash==='#en')state.lang='en';else if(location.hash==='#zh')state.lang='zh';
+if(['#en','#zh','#fr'].includes(location.hash))state.lang=location.hash.slice(1);
+if(!['zh','en','fr'].includes(state.lang))state.lang='zh';
 function save(){try{localStorage.setItem('tw-filters',JSON.stringify({f:state.f,school:state.school,lang:state.lang}))}catch(e){}}
 const t=()=>T[state.lang];
-const en=()=>state.lang==='en';
+const en=()=>state.lang!=='zh';
+const fr=()=>state.lang==='fr';
+const htmlLang=()=>({zh:'zh-CN',en:'en',fr:'fr'})[state.lang];
 
 const sc=document.getElementById('school');
 sc.onchange=()=>{state.school=sc.value;save();render()};
@@ -211,12 +226,12 @@ function fillSchools(){
 }
 document.querySelectorAll('[data-f]').forEach(b=>b.onclick=()=>{const k=b.dataset.f;state.f[k]=!state.f[k];if(state.f[k]&&k==='strong')state.f.weak=false;if(state.f[k]&&k==='weak')state.f.strong=false;save();paint()});
 document.getElementById('q').addEventListener('input',e=>{state.q=e.target.value.trim().toLowerCase();render()});
-document.querySelectorAll('[data-lang]').forEach(b=>b.onclick=()=>{state.lang=b.dataset.lang;document.documentElement.lang=en()?'en':'zh-CN';save();paint()});
+document.querySelectorAll('[data-lang]').forEach(b=>b.onclick=()=>{state.lang=b.dataset.lang;document.documentElement.lang=htmlLang();save();paint()});
 
 function esc(s){return String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]))}
-const kwLabel=k=>en()&&KW_EN[k]?KW_EN[k]+' ('+k+')':k;
+const kwLabel=k=>{const m=fr()?KW_FR:KW_EN;return en()&&m[k]?(m[k]===k?k:m[k]+' ('+k+')'):k};
 const schoolName=k=>{const s=SCHOOLS.find(x=>x.k===k);return s?(en()?s.en:s.zh):k};
-const methodName=m=>en()?(METHOD_EN[m]||m):m;
+const methodName=m=>fr()?(METHOD_FR[m]||m):en()?(METHOD_EN[m]||m):m;
 const now=()=>Date.now();
 const parseD=s=>{if(!s)return null;s=String(s);const t=Date.parse(s.replace(' ','T')+(s.length<=10?'T23:59:59':'')+'+08:00');return isNaN(t)?null:t};
 function dueInfo(r){
@@ -256,7 +271,7 @@ function render(){
     if(state.f.weak&&r.tier==='strong')return false;
     if(state.f.hideSkip&&r.status==='skip')return false;
     if(state.school&&r.school!==state.school)return false;
-    if(state.q){const kws=[...(r.strong||[]),...(r.weak||[])];const hay=[r.title,r.titleEn,r.no,r.snippet,r.snippetEn,...kws,...kws.map(k=>KW_EN[k]||'')].join(' ').toLowerCase();if(!hay.includes(state.q))return false}
+    if(state.q){const kws=[...(r.strong||[]),...(r.weak||[])];const hay=[r.title,r.titleEn,r.titleFr,r.no,r.snippet,r.snippetEn,r.snippetFr,...kws,...kws.map(k=>KW_EN[k]||''),...kws.map(k=>KW_FR[k]||'')].join(' ').toLowerCase();if(!hay.includes(state.q))return false}
     return true});
   v.sort((a,b)=>(b._due.open-a._due.open)||((parseD(b.published)||0)-(parseD(a.published)||0)));
   if(!v.length){L.innerHTML='<div class="empty">'+esc(t().noMatch)+'</div>';return}
@@ -264,15 +279,17 @@ function render(){
     const imp=r.imports==='允许'?'<span class="pill imp-yes">'+t().impYes+'</span>':r.imports==='不接受'?'<span class="pill imp-no">'+t().impNo+'</span>':'<span class="pill imp-unk">'+t().impUnk+'</span>';
     const kwAll=[...(r.strong||[]),...(r.weak||[])];
     const kws=[...(r.strong||[]).map(k=>'<span class="kw">'+esc(kwLabel(k))+'</span>'),...(r.weak||[]).map(k=>'<span class="kw weak">'+esc(kwLabel(k))+'</span>')].join(' ');
-    const title=en()&&r.titleEn?r.titleEn:r.title;
-    const budget=en()?(r.budgetEn||r.budget):r.budget;
-    const note=en()?(r.noteEn||r.note):r.note;
-    const snip=en()&&r.snippetEn?esc(r.snippetEn):(r.snippet&&r.snippet.length>r.title.length+4?hl(r.snippet,kwAll):'');
+    const tr=fr()?(r.titleFr||r.titleEn):r.titleEn;
+    const title=en()&&tr?tr:r.title;
+    const budget=fr()?(r.budgetFr||r.budgetEn||r.budget):en()?(r.budgetEn||r.budget):r.budget;
+    const note=fr()?(r.noteFr||r.noteEn||r.note):en()?(r.noteEn||r.note):r.note;
+    const snipT=fr()?(r.snippetFr||r.snippetEn):r.snippetEn;
+    const snip=en()&&snipT?esc(snipT):(r.snippet&&r.snippet.length>r.title.length+4?hl(r.snippet,kwAll):'');
     const opts=STATUS_KEYS.map(k=>'<option value="'+k+'"'+((r.status||'new')===k?' selected':'')+'>'+t().status[k]+'</option>').join('');
     return '<article class="row '+(r.tier==='strong'?'strong ':'')+(r._due.open?'':'closed')+'">'+
       '<div class="due '+r._due.cls+'"><b>'+esc(r._due.big)+'</b>'+esc(r._due.small)+'</div>'+
       '<div class="main"><a class="title" href="'+esc(r.url)+'" target="_blank" rel="noopener">'+esc(title)+'</a>'+
-      (en()&&r.titleEn?'<div class="orig">'+esc(r.title)+'</div>':'')+
+      (en()&&tr?'<div class="orig">'+esc(r.title)+'</div>':'')+
       '<div class="meta"><span class="pill school">'+esc(schoolName(r.school))+'</span>'+imp+
       (r.method?'<span>'+esc(methodName(r.method))+'</span>':'')+(budget?'<span>'+esc(t().budget+budget)+'</span>':'')+
       (r.no?'<span class="kw weak">'+esc(r.no)+'</span>':'')+'<span>'+kws+'</span></div>'+
@@ -291,10 +308,10 @@ function renderMeta(){
   if(!m){line.textContent=t().notYet;tb.innerHTML=SCHOOLS.map(s=>'<tr><td>'+esc(en()?s.en:s.zh)+'</td><td>'+link(s.url)+'</td><td class="num">–</td><td class="num">–</td><td></td></tr>').join('');return}
   line.textContent=t().lastRun+(m.lastRun||'').replace('T',' ').slice(0,16)+t().bj;
   const cov=m.coverage||{};
-  tb.innerHTML=SCHOOLS.map(s=>{const c=cov[s.k]||{};const lr=(m.lastResults||[]).find(x=>x.school===s.k);const fail=lr&&!lr.ok?'<div class="fail">'+esc(t().lastFail+(lr.error||''))+'</div>':'';return '<tr><td>'+esc(en()?s.en:s.zh)+'</td><td>'+link(s.url)+'</td><td class="num">'+(c.scanned!=null?c.scanned+t().items:'–')+'</td><td class="num">'+esc(c.oldest||'–')+'</td><td>'+esc(en()?(c.noteEn||c.note||''):(c.note||''))+fail+'</td></tr>'}).join('')+
-    (m.extra||[]).map(x=>'<tr><td>'+esc(en()?(EXTRA_SCHOOL_EN[x.school]||x.school):x.school)+'</td><td><a href="'+esc(x.url)+'" target="_blank" rel="noopener">'+esc(en()?(x.labelEn||x.label):x.label)+'</a></td><td class="num">–</td><td class="num">–</td><td>'+esc(en()?(x.noteEn||x.note):x.note)+'</td></tr>').join('');
+  tb.innerHTML=SCHOOLS.map(s=>{const c=cov[s.k]||{};const lr=(m.lastResults||[]).find(x=>x.school===s.k);const fail=lr&&!lr.ok?'<div class="fail">'+esc(t().lastFail+(lr.error||''))+'</div>':'';return '<tr><td>'+esc(en()?s.en:s.zh)+'</td><td>'+link(s.url)+'</td><td class="num">'+(c.scanned!=null?c.scanned+t().items:'–')+'</td><td class="num">'+esc(c.oldest||'–')+'</td><td>'+esc(fr()?(c.noteFr||c.noteEn||c.note||''):en()?(c.noteEn||c.note||''):(c.note||''))+fail+'</td></tr>'}).join('')+
+    (m.extra||[]).map(x=>'<tr><td>'+esc(en()?(EXTRA_SCHOOL_EN[x.school]||x.school):x.school)+'</td><td><a href="'+esc(x.url)+'" target="_blank" rel="noopener">'+esc(fr()?(x.labelFr||x.labelEn||x.label):en()?(x.labelEn||x.label):x.label)+'</a></td><td class="num">–</td><td class="num">–</td><td>'+esc(fr()?(x.noteFr||x.noteEn||x.note):en()?(x.noteEn||x.note):x.note)+'</td></tr>').join('');
 }
-document.documentElement.lang=en()?'en':'zh-CN';
+document.documentElement.lang=htmlLang();
 paint();
 
 (async()=>{

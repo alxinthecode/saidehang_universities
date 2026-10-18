@@ -21,7 +21,9 @@
     "firstSeen": "2026-10-17",
     "titleEn": "Vacuum precision motorized stage (Tsinghua comparison purchase 20261401)",
     "noteEn": "",
-    "detailRead": "2026-10-17"
+    "detailRead": "2026-10-17",
+    "titleFr": "Platine motorisée de précision pour le vide (achat par comparaison Tsinghua 20261401)",
+    "noteFr": ""
   },
   {
     "_id": "WESTLAKE-WLU-FW-KS-WM-2026-0224",
@@ -44,7 +46,9 @@
     "note": "",
     "firstSeen": "2026-10-16",
     "titleEn": "Bio atomic force microscope upgrade module (WLU-FW-KS-WM-2026-0224)",
-    "noteEn": ""
+    "noteEn": "",
+    "titleFr": "Module d'extension pour microscope à force atomique biologique (WLU-FW-KS-WM-2026-0224)",
+    "noteFr": ""
   },
   {
     "_id": "SZTU-SZTUWSJJ2600359",
@@ -67,7 +71,9 @@
     "note": "",
     "firstSeen": "2026-10-17",
     "titleEn": "Femtosecond laser smart machining controller (SZTUWSJJ2600359)",
-    "noteEn": ""
+    "noteEn": "",
+    "titleFr": "Contrôleur d'usinage laser femtoseconde intelligent (SZTUWSJJ2600359)",
+    "noteFr": ""
   },
   {
     "_id": "SZTU-SZTUWSJJ2600357",
@@ -90,7 +96,9 @@
     "note": "",
     "firstSeen": "2026-10-17",
     "titleEn": "Precision positioning stage (SZTUWSJJ2600357)",
-    "noteEn": "Direct stage purchase; check whether the spec allows piezo stages."
+    "noteEn": "Direct stage purchase; check whether the spec allows piezo stages.",
+    "titleFr": "Platine de positionnement de précision (SZTUWSJJ2600357)",
+    "noteFr": "Achat direct d'une platine : vérifier si le cahier des charges accepte une platine piézo."
   },
   {
     "_id": "TJU-TDZC2026N0119",
@@ -113,7 +121,9 @@
     "note": "",
     "firstSeen": "2026-10-16",
     "titleEn": "Tianjin Int'l Center for Nanoparticles & Nanosystems: high-precision 3-axis motorized stage system (competitive negotiation)",
-    "noteEn": ""
+    "noteEn": "",
+    "titleFr": "Centre international nanoparticules et nanosystèmes de Tianjin : système de platines motorisées 3 axes haute précision (négociation concurrentielle)",
+    "noteFr": ""
   },
   {
     "_id": "SZTU-SZTUWSJJ2600361",
@@ -136,7 +146,9 @@
     "note": "",
     "firstSeen": "2026-10-17",
     "titleEn": "Sub-micron imaging high-speed fly-scan platform (SZTUWSJJ2600361)",
-    "noteEn": ""
+    "noteEn": "",
+    "titleFr": "Plateforme d'imagerie submicronique à balayage rapide (SZTUWSJJ2600361)",
+    "noteFr": ""
   },
   {
     "_id": "JLU-JLU-KC26053",
@@ -159,7 +171,9 @@
     "note": "",
     "firstSeen": "2026-10-17",
     "titleEn": "Ultrafast laser oscillator (JLU-KC26053)",
-    "noteEn": ""
+    "noteEn": "",
+    "titleFr": "Oscillateur laser ultrarapide (JLU-KC26053)",
+    "noteFr": ""
   },
   {
     "budget": "66万元",
@@ -184,7 +198,11 @@
     "weak": [
       "电动平台"
     ],
-    "_id": "TJU-TDZC2026N0110"
+    "_id": "TJU-TDZC2026N0110",
+    "titleFr": "Centre international nanoparticules et nanosystèmes de Tianjin : platine motorisée 1 axe haute précision (négociation rapide)",
+    "noteFr": "Platine à vis ou moteur linéaire, prix unitaire bas. Produits importés refusés, et réduction de prix de 20 % pour les produits chinois. Ne correspond pas directement à Cedrat. Dossier disponible jusqu'au 19 octobre.",
+    "snippetFr": "Unité de positionnement linéaire 1 axe, vis de précision ou moteur linéaire, asservissement en boucle fermée. Produits importés refusés.",
+    "budgetFr": "660 000 CNY (22 unités, 30 000 CNY max. chacune)"
   },
   {
     "_id": "SZTU-SZTUWSJJ2600325",
@@ -207,7 +225,9 @@
     "note": "",
     "firstSeen": "2026-10-17",
     "titleEn": "In-situ electrochemistry visualization extended-depth-of-field system (SZTUWSJJ2600325)",
-    "noteEn": ""
+    "noteEn": "",
+    "titleFr": "Système de visualisation électrochimique in situ à grande profondeur de champ (SZTUWSJJ2600325)",
+    "noteFr": ""
   },
   {
     "_id": "SCU-ZBZXFB2026009",
@@ -230,7 +250,9 @@
     "note": "",
     "firstSeen": "2026-10-16",
     "titleEn": "Scanning probe microscope repair (ZBZXFB2026009)",
-    "noteEn": ""
+    "noteEn": "",
+    "titleFr": "Réparation d'un microscope à sonde locale (ZBZXFB2026009)",
+    "noteFr": ""
   },
   {
     "_id": "CUGB-2026112010990",
@@ -253,7 +275,9 @@
     "note": "",
     "firstSeen": "2026-10-18",
     "titleEn": "Vibration exciter procurement (open tender)",
-    "noteEn": ""
+    "noteEn": "",
+    "titleFr": "Achat d'un excitateur de vibrations (appel d'offres ouvert)",
+    "noteFr": ""
   },
   {
     "_id": "SZTU-SZTUWSJJ2600314",
@@ -277,7 +301,9 @@
     "note": "",
     "firstSeen": "2026-10-17",
     "titleEn": "Adaptive optics wavefront sensing measurement setup (SZTUWSJJ2600314)",
-    "noteEn": "Adaptive optics with deformable mirror: close to Cedrat's fast steering and deformable mirror range."
+    "noteEn": "Adaptive optics with deformable mirror: close to Cedrat's fast steering and deformable mirror range.",
+    "titleFr": "Banc de mesure de front d'onde pour optique adaptative (SZTUWSJJ2600314)",
+    "noteFr": "Optique adaptative avec miroir déformable : proche de la gamme Cedrat (miroirs à orientation rapide)."
   },
   {
     "_id": "SZU-info1013371949.htm",
@@ -300,7 +326,9 @@
     "note": "",
     "firstSeen": "2026-10-17",
     "titleEn": "Actuator-based vibration acceleration loading test machine (procurement intention)",
-    "noteEn": "Procurement intention, published before the tender: a chance to contact the lab early."
+    "noteEn": "Procurement intention, published before the tender: a chance to contact the lab early.",
+    "titleFr": "Machine d'essai de chargement vibratoire à actionneurs (intention d'achat)",
+    "noteFr": "Intention d'achat publiée avant l'appel d'offres : l'occasion de contacter le laboratoire tôt."
   },
   {
     "_id": "NUC-info102130371.htm",
@@ -323,7 +351,9 @@
     "note": "",
     "firstSeen": "2026-10-17",
     "titleEn": "Change notice: high-voltage piezoresponse force microscope and other equipment",
-    "noteEn": ""
+    "noteEn": "",
+    "titleFr": "Avis de modification : microscope à force piézoélectrique haute tension et autres équipements",
+    "noteFr": ""
   },
   {
     "_id": "WESTLAKE-WLU-HW-KS-NM-2026-1225",
@@ -346,7 +376,9 @@
     "note": "",
     "firstSeen": "2026-10-16",
     "titleEn": "Atomic force microscope (WLU-HW-KS-NM-2026-1225)",
-    "noteEn": ""
+    "noteEn": "",
+    "titleFr": "Microscope à force atomique (WLU-HW-KS-NM-2026-1225)",
+    "noteFr": ""
   },
   {
     "budget": "",
@@ -369,7 +401,9 @@
     "titleEn": "School of Integrated Circuits: cryogenic nano-positioning stage (BUAAJJ20260135)",
     "url": "https://zbcg.buaa.edu.cn/info/1088/62495.htm",
     "weak": [],
-    "_id": "BUAA-JJ20260135"
+    "_id": "BUAA-JJ20260135",
+    "titleFr": "École des circuits intégrés : platine de nanopositionnement cryogénique (BUAAJJ20260135)",
+    "noteFr": "Prolongé le 28 septembre ; résultat publié le 1er octobre (voir les avis d'attribution de Beihang). Une platine nano cryogénique est un cas typique pour les actionneurs piézo pas-à-pas."
   },
   {
     "_id": "WESTLAKE-WLU-HW-KS-WM-2026-0203",
@@ -392,7 +426,9 @@
     "note": "",
     "firstSeen": "2026-10-16",
     "titleEn": "Single-point laser vibrometer (WLU-HW-KS-WM-2026-0203)",
-    "noteEn": ""
+    "noteEn": "",
+    "titleFr": "Vibromètre laser monopoint (WLU-HW-KS-WM-2026-0203)",
+    "noteFr": ""
   },
   {
     "budget": "",
@@ -415,7 +451,9 @@
     "weak": [
       "压电"
     ],
-    "_id": "THU-20261272"
+    "_id": "THU-20261272",
+    "titleFr": "Capteurs de force piézoélectriques et amplificateurs (comparaison en ligne 20261272)",
+    "noteFr": "Prolongé une fois faute d'offres suffisantes. Les capteurs de force piézo sont plutôt des produits type Kistler/PCB, hors du cœur de gamme Cedrat."
   },
   {
     "_id": "SZTU-SZTUWSJJ2600275",
@@ -438,7 +476,9 @@
     "note": "",
     "firstSeen": "2026-10-17",
     "titleEn": "Diode DC sputtering multi-function coater (SZTUWSJJ2600275)",
-    "noteEn": "Matched on 压电 in the text; may be a false hit."
+    "noteEn": "Matched on 压电 in the text; may be a false hit.",
+    "titleFr": "Dépôt multifonction par pulvérisation DC diode (SZTUWSJJ2600275)",
+    "noteFr": "Détecté sur « 压电 » dans le texte ; peut-être un faux positif."
   },
   {
     "budget": "",
@@ -460,7 +500,9 @@
     "weak": [
       "压电"
     ],
-    "_id": "THU-20261172"
+    "_id": "THU-20261172",
+    "titleFr": "Capteurs piézoélectriques (comparaison en ligne 20261172)",
+    "noteFr": ""
   },
   {
     "budget": "",
@@ -483,7 +525,9 @@
     "weak": [
       "主动隔振"
     ],
-    "_id": "THU-20260235"
+    "_id": "THU-20260235",
+    "titleFr": "Système d'isolation vibratoire active 6 axes ultra-stable pour système laser (2e appel), appel d'offres ouvert",
+    "noteFr": "Deuxième appel, donc le premier a échoué. Vérifier l'avis de résultat pour savoir s'il a de nouveau échoué ou qui a gagné."
   },
   {
     "budget": "",
@@ -506,7 +550,9 @@
     "weak": [
       "电控位移台"
     ],
-    "_id": "TJU-TDZC2026N0022"
+    "_id": "TJU-TDZC2026N0022",
+    "titleFr": "École d'instruments de précision et d'optoélectronique : platines de positionnement motorisées modulaires (appel d'offres ouvert)",
+    "noteFr": "Lancé en décembre 2025 (TDZC2025N0379), relancé en avril. Cette école est un prospect."
   },
   {
     "budget": "",
@@ -529,7 +575,9 @@
     "weak": [
       "电控位移台"
     ],
-    "_id": "TJU-TDZC2025N0379"
+    "_id": "TJU-TDZC2025N0379",
+    "titleFr": "École d'instruments de précision et d'optoélectronique : platines de positionnement motorisées modulaires (appel d'offres ouvert)",
+    "noteFr": "Rectificatif du 26 décembre ; relancé en avril 2026 (TDZC2026N0022)."
   },
   {
     "_id": "XJTU-cc81459f008a",
@@ -552,6 +600,8 @@
     "note": "",
     "firstSeen": "2026-10-16",
     "titleEn": "Test system for key properties of piezoelectric materials for ultrasound imaging and therapy (open tender)",
-    "noteEn": ""
+    "noteEn": "",
+    "titleFr": "Système de test des propriétés clés de matériaux piézoélectriques pour l'imagerie et la thérapie par ultrasons (appel d'offres ouvert)",
+    "noteFr": ""
   }
 ]
