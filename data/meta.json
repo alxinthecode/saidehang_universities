@@ -24,7 +24,7 @@
     "THU": {
       "note": "按正文全文匹配；网上比选只有标题",
       "noteEn": "Full announcement text matched; online-comparison items are title-only",
-      "oldest": "2026-10-13",
+      "oldest": "2026-10-14",
       "scanned": 100,
       "noteFr": "Texte complet des avis analysé ; les comparaisons en ligne n'ont que le titre"
     },
@@ -61,7 +61,7 @@
     },
     "XMU": {
       "scanned": 100,
-      "oldest": "2026-07-06"
+      "oldest": "2026-07-07"
     },
     "DUT": {
       "scanned": 100,
@@ -121,7 +121,7 @@
     },
     "SDU": {
       "scanned": 100,
-      "oldest": "2026-09-02"
+      "oldest": "2026-09-03"
     },
     "BUCT": {
       "scanned": 100,
@@ -181,7 +181,7 @@
     },
     "HEBUT": {
       "scanned": 20,
-      "oldest": "2026-08-07"
+      "oldest": "2026-08-10"
     },
     "UJS": {
       "scanned": 45,
@@ -281,7 +281,7 @@
     },
     "HRBUST": {
       "scanned": 14,
-      "oldest": "2026-10-14"
+      "oldest": "2026-10-15"
     },
     "NANKAI": {
       "scanned": 15,
@@ -341,7 +341,7 @@
     },
     "HNUST": {
       "scanned": 20,
-      "oldest": "2026-06-17"
+      "oldest": "2026-06-22"
     },
     "HPU": {
       "scanned": 95,
@@ -357,7 +357,7 @@
     },
     "JSNU": {
       "scanned": 14,
-      "oldest": "2026-09-08"
+      "oldest": "2026-09-09"
     },
     "LNTU": {
       "scanned": 20,
@@ -428,12 +428,12 @@
       "oldest": "2026-05-01"
     },
     "AIRCAS": {
-      "scanned": 12,
+      "scanned": 13,
       "oldest": "2026-03-05"
     },
     "NAOC": {
       "scanned": 15,
-      "oldest": "2026-01-28"
+      "oldest": "2026-01-30"
     },
     "QIBEBT": {
       "scanned": 24,
@@ -453,7 +453,7 @@
     },
     "OUC": {
       "scanned": 100,
-      "oldest": "2026-09-30"
+      "oldest": "2026-10-08"
     },
     "BNU": {
       "scanned": 100,
@@ -461,7 +461,7 @@
     },
     "CUGB": {
       "scanned": 100,
-      "oldest": "2026-08-06"
+      "oldest": "2026-08-07"
     },
     "HBU": {
       "scanned": 100,
@@ -489,7 +489,7 @@
     },
     "HZAU": {
       "scanned": 15,
-      "oldest": "2026-08-25"
+      "oldest": "2026-08-28"
     },
     "NENU": {
       "scanned": 48,
@@ -520,8 +520,8 @@
       "oldest": "2026-09-24"
     },
     "SDAU": {
-      "scanned": 28,
-      "oldest": "2026-07-10"
+      "scanned": 26,
+      "oldest": "2026-08-08"
     },
     "JLAU": {
       "scanned": 10,
@@ -541,7 +541,7 @@
     },
     "HAINNU": {
       "scanned": 14,
-      "oldest": "2026-05-29"
+      "oldest": "2026-06-03"
     },
     "HKU": {
       "scanned": 1,
@@ -588,7 +588,7 @@
       "noteFr": "Étude de marché avant appel d'offres ; pas encore scannée"
     }
   ],
-  "lastRun": "2026-10-18T13:09",
+  "lastRun": "2026-10-19T13:21",
   "lastResults": [
     {
       "school": "THU",
@@ -813,9 +813,8 @@
     },
     {
       "school": "HDU",
-      "ok": true,
-      "scanned": 14,
-      "matches": 0
+      "ok": false,
+      "error": "page.goto: Timeout 60000ms exceeded. (after retry)"
     },
     {
       "school": "SWJTU",
@@ -981,8 +980,9 @@
     },
     {
       "school": "OUC",
-      "ok": false,
-      "error": "page.goto: net::ERR_EMPTY_RESPONSE at http://zb.ouc.edu.cn/sfw_cms/e?page=cms.index (after retry)"
+      "ok": true,
+      "scanned": 100,
+      "matches": 0
     },
     {
       "school": "BJTU",
@@ -1022,8 +1022,9 @@
     },
     {
       "school": "XAUAT",
-      "ok": false,
-      "error": "page.goto: Timeout 60000ms exceeded. (after retry)"
+      "ok": true,
+      "scanned": 15,
+      "matches": 0
     },
     {
       "school": "XJU",
@@ -1310,7 +1311,7 @@
     {
       "school": "SDAU",
       "ok": true,
-      "scanned": 28,
+      "scanned": 26,
       "matches": 0
     },
     {
@@ -1364,7 +1365,7 @@
     {
       "school": "AIRCAS",
       "ok": true,
-      "scanned": 12,
+      "scanned": 13,
       "matches": 0
     },
     {
