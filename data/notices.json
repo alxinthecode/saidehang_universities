@@ -1,5 +1,31 @@
 [
   {
+    "_id": "THU-20261420",
+    "school": "THU",
+    "title": "高精度线性位移台（清采比选20261420号）采购公告",
+    "url": "https://sbgysfw.sysc.tsinghua.edu.cn/#/publish/1A152A1C63122CB760B2DD637A783456",
+    "published": "2026-10-19",
+    "deadline": "2026-10-22 14:00",
+    "method": "网上比选",
+    "no": "清采比选20261420号",
+    "budget": "",
+    "imports": "",
+    "strong": [],
+    "weak": [
+      "位移台"
+    ],
+    "tier": "weak",
+    "snippet": "",
+    "status": "new",
+    "note": "",
+    "firstSeen": "2026-10-20",
+    "detailRead": "2026-10-20",
+    "titleEn": "",
+    "noteEn": "",
+    "titleFr": "",
+    "noteFr": ""
+  },
+  {
     "_id": "THU-20261401",
     "school": "THU",
     "title": "真空精密电动位移台（清采比选20261401号）采购公告",
@@ -15,7 +41,7 @@
       "电动位移台"
     ],
     "tier": "weak",
-    "snippet": "",
+    "snippet": "真空精密电动位移台（清采比选20261401号）延期公告 由于该项目报价供应商数量不满足要求，本项目延期至2026-10-23 12:00",
     "status": "new",
     "note": "",
     "firstSeen": "2026-10-17",
