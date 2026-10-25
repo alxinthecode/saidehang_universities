@@ -41,7 +41,7 @@
     },
     "CQU": {
       "scanned": 100,
-      "oldest": "2026-10-14"
+      "oldest": "2026-10-15"
     },
     "SCU": {
       "scanned": 100,
@@ -160,8 +160,8 @@
       "oldest": "2026-10-14"
     },
     "NJUPT": {
-      "scanned": 20,
-      "oldest": "2026-09-20"
+      "scanned": 19,
+      "oldest": "2026-09-22"
     },
     "HDU": {
       "scanned": 14,
@@ -357,7 +357,7 @@
     },
     "JSNU": {
       "scanned": 14,
-      "oldest": "2026-09-16"
+      "oldest": "2026-09-22"
     },
     "LNTU": {
       "scanned": 20,
@@ -513,7 +513,7 @@
     },
     "NJAU": {
       "scanned": 30,
-      "oldest": "2026-06-26"
+      "oldest": "2026-07-03"
     },
     "QFNU": {
       "scanned": 16,
@@ -588,7 +588,7 @@
       "noteFr": "Étude de marché avant appel d'offres ; pas encore scannée"
     }
   ],
-  "lastRun": "2026-10-24T13:03",
+  "lastRun": "2026-10-25T13:18",
   "lastResults": [
     {
       "school": "THU",
@@ -809,7 +809,7 @@
     {
       "school": "NJUPT",
       "ok": true,
-      "scanned": 20,
+      "scanned": 19,
       "matches": 0
     },
     {
