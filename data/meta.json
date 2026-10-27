@@ -10,28 +10,28 @@
     "HIT": {
       "note": "仅标题",
       "noteEn": "Titles only",
-      "oldest": "2026-09-08",
+      "oldest": "2026-09-09",
       "scanned": 100,
       "noteFr": "Titres seulement"
     },
     "SJTU": {
       "note": "按正文匹配；ebidding 列表需登录，但公告同步到此平台",
       "noteEn": "Full text matched; the ebidding list needs a login, but its notices are mirrored here",
-      "oldest": "2026-09-23",
+      "oldest": "2026-09-24",
       "scanned": 100,
       "noteFr": "Texte complet analysé ; la liste ebidding demande une connexion, mais ses avis sont repris ici"
     },
     "THU": {
       "note": "按正文全文匹配；网上比选只有标题",
       "noteEn": "Full announcement text matched; online-comparison items are title-only",
-      "oldest": "2026-10-20",
+      "oldest": "2026-10-21",
       "scanned": 100,
       "noteFr": "Texte complet des avis analysé ; les comparaisons en ligne n'ont que le titre"
     },
     "TJU": {
       "note": "多数仅标题",
       "noteEn": "Mostly titles only",
-      "oldest": "2026-09-17",
+      "oldest": "2026-09-18",
       "scanned": 100,
       "noteFr": "Surtout des titres"
     },
@@ -41,7 +41,7 @@
     },
     "CQU": {
       "scanned": 100,
-      "oldest": "2026-10-16"
+      "oldest": "2026-10-19"
     },
     "SCU": {
       "scanned": 100,
@@ -49,7 +49,7 @@
     },
     "HITSZ": {
       "scanned": 100,
-      "oldest": "2026-02-05"
+      "oldest": "2026-02-13"
     },
     "WESTLAKE": {
       "scanned": 100,
@@ -57,7 +57,7 @@
     },
     "BUPT": {
       "scanned": 100,
-      "oldest": "2026-08-17"
+      "oldest": "2026-08-19"
     },
     "XMU": {
       "scanned": 100,
@@ -69,18 +69,18 @@
     },
     "KUST": {
       "scanned": 100,
-      "oldest": "2026-08-19"
+      "oldest": "2026-08-24"
     },
     "DLMU": {
       "scanned": 100,
-      "oldest": "2026-06-16"
+      "oldest": "2026-06-17"
     },
     "HUST": {
       "scanned": 30,
       "oldest": "2024-09-13"
     },
     "FUDAN": {
-      "scanned": 30,
+      "scanned": 29,
       "oldest": "2026-04-15"
     },
     "NWPU": {
@@ -97,7 +97,7 @@
     },
     "UESTC": {
       "scanned": 5,
-      "oldest": "2026-10-22"
+      "oldest": "2026-10-26"
     },
     "WHU": {
       "scanned": 327,
@@ -105,7 +105,7 @@
     },
     "XJTU": {
       "scanned": 999,
-      "oldest": "2025-04-25"
+      "oldest": "2025-04-28"
     },
     "SHU": {
       "scanned": 10,
@@ -117,7 +117,7 @@
     },
     "JLU": {
       "scanned": 100,
-      "oldest": "2026-08-07"
+      "oldest": "2026-08-13"
     },
     "SDU": {
       "scanned": 100,
@@ -125,7 +125,7 @@
     },
     "BUCT": {
       "scanned": 100,
-      "oldest": "2026-05-15"
+      "oldest": "2026-05-21"
     },
     "SZTU": {
       "scanned": 100,
@@ -133,11 +133,11 @@
     },
     "AHU": {
       "scanned": 100,
-      "oldest": "2026-08-26"
+      "oldest": "2026-08-31"
     },
     "XIDIAN": {
       "scanned": 30,
-      "oldest": "2026-09-04"
+      "oldest": "2026-09-15"
     },
     "UCAS": {
       "scanned": 204,
@@ -165,15 +165,15 @@
     },
     "HDU": {
       "scanned": 14,
-      "oldest": "2026-09-17"
+      "oldest": "2026-09-20"
     },
     "SWJTU": {
       "scanned": 15,
-      "oldest": "2026-10-19"
+      "oldest": "2026-10-20"
     },
     "CSU": {
       "scanned": 48,
-      "oldest": "2026-08-11"
+      "oldest": "2026-08-20"
     },
     "SZU": {
       "scanned": 84,
@@ -181,15 +181,15 @@
     },
     "HEBUT": {
       "scanned": 20,
-      "oldest": "2026-08-10"
+      "oldest": "2026-08-11"
     },
     "UJS": {
       "scanned": 45,
-      "oldest": "2026-08-05"
+      "oldest": "2026-08-17"
     },
     "TYUT": {
       "scanned": 15,
-      "oldest": "2026-10-20"
+      "oldest": "2026-10-21"
     },
     "DHU": {
       "scanned": 28,
@@ -197,15 +197,15 @@
     },
     "BIT": {
       "scanned": 100,
-      "oldest": "2026-08-06"
+      "oldest": "2026-08-14"
     },
     "HITWH": {
       "scanned": 100,
-      "oldest": "2026-01-14"
+      "oldest": "2026-01-27"
     },
     "JIANGNAN": {
       "scanned": 100,
-      "oldest": "2026-09-08"
+      "oldest": "2026-09-11"
     },
     "CAUC": {
       "scanned": 16,
@@ -217,7 +217,7 @@
     },
     "WHUT": {
       "scanned": 30,
-      "oldest": "2026-10-12"
+      "oldest": "2026-10-13"
     },
     "NCHU": {
       "scanned": 10,
@@ -233,11 +233,11 @@
     },
     "ZJNU": {
       "scanned": 45,
-      "oldest": "2026-06-24"
+      "oldest": "2026-06-30"
     },
     "SDUST": {
       "scanned": 10,
-      "oldest": "2026-10-23"
+      "oldest": "2026-10-26"
     },
     "JUST": {
       "scanned": 6,
@@ -269,7 +269,7 @@
     },
     "NCEPU": {
       "scanned": 20,
-      "oldest": "2026-07-06"
+      "oldest": "2026-07-08"
     },
     "NUC": {
       "scanned": 15,
@@ -301,7 +301,7 @@
     },
     "XAUAT": {
       "scanned": 15,
-      "oldest": "2026-10-12"
+      "oldest": "2026-10-15"
     },
     "XJU": {
       "scanned": 10,
@@ -313,19 +313,19 @@
     },
     "AUST": {
       "scanned": 100,
-      "oldest": "2026-02-28"
+      "oldest": "2026-03-04"
     },
     "SNNU": {
       "scanned": 100,
-      "oldest": "2026-06-18"
+      "oldest": "2026-06-23"
     },
     "CUP": {
       "scanned": 100,
-      "oldest": "2026-10-01"
+      "oldest": "2026-10-10"
     },
     "AHUT": {
       "scanned": 39,
-      "oldest": "2026-07-10"
+      "oldest": "2026-07-17"
     },
     "CCZU": {
       "scanned": 28,
@@ -341,7 +341,7 @@
     },
     "HNUST": {
       "scanned": 20,
-      "oldest": "2026-06-23"
+      "oldest": "2026-06-29"
     },
     "HPU": {
       "scanned": 95,
@@ -357,7 +357,7 @@
     },
     "JSNU": {
       "scanned": 14,
-      "oldest": "2026-09-22"
+      "oldest": "2026-09-23"
     },
     "LNTU": {
       "scanned": 20,
@@ -373,7 +373,7 @@
     },
     "SIT": {
       "scanned": 10,
-      "oldest": "2026-10-21"
+      "oldest": "2026-10-23"
     },
     "STU": {
       "scanned": 32,
@@ -401,7 +401,7 @@
     },
     "YANGTZEU": {
       "scanned": 12,
-      "oldest": "2026-09-20"
+      "oldest": "2026-09-29"
     },
     "YCIT": {
       "scanned": 10,
@@ -409,7 +409,7 @@
     },
     "YTU": {
       "scanned": 10,
-      "oldest": "2026-09-29"
+      "oldest": "2026-09-30"
     },
     "CCUT": {
       "scanned": 15,
@@ -441,7 +441,7 @@
     },
     "CIOMP": {
       "scanned": 12,
-      "oldest": "2026-09-24"
+      "oldest": "2026-09-28"
     },
     "SITP": {
       "scanned": 15,
@@ -457,19 +457,19 @@
     },
     "BNU": {
       "scanned": 100,
-      "oldest": "2026-08-20"
+      "oldest": "2026-08-26"
     },
     "CUGB": {
       "scanned": 100,
-      "oldest": "2026-09-07"
+      "oldest": "2026-09-09"
     },
     "HBU": {
       "scanned": 100,
-      "oldest": "2026-06-26"
+      "oldest": "2026-06-30"
     },
     "NEFU": {
       "scanned": 100,
-      "oldest": "2026-06-25"
+      "oldest": "2026-06-26"
     },
     "CPU": {
       "scanned": 30,
@@ -489,7 +489,7 @@
     },
     "HZAU": {
       "scanned": 15,
-      "oldest": "2026-09-18"
+      "oldest": "2026-09-24"
     },
     "NENU": {
       "scanned": 48,
@@ -517,7 +517,7 @@
     },
     "QFNU": {
       "scanned": 16,
-      "oldest": "2026-10-13"
+      "oldest": "2026-10-19"
     },
     "SDAU": {
       "scanned": 26,
@@ -541,7 +541,7 @@
     },
     "HAINNU": {
       "scanned": 14,
-      "oldest": "2026-06-22"
+      "oldest": "2026-06-25"
     },
     "HKU": {
       "scanned": 2,
@@ -553,7 +553,7 @@
     },
     "EDUHK": {
       "scanned": 8,
-      "oldest": "2026-10-27"
+      "oldest": "2026-10-28"
     }
   },
   "extra": [
@@ -588,13 +588,13 @@
       "noteFr": "Étude de marché avant appel d'offres ; pas encore scannée"
     }
   ],
-  "lastRun": "2026-10-26T13:18",
+  "lastRun": "2026-10-27T13:40",
   "lastResults": [
     {
       "school": "THU",
       "ok": true,
       "scanned": 100,
-      "matches": 3
+      "matches": 2
     },
     {
       "school": "BUAA",
@@ -630,7 +630,7 @@
       "school": "CQU",
       "ok": true,
       "scanned": 100,
-      "matches": 2
+      "matches": 3
     },
     {
       "school": "SCU",
@@ -648,7 +648,7 @@
       "school": "WESTLAKE",
       "ok": true,
       "scanned": 100,
-      "matches": 2
+      "matches": 3
     },
     {
       "school": "BUPT",
@@ -689,7 +689,7 @@
     {
       "school": "FUDAN",
       "ok": true,
-      "scanned": 30,
+      "scanned": 29,
       "matches": 0
     },
     {

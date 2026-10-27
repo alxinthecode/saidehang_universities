@@ -1,5 +1,56 @@
 [
   {
+    "_id": "CQU-JJ20261489",
+    "school": "CQU",
+    "title": "延迟线性位移台（JJ20261489）采购公告",
+    "url": "https://ztbzx.cqu.edu.cn/provider/#/publish/20MVQ1PFY7NODUSS",
+    "published": "2026-10-27",
+    "deadline": "2026-11-01 12:00",
+    "method": "网上竞价",
+    "no": "JJ20261489",
+    "budget": "",
+    "imports": "",
+    "strong": [],
+    "weak": [
+      "位移台"
+    ],
+    "tier": "weak",
+    "snippet": "延迟线性位移台（JJ20261489）采购公告 项目名称 延迟线性位移台 项目编号 JJ20261489 公示开始日期 2026-10-27 10:04:48 公示截止",
+    "status": "new",
+    "note": "",
+    "firstSeen": "2026-10-27",
+    "titleEn": "",
+    "noteEn": "",
+    "titleFr": "",
+    "noteFr": ""
+  },
+  {
+    "_id": "WESTLAKE-WLU-HW-KS-NM-2026-1353",
+    "school": "WESTLAKE",
+    "title": "隔震平台（WLU-HW-KS-NM-2026-1353）采购公告",
+    "url": "https://procurement.westlake.edu.cn/provider/#/publish/20MVQ48L88M0UW9S",
+    "published": "2026-10-27",
+    "deadline": "2026-10-30 12:00",
+    "method": "快速竞价",
+    "no": "WLU-HW-KS-NM-2026-1353",
+    "budget": "180,000元",
+    "imports": "",
+    "strong": [],
+    "weak": [
+      "作动器",
+      "主动隔振"
+    ],
+    "tier": "weak",
+    "snippet": "z 3. 最低隔振频率处传递率：＜0 dB 4. 隔振自由度：6 自由度 5. 作动器推力常数：80 N/Amp 6. 最大功率：1kW 7. 隔振执行部件：精密金属弹簧（被动隔振）、洛仑兹电机（主动隔振） 8. 隔振频率范围：0.7Hz-",
+    "status": "new",
+    "note": "",
+    "firstSeen": "2026-10-27",
+    "titleEn": "",
+    "noteEn": "",
+    "titleFr": "",
+    "noteFr": ""
+  },
+  {
     "_id": "SZTU-SZTUWSJJ2600388",
     "school": "SZTU",
     "title": "长工作距离显微成像与精密位移控制系统（SZTUWSJJ2600388）采购公告",
@@ -40,7 +91,7 @@
       "压电"
     ],
     "tier": "weak",
-    "snippet": "",
+    "snippet": "六自由度压电定位台（清采比选20261477号）延期公告 由于该项目报价供应商数量不满足要求，本项目延期至2026-10-29 20:00",
     "status": "new",
     "note": "",
     "firstSeen": "2026-10-24",
