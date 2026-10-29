@@ -1,5 +1,30 @@
 [
   {
+    "_id": "CUP-JJ20260140",
+    "school": "CUP",
+    "title": "高温高压岩石流变仪RTR-1500维修服务（JJ20260140号）采购公告",
+    "url": "https://zcb.cup.edu.cn/provider/#/publish/20MVT5JEIGCZ43LH",
+    "published": "2026-10-29",
+    "deadline": "2026-11-03 00:00",
+    "method": "网上竞价",
+    "no": "JJ20260140号",
+    "budget": "98,000元",
+    "imports": "",
+    "strong": [],
+    "weak": [
+      "作动器"
+    ],
+    "tier": "weak",
+    "snippet": "卡顿无法提升至规定位置，需进行修理。要求恢复正常工作状态。 2.主机荷载架轴向大作动器漏油，需维修顶部密封装置，需吊装拆卸顶部大液压缸修理，要求无泄露恢复正常工作状态。 售后服务 中国石油大学（北京） 2026-10-29 14:17:54",
+    "status": "new",
+    "note": "",
+    "firstSeen": "2026-10-29",
+    "titleEn": "",
+    "noteEn": "",
+    "titleFr": "",
+    "noteFr": ""
+  },
+  {
     "_id": "CQU-JJ20261489",
     "school": "CQU",
     "title": "延迟线性位移台（JJ20261489）采购公告",
