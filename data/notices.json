@@ -1,5 +1,30 @@
 [
   {
+    "_id": "CQU-JJ20261511",
+    "school": "CQU",
+    "title": "微小型压电式加速度传感器（JJ20261511）采购公告",
+    "url": "https://ztbzx.cqu.edu.cn/provider/#/publish/20MVUBQDKTDQ5SQS",
+    "published": "2026-10-30",
+    "deadline": "2026-11-04 11:00",
+    "method": "网上竞价",
+    "no": "JJ20261511",
+    "budget": "",
+    "imports": "",
+    "strong": [],
+    "weak": [
+      "压电"
+    ],
+    "tier": "weak",
+    "snippet": "微小型压电式加速度传感器（JJ20261511）采购公告 项目名称 微小型压电式加速度传感器 项目编号 JJ20261511 公示开始日期 2026-10-30 09",
+    "status": "new",
+    "note": "",
+    "firstSeen": "2026-10-30",
+    "titleEn": "",
+    "noteEn": "",
+    "titleFr": "",
+    "noteFr": ""
+  },
+  {
     "_id": "CUP-JJ20260140",
     "school": "CUP",
     "title": "高温高压岩石流变仪RTR-1500维修服务（JJ20260140号）采购公告",
@@ -19,6 +44,31 @@
     "status": "new",
     "note": "",
     "firstSeen": "2026-10-29",
+    "titleEn": "",
+    "noteEn": "",
+    "titleFr": "",
+    "noteFr": ""
+  },
+  {
+    "_id": "NAOC-newstz202610t20261029_8300383.html",
+    "school": "NAOC",
+    "title": "中国科学院国家天文台单一来源采购压电器件征求意见公示",
+    "url": "https://nao.cas.cn/news/tz/202610/t20261029_8300383.html",
+    "published": "2026-10-29",
+    "deadline": "",
+    "method": "通知公告",
+    "no": "",
+    "budget": "",
+    "imports": "",
+    "strong": [],
+    "weak": [
+      "压电"
+    ],
+    "tier": "weak",
+    "snippet": "",
+    "status": "new",
+    "note": "",
+    "firstSeen": "2026-10-30",
     "titleEn": "",
     "noteEn": "",
     "titleFr": "",
