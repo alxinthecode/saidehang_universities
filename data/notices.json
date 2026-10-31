@@ -25,6 +25,56 @@
     "noteFr": ""
   },
   {
+    "_id": "SZU-info1023378279.htm",
+    "school": "SZU",
+    "title": "压电位移台及控制器项目采购信息公开（科研仪器设备类）",
+    "url": "https://bidding.szu.edu.cn/info/1023/378279.htm",
+    "published": "2026-10-30",
+    "deadline": "",
+    "method": "",
+    "no": "",
+    "budget": "",
+    "imports": "",
+    "strong": [
+      "压电位移台"
+    ],
+    "weak": [],
+    "tier": "strong",
+    "snippet": "",
+    "status": "new",
+    "note": "",
+    "firstSeen": "2026-10-31",
+    "titleEn": "",
+    "noteEn": "",
+    "titleFr": "",
+    "noteFr": ""
+  },
+  {
+    "_id": "CUP-JJ20260151",
+    "school": "CUP",
+    "title": "轴扭耦合阻尼减振实验装置（JJ20260151号）采购公告",
+    "url": "https://zcb.cup.edu.cn/provider/#/publish/20MVURO5HVCHKDWZ",
+    "published": "2026-10-30",
+    "deadline": "2026-11-04 00:00",
+    "method": "网上竞价",
+    "no": "JJ20260151号",
+    "budget": "430,000元",
+    "imports": "",
+    "strong": [],
+    "weak": [
+      "作动器"
+    ],
+    "tier": "weak",
+    "snippet": "：±100kN；动态波动度：≤±1%； （6）钻进行程：0～300mm； （7）作动器行程：±25mm，示值精度≤±0.5%； （8）高频振荡频率范围：0.1Hz～200Hz； （9）最大扭矩：3000N.m，示值精度≤±1%； （10）旋",
+    "status": "new",
+    "note": "",
+    "firstSeen": "2026-10-31",
+    "titleEn": "",
+    "noteEn": "",
+    "titleFr": "",
+    "noteFr": ""
+  },
+  {
     "_id": "CUP-JJ20260140",
     "school": "CUP",
     "title": "高温高压岩石流变仪RTR-1500维修服务（JJ20260140号）采购公告",
