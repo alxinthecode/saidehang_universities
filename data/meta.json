@@ -24,7 +24,7 @@
     "THU": {
       "note": "按正文全文匹配；网上比选只有标题",
       "noteEn": "Full announcement text matched; online-comparison items are title-only",
-      "oldest": "2026-10-26",
+      "oldest": "2026-10-27",
       "scanned": 100,
       "noteFr": "Texte complet des avis analysé ; les comparaisons en ligne n'ont que le titre"
     },
@@ -245,7 +245,7 @@
     },
     "CUMT": {
       "scanned": 30,
-      "oldest": "2026-07-16"
+      "oldest": "2026-08-15"
     },
     "ECUST": {
       "scanned": 45,
@@ -357,7 +357,7 @@
     },
     "JSNU": {
       "scanned": 14,
-      "oldest": "2026-09-24"
+      "oldest": "2026-09-28"
     },
     "LNTU": {
       "scanned": 20,
@@ -453,7 +453,7 @@
     },
     "OUC": {
       "scanned": 100,
-      "oldest": "2026-10-12"
+      "oldest": "2026-10-20"
     },
     "BNU": {
       "scanned": 100,
@@ -588,13 +588,13 @@
       "noteFr": "Étude de marché avant appel d'offres ; pas encore scannée"
     }
   ],
-  "lastRun": "2026-10-31T14:19",
+  "lastRun": "2026-11-01T14:53",
   "lastResults": [
     {
       "school": "THU",
       "ok": true,
       "scanned": 100,
-      "matches": 2
+      "matches": 0
     },
     {
       "school": "BUAA",
@@ -933,8 +933,9 @@
     },
     {
       "school": "CUMT",
-      "ok": false,
-      "error": "page.goto: Timeout 60000ms exceeded. (after retry)"
+      "ok": true,
+      "scanned": 30,
+      "matches": 0
     },
     {
       "school": "ECUST",
@@ -980,8 +981,9 @@
     },
     {
       "school": "OUC",
-      "ok": false,
-      "error": "page.goto: net::ERR_EMPTY_RESPONSE at http://zb.ouc.edu.cn/sfw_cms/e?page=cms.index (after retry)"
+      "ok": true,
+      "scanned": 100,
+      "matches": 0
     },
     {
       "school": "BJTU",
@@ -1104,8 +1106,9 @@
     },
     {
       "school": "JSNU",
-      "ok": false,
-      "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at http://ztbb.jsnu.edu.cn/3158/list.htm (after retry)"
+      "ok": true,
+      "scanned": 14,
+      "matches": 0
     },
     {
       "school": "LNTU",
@@ -1133,9 +1136,8 @@
     },
     {
       "school": "STU",
-      "ok": true,
-      "scanned": 32,
-      "matches": 0
+      "ok": false,
+      "error": "page.goto: Timeout 60000ms exceeded. (after retry)"
     },
     {
       "school": "SUSE",
