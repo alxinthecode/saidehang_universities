@@ -1,5 +1,55 @@
 [
   {
+    "_id": "THU-20260578",
+    "school": "THU",
+    "title": "超稳六自由度主动隔振系统-主动隔振平台采购项目公开招标公告",
+    "url": "https://sbgysfw.sysc.tsinghua.edu.cn/#/publish/1A1A53DFAE422CB7737015816CF7D174",
+    "published": "2026-11-04",
+    "deadline": "",
+    "method": "公开招标",
+    "no": "清采招第20260578号",
+    "budget": "199.57万元",
+    "imports": "允许",
+    "strong": [],
+    "weak": [
+      "主动隔振"
+    ],
+    "tier": "weak",
+    "snippet": "超稳六自由度主动隔振系统-主动隔振平台采购项目公开招标公告 清华大学超稳六自由度主动隔振系统-主动隔振平台采购项目公开招标公告 一、项目基本情况 1.项目编号：OITC-G",
+    "status": "new",
+    "note": "",
+    "firstSeen": "2026-11-04",
+    "titleEn": "",
+    "noteEn": "",
+    "titleFr": "",
+    "noteFr": ""
+  },
+  {
+    "_id": "WESTLAKE-WLU-FW-KS-WM-2026-0240",
+    "school": "WESTLAKE",
+    "title": "生物型原子力显微镜升级拼图模块（WLU-FW-KS-WM-2026-0240）采购公告",
+    "url": "https://procurement.westlake.edu.cn/provider/#/publish/20MW1DS4K2UHUMWB",
+    "published": "2026-11-04",
+    "deadline": "2026-11-09 09:00",
+    "method": "快速竞价",
+    "no": "WLU-FW-KS-WM-2026-0240",
+    "budget": "99,979.5元",
+    "imports": "",
+    "strong": [],
+    "weak": [
+      "压电"
+    ],
+    "tier": "weak",
+    "snippet": "不规则扫描区域，排除非目标区域对实验结果的干扰；自动调节Z轴电机位置，最大化可用压电行程。 售后服务 质保期:14月;商品承诺:质保期后，只收取零配件费，不收取人工费;其他:因产品质量问题引起的设备故障，卖方负责免费维修和更换零件。本软件后",
+    "status": "new",
+    "note": "",
+    "firstSeen": "2026-11-04",
+    "titleEn": "",
+    "noteEn": "",
+    "titleFr": "",
+    "noteFr": ""
+  },
+  {
     "_id": "CQU-JJ20261511",
     "school": "CQU",
     "title": "微小型压电式加速度传感器（JJ20261511）采购公告",
