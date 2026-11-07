@@ -1,5 +1,30 @@
 [
   {
+    "_id": "SZU-",
+    "school": "SZU",
+    "title": "主动隔振台 - 需求公告",
+    "url": "https://www.easyjcx.com/#/purchase/detail/c99400a97cf4400b84ecc74e890a2ac3",
+    "published": "2026-11-06",
+    "deadline": "",
+    "method": "",
+    "no": "",
+    "budget": "",
+    "imports": "",
+    "strong": [],
+    "weak": [
+      "主动隔振"
+    ],
+    "tier": "weak",
+    "snippet": "",
+    "status": "new",
+    "note": "",
+    "firstSeen": "2026-11-07",
+    "titleEn": "",
+    "noteEn": "",
+    "titleFr": "",
+    "noteFr": ""
+  },
+  {
     "_id": "THU-20260578",
     "school": "THU",
     "title": "超稳六自由度主动隔振系统-主动隔振平台采购项目公开招标公告",
