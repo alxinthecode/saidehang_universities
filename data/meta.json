@@ -57,7 +57,7 @@
     },
     "BUPT": {
       "scanned": 100,
-      "oldest": "2026-09-22"
+      "oldest": "2026-09-23"
     },
     "XMU": {
       "scanned": 100,
@@ -197,7 +197,7 @@
     },
     "BIT": {
       "scanned": 100,
-      "oldest": "2026-09-21"
+      "oldest": "2026-09-27"
     },
     "HITWH": {
       "scanned": 100,
@@ -269,7 +269,7 @@
     },
     "NCEPU": {
       "scanned": 20,
-      "oldest": "2026-07-10"
+      "oldest": "2026-08-25"
     },
     "NUC": {
       "scanned": 15,
@@ -317,7 +317,7 @@
     },
     "SNNU": {
       "scanned": 100,
-      "oldest": "2026-06-28"
+      "oldest": "2026-07-01"
     },
     "CUP": {
       "scanned": 100,
@@ -517,7 +517,7 @@
     },
     "QFNU": {
       "scanned": 16,
-      "oldest": "2026-10-29"
+      "oldest": "2026-10-30"
     },
     "SDAU": {
       "scanned": 26,
@@ -588,7 +588,7 @@
       "noteFr": "Étude de marché avant appel d'offres ; pas encore scannée"
     }
   ],
-  "lastRun": "2026-11-07T14:37",
+  "lastRun": "2026-11-08T14:43",
   "lastResults": [
     {
       "school": "THU",
@@ -658,8 +658,9 @@
     },
     {
       "school": "XMU",
-      "ok": false,
-      "error": "page.evaluate: Error: no 思必得 list query returned results (after retry)"
+      "ok": true,
+      "scanned": 100,
+      "matches": 0
     },
     {
       "school": "DUT",
@@ -705,8 +706,9 @@
     },
     {
       "school": "SUSTECH",
-      "ok": false,
-      "error": "page.goto: Timeout 60000ms exceeded. (after retry)"
+      "ok": true,
+      "scanned": 40,
+      "matches": 0
     },
     {
       "school": "UESTC",
@@ -860,8 +862,9 @@
     },
     {
       "school": "BIT",
-      "ok": false,
-      "error": "page.goto: Timeout 60000ms exceeded. (after retry)"
+      "ok": true,
+      "scanned": 100,
+      "matches": 0
     },
     {
       "school": "HITWH",
