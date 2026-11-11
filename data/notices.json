@@ -1,5 +1,30 @@
 [
   {
+    "_id": "JLU-JLU-KC26074",
+    "school": "JLU",
+    "title": "激光直写光刻机（JLU-KC26074）采购公告",
+    "url": "https://cgglzx.jlu.edu.cn/provider/#/publish/20MWBGUPBHRBZ7R0",
+    "published": "2026-11-11",
+    "deadline": "2026-11-16 10:00",
+    "method": "网上竞价",
+    "no": "JLU-KC26074",
+    "budget": "930,000.00元",
+    "imports": "",
+    "strong": [],
+    "weak": [
+      "音圈"
+    ],
+    "tier": "weak",
+    "snippet": "00μm； 9.采用柜式整机结构，大理石基座，自带高精密气浮隔振系统； 10.（音圈电机）自动聚焦检测，实时聚焦模式；Z 向预校正，聚焦轴调节分辨率 10nm； 11.最小结构尺寸：0.5μm； 12.套刻对准精度：±0.5μm； 13.具",
+    "status": "new",
+    "note": "",
+    "firstSeen": "2026-11-11",
+    "titleEn": "",
+    "noteEn": "",
+    "titleFr": "",
+    "noteFr": ""
+  },
+  {
     "_id": "SZU-",
     "school": "SZU",
     "title": "主动隔振台 - 需求公告",
