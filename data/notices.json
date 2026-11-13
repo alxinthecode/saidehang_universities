@@ -1,5 +1,30 @@
 [
   {
+    "_id": "CQU-JJ20261626",
+    "school": "CQU",
+    "title": "齿轮机床应力测量装置-应力检测装置（JJ20261626）采购公告",
+    "url": "https://ztbzx.cqu.edu.cn/provider/#/publish/20MWEAIL52AC85HP",
+    "published": "2026-11-13",
+    "deadline": "2026-11-18 11:00",
+    "method": "网上竞价",
+    "no": "JJ20261626",
+    "budget": "",
+    "imports": "",
+    "strong": [],
+    "weak": [
+      "磁致伸缩"
+    ],
+    "tier": "weak",
+    "snippet": " 技术参数 适用于钢、铸铁等铁磁性金属材料的残余应力检测； 检测原理：磁测法，逆磁致伸缩原理 应力测量范围：±1000Mpa；（视材料而定） 测试频率：10-1000Hz 测试电流：可调 灵敏系数：≥10μA/MPa；或≥10μA /MPa",
+    "status": "new",
+    "note": "",
+    "firstSeen": "2026-11-13",
+    "titleEn": "",
+    "noteEn": "",
+    "titleFr": "",
+    "noteFr": ""
+  },
+  {
     "_id": "THU-20261684",
     "school": "THU",
     "title": "高压放大器（清采比选20261684号）采购公告",
@@ -20,6 +45,31 @@
     "note": "",
     "firstSeen": "2026-11-12",
     "detailRead": "2026-11-12",
+    "titleEn": "",
+    "noteEn": "",
+    "titleFr": "",
+    "noteFr": ""
+  },
+  {
+    "_id": "CUP-JJ20260219",
+    "school": "CUP",
+    "title": "井壁岩体流固耦合力学行为测试系统（JJ20260219号）采购公告",
+    "url": "https://zcb.cup.edu.cn/provider/#/publish/20MWDBYCL0HVIS20",
+    "published": "2026-11-12",
+    "deadline": "2026-11-17 00:00",
+    "method": "网上竞价",
+    "no": "JJ20260219号",
+    "budget": "160,000元",
+    "imports": "",
+    "strong": [],
+    "weak": [
+      "精密定位"
+    ],
+    "tier": "weak",
+    "snippet": "采用可拆卸结构，围压腔与渗流通道分隔密封，定制加工加载导流集成端盖、多通道流道、精密定位内孔及密封沟槽，关键部位的同轴度、端面垂直度及密封面粗糙度按确认后的加工图执行；配套机箱、管阀组件及数据采集系统，支持压力、流量数据的显示、记录与导出，",
+    "status": "new",
+    "note": "",
+    "firstSeen": "2026-11-13",
     "titleEn": "",
     "noteEn": "",
     "titleFr": "",
