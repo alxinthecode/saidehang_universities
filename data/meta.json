@@ -149,7 +149,7 @@
     },
     "ECNU": {
       "scanned": 10,
-      "oldest": "2026-10-26"
+      "oldest": "2026-10-29"
     },
     "SHANGHAITECH": {
       "scanned": 28,
@@ -197,7 +197,7 @@
     },
     "BIT": {
       "scanned": 100,
-      "oldest": "2026-10-14"
+      "oldest": "2026-10-15"
     },
     "HITWH": {
       "scanned": 100,
@@ -317,7 +317,7 @@
     },
     "SNNU": {
       "scanned": 100,
-      "oldest": "2026-07-04"
+      "oldest": "2026-07-06"
     },
     "CUP": {
       "scanned": 100,
@@ -588,7 +588,7 @@
       "noteFr": "Étude de marché avant appel d'offres ; pas encore scannée"
     }
   ],
-  "lastRun": "2026-11-14T15:02",
+  "lastRun": "2026-11-15T15:13",
   "lastResults": [
     {
       "school": "THU",
@@ -1112,9 +1112,8 @@
     },
     {
       "school": "LNTU",
-      "ok": true,
-      "scanned": 20,
-      "matches": 0
+      "ok": false,
+      "error": "page.goto: Timeout 60000ms exceeded. (after retry)"
     },
     {
       "school": "NEPU",
@@ -1142,9 +1141,8 @@
     },
     {
       "school": "SUSE",
-      "ok": true,
-      "scanned": 30,
-      "matches": 0
+      "ok": false,
+      "error": "page.goto: Timeout 60000ms exceeded. (after retry)"
     },
     {
       "school": "UJN",
