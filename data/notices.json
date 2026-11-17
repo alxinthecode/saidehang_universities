@@ -25,6 +25,56 @@
     "noteFr": ""
   },
   {
+    "_id": "XJTU-e35195c002ae",
+    "school": "XJTU",
+    "title": "西安交通大学压电马达模组低压陶瓷研制及配套电路和组件开发校级磋商采购公告（电子招投标）",
+    "url": "https://cgb.xjtu.edu.cn/site/caseInfo?nrid=4af592f3a06681bf01a1e35195c002ae&jdid=4af592f37641715c0176419ae14f000d",
+    "published": "2026-11-16",
+    "deadline": "",
+    "method": "校级采购公告",
+    "no": "",
+    "budget": "",
+    "imports": "",
+    "strong": [
+      "压电马达"
+    ],
+    "weak": [],
+    "tier": "strong",
+    "snippet": "",
+    "status": "new",
+    "note": "",
+    "firstSeen": "2026-11-17",
+    "titleEn": "",
+    "noteEn": "",
+    "titleFr": "",
+    "noteFr": ""
+  },
+  {
+    "_id": "TYUT-info111434920.htm",
+    "school": "TYUT",
+    "title": "光纤式阳光导入精准跟踪控制系统、可见光可调谐高精度激光器、高精度多维位移台招标公告",
+    "url": "https://cgzb.tyut.edu.cn/info/1114/34920.htm",
+    "published": "2026-11-16",
+    "deadline": "",
+    "method": "",
+    "no": "",
+    "budget": "",
+    "imports": "",
+    "strong": [],
+    "weak": [
+      "位移台"
+    ],
+    "tier": "weak",
+    "snippet": "",
+    "status": "new",
+    "note": "",
+    "firstSeen": "2026-11-17",
+    "titleEn": "",
+    "noteEn": "",
+    "titleFr": "",
+    "noteFr": ""
+  },
+  {
     "_id": "CQU-JJ20261626",
     "school": "CQU",
     "title": "齿轮机床应力测量装置-应力检测装置（JJ20261626）采购公告",
